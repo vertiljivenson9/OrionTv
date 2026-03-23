@@ -183,7 +183,9 @@ function unlockAchievement(achievementId: string): void {
 // Track channel view
 export function trackChannelView(channel: {
   id: string;
-  category: string;
+  category?: string;
+  section?: string;
+  categories?: string[];
   country?: string | null;
 }): { newAchievements: Achievement[] } {
   const stats = getUserStats();
@@ -200,8 +202,10 @@ export function trackChannelView(channel: {
   stats.totalChannelsViewed++;
   stats.channelsViewedToday++;
 
-  // Track category
-  stats.categoriesWatched[channel.category] = (stats.categoriesWatched[channel.category] || 0) + 1;
+  // Track category - support both old and new format
+  const categoryKey = channel.section || channel.category || 
+    (channel.categories && channel.categories.length > 0 ? channel.categories[0] : 'general');
+  stats.categoriesWatched[categoryKey] = (stats.categoriesWatched[categoryKey] || 0) + 1;
 
   // Track country
   if (channel.country) {

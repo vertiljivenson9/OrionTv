@@ -1,12 +1,22 @@
 // Recent Channels Storage - Manages recently watched channels
 // Stored in localStorage for persistence
 
-import type { Channel } from './channel-service';
-
 const RECENT_CHANNELS_KEY = 'oriontv_recent_channels';
 const MAX_RECENT_CHANNELS = 10;
 
-export interface RecentChannel extends Channel {
+// Support both old and new channel formats
+export interface RecentChannel {
+  id: string;
+  name: string;
+  logo?: string | null;
+  url: string;
+  country?: string | null;
+  countryCode?: string;
+  section?: string;
+  category?: string;
+  categories?: string[];
+  is_spanish?: boolean;
+  is_adult?: boolean;
   watchedAt: string;
 }
 
@@ -24,7 +34,7 @@ export function getRecentChannels(): RecentChannel[] {
 }
 
 // Add channel to recent list
-export function addRecentChannel(channel: Channel): RecentChannel[] {
+export function addRecentChannel(channel: any): RecentChannel[] {
   if (typeof window === 'undefined') return [];
 
   try {
@@ -35,7 +45,17 @@ export function addRecentChannel(channel: Channel): RecentChannel[] {
 
     // Add to beginning
     const newRecent: RecentChannel = {
-      ...channel,
+      id: channel.id,
+      name: channel.name,
+      logo: channel.logo || null,
+      url: channel.url,
+      country: channel.country || null,
+      countryCode: channel.countryCode,
+      section: channel.section,
+      category: channel.category,
+      categories: channel.categories,
+      is_spanish: channel.is_spanish,
+      is_adult: channel.is_adult,
       watchedAt: new Date().toISOString(),
     };
 
@@ -56,7 +76,7 @@ export function clearRecentChannels(): void {
 }
 
 // Get random channel from a list
-export function getRandomChannel(channels: Channel[]): Channel | null {
+export function getRandomChannel(channels: any[]): any | null {
   if (!channels.length) return null;
 
   const randomIndex = Math.floor(Math.random() * channels.length);
