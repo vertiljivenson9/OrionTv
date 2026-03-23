@@ -1,15 +1,16 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { 
-  signInWithEmailAndPassword, 
-  createUserWithEmailAndPassword, 
-  signInWithPopup, 
+import {
+  signInWithEmailAndPassword,
+  createUserWithEmailAndPassword,
+  signInWithPopup,
   GoogleAuthProvider,
-  onAuthStateChanged 
+  onAuthStateChanged
 } from "firebase/auth";
 import { auth } from "@/lib/firebase";
 import { useRouter } from "next/navigation";
+import { WifiOff, RefreshCw } from "lucide-react";
 
 export default function LoginPage() {
   const router = useRouter();
@@ -21,17 +22,33 @@ export default function LoginPage() {
   const [isRedirecting, setIsRedirecting] = useState(false);
   const [error, setError] = useState("");
   const [success, setSuccess] = useState("");
-  
+  const [isOnline, setIsOnline] = useState(true);
+
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+
+  // Check online status
+  useEffect(() => {
+    const handleOnline = () => setIsOnline(true);
+    const handleOffline = () => setIsOnline(false);
+
+    setIsOnline(navigator.onLine);
+
+    window.addEventListener('online', handleOnline);
+    window.addEventListener('offline', handleOffline);
+
+    return () => {
+      window.removeEventListener('online', handleOnline);
+      window.removeEventListener('offline', handleOffline);
+    };
+  }, []);
 
   // Check if already logged in
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (user) => {
       if (user && !isRedirecting) {
         setIsRedirecting(true);
-        // Use setTimeout to prevent flickering
         setTimeout(() => {
           router.replace("/");
         }, 100);
@@ -89,6 +106,56 @@ export default function LoginPage() {
     }
   };
 
+  // Show offline screen
+  if (!isOnline) {
+    return (
+      <div className="min-h-screen flex flex-col items-center justify-center p-6" style={{ background: '#0A0A0F' }}>
+        {/* Stars background */}
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          {[...Array(30)].map((_, i) => (
+            <div
+              key={i}
+              className="absolute rounded-full bg-white animate-pulse"
+              style={{
+                width: Math.random() * 2 + 1 + 'px',
+                height: Math.random() * 2 + 1 + 'px',
+                left: Math.random() * 100 + '%',
+                top: Math.random() * 100 + '%',
+                animationDelay: Math.random() * 3 + 's',
+                opacity: Math.random() * 0.5 + 0.2,
+              }}
+            />
+          ))}
+        </div>
+
+        <div className="relative z-10 text-center max-w-md">
+          <div className="mb-6">
+            <div className="w-20 h-20 mx-auto rounded-full flex items-center justify-center" style={{ background: 'rgba(255, 107, 74, 0.1)' }}>
+              <WifiOff className="w-10 h-10" style={{ color: '#FF6B4A' }} />
+            </div>
+          </div>
+
+          <h2 className="text-xl font-bold text-white mb-3">
+            Sin conexión a Internet
+          </h2>
+
+          <p className="text-white/60 mb-6">
+            Lo sentimos, conéctate a una conexión a Internet para disfrutar de OrionTV.
+          </p>
+
+          <button
+            onClick={() => window.location.reload()}
+            className="inline-flex items-center gap-2 px-6 py-3 rounded-xl font-medium text-white transition-all"
+            style={{ background: '#FF6B4A' }}
+          >
+            <RefreshCw className="w-5 h-5" />
+            Reintentar
+          </button>
+        </div>
+      </div>
+    );
+  }
+
   // Loading screen while checking auth or redirecting
   if (checkingAuth || isRedirecting) {
     return (
@@ -112,10 +179,10 @@ export default function LoginPage() {
         <div className="relative z-10 flex flex-col justify-center px-16 xl:px-24">
           <div className="space-y-8">
             <div>
-              <h1 className="text-5xl xl:text-6xl font-bold text-white">Orion<span style={{ color: '#FF6B4A' }}>Stream</span></h1>
+              <h1 className="text-5xl xl:text-6xl font-bold text-white">Orion<span style={{ color: '#FF6B4A' }}>TV</span></h1>
               <div className="w-20 h-1 mt-4 rounded-full" style={{ background: 'linear-gradient(to right, #FF6B4A, #4A6FFF)' }} />
             </div>
-            <p className="text-xl" style={{ color: 'rgba(255,255,255,0.6)' }}>Television en vivo, donde quiera que estés.</p>
+            <p className="text-xl" style={{ color: 'rgba(255,255,255,0.6)' }}>Televisión en vivo, donde quiera que estés.</p>
             <div className="space-y-4 pt-8">
               {['Transmisión en vivo 24/7', 'Canales de todo el mundo', 'Favoritos personalizados', 'Disponible en cualquier dispositivo'].map((l, i) => (
                 <div key={i} className="flex items-center gap-4">
@@ -132,7 +199,7 @@ export default function LoginPage() {
       <div className="w-full lg:w-1/2 flex items-center justify-center px-6 py-12">
         <div className="w-full max-w-md space-y-6">
           <div className="lg:hidden text-center">
-            <h1 className="text-3xl font-bold text-white">Orion<span style={{ color: '#FF6B4A' }}>Stream</span></h1>
+            <h1 className="text-3xl font-bold text-white">Orion<span style={{ color: '#FF6B4A' }}>TV</span></h1>
           </div>
 
           <div>
@@ -212,9 +279,9 @@ export default function LoginPage() {
 
           <p className="text-center text-sm" style={{ color: 'rgba(255,255,255,0.5)' }}>
             {isLogin ? "¿No tienes cuenta?" : "¿Ya tienes cuenta?"}{" "}
-            <button 
+            <button
               type="button"
-              onClick={() => { setIsLogin(!isLogin); setError(""); setSuccess(""); }} 
+              onClick={() => { setIsLogin(!isLogin); setError(""); setSuccess(""); }}
               style={{ color: '#FF6B4A' }}
             >
               {isLogin ? "Regístrate" : "Inicia sesión"}

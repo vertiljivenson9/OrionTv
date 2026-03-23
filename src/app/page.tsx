@@ -6,8 +6,11 @@ import { auth } from "@/lib/firebase";
 import { useRouter } from "next/navigation";
 import Header from "@/components/Header";
 import HLSPlayer from "@/components/HLSPlayer";
-import { Loader2, Tv, Search, Heart, X, ChevronUp, ChevronDown, Play } from "lucide-react";
+import WelcomeScreen from "@/components/WelcomeScreen";
+import { Loader2, Tv, Search, Heart, X, ChevronUp, ChevronDown, Play, WifiOff } from "lucide-react";
 import type { Channel } from "@/lib/channel-service";
+
+const WELCOME_ACCEPTED_KEY = 'oriontv_welcome_accepted';
 
 // Channel item component - Optimized for fast rendering
 const ChannelItem = ({
@@ -145,10 +148,62 @@ const CategorySection = ({
   );
 };
 
+// Offline overlay component
+function OfflineOverlay() {
+  return (
+    <div className="fixed inset-0 z-[100] flex flex-col items-center justify-center p-6" style={{ background: '#0A0A0F' }}>
+      {/* Stars background */}
+      <div className="absolute inset-0 overflow-hidden pointer-events-none">
+        {[...Array(30)].map((_, i) => (
+          <div
+            key={i}
+            className="absolute rounded-full bg-white animate-pulse"
+            style={{
+              width: Math.random() * 2 + 1 + 'px',
+              height: Math.random() * 2 + 1 + 'px',
+              left: Math.random() * 100 + '%',
+              top: Math.random() * 100 + '%',
+              animationDelay: Math.random() * 3 + 's',
+              opacity: Math.random() * 0.5 + 0.2,
+            }}
+          />
+        ))}
+      </div>
+
+      <div className="relative z-10 text-center max-w-md">
+        {/* Icon */}
+        <div className="mb-6">
+          <div className="w-20 h-20 mx-auto rounded-full flex items-center justify-center" style={{ background: 'rgba(255, 107, 74, 0.1)' }}>
+            <WifiOff className="w-10 h-10" style={{ color: '#FF6B4A' }} />
+          </div>
+        </div>
+
+        <h2 className="text-xl font-bold text-white mb-3">
+          Sin conexión a Internet
+        </h2>
+
+        <p className="text-white/60 mb-6">
+          Lo sentimos, conéctate a una conexión a Internet para disfrutar de OrionTV.
+        </p>
+
+        <button
+          onClick={() => window.location.reload()}
+          className="px-6 py-3 rounded-xl font-medium text-white transition-all"
+          style={{ background: '#FF6B4A' }}
+        >
+          Reintentar
+        </button>
+      </div>
+    </div>
+  );
+}
+
 export default function HomePage() {
   const router = useRouter();
   const [user, setUser] = useState<User | null>(null);
   const [authLoading, setAuthLoading] = useState(true);
+  const [showWelcome, setShowWelcome] = useState(true);
+  const [isOnline, setIsOnline] = useState(true);
 
   // Channels state
   const [groupedChannels, setGroupedChannels] = useState<Record<string, Channel[]>>({});
@@ -165,6 +220,31 @@ export default function HomePage() {
   // Favorites state
   const [favorites, setFavorites] = useState<string[]>([]);
 
+  // Check online status
+  useEffect(() => {
+    const handleOnline = () => setIsOnline(true);
+    const handleOffline = () => setIsOnline(false);
+
+    // Set initial status
+    setIsOnline(navigator.onLine);
+
+    window.addEventListener('online', handleOnline);
+    window.addEventListener('offline', handleOffline);
+
+    return () => {
+      window.removeEventListener('online', handleOnline);
+      window.removeEventListener('offline', handleOffline);
+    };
+  }, []);
+
+  // Check if welcome was accepted
+  useEffect(() => {
+    const accepted = localStorage.getItem(WELCOME_ACCEPTED_KEY);
+    if (accepted === 'true') {
+      setShowWelcome(false);
+    }
+  }, []);
+
   // Auth check
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (firebaseUser) => {
@@ -178,6 +258,12 @@ export default function HomePage() {
 
     return () => unsubscribe();
   }, [router]);
+
+  // Handle welcome accept
+  const handleWelcomeAccept = useCallback(() => {
+    localStorage.setItem(WELCOME_ACCEPTED_KEY, 'true');
+    setShowWelcome(false);
+  }, []);
 
   // Fetch channels
   useEffect(() => {
@@ -197,10 +283,10 @@ export default function HomePage() {
       }
     }
 
-    if (user) {
+    if (user && !showWelcome) {
       fetchChannels();
     }
-  }, [user]);
+  }, [user, showWelcome]);
 
   // Fetch favorites
   useEffect(() => {
@@ -218,18 +304,18 @@ export default function HomePage() {
       }
     }
 
-    fetchFavorites();
-  }, [user]);
+    if (user && !showWelcome) {
+      fetchFavorites();
+    }
+  }, [user, showWelcome]);
 
   // Select channel - NO SCROLL, instant change
   const handleSelectChannel = useCallback((channel: Channel) => {
-    // If same channel, toggle player
     if (activeChannel?.id === channel.id) {
       setIsPlayerMinimized(false);
       return;
     }
 
-    // Change channel instantly
     setActiveChannel(channel);
     setShowPlayer(true);
     setIsPlayerMinimized(false);
@@ -307,7 +393,6 @@ export default function HomePage() {
   // Filter by selected category
   const displayGroupedChannels = useMemo(() => {
     if (selectedCategory === 'Favoritos') {
-      // Show only favorite channels
       const favChannels: Record<string, Channel[]> = {};
       for (const [category, channels] of Object.entries(groupedChannels)) {
         const favs = channels.filter(ch => favorites.includes(ch.id));
@@ -327,6 +412,16 @@ export default function HomePage() {
   const totalChannels = useMemo(() => {
     return Object.values(groupedChannels).reduce((sum, chs) => sum + chs.length, 0);
   }, [groupedChannels]);
+
+  // Show welcome screen
+  if (showWelcome && !authLoading && user) {
+    return <WelcomeScreen onAccept={handleWelcomeAccept} />;
+  }
+
+  // Show offline overlay
+  if (!isOnline) {
+    return <OfflineOverlay />;
+  }
 
   if (authLoading) {
     return (
@@ -437,7 +532,6 @@ export default function HomePage() {
       {/* FIXED PLAYER OVERLAY - No scroll needed */}
       {showPlayer && activeChannel && !isPlayerMinimized && (
         <div className="fixed inset-0 z-50 bg-black">
-          {/* Player */}
           <HLSPlayer
             url={activeChannel.url}
             channelName={activeChannel.name}
@@ -451,7 +545,6 @@ export default function HomePage() {
             }}
           />
 
-          {/* Minimize button */}
           <button
             onClick={handleMinimizePlayer}
             className="absolute top-4 right-20 p-2 rounded-lg bg-black/50 text-white hover:bg-black/70 transition-colors z-10"
@@ -468,7 +561,6 @@ export default function HomePage() {
           onClick={handleExpandPlayer}
         >
           <div className="flex items-center gap-3 max-w-screen-xl mx-auto">
-            {/* Logo */}
             <div className="w-12 h-12 rounded-lg bg-white/10 flex items-center justify-center overflow-hidden flex-shrink-0">
               {activeChannel.logo ? (
                 <img
@@ -481,7 +573,6 @@ export default function HomePage() {
               )}
             </div>
 
-            {/* Info */}
             <div className="flex-1 min-w-0">
               <div className="font-medium text-white truncate">{activeChannel.name}</div>
               <div className="flex items-center gap-2">
@@ -493,7 +584,6 @@ export default function HomePage() {
               </div>
             </div>
 
-            {/* Close button */}
             <button
               onClick={(e) => {
                 e.stopPropagation();
