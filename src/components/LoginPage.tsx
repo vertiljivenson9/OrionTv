@@ -18,6 +18,7 @@ export default function LoginPage() {
   const [loading, setLoading] = useState(false);
   const [googleLoading, setGoogleLoading] = useState(false);
   const [checkingAuth, setCheckingAuth] = useState(true);
+  const [isRedirecting, setIsRedirecting] = useState(false);
   const [error, setError] = useState("");
   const [success, setSuccess] = useState("");
   
@@ -28,14 +29,18 @@ export default function LoginPage() {
   // Check if already logged in
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (user) => {
-      if (user) {
-        router.replace("/");
-      } else {
+      if (user && !isRedirecting) {
+        setIsRedirecting(true);
+        // Use setTimeout to prevent flickering
+        setTimeout(() => {
+          router.replace("/");
+        }, 100);
+      } else if (!user) {
         setCheckingAuth(false);
       }
     });
     return () => unsubscribe();
-  }, [router]);
+  }, [router, isRedirecting]);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -46,6 +51,7 @@ export default function LoginPage() {
     try {
       if (isLogin) {
         await signInWithEmailAndPassword(auth, email, password);
+        setIsRedirecting(true);
         router.replace("/");
       } else {
         const result = await createUserWithEmailAndPassword(auth, email, password);
@@ -53,6 +59,7 @@ export default function LoginPage() {
           await result.user.updateProfile({ displayName: name });
         }
         setSuccess("¡Cuenta creada!");
+        setIsRedirecting(true);
         setTimeout(() => router.replace("/"), 1000);
       }
     } catch (err: any) {
@@ -74,19 +81,22 @@ export default function LoginPage() {
     try {
       const provider = new GoogleAuthProvider();
       await signInWithPopup(auth, provider);
+      setIsRedirecting(true);
       router.replace("/");
     } catch (err: any) {
       setError(err?.message || "Error con Google");
-    } finally {
       setGoogleLoading(false);
     }
   };
 
-  // Loading screen while checking auth
-  if (checkingAuth) {
+  // Loading screen while checking auth or redirecting
+  if (checkingAuth || isRedirecting) {
     return (
       <div className="min-h-screen flex items-center justify-center" style={{ background: '#0A0A0F' }}>
-        <div className="w-8 h-8 border-2 rounded-full animate-spin" style={{ borderColor: '#FF6B4A', borderTopColor: 'transparent' }} />
+        <div className="text-center space-y-4">
+          <div className="w-8 h-8 border-2 rounded-full animate-spin mx-auto" style={{ borderColor: '#FF6B4A', borderTopColor: 'transparent' }} />
+          {isRedirecting && <p style={{ color: 'rgba(255,255,255,0.5)' }}>Redirigiendo...</p>}
+        </div>
       </div>
     );
   }

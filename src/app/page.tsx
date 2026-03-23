@@ -1,22 +1,143 @@
 "use client";
 
-import { useEffect, useState, useCallback, useRef } from "react";
+import { useEffect, useState, useCallback, useMemo } from "react";
 import { onAuthStateChanged, User } from "firebase/auth";
 import { auth } from "@/lib/firebase";
 import { useRouter } from "next/navigation";
 import Header from "@/components/Header";
-import Filters from "@/components/Filters";
-import ChannelGrid from "@/components/ChannelGrid";
-import VideoPlayer from "@/components/VideoPlayer";
-import { Loader2 } from "lucide-react";
-import type { Channel } from "@/lib/channels";
+import HLSPlayer from "@/components/HLSPlayer";
+import { Loader2, Tv, Search, ChevronRight, Heart } from "lucide-react";
+import type { Channel } from "@/lib/channel-service";
 
-interface FavoriteChannel {
-  id: string;
-  name: string;
-  logo: string | null;
-  country: string | null;
-  addedAt: string;
+// Virtualized channel item component
+function ChannelItem({
+  channel,
+  isActive,
+  isFavorite,
+  onClick,
+  onToggleFavorite,
+}: {
+  channel: Channel;
+  isActive: boolean;
+  isFavorite: boolean;
+  onClick: () => void;
+  onToggleFavorite: (e: React.MouseEvent) => void;
+}) {
+  return (
+    <button
+      onClick={onClick}
+      className={`w-full flex items-center gap-3 p-3 rounded-lg transition-all duration-200 ${
+        isActive
+          ? 'bg-[#FF6B4A] text-white'
+          : 'hover:bg-white/5 text-white/80 hover:text-white'
+      }`}
+    >
+      {/* Logo */}
+      <div
+        className={`w-12 h-12 rounded-lg flex items-center justify-center flex-shrink-0 overflow-hidden ${
+          isActive ? 'bg-white/20' : 'bg-white/10'
+        }`}
+      >
+        {channel.logo ? (
+          <img
+            src={channel.logo}
+            alt={channel.name}
+            className="w-10 h-10 object-contain"
+            loading="lazy"
+            onError={(e) => {
+              e.currentTarget.style.display = 'none';
+              e.currentTarget.nextElementSibling?.classList.remove('hidden');
+            }}
+          />
+        ) : null}
+        <Tv className={`w-6 h-6 ${channel.logo ? 'hidden' : ''} ${isActive ? 'text-white' : 'text-white/50'}`} />
+      </div>
+
+      {/* Info */}
+      <div className="flex-1 min-w-0 text-left">
+        <div className="font-medium truncate">{channel.name}</div>
+        <div className={`text-xs truncate ${isActive ? 'text-white/70' : 'text-white/40'}`}>
+          {channel.category}
+        </div>
+      </div>
+
+      {/* Favorite button */}
+      <button
+        onClick={onToggleFavorite}
+        className={`p-2 rounded-lg transition-colors ${
+          isActive
+            ? 'hover:bg-white/20'
+            : 'hover:bg-white/10'
+        }`}
+      >
+        <Heart
+          className={`w-4 h-4 ${
+            isFavorite
+              ? 'fill-red-500 text-red-500'
+              : isActive
+                ? 'text-white/70'
+                : 'text-white/40'
+          }`}
+        />
+      </button>
+
+      {/* Arrow */}
+      <ChevronRight className={`w-4 h-4 ${isActive ? 'text-white' : 'text-white/30'}`} />
+    </button>
+  );
+}
+
+// Category section component
+function CategorySection({
+  category,
+  channels,
+  activeChannel,
+  favorites,
+  onSelect,
+  onToggleFavorite,
+}: {
+  category: string;
+  channels: Channel[];
+  activeChannel: Channel | null;
+  favorites: string[];
+  onSelect: (channel: Channel) => void;
+  onToggleFavorite: (channel: Channel, e: React.MouseEvent) => void;
+}) {
+  const [isExpanded, setIsExpanded] = useState(true);
+
+  return (
+    <div className="border-b border-white/10">
+      {/* Category Header */}
+      <button
+        onClick={() => setIsExpanded(!isExpanded)}
+        className="w-full flex items-center justify-between p-3 hover:bg-white/5 transition-colors"
+      >
+        <span className="font-semibold text-white">{category}</span>
+        <span className="text-xs text-white/50">{channels.length} canales</span>
+      </button>
+
+      {/* Channels List */}
+      {isExpanded && (
+        <div className="px-2 pb-2 space-y-1">
+          {channels.slice(0, 20).map((channel) => (
+            <ChannelItem
+              key={channel.id}
+              channel={channel}
+              isActive={activeChannel?.id === channel.id}
+              isFavorite={favorites.includes(channel.id)}
+              onClick={() => onSelect(channel)}
+              onToggleFavorite={(e) => onToggleFavorite(channel, e)}
+            />
+          ))}
+          {channels.length > 20 && (
+            <div className="text-center py-2 text-white/40 text-xs">
+              +{channels.length - 20} más
+            </div>
+          )}
+        </div>
+      )}
+    </div>
+  );
 }
 
 export default function HomePage() {
@@ -24,31 +145,19 @@ export default function HomePage() {
   const [user, setUser] = useState<User | null>(null);
   const [authLoading, setAuthLoading] = useState(true);
 
-  // State
-  const [channels, setChannels] = useState<Channel[]>([]);
-  const [filteredChannels, setFilteredChannels] = useState<Channel[]>([]);
-  const [favorites, setFavorites] = useState<FavoriteChannel[]>([]);
-  const [countries, setCountries] = useState<string[]>([]);
+  // Channels state
+  const [groupedChannels, setGroupedChannels] = useState<Record<string, Channel[]>>({});
   const [categories, setCategories] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
-  const [loadingMore, setLoadingMore] = useState(false);
-  const [showFavorites, setShowFavorites] = useState(false);
-  const [page, setPage] = useState(1);
-  const [totalChannels, setTotalChannels] = useState(0);
-  const [hasMore, setHasMore] = useState(true);
-  
-  // Filters
-  const [search, setSearch] = useState("");
-  const [country, setCountry] = useState<string | null>(null);
-  const [category, setCategory] = useState<string | null>(null);
-  
-  // Video Player
-  const [selectedChannel, setSelectedChannel] = useState<Channel | null>(null);
-  const [streamUrl, setStreamUrl] = useState<string | null>(null);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
 
-  // Observer ref for infinite scroll
-  const observerRef = useRef<IntersectionObserver | null>(null);
-  const loadMoreRef = useRef<HTMLDivElement | null>(null);
+  // Player state
+  const [activeChannel, setActiveChannel] = useState<Channel | null>(null);
+  const [showPlayer, setShowPlayer] = useState(false);
+
+  // Favorites state
+  const [favorites, setFavorites] = useState<string[]>([]);
 
   // Auth check
   useEffect(() => {
@@ -65,86 +174,27 @@ export default function HomePage() {
   }, [router]);
 
   // Fetch channels
-  const fetchChannelsData = useCallback(async (pageNum: number, append: boolean = false) => {
-    if (!user) return;
-    
-    if (append) {
-      setLoadingMore(true);
-    } else {
-      setLoading(true);
-    }
-
-    try {
-      const params = new URLSearchParams();
-      params.set("page", pageNum.toString());
-      params.set("limit", "100");
-      if (search) params.set("search", search);
-      if (country) params.set("country", country);
-      if (category) params.set("category", category);
-
-      const response = await fetch(`/api/channels?${params.toString()}`);
-      const data = await response.json();
-      
-      if (append) {
-        setChannels(prev => [...prev, ...data.channels]);
-      } else {
-        setChannels(data.channels || []);
-      }
-      
-      setFilteredChannels(append 
-        ? prev => [...prev, ...data.channels]
-        : data.channels || []
-      );
-      setCountries(data.countries || []);
-      setCategories(data.categories || []);
-      setTotalChannels(data.total || 0);
-      setHasMore(data.hasMore || false);
-    } catch (error) {
-      console.error("Error fetching channels:", error);
-    } finally {
-      setLoading(false);
-      setLoadingMore(false);
-    }
-  }, [user, search, country, category]);
-
-  // Initial fetch
   useEffect(() => {
+    async function fetchChannels() {
+      try {
+        const response = await fetch('/api/channels?grouped=true');
+        const data = await response.json();
+
+        if (data.grouped) {
+          setGroupedChannels(data.grouped);
+          setCategories(data.categories || []);
+        }
+      } catch (error) {
+        console.error('Error fetching channels:', error);
+      } finally {
+        setLoading(false);
+      }
+    }
+
     if (user) {
-      setPage(1);
-      setChannels([]);
-      setFilteredChannels([]);
-      fetchChannelsData(1, false);
+      fetchChannels();
     }
-  }, [user, search, country, category]); // Re-fetch when filters change
-
-  // Infinite scroll observer
-  useEffect(() => {
-    if (loading || loadingMore || !hasMore) return;
-
-    const options = {
-      root: null,
-      rootMargin: "100px",
-      threshold: 0.1,
-    };
-
-    observerRef.current = new IntersectionObserver((entries) => {
-      if (entries[0].isIntersecting && hasMore && !loadingMore) {
-        const nextPage = page + 1;
-        setPage(nextPage);
-        fetchChannelsData(nextPage, true);
-      }
-    }, options);
-
-    if (loadMoreRef.current) {
-      observerRef.current.observe(loadMoreRef.current);
-    }
-
-    return () => {
-      if (observerRef.current) {
-        observerRef.current.disconnect();
-      }
-    };
-  }, [loading, loadingMore, hasMore, page, fetchChannelsData]);
+  }, [user]);
 
   // Fetch favorites
   useEffect(() => {
@@ -152,73 +202,95 @@ export default function HomePage() {
       if (!user) return;
       try {
         const token = await user.getIdToken();
-        const response = await fetch("/api/favorites", {
-          headers: {
-            Authorization: `Bearer ${token}`,
-          },
+        const response = await fetch('/api/favorites', {
+          headers: { Authorization: `Bearer ${token}` },
         });
         const data = await response.json();
-        setFavorites(data.favorites || []);
+        setFavorites((data.favorites || []).map((f: { id: string }) => f.id));
       } catch (error) {
-        console.error("Error fetching favorites:", error);
+        console.error('Error fetching favorites:', error);
       }
     }
 
     fetchFavorites();
   }, [user]);
 
+  // Select channel
+  const handleSelectChannel = useCallback((channel: Channel) => {
+    setActiveChannel(channel);
+    setShowPlayer(true);
+  }, []);
+
   // Toggle favorite
-  const toggleFavorite = async (channel: Channel) => {
+  const handleToggleFavorite = useCallback(async (channel: Channel, e: React.MouseEvent) => {
+    e.stopPropagation();
     if (!user) return;
-    const isFavorite = favorites.some((f) => f.id === channel.id);
+
+    const isFavorite = favorites.includes(channel.id);
 
     try {
       const token = await user.getIdToken();
-      
+
       if (isFavorite) {
-        const response = await fetch(`/api/favorites?channelId=${channel.id}`, {
-          method: "DELETE",
-          headers: {
-            Authorization: `Bearer ${token}`,
-          },
+        await fetch(`/api/favorites?channelId=${channel.id}`, {
+          method: 'DELETE',
+          headers: { Authorization: `Bearer ${token}` },
         });
-        const data = await response.json();
-        setFavorites(data.favorites || []);
+        setFavorites((prev) => prev.filter((id) => id !== channel.id));
       } else {
-        const response = await fetch("/api/favorites", {
-          method: "POST",
+        await fetch('/api/favorites', {
+          method: 'POST',
           headers: {
-            "Content-Type": "application/json",
+            'Content-Type': 'application/json',
             Authorization: `Bearer ${token}`,
           },
           body: JSON.stringify({ channel }),
         });
-        const data = await response.json();
-        setFavorites(data.favorites || []);
+        setFavorites((prev) => [...prev, channel.id]);
       }
     } catch (error) {
-      console.error("Error toggling favorite:", error);
+      console.error('Error toggling favorite:', error);
     }
-  };
-
-  // Watch channel - instant playback
-  const handleWatch = (channel: Channel) => {
-    if (channel.url) {
-      setStreamUrl(channel.url);
-      setSelectedChannel(channel);
-    }
-  };
+  }, [user, favorites]);
 
   // Close player
-  const handleClosePlayer = () => {
-    setSelectedChannel(null);
-    setStreamUrl(null);
-  };
+  const handleClosePlayer = useCallback(() => {
+    setShowPlayer(false);
+  }, []);
 
-  // Get channels to display
-  const displayChannels = showFavorites
-    ? channels.filter((ch) => favorites.some((f) => f.id === ch.id))
-    : channels;
+  // Filter channels by search
+  const filteredGroupedChannels = useMemo(() => {
+    if (!searchQuery) return groupedChannels;
+
+    const filtered: Record<string, Channel[]> = {};
+    const query = searchQuery.toLowerCase();
+
+    for (const [category, channels] of Object.entries(groupedChannels)) {
+      const matchingChannels = channels.filter(
+        (ch) =>
+          ch.name.toLowerCase().includes(query) ||
+          ch.category.toLowerCase().includes(query)
+      );
+      if (matchingChannels.length > 0) {
+        filtered[category] = matchingChannels;
+      }
+    }
+
+    return filtered;
+  }, [groupedChannels, searchQuery]);
+
+  // Filter by selected category
+  const displayGroupedChannels = useMemo(() => {
+    if (selectedCategory) {
+      return { [selectedCategory]: filteredGroupedChannels[selectedCategory] || [] };
+    }
+    return filteredGroupedChannels;
+  }, [filteredGroupedChannels, selectedCategory]);
+
+  // Total channels count
+  const totalChannels = useMemo(() => {
+    return Object.values(groupedChannels).reduce((sum, chs) => sum + chs.length, 0);
+  }, [groupedChannels]);
 
   if (authLoading) {
     return (
@@ -240,86 +312,112 @@ export default function HomePage() {
       {/* Header */}
       <Header
         user={user}
-        showFavorites={showFavorites}
-        setShowFavorites={setShowFavorites}
+        showFavorites={selectedCategory === 'Favoritos'}
+        setShowFavorites={(show) => setSelectedCategory(show ? 'Favoritos' : null)}
         favoriteCount={favorites.length}
       />
 
-      {/* Main Content */}
-      <main className="flex-1 container mx-auto px-4 py-6 space-y-6">
-        {/* Page Title */}
-        <div className="space-y-1">
-          <h1 className="text-2xl sm:text-3xl font-bold text-white">
-            {showFavorites ? "Mis Favoritos" : "Todos los Canales"}
-          </h1>
-          <p style={{ color: 'rgba(255,255,255,0.5)' }}>
-            {showFavorites
-              ? `${favorites.length} canales guardados`
-              : `${totalChannels.toLocaleString()} canales disponibles`}
-          </p>
-        </div>
+      {/* Main Content - TV Style Layout */}
+      <div className="flex-1 flex flex-col lg:flex-row">
+        {/* Player Section - Fixed at top on mobile, left on desktop */}
+        {showPlayer && activeChannel && (
+          <div className="lg:w-[60%] lg:sticky lg:top-0 lg:h-screen bg-black">
+            <HLSPlayer
+              url={activeChannel.url}
+              channelName={activeChannel.name}
+              channelLogo={activeChannel.logo}
+              onClose={handleClosePlayer}
+              onError={(error) => {
+                console.error('Player error:', error);
+              }}
+              onPlay={() => {
+                console.log('Playing:', activeChannel.name);
+              }}
+            />
+          </div>
+        )}
 
-        {/* Filters */}
-        <Filters
-          search={search}
-          setSearch={setSearch}
-          country={country}
-          setCountry={setCountry}
-          category={category}
-          setCategory={setCategory}
-          countries={countries}
-          categories={categories}
-        />
+        {/* Channel List Section */}
+        <div className="flex-1 flex flex-col lg:max-h-screen lg:overflow-hidden">
+          {/* Search and Filters */}
+          <div className="p-4 border-b border-white/10 sticky top-0 z-10" style={{ background: '#0A0A0F' }}>
+            <div className="relative">
+              <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-white/40" />
+              <input
+                type="text"
+                placeholder="Buscar canales..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="w-full pl-10 pr-4 py-3 rounded-lg bg-white/5 border border-white/10 text-white placeholder:text-white/40 focus:outline-none focus:border-[#FF6B4A] transition-colors"
+              />
+            </div>
 
-        {/* Channel Grid */}
-        <ChannelGrid
-          channels={displayChannels}
-          favorites={favorites.map((f) => f.id)}
-          loading={loading}
-          onWatch={handleWatch}
-          onToggleFavorite={toggleFavorite}
-        />
+            {/* Category Pills */}
+            <div className="flex gap-2 mt-3 overflow-x-auto pb-2 scrollbar-hide">
+              <button
+                onClick={() => setSelectedCategory(null)}
+                className={`px-3 py-1.5 rounded-full text-sm whitespace-nowrap transition-colors ${
+                  !selectedCategory
+                    ? 'bg-[#FF6B4A] text-white'
+                    : 'bg-white/10 text-white/70 hover:bg-white/20'
+                }`}
+              >
+                Todos ({totalChannels})
+              </button>
+              <button
+                onClick={() => setSelectedCategory('Favoritos')}
+                className={`px-3 py-1.5 rounded-full text-sm whitespace-nowrap transition-colors ${
+                  selectedCategory === 'Favoritos'
+                    ? 'bg-[#FF6B4A] text-white'
+                    : 'bg-white/10 text-white/70 hover:bg-white/20'
+                }`}
+              >
+                Favoritos ({favorites.length})
+              </button>
+              {categories.slice(0, 8).map((cat) => (
+                <button
+                  key={cat}
+                  onClick={() => setSelectedCategory(cat)}
+                  className={`px-3 py-1.5 rounded-full text-sm whitespace-nowrap transition-colors ${
+                    selectedCategory === cat
+                      ? 'bg-[#FF6B4A] text-white'
+                      : 'bg-white/10 text-white/70 hover:bg-white/20'
+                  }`}
+                >
+                  {cat}
+                </button>
+              ))}
+            </div>
+          </div>
 
-        {/* Load More Trigger */}
-        {!showFavorites && hasMore && (
-          <div ref={loadMoreRef} className="flex justify-center py-8">
-            {loadingMore && (
-              <div className="flex items-center gap-2" style={{ color: 'rgba(255,255,255,0.5)' }}>
-                <Loader2 className="w-5 h-5 animate-spin" />
-                <span>Cargando más canales...</span>
+          {/* Channel List */}
+          <div className="flex-1 overflow-y-auto lg:max-h-[calc(100vh-180px)]">
+            {loading ? (
+              <div className="flex flex-col items-center justify-center py-20">
+                <Loader2 className="w-10 h-10 animate-spin" style={{ color: '#FF6B4A' }} />
+                <p className="mt-4 text-white/50">Cargando canales...</p>
               </div>
+            ) : Object.keys(displayGroupedChannels).length === 0 ? (
+              <div className="flex flex-col items-center justify-center py-20">
+                <Tv className="w-16 h-16 text-white/30" />
+                <p className="mt-4 text-white/50">No se encontraron canales</p>
+              </div>
+            ) : (
+              Object.entries(displayGroupedChannels).map(([category, channels]) => (
+                <CategorySection
+                  key={category}
+                  category={category}
+                  channels={channels}
+                  activeChannel={activeChannel}
+                  favorites={favorites}
+                  onSelect={handleSelectChannel}
+                  onToggleFavorite={handleToggleFavorite}
+                />
+              ))
             )}
           </div>
-        )}
-
-        {/* End of list */}
-        {!hasMore && !loading && channels.length > 0 && !showFavorites && (
-          <div className="text-center py-8" style={{ color: 'rgba(255,255,255,0.4)' }}>
-            Has llegado al final de la lista
-          </div>
-        )}
-      </main>
-
-      {/* Footer */}
-      <footer className="border-t py-6" style={{ borderColor: 'rgba(255,255,255,0.1)' }}>
-        <div className="container mx-auto px-4 text-center">
-          <p className="text-sm" style={{ color: 'rgba(255,255,255,0.4)' }}>
-            © 2024 Orion Stream. Todos los derechos reservados.{" "}
-            <a href="/terms" style={{ color: '#FF6B4A' }}>Términos</a>
-            {" "}·{" "}
-            <a href="/privacy" style={{ color: '#FF6B4A' }}>Privacidad</a>
-          </p>
         </div>
-      </footer>
-
-      {/* Video Player */}
-      {selectedChannel && (
-        <VideoPlayer
-          channel={selectedChannel}
-          streamUrl={streamUrl}
-          onClose={handleClosePlayer}
-        />
-      )}
+      </div>
     </div>
   );
 }

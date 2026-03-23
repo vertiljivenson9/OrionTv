@@ -1,58 +1,63 @@
-import { NextResponse } from "next/server";
-import { fetchChannels, getCountries, getCategories, filterChannels } from "@/lib/channels";
+// Channels API - Returns parsed channels from M3U playlist
+import { NextResponse } from 'next/server';
+import { getChannels, getCategories, getChannelsByCategory } from '@/lib/channel-service';
 
-export const revalidate = 21600; // Cache for 6 hours
+export const revalidate = 300; // Cache for 5 minutes
 
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url);
-    const search = searchParams.get("search") || "";
-    const country = searchParams.get("country") || null;
-    const category = searchParams.get("category") || null;
-    const getCountriesList = searchParams.get("countries") === "true";
-    const getCategoriesList = searchParams.get("categories") === "true";
-    const page = parseInt(searchParams.get("page") || "1");
-    const limit = parseInt(searchParams.get("limit") || "200"); // Default 200 per page
+    const category = searchParams.get('category');
+    const search = searchParams.get('search');
+    const grouped = searchParams.get('grouped') === 'true';
+    const categoriesOnly = searchParams.get('categories') === 'true';
 
-    // Fetch all channels (cached)
-    const allChannels = await fetchChannels();
+    // Return only categories
+    if (categoriesOnly) {
+      const categories = await getCategories();
+      return NextResponse.json({ categories });
+    }
 
-    // Return only countries list
-    if (getCountriesList) {
+    // Return grouped by category
+    if (grouped) {
+      const groupedChannels = await getChannelsByCategory();
       return NextResponse.json({
-        countries: getCountries(allChannels),
+        grouped: groupedChannels,
+        categories: Object.keys(groupedChannels),
       });
     }
 
-    // Return only categories list
-    if (getCategoriesList) {
-      return NextResponse.json({
-        categories: getCategories(allChannels),
-      });
+    // Get all channels
+    const channels = await getChannels();
+
+    // Filter by category
+    let filteredChannels = channels;
+    if (category) {
+      filteredChannels = channels.filter(
+        (ch) => ch.category.toLowerCase() === category.toLowerCase()
+      );
     }
 
-    // Filter channels
-    let filteredChannels = filterChannels(allChannels, search, country, category);
-
-    // Calculate pagination
-    const total = filteredChannels.length;
-    const totalPages = Math.ceil(total / limit);
-    const startIndex = (page - 1) * limit;
-    const paginatedChannels = filteredChannels.slice(startIndex, startIndex + limit);
+    // Filter by search
+    if (search) {
+      const searchLower = search.toLowerCase();
+      filteredChannels = filteredChannels.filter(
+        (ch) =>
+          ch.name.toLowerCase().includes(searchLower) ||
+          ch.category.toLowerCase().includes(searchLower) ||
+          ch.group.toLowerCase().includes(searchLower)
+      );
+    }
 
     return NextResponse.json({
-      channels: paginatedChannels,
-      total,
-      page,
-      totalPages,
-      hasMore: page < totalPages,
-      countries: getCountries(allChannels),
-      categories: getCategories(allChannels),
+      channels: filteredChannels,
+      total: filteredChannels.length,
+      categories: await getCategories(),
     });
   } catch (error) {
-    console.error("Error in /api/channels:", error);
+    console.error('Error in /api/channels:', error);
     return NextResponse.json(
-      { error: "Failed to fetch channels", channels: [], total: 0 },
+      { error: 'Failed to fetch channels', channels: [], total: 0 },
       { status: 500 }
     );
   }
