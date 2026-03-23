@@ -165,7 +165,7 @@ const ChannelCard = ({
     <div className="p-3">
       <div className="font-medium text-white truncate text-sm">{channel.name}</div>
       <div className="text-xs text-white/40 truncate flex items-center gap-1">
-        <span>{channel.categories[0] || channel.country}</span>
+        <span>{(channel.categories && channel.categories[0]) || channel.country}</span>
         {showTime && 'watchedAt' in channel && (
           <span className="text-white/30">• {formatTimeAgo((channel as RecentChannel).watchedAt)}</span>
         )}
@@ -386,16 +386,20 @@ export default function HomePage() {
 
   // Check if welcome was accepted and adult enabled
   useEffect(() => {
-    const accepted = localStorage.getItem(WELCOME_ACCEPTED_KEY);
-    const adult = localStorage.getItem(ADULT_ENABLED_KEY);
-    if (accepted === 'true') {
-      setShowWelcome(false);
+    try {
+      const accepted = localStorage.getItem(WELCOME_ACCEPTED_KEY);
+      const adult = localStorage.getItem(ADULT_ENABLED_KEY);
+      if (accepted === 'true') {
+        setShowWelcome(false);
+      }
+      if (adult === 'true') {
+        setAdultEnabled(true);
+      }
+      // Load recent channels
+      setRecentChannels(getRecentChannels());
+    } catch (e) {
+      console.error('LocalStorage error:', e);
     }
-    if (adult === 'true') {
-      setAdultEnabled(true);
-    }
-    // Load recent channels
-    setRecentChannels(getRecentChannels());
   }, []);
 
   // Auth check
@@ -660,7 +664,7 @@ export default function HomePage() {
       const matchingChannels = channels.filter(
         (ch) =>
           ch.name.toLowerCase().includes(query) ||
-          ch.categories.some(cat => cat.toLowerCase().includes(query)) ||
+          (ch.categories && ch.categories.some(cat => cat.toLowerCase().includes(query))) ||
           ch.country.toLowerCase().includes(query)
       );
       if (matchingChannels.length > 0) {

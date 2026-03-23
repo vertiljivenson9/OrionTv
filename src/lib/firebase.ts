@@ -12,11 +12,36 @@ const firebaseConfig = {
   measurementId: process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID,
 };
 
-// Initialize Firebase only if it hasn't been initialized
-const app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApp();
+// Validate required Firebase config
+const validateFirebaseConfig = () => {
+  const requiredKeys = ['apiKey', 'authDomain', 'projectId', 'appId'];
+  const missingKeys = requiredKeys.filter(key => !firebaseConfig[key as keyof typeof firebaseConfig]);
+  
+  if (missingKeys.length > 0) {
+    console.error('Missing Firebase config keys:', missingKeys);
+    return false;
+  }
+  return true;
+};
 
-export const auth = getAuth(app);
-export const googleProvider = new GoogleAuthProvider();
-export const db = getFirestore(app);
+// Initialize Firebase only if it hasn't been initialized and config is valid
+let app;
+let auth;
+let googleProvider;
+let db;
 
+try {
+  if (validateFirebaseConfig()) {
+    app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApp();
+    auth = getAuth(app);
+    googleProvider = new GoogleAuthProvider();
+    db = getFirestore(app);
+  } else {
+    console.warn('Firebase initialization skipped due to missing config');
+  }
+} catch (error) {
+  console.error('Firebase initialization error:', error);
+}
+
+export { app, auth, googleProvider, db };
 export default app;
