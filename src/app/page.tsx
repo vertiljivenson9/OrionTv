@@ -7,9 +7,15 @@ import { useRouter } from "next/navigation";
 import Header from "@/components/Header";
 import HLSPlayer from "@/components/HLSPlayer";
 import WelcomeScreen from "@/components/WelcomeScreen";
+import DigitalClock from "@/components/DigitalClock";
+import UserDashboard from "@/components/UserDashboard";
+import GlitchTransition from "@/components/GlitchTransition";
+import AchievementNotification from "@/components/AchievementNotification";
+import ShareChannelButton from "@/components/ShareChannelButton";
+import TrendingBadge from "@/components/TrendingBadge";
 import {
   Loader2, Tv, Search, Heart, X, ChevronUp, ChevronDown, Play,
-  Shuffle, Clock, Sparkles
+  Shuffle, Clock, Sparkles, BarChart3, Flame
 } from "lucide-react";
 import type { Channel } from "@/lib/channel-service";
 import {
@@ -18,6 +24,13 @@ import {
   getRandomChannel,
   type RecentChannel
 } from "@/lib/recent-channels";
+import {
+  trackChannelView,
+  trackRandomChannel,
+  trackFavorite,
+  getFormattedStats,
+  type Achievement
+} from "@/lib/user-stats";
 
 const WELCOME_ACCEPTED_KEY = 'oriontv_welcome_accepted';
 
@@ -243,6 +256,12 @@ export default function HomePage() {
   const [favorites, setFavorites] = useState<string[]>([]);
   const [recentChannels, setRecentChannels] = useState<RecentChannel[]>([]);
 
+  // Dashboard & Achievements
+  const [showDashboard, setShowDashboard] = useState(false);
+  const [showGlitch, setShowGlitch] = useState(false);
+  const [newAchievement, setNewAchievement] = useState<Achievement | null>(null);
+  const [loadStartTime, setLoadStartTime] = useState<number>(0);
+
   // Check online status
   useEffect(() => {
     const handleOnline = () => setIsOnline(true);
@@ -346,6 +365,10 @@ export default function HomePage() {
       return;
     }
 
+    // Show glitch transition
+    setShowGlitch(true);
+    setLoadStartTime(Date.now());
+
     // Find index in current display list
     const currentList = selectedCategory === 'Favoritos'
       ? allChannels.filter(ch => favorites.includes(ch.id))
@@ -363,6 +386,12 @@ export default function HomePage() {
     // Add to recent
     const updated = addRecentChannel(channel);
     setRecentChannels(updated);
+
+    // Track stats and check achievements
+    const result = trackChannelView(channel);
+    if (result.newAchievements.length > 0) {
+      setNewAchievement(result.newAchievements[0]);
+    }
   }, [activeChannel, selectedCategory, allChannels, groupedChannels, favorites]);
 
   // Previous channel
@@ -415,6 +444,8 @@ export default function HomePage() {
   const handleRandomChannel = useCallback(() => {
     const randomChannel = getRandomChannel(allChannels);
     if (randomChannel) {
+      setShowGlitch(true);
+      setLoadStartTime(Date.now());
       setActiveChannel(randomChannel);
       const index = allChannels.findIndex(ch => ch.id === randomChannel.id);
       setActiveChannelIndex(index);
@@ -422,6 +453,12 @@ export default function HomePage() {
       setIsPlayerMinimized(false);
       const updated = addRecentChannel(randomChannel);
       setRecentChannels(updated);
+
+      // Track random channel usage
+      const achievement = trackRandomChannel();
+      if (achievement) {
+        setNewAchievement(achievement);
+      }
     }
   }, [allChannels]);
 
@@ -450,7 +487,14 @@ export default function HomePage() {
           },
           body: JSON.stringify({ channel }),
         });
+        const newCount = favorites.length + 1;
         setFavorites((prev) => [...prev, channel.id]);
+
+        // Track favorite achievement
+        const achievement = trackFavorite(newCount);
+        if (achievement) {
+          setNewAchievement(achievement);
+        }
       }
     } catch (error) {
       console.error('Error toggling favorite:', error);
@@ -555,6 +599,18 @@ export default function HomePage() {
 
       {/* Main Content */}
       <div className="flex-1 flex flex-col">
+        {/* Top bar with clock and stats button */}
+        <div className="flex items-center justify-between px-4 py-2 border-b border-white/5">
+          <DigitalClock showIcon={true} />
+          <button
+            onClick={() => setShowDashboard(true)}
+            className="flex items-center gap-2 px-3 py-1.5 rounded-lg hover:bg-white/5 transition-colors"
+          >
+            <BarChart3 className="w-4 h-4" style={{ color: '#FF6B4A' }} />
+            <span className="text-sm text-white/60">Mi Actividad</span>
+          </button>
+        </div>
+
         {/* Search and Filters */}
         <div className="p-4 border-b border-white/10 sticky top-0 z-10" style={{ background: '#0A0A0F' }}>
           <div className="relative">
@@ -668,6 +724,14 @@ export default function HomePage() {
         </div>
       </div>
 
+      {/* Glitch Transition */}
+      <GlitchTransition
+        isActive={showGlitch}
+        channelName={activeChannel?.name}
+        duration={300}
+        onComplete={() => setShowGlitch(false)}
+      />
+
       {/* PLAYER OVERLAY */}
       {showPlayer && activeChannel && !isPlayerMinimized && (
         <div className="fixed inset-0 z-50 bg-black">
@@ -684,8 +748,17 @@ export default function HomePage() {
             }}
             onPlay={() => {
               console.log('Playing:', activeChannel.name);
+              setShowGlitch(false);
             }}
           />
+          {/* Share button */}
+          <div className="absolute top-4 right-36 z-10">
+            <ShareChannelButton
+              channelName={activeChannel.name}
+              channelId={activeChannel.id}
+              compact
+            />
+          </div>
           <button
             onClick={handleMinimizePlayer}
             className="absolute top-4 right-20 p-2 rounded-lg bg-black/50 text-white hover:bg-black/70 transition-colors z-10"
@@ -735,6 +808,19 @@ export default function HomePage() {
           </div>
         </div>
       )}
+
+      {/* User Dashboard Modal */}
+      <UserDashboard
+        isOpen={showDashboard}
+        onClose={() => setShowDashboard(false)}
+        favoritesCount={favorites.length}
+      />
+
+      {/* Achievement Notification */}
+      <AchievementNotification
+        achievement={newAchievement}
+        onClose={() => setNewAchievement(null)}
+      />
     </div>
   );
 }
