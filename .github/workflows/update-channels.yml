@@ -1,0 +1,48 @@
+name: Update Channels
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-channels:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Run channel update script
+        run: node scripts/update-channels.js
+        
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --exit-code public/data/channels.json || echo "has_changes=true" >> $GITHUB_OUTPUT
+          
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/channels.json
+          git commit -m "🔄 Auto-update channels data [skip ci]"
+          git push
+          
+      - name: Summary
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          echo "✅ Channels updated successfully!" >> $GITHUB_STEP_SUMMARY
+          echo "📅 Updated at: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY

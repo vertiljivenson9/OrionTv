@@ -12,12 +12,10 @@ import UserDashboard from "@/components/UserDashboard";
 import GlitchTransition from "@/components/GlitchTransition";
 import AchievementNotification from "@/components/AchievementNotification";
 import ShareChannelButton from "@/components/ShareChannelButton";
-import TrendingBadge from "@/components/TrendingBadge";
 import {
   Loader2, Tv, Search, Heart, X, ChevronUp, ChevronDown, Play,
-  Shuffle, Clock, Sparkles, BarChart3, Flame
+  Shuffle, Clock, BarChart3, AlertTriangle, Eye, EyeOff
 } from "lucide-react";
-import type { Channel } from "@/lib/channel-service";
 import {
   getRecentChannels,
   addRecentChannel,
@@ -28,11 +26,67 @@ import {
   trackChannelView,
   trackRandomChannel,
   trackFavorite,
-  getFormattedStats,
   type Achievement
 } from "@/lib/user-stats";
 
 const WELCOME_ACCEPTED_KEY = 'oriontv_welcome_accepted';
+const ADULT_ENABLED_KEY = 'oriontv_adult_enabled';
+
+// Types for the new channel structure
+interface Channel {
+  id: string;
+  name: string;
+  logo: string | null;
+  url: string;
+  country: string;
+  countryCode: string;
+  language_primary: string | null;
+  is_spanish: boolean;
+  is_adult: boolean;
+  section: 'deportes' | 'peliculas' | 'series' | 'infantil' | 'español' | 'general';
+  categories: string[];
+  network: string | null;
+}
+
+interface Section {
+  id: string;
+  name: string;
+  count: number;
+}
+
+// Section icons and colors
+const SECTION_CONFIG: Record<string, { icon: string; color: string; bgGradient: string }> = {
+  'deportes': { 
+    icon: '⚽', 
+    color: 'text-green-400',
+    bgGradient: 'from-green-500/20 to-transparent'
+  },
+  'peliculas': { 
+    icon: '🎬', 
+    color: 'text-purple-400',
+    bgGradient: 'from-purple-500/20 to-transparent'
+  },
+  'series': { 
+    icon: '📺', 
+    color: 'text-blue-400',
+    bgGradient: 'from-blue-500/20 to-transparent'
+  },
+  'infantil': { 
+    icon: '👶', 
+    color: 'text-yellow-400',
+    bgGradient: 'from-yellow-500/20 to-transparent'
+  },
+  'español': { 
+    icon: '🇪🇸', 
+    color: 'text-red-400',
+    bgGradient: 'from-red-500/20 to-transparent'
+  },
+  'general': { 
+    icon: '📡', 
+    color: 'text-gray-400',
+    bgGradient: 'from-gray-500/20 to-transparent'
+  }
+};
 
 // Channel card component (GRID style)
 const ChannelCard = ({
@@ -100,13 +154,18 @@ const ChannelCard = ({
           EN VIVO
         </div>
       )}
+
+      {/* Country Flag Badge */}
+      <div className="absolute top-2 left-2 px-2 py-0.5 rounded text-xs font-medium text-white/80 bg-black/40 backdrop-blur-sm">
+        {channel.countryCode}
+      </div>
     </div>
 
     {/* Info */}
     <div className="p-3">
       <div className="font-medium text-white truncate text-sm">{channel.name}</div>
       <div className="text-xs text-white/40 truncate flex items-center gap-1">
-        <span>{channel.category}</span>
+        <span>{channel.categories[0] || channel.country}</span>
         {showTime && 'watchedAt' in channel && (
           <span className="text-white/30">• {formatTimeAgo((channel as RecentChannel).watchedAt)}</span>
         )}
@@ -130,16 +189,16 @@ function formatTimeAgo(dateString: string): string {
   return `${diffDays}d`;
 }
 
-// Category section component (GRID)
-const CategorySection = ({
-  category,
+// Section component (GRID)
+const SectionGrid = ({
+  section,
   channels,
   activeChannel,
   favorites,
   onSelect,
   onToggleFavorite,
 }: {
-  category: string;
+  section: Section;
   channels: Channel[];
   activeChannel: Channel | null;
   favorites: string[];
@@ -147,6 +206,7 @@ const CategorySection = ({
   onToggleFavorite: (channel: Channel, e: React.MouseEvent) => void;
 }) => {
   const [isExpanded, setIsExpanded] = useState(true);
+  const config = SECTION_CONFIG[section.id] || SECTION_CONFIG['general'];
 
   return (
     <div className="py-4 px-4">
@@ -155,7 +215,8 @@ const CategorySection = ({
         className="w-full flex items-center justify-between py-2 hover:bg-white/5 transition-colors rounded-lg px-2"
       >
         <span className="font-semibold text-white flex items-center gap-2">
-          {category}
+          <span className="text-lg">{config.icon}</span>
+          <span className={config.color}>{section.name}</span>
           <span className="text-xs text-white/40 font-normal">{channels.length}</span>
         </span>
         <div className="flex items-center gap-2">
@@ -184,6 +245,52 @@ const CategorySection = ({
     </div>
   );
 };
+
+// Adult content warning modal
+const AdultWarningModal = ({
+  onAccept,
+  onDecline
+}: {
+  onAccept: () => void;
+  onDecline: () => void;
+}) => (
+  <div className="fixed inset-0 z-[200] flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm">
+    <div className="max-w-md w-full rounded-2xl p-6 space-y-4" style={{ background: '#15151F' }}>
+      <div className="flex items-center gap-3 text-red-400">
+        <AlertTriangle className="w-8 h-8" />
+        <h2 className="text-xl font-bold">Contenido para Adultos</h2>
+      </div>
+      
+      <p className="text-white/70">
+        Estás a punto de activar la sección de contenido para adultos. Este material está destinado 
+        únicamente a personas mayores de 18 años.
+      </p>
+      
+      <div className="bg-red-500/10 border border-red-500/20 rounded-lg p-3">
+        <p className="text-sm text-red-300">
+          ⚠️ Al continuar, confirmas que tienes al menos 18 años de edad y que aceptas ver contenido 
+          clasificado para adultos.
+        </p>
+      </div>
+
+      <div className="flex gap-3 pt-2">
+        <button
+          onClick={onDecline}
+          className="flex-1 px-4 py-3 rounded-lg bg-white/10 text-white font-medium hover:bg-white/20 transition-colors"
+        >
+          Cancelar
+        </button>
+        <button
+          onClick={onAccept}
+          className="flex-1 px-4 py-3 rounded-lg bg-red-500 text-white font-medium hover:bg-red-600 transition-colors flex items-center justify-center gap-2"
+        >
+          <Eye className="w-4 h-4" />
+          Tengo 18+ años
+        </button>
+      </div>
+    </div>
+  </div>
+);
 
 // Offline overlay
 function OfflineOverlay() {
@@ -238,10 +345,10 @@ export default function HomePage() {
   // Channels state
   const [groupedChannels, setGroupedChannels] = useState<Record<string, Channel[]>>({});
   const [allChannels, setAllChannels] = useState<Channel[]>([]);
-  const [categories, setCategories] = useState<string[]>([]);
+  const [sections, setSections] = useState<Section[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const [selectedSection, setSelectedSection] = useState<string | null>(null);
 
   // Player state
   const [activeChannel, setActiveChannel] = useState<Channel | null>(null);
@@ -257,7 +364,10 @@ export default function HomePage() {
   const [showDashboard, setShowDashboard] = useState(false);
   const [showGlitch, setShowGlitch] = useState(false);
   const [newAchievement, setNewAchievement] = useState<Achievement | null>(null);
-  const [loadStartTime, setLoadStartTime] = useState<number>(0);
+
+  // Adult content state
+  const [adultEnabled, setAdultEnabled] = useState(false);
+  const [showAdultWarning, setShowAdultWarning] = useState(false);
 
   // Check online status
   useEffect(() => {
@@ -274,11 +384,15 @@ export default function HomePage() {
     };
   }, []);
 
-  // Check if welcome was accepted
+  // Check if welcome was accepted and adult enabled
   useEffect(() => {
     const accepted = localStorage.getItem(WELCOME_ACCEPTED_KEY);
+    const adult = localStorage.getItem(ADULT_ENABLED_KEY);
     if (accepted === 'true') {
       setShowWelcome(false);
+    }
+    if (adult === 'true') {
+      setAdultEnabled(true);
     }
     // Load recent channels
     setRecentChannels(getRecentChannels());
@@ -304,16 +418,39 @@ export default function HomePage() {
     setShowWelcome(false);
   }, []);
 
+  // Handle adult toggle
+  const handleAdultToggle = useCallback(() => {
+    if (!adultEnabled) {
+      setShowAdultWarning(true);
+    } else {
+      setAdultEnabled(false);
+      localStorage.setItem(ADULT_ENABLED_KEY, 'false');
+    }
+  }, [adultEnabled]);
+
+  // Handle adult accept
+  const handleAdultAccept = useCallback(() => {
+    setAdultEnabled(true);
+    localStorage.setItem(ADULT_ENABLED_KEY, 'true');
+    setShowAdultWarning(false);
+  }, []);
+
+  // Handle adult decline
+  const handleAdultDecline = useCallback(() => {
+    setShowAdultWarning(false);
+  }, []);
+
   // Fetch channels
   useEffect(() => {
     async function fetchChannels() {
       try {
-        const response = await fetch('/api/channels?grouped=true');
+        const adultParam = adultEnabled ? '&adult=true' : '';
+        const response = await fetch(`/api/channels?grouped=true${adultParam}`);
         const data = await response.json();
 
         if (data.grouped) {
           setGroupedChannels(data.grouped);
-          setCategories(data.categories || []);
+          setSections(data.sections || []);
 
           // Flatten all channels for random/zapping
           const flatChannels: Channel[] = [];
@@ -332,7 +469,7 @@ export default function HomePage() {
     if (user && !showWelcome) {
       fetchChannels();
     }
-  }, [user, showWelcome]);
+  }, [user, showWelcome, adultEnabled]);
 
   // Fetch favorites
   useEffect(() => {
@@ -364,13 +501,12 @@ export default function HomePage() {
 
     // Show glitch transition
     setShowGlitch(true);
-    setLoadStartTime(Date.now());
 
     // Find index in current display list
-    const currentList = selectedCategory === 'Favoritos'
+    const currentList = selectedSection === 'Favoritos'
       ? allChannels.filter(ch => favorites.includes(ch.id))
-      : selectedCategory
-        ? groupedChannels[selectedCategory] || []
+      : selectedSection
+        ? groupedChannels[selectedSection] || []
         : allChannels;
 
     const index = currentList.findIndex(ch => ch.id === channel.id);
@@ -381,22 +517,22 @@ export default function HomePage() {
     setIsPlayerMinimized(false);
 
     // Add to recent
-    const updated = addRecentChannel(channel);
+    const updated = addRecentChannel(channel as any);
     setRecentChannels(updated);
 
     // Track stats and check achievements
-    const result = trackChannelView(channel);
+    const result = trackChannelView(channel as any);
     if (result.newAchievements.length > 0) {
       setNewAchievement(result.newAchievements[0]);
     }
-  }, [activeChannel, selectedCategory, allChannels, groupedChannels, favorites]);
+  }, [activeChannel, selectedSection, allChannels, groupedChannels, favorites]);
 
   // Previous channel
   const handlePrevChannel = useCallback(() => {
-    const currentList = selectedCategory === 'Favoritos'
+    const currentList = selectedSection === 'Favoritos'
       ? allChannels.filter(ch => favorites.includes(ch.id))
-      : selectedCategory
-        ? groupedChannels[selectedCategory] || []
+      : selectedSection
+        ? groupedChannels[selectedSection] || []
         : allChannels;
 
     if (currentList.length === 0) return;
@@ -409,17 +545,17 @@ export default function HomePage() {
     if (newChannel) {
       setActiveChannelIndex(newIndex);
       setActiveChannel(newChannel);
-      const updated = addRecentChannel(newChannel);
+      const updated = addRecentChannel(newChannel as any);
       setRecentChannels(updated);
     }
-  }, [activeChannelIndex, selectedCategory, allChannels, groupedChannels, favorites]);
+  }, [activeChannelIndex, selectedSection, allChannels, groupedChannels, favorites]);
 
   // Next channel
   const handleNextChannel = useCallback(() => {
-    const currentList = selectedCategory === 'Favoritos'
+    const currentList = selectedSection === 'Favoritos'
       ? allChannels.filter(ch => favorites.includes(ch.id))
-      : selectedCategory
-        ? groupedChannels[selectedCategory] || []
+      : selectedSection
+        ? groupedChannels[selectedSection] || []
         : allChannels;
 
     if (currentList.length === 0) return;
@@ -432,18 +568,17 @@ export default function HomePage() {
     if (newChannel) {
       setActiveChannelIndex(newIndex);
       setActiveChannel(newChannel);
-      const updated = addRecentChannel(newChannel);
+      const updated = addRecentChannel(newChannel as any);
       setRecentChannels(updated);
     }
-  }, [activeChannelIndex, selectedCategory, allChannels, groupedChannels, favorites]);
+  }, [activeChannelIndex, selectedSection, allChannels, groupedChannels, favorites]);
 
   // Random channel
   const handleRandomChannel = useCallback(() => {
-    const randomChannel = getRandomChannel(allChannels);
+    const randomChannel = getRandomChannel(allChannels as any);
     if (randomChannel) {
       setShowGlitch(true);
-      setLoadStartTime(Date.now());
-      setActiveChannel(randomChannel);
+      setActiveChannel(randomChannel as Channel);
       const index = allChannels.findIndex(ch => ch.id === randomChannel.id);
       setActiveChannelIndex(index);
       setShowPlayer(true);
@@ -521,37 +656,38 @@ export default function HomePage() {
     const filtered: Record<string, Channel[]> = {};
     const query = searchQuery.toLowerCase();
 
-    for (const [category, channels] of Object.entries(groupedChannels)) {
+    for (const [section, channels] of Object.entries(groupedChannels)) {
       const matchingChannels = channels.filter(
         (ch) =>
           ch.name.toLowerCase().includes(query) ||
-          ch.category.toLowerCase().includes(query)
+          ch.categories.some(cat => cat.toLowerCase().includes(query)) ||
+          ch.country.toLowerCase().includes(query)
       );
       if (matchingChannels.length > 0) {
-        filtered[category] = matchingChannels;
+        filtered[section] = matchingChannels;
       }
     }
 
     return filtered;
   }, [groupedChannels, searchQuery]);
 
-  // Filter by selected category
+  // Filter by selected section
   const displayGroupedChannels = useMemo(() => {
-    if (selectedCategory === 'Favoritos') {
+    if (selectedSection === 'Favoritos') {
       const favChannels: Record<string, Channel[]> = {};
-      for (const [category, channels] of Object.entries(groupedChannels)) {
+      for (const [section, channels] of Object.entries(groupedChannels)) {
         const favs = channels.filter(ch => favorites.includes(ch.id));
         if (favs.length > 0) {
-          favChannels[category] = favs;
+          favChannels[section] = favs;
         }
       }
       return favChannels;
     }
-    if (selectedCategory) {
-      return { [selectedCategory]: filteredGroupedChannels[selectedCategory] || [] };
+    if (selectedSection) {
+      return { [selectedSection]: filteredGroupedChannels[selectedSection] || [] };
     }
     return filteredGroupedChannels;
-  }, [filteredGroupedChannels, selectedCategory, groupedChannels, favorites]);
+  }, [filteredGroupedChannels, selectedSection, groupedChannels, favorites]);
 
   // Total channels count
   const totalChannels = useMemo(() => {
@@ -588,8 +724,8 @@ export default function HomePage() {
       {/* Header */}
       <Header
         user={user}
-        showFavorites={selectedCategory === 'Favoritos'}
-        setShowFavorites={(show) => setSelectedCategory(show ? 'Favoritos' : null)}
+        showFavorites={selectedSection === 'Favoritos'}
+        setShowFavorites={(show) => setSelectedSection(show ? 'Favoritos' : null)}
         favoriteCount={favorites.length}
         onRandomChannel={handleRandomChannel}
       />
@@ -599,13 +735,27 @@ export default function HomePage() {
         {/* Top bar with clock and stats button */}
         <div className="flex items-center justify-between px-4 py-2 border-b border-white/5">
           <DigitalClock showIcon={true} />
-          <button
-            onClick={() => setShowDashboard(true)}
-            className="flex items-center gap-2 px-3 py-1.5 rounded-lg hover:bg-white/5 transition-colors"
-          >
-            <BarChart3 className="w-4 h-4" style={{ color: '#FF6B4A' }} />
-            <span className="text-sm text-white/60">Mi Actividad</span>
-          </button>
+          <div className="flex items-center gap-3">
+            {/* Adult Toggle Button */}
+            <button
+              onClick={handleAdultToggle}
+              className={`flex items-center gap-2 px-3 py-1.5 rounded-lg transition-colors ${
+                adultEnabled 
+                  ? 'bg-red-500/20 text-red-400 hover:bg-red-500/30' 
+                  : 'bg-white/5 text-white/60 hover:bg-white/10'
+              }`}
+            >
+              {adultEnabled ? <Eye className="w-4 h-4" /> : <EyeOff className="w-4 h-4" />}
+              <span className="text-sm">{adultEnabled ? 'Adultos ON' : 'Adultos OFF'}</span>
+            </button>
+            <button
+              onClick={() => setShowDashboard(true)}
+              className="flex items-center gap-2 px-3 py-1.5 rounded-lg hover:bg-white/5 transition-colors"
+            >
+              <BarChart3 className="w-4 h-4" style={{ color: '#FF6B4A' }} />
+              <span className="text-sm text-white/60">Mi Actividad</span>
+            </button>
+          </div>
         </div>
 
         {/* Search and Filters */}
@@ -614,19 +764,19 @@ export default function HomePage() {
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-white/40" />
             <input
               type="text"
-              placeholder="Buscar canales..."
+              placeholder="Buscar canales, países, categorías..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full pl-10 pr-4 py-3 rounded-lg bg-white/5 border border-white/10 text-white placeholder:text-white/40 focus:outline-none focus:border-[#FF6B4A] transition-colors"
             />
           </div>
 
-          {/* Category Pills */}
+          {/* Section Pills */}
           <div className="flex gap-2 mt-3 overflow-x-auto pb-2 scrollbar-hide">
             <button
-              onClick={() => setSelectedCategory(null)}
+              onClick={() => setSelectedSection(null)}
               className={`px-3 py-1.5 rounded-full text-sm whitespace-nowrap transition-colors ${
-                !selectedCategory
+                !selectedSection
                   ? 'bg-[#FF6B4A] text-white'
                   : 'bg-white/10 text-white/70 hover:bg-white/20'
               }`}
@@ -634,14 +784,14 @@ export default function HomePage() {
               Todos ({totalChannels})
             </button>
             <button
-              onClick={() => setSelectedCategory('Favoritos')}
+              onClick={() => setSelectedSection('Favoritos')}
               className={`px-3 py-1.5 rounded-full text-sm whitespace-nowrap transition-colors ${
-                selectedCategory === 'Favoritos'
+                selectedSection === 'Favoritos'
                   ? 'bg-[#FF6B4A] text-white'
                   : 'bg-white/10 text-white/70 hover:bg-white/20'
               }`}
             >
-              Favoritos ({favorites.length})
+              ❤️ Favoritos ({favorites.length})
             </button>
             {/* Random Channel Button */}
             <button
@@ -651,26 +801,30 @@ export default function HomePage() {
               <Shuffle className="w-3 h-3" />
               Sorpresa
             </button>
-            {categories.slice(0, 8).map((cat) => (
-              <button
-                key={cat}
-                onClick={() => setSelectedCategory(cat)}
-                className={`px-3 py-1.5 rounded-full text-sm whitespace-nowrap transition-colors ${
-                  selectedCategory === cat
-                    ? 'bg-[#FF6B4A] text-white'
-                    : 'bg-white/10 text-white/70 hover:bg-white/20'
-                }`}
-              >
-                {cat}
-              </button>
-            ))}
+            {/* Section buttons */}
+            {sections.map((section) => {
+              const config = SECTION_CONFIG[section.id] || SECTION_CONFIG['general'];
+              return (
+                <button
+                  key={section.id}
+                  onClick={() => setSelectedSection(section.id)}
+                  className={`px-3 py-1.5 rounded-full text-sm whitespace-nowrap transition-colors ${
+                    selectedSection === section.id
+                      ? 'bg-[#FF6B4A] text-white'
+                      : 'bg-white/10 text-white/70 hover:bg-white/20'
+                  }`}
+                >
+                  {config.icon} {section.name}
+                </button>
+              );
+            })}
           </div>
         </div>
 
         {/* Channel List */}
         <div className="flex-1 overflow-y-auto">
           {/* Recent Channels Section */}
-          {!selectedCategory && !searchQuery && recentChannels.length > 0 && (
+          {!selectedSection && !searchQuery && recentChannels.length > 0 && (
             <div className="py-4 px-4">
               <div className="flex items-center justify-between py-2 px-2">
                 <span className="font-semibold text-white flex items-center gap-2">
@@ -683,11 +837,11 @@ export default function HomePage() {
                 {recentChannels.slice(0, 6).map((channel) => (
                   <ChannelCard
                     key={channel.id}
-                    channel={channel}
+                    channel={channel as Channel}
                     isActive={activeChannel?.id === channel.id}
                     isFavorite={favorites.includes(channel.id)}
-                    onClick={() => handleSelectChannel(channel)}
-                    onToggleFavorite={(e) => handleToggleFavorite(channel, e)}
+                    onClick={() => handleSelectChannel(channel as Channel)}
+                    onToggleFavorite={(e) => handleToggleFavorite(channel as Channel, e)}
                     showTime
                   />
                 ))}
@@ -706,20 +860,30 @@ export default function HomePage() {
               <p className="mt-4 text-white/50">No se encontraron canales</p>
             </div>
           ) : (
-            Object.entries(displayGroupedChannels).map(([category, channels]) => (
-              <CategorySection
-                key={category}
-                category={category}
-                channels={channels}
-                activeChannel={activeChannel}
-                favorites={favorites}
-                onSelect={handleSelectChannel}
-                onToggleFavorite={handleToggleFavorite}
-              />
-            ))
+            sections
+              .filter(s => displayGroupedChannels[s.id]?.length > 0)
+              .map((section) => (
+                <SectionGrid
+                  key={section.id}
+                  section={section}
+                  channels={displayGroupedChannels[section.id] || []}
+                  activeChannel={activeChannel}
+                  favorites={favorites}
+                  onSelect={handleSelectChannel}
+                  onToggleFavorite={handleToggleFavorite}
+                />
+              ))
           )}
         </div>
       </div>
+
+      {/* Adult Warning Modal */}
+      {showAdultWarning && (
+        <AdultWarningModal
+          onAccept={handleAdultAccept}
+          onDecline={handleAdultDecline}
+        />
+      )}
 
       {/* Glitch Transition */}
       <GlitchTransition
