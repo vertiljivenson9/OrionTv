@@ -34,8 +34,8 @@ import {
 
 const WELCOME_ACCEPTED_KEY = 'oriontv_welcome_accepted';
 
-// Channel item component
-const ChannelItem = ({
+// Channel card component (GRID style)
+const ChannelCard = ({
   channel,
   isActive,
   isFavorite,
@@ -50,69 +50,69 @@ const ChannelItem = ({
   onToggleFavorite: (e: React.MouseEvent) => void;
   showTime?: boolean;
 }) => (
-  <button
+  <div
     onClick={onClick}
-    className={`w-full flex items-center gap-3 p-3 rounded-lg transition-all duration-150 ${
-      isActive
-        ? 'bg-[#FF6B4A] text-white scale-[1.02]'
-        : 'hover:bg-white/5 text-white/80 hover:text-white'
+    className={`relative rounded-xl overflow-hidden cursor-pointer transition-all duration-200 group ${
+      isActive ? 'ring-2 ring-[#FF6B4A] scale-[1.02]' : 'hover:scale-[1.02]'
     }`}
+    style={{ background: 'rgba(255,255,255,0.03)' }}
   >
-    <div
-      className={`w-12 h-12 rounded-lg flex items-center justify-center flex-shrink-0 overflow-hidden ${
-        isActive ? 'bg-white/20' : 'bg-white/10'
-      }`}
-    >
+    {/* Logo Area */}
+    <div className="aspect-video relative flex items-center justify-center overflow-hidden" style={{ background: 'rgba(255,255,255,0.05)' }}>
       {channel.logo ? (
         <img
           src={channel.logo}
           alt={channel.name}
-          className="w-10 h-10 object-contain"
+          className="w-full h-full object-contain p-4"
           loading="lazy"
           onError={(e) => {
             e.currentTarget.style.display = 'none';
           }}
         />
       ) : (
-        <Tv className={`w-6 h-6 ${isActive ? 'text-white' : 'text-white/50'}`} />
+        <Tv className="w-12 h-12 text-white/30" />
+      )}
+      
+      {/* Hover Overlay */}
+      <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-200 flex items-center justify-center gap-2">
+        <button
+          onClick={(e) => {
+            e.stopPropagation();
+            onClick();
+          }}
+          className="p-3 rounded-full bg-[#FF6B4A] text-white hover:bg-[#FF6B4A]/80 transition-colors"
+        >
+          <Play className="w-5 h-5 fill-white" />
+        </button>
+        <button
+          onClick={onToggleFavorite}
+          className="p-3 rounded-full bg-white/20 text-white hover:bg-white/30 transition-colors"
+        >
+          <Heart
+            className={`w-5 h-5 ${isFavorite ? 'fill-red-500 text-red-500' : ''}`}
+          />
+        </button>
+      </div>
+
+      {/* Live Badge */}
+      {isActive && (
+        <div className="absolute top-2 right-2 px-2 py-1 rounded text-xs font-medium text-white" style={{ background: '#FF6B4A' }}>
+          EN VIVO
+        </div>
       )}
     </div>
 
-    <div className="flex-1 min-w-0 text-left">
-      <div className="font-medium truncate">{channel.name}</div>
-      <div className={`text-xs truncate flex items-center gap-2 ${isActive ? 'text-white/70' : 'text-white/40'}`}>
-        {channel.category}
+    {/* Info */}
+    <div className="p-3">
+      <div className="font-medium text-white truncate text-sm">{channel.name}</div>
+      <div className="text-xs text-white/40 truncate flex items-center gap-1">
+        <span>{channel.category}</span>
         {showTime && 'watchedAt' in channel && (
-          <span className="text-white/30">
-            • {formatTimeAgo((channel as RecentChannel).watchedAt)}
-          </span>
+          <span className="text-white/30">• {formatTimeAgo((channel as RecentChannel).watchedAt)}</span>
         )}
       </div>
     </div>
-
-    <button
-      onClick={onToggleFavorite}
-      className={`p-2 rounded-lg transition-colors ${
-        isActive ? 'hover:bg-white/20' : 'hover:bg-white/10'
-      }`}
-    >
-      <Heart
-        className={`w-4 h-4 ${
-          isFavorite
-            ? 'fill-red-500 text-red-500'
-            : isActive
-              ? 'text-white/70'
-              : 'text-white/40'
-        }`}
-      />
-    </button>
-
-    {isActive && (
-      <div className="w-8 h-8 rounded-full bg-white/20 flex items-center justify-center">
-        <Play className="w-4 h-4 text-white fill-white" />
-      </div>
-    )}
-  </button>
+  </div>
 );
 
 // Format time ago
@@ -130,7 +130,7 @@ function formatTimeAgo(dateString: string): string {
   return `${diffDays}d`;
 }
 
-// Category section component
+// Category section component (GRID)
 const CategorySection = ({
   category,
   channels,
@@ -149,14 +149,16 @@ const CategorySection = ({
   const [isExpanded, setIsExpanded] = useState(true);
 
   return (
-    <div className="border-b border-white/10">
+    <div className="py-4 px-4">
       <button
         onClick={() => setIsExpanded(!isExpanded)}
-        className="w-full flex items-center justify-between p-3 hover:bg-white/5 transition-colors"
+        className="w-full flex items-center justify-between py-2 hover:bg-white/5 transition-colors rounded-lg px-2"
       >
-        <span className="font-semibold text-white">{category}</span>
+        <span className="font-semibold text-white flex items-center gap-2">
+          {category}
+          <span className="text-xs text-white/40 font-normal">{channels.length}</span>
+        </span>
         <div className="flex items-center gap-2">
-          <span className="text-xs text-white/50">{channels.length}</span>
           {isExpanded ? (
             <ChevronUp className="w-4 h-4 text-white/50" />
           ) : (
@@ -166,9 +168,9 @@ const CategorySection = ({
       </button>
 
       {isExpanded && (
-        <div className="px-2 pb-2 space-y-1">
-          {channels.slice(0, 30).map((channel) => (
-            <ChannelItem
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 mt-3">
+          {channels.slice(0, 24).map((channel) => (
+            <ChannelCard
               key={channel.id}
               channel={channel}
               isActive={activeChannel?.id === channel.id}
@@ -177,11 +179,6 @@ const CategorySection = ({
               onToggleFavorite={(e) => onToggleFavorite(channel, e)}
             />
           ))}
-          {channels.length > 30 && (
-            <div className="text-center py-2 text-white/40 text-xs">
-              +{channels.length - 30} más
-            </div>
-          )}
         </div>
       )}
     </div>
@@ -674,17 +671,17 @@ export default function HomePage() {
         <div className="flex-1 overflow-y-auto">
           {/* Recent Channels Section */}
           {!selectedCategory && !searchQuery && recentChannels.length > 0 && (
-            <div className="border-b border-white/10">
-              <button className="w-full flex items-center justify-between p-3 hover:bg-white/5 transition-colors">
+            <div className="py-4 px-4">
+              <div className="flex items-center justify-between py-2 px-2">
                 <span className="font-semibold text-white flex items-center gap-2">
                   <Clock className="w-4 h-4" style={{ color: '#FF6B4A' }} />
                   Vistos Recientemente
                 </span>
                 <span className="text-xs text-white/50">{recentChannels.length}</span>
-              </button>
-              <div className="px-2 pb-2 space-y-1">
-                {recentChannels.slice(0, 5).map((channel) => (
-                  <ChannelItem
+              </div>
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 mt-3">
+                {recentChannels.slice(0, 6).map((channel) => (
+                  <ChannelCard
                     key={channel.id}
                     channel={channel}
                     isActive={activeChannel?.id === channel.id}
