@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState, useCallback } from "react";
 import Hls from "hls.js";
-import { Loader2, AlertCircle, RefreshCw, Volume2, VolumeX } from "lucide-react";
+import { Loader2, AlertCircle, RefreshCw, Volume2, VolumeX, ChevronLeft, ChevronRight, Shuffle } from "lucide-react";
 
 interface HLSPlayerProps {
   url: string;
@@ -12,6 +12,12 @@ interface HLSPlayerProps {
   onPlay?: () => void;
   fallbackUrls?: string[];
   onClose: () => void;
+  // Zapping controls
+  onPrevChannel?: () => void;
+  onNextChannel?: () => void;
+  onRandomChannel?: () => void;
+  hasPrevChannel?: boolean;
+  hasNextChannel?: boolean;
 }
 
 type PlayerState = 'loading' | 'playing' | 'error';
@@ -24,6 +30,11 @@ export default function HLSPlayer({
   onPlay,
   fallbackUrls = [],
   onClose,
+  onPrevChannel,
+  onNextChannel,
+  onRandomChannel,
+  hasPrevChannel = true,
+  hasNextChannel = true,
 }: HLSPlayerProps) {
   const videoRef = useRef<HTMLVideoElement>(null);
   const hlsRef = useRef<Hls | null>(null);
@@ -35,6 +46,7 @@ export default function HLSPlayer({
   const [currentUrlIndex, setCurrentUrlIndex] = useState(0);
   const [isMuted, setIsMuted] = useState(false);
   const [showControls, setShowControls] = useState(false);
+  const [showZapping, setShowZapping] = useState(false);
 
   // All available URLs (primary + fallbacks)
   const allUrls = [url, ...fallbackUrls].filter(Boolean);
@@ -48,18 +60,8 @@ export default function HLSPlayer({
     }
   }, []);
 
-  // Set loading timeout (4 seconds max)
-  const setLoadingTimeout = useCallback(() => {
-    clearTimeout();
-    timeoutRef.current = window.setTimeout(() => {
-      console.log('[Player] Loading timeout - trying fallback');
-      handleFallbackOrError('Tiempo de espera agotado');
-    }, 4000);
-  }, [clearTimeout]);
-
   // Handle error with fallback
   const handleFallbackOrError = useCallback((error: string) => {
-    // Try next URL if available
     if (currentUrlIndex < allUrls.length - 1 && retryCountRef.current < 3) {
       console.log(`[Player] Trying fallback URL ${currentUrlIndex + 1}`);
       retryCountRef.current++;
@@ -69,25 +71,31 @@ export default function HLSPlayer({
       return;
     }
 
-    // No more fallbacks - show error
     console.error('[Player] All sources failed:', error);
     setState('error');
     setErrorMessage(error);
     onError?.(error);
   }, [currentUrlIndex, allUrls.length, onError]);
 
+  // Set loading timeout (4 seconds max)
+  const setLoadingTimeout = useCallback(() => {
+    clearTimeout();
+    timeoutRef.current = window.setTimeout(() => {
+      console.log('[Player] Loading timeout - trying fallback');
+      handleFallbackOrError('Tiempo de espera agotado');
+    }, 4000);
+  }, [clearTimeout, handleFallbackOrError]);
+
   // Initialize player
   const initPlayer = useCallback((streamUrl: string) => {
     const video = videoRef.current;
     if (!video) return;
 
-    // Cleanup existing instance
     if (hlsRef.current) {
       hlsRef.current.destroy();
       hlsRef.current = null;
     }
 
-    // Clear previous source
     video.removeAttribute('src');
     video.load();
 
@@ -97,9 +105,7 @@ export default function HLSPlayer({
 
     console.log('[Player] Initializing with URL:', streamUrl.substring(0, 80));
 
-    // Check if HLS is supported
     if (!Hls.isSupported()) {
-      // Try native HLS (Safari)
       video.src = streamUrl;
       video.play().catch((err) => {
         console.error('[Player] Native play error:', err);
@@ -108,7 +114,6 @@ export default function HLSPlayer({
       return;
     }
 
-    // Create HLS instance with strict config
     const hls = new Hls({
       manifestLoadingTimeOut: 4000,
       manifestLoadingMaxRetry: 1,
@@ -121,14 +126,13 @@ export default function HLSPlayer({
       maxBufferSize: 30 * 1000 * 1000,
       maxBufferHole: 0.5,
       lowLatencyMode: false,
-      startLevel: -1, // Auto
+      startLevel: -1,
       capLevelToPlayerSize: true,
       enableWorker: true,
     });
 
     hlsRef.current = hls;
 
-    // Event handlers
     hls.on(Hls.Events.MANIFEST_PARSED, () => {
       console.log('[Player] Manifest parsed');
       clearTimeout();
@@ -151,7 +155,6 @@ export default function HLSPlayer({
             handleFallbackOrError('Error de conexión');
             break;
           case Hls.ErrorTypes.MEDIA_ERROR:
-            // Try to recover media error
             hls.recoverMediaError();
             break;
           default:
@@ -161,7 +164,6 @@ export default function HLSPlayer({
       }
     });
 
-    // Load source
     hls.loadSource(streamUrl);
     hls.attachMedia(video);
   }, [setLoadingTimeout, clearTimeout, handleFallbackOrError, onPlay]);
@@ -203,6 +205,7 @@ export default function HLSPlayer({
   useEffect(() => {
     if (currentUrl) {
       retryCountRef.current = 0;
+      setCurrentUrlIndex(0);
       initPlayer(currentUrl);
     }
 
@@ -234,11 +237,45 @@ export default function HLSPlayer({
     }
   };
 
+  // Keyboard shortcuts
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'ArrowLeft' && onPrevChannel) {
+        onPrevChannel();
+      } else if (e.key === 'ArrowRight' && onNextChannel) {
+        onNextChannel();
+      } else if (e.key === 'ArrowUp') {
+        if (videoRef.current) {
+          videoRef.current.volume = Math.min(1, videoRef.current.volume + 0.1);
+        }
+      } else if (e.key === 'ArrowDown') {
+        if (videoRef.current) {
+          videoRef.current.volume = Math.max(0, videoRef.current.volume - 0.1);
+        }
+      } else if (e.key === 'm' || e.key === 'M') {
+        toggleMute();
+      } else if (e.key === 'Escape') {
+        onClose();
+      } else if (e.key === 's' || e.key === 'S') {
+        onRandomChannel?.();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [onPrevChannel, onNextChannel, onClose, onRandomChannel]);
+
   return (
     <div
       className="relative w-full h-full bg-black"
-      onMouseEnter={() => setShowControls(true)}
-      onMouseLeave={() => setShowControls(false)}
+      onMouseEnter={() => {
+        setShowControls(true);
+        setShowZapping(true);
+      }}
+      onMouseLeave={() => {
+        setShowControls(false);
+        setShowZapping(false);
+      }}
     >
       {/* Video Element */}
       <video
@@ -248,6 +285,43 @@ export default function HLSPlayer({
         muted={isMuted}
         autoPlay
       />
+
+      {/* Zapping Controls - Side arrows */}
+      {state === 'playing' && (
+        <>
+          {/* Left - Previous Channel */}
+          <div
+            className={`absolute left-0 top-0 bottom-0 w-16 flex items-center justify-center transition-opacity duration-300 z-10 ${
+              showZapping ? 'opacity-100' : 'opacity-0'
+            }`}
+          >
+            <button
+              onClick={onPrevChannel}
+              disabled={!hasPrevChannel}
+              className="w-12 h-24 rounded-r-xl bg-black/40 hover:bg-black/60 text-white flex items-center justify-center transition-all disabled:opacity-30 disabled:cursor-not-allowed"
+              title="Canal anterior (←)"
+            >
+              <ChevronLeft className="w-8 h-8" />
+            </button>
+          </div>
+
+          {/* Right - Next Channel */}
+          <div
+            className={`absolute right-0 top-0 bottom-0 w-16 flex items-center justify-center transition-opacity duration-300 z-10 ${
+              showZapping ? 'opacity-100' : 'opacity-0'
+            }`}
+          >
+            <button
+              onClick={onNextChannel}
+              disabled={!hasNextChannel}
+              className="w-12 h-24 rounded-l-xl bg-black/40 hover:bg-black/60 text-white flex items-center justify-center transition-all disabled:opacity-30 disabled:cursor-not-allowed"
+              title="Canal siguiente (→)"
+            >
+              <ChevronRight className="w-8 h-8" />
+            </button>
+          </div>
+        </>
+      )}
 
       {/* Loading Overlay */}
       {state === 'loading' && (
@@ -266,7 +340,25 @@ export default function HLSPlayer({
           <p className="text-white/50 text-sm text-center mb-4 max-w-md">
             {errorMessage || 'No se pudo conectar con el stream. Intenta con otro canal.'}
           </p>
-          <div className="flex gap-3">
+          <div className="flex flex-wrap gap-3 justify-center">
+            {onPrevChannel && (
+              <button
+                onClick={onPrevChannel}
+                className="flex items-center gap-2 px-4 py-2 rounded-lg font-medium bg-white/10 text-white hover:bg-white/20 transition-colors"
+              >
+                <ChevronLeft className="w-4 h-4" />
+                Anterior
+              </button>
+            )}
+            {onNextChannel && (
+              <button
+                onClick={onNextChannel}
+                className="flex items-center gap-2 px-4 py-2 rounded-lg font-medium bg-white/10 text-white hover:bg-white/20 transition-colors"
+              >
+                Siguiente
+                <ChevronRight className="w-4 h-4" />
+              </button>
+            )}
             <button
               onClick={handleRetry}
               className="flex items-center gap-2 px-4 py-2 rounded-lg font-medium transition-colors"
@@ -326,9 +418,19 @@ export default function HLSPlayer({
               <button
                 onClick={toggleMute}
                 className="p-2 rounded-lg bg-white/10 text-white hover:bg-white/20 transition-colors"
+                title="Silenciar (M)"
               >
                 {isMuted ? <VolumeX className="w-5 h-5" /> : <Volume2 className="w-5 h-5" />}
               </button>
+              {onRandomChannel && (
+                <button
+                  onClick={onRandomChannel}
+                  className="p-2 rounded-lg bg-white/10 text-white hover:bg-white/20 transition-colors"
+                  title="Canal sorpresa (S)"
+                >
+                  <Shuffle className="w-5 h-5" />
+                </button>
+              )}
             </div>
             <button
               onClick={onClose}

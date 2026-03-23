@@ -4,14 +4,14 @@ import { useState } from "react";
 import { signOut } from "firebase/auth";
 import { auth } from "@/lib/firebase";
 import { useRouter } from "next/navigation";
-import { 
-  LogOut, 
-  User, 
-  Heart, 
-  Menu, 
-  X, 
+import {
+  LogOut,
+  User,
+  Heart,
+  Menu,
+  X,
   Tv,
-  Star
+  Shuffle
 } from "lucide-react";
 import { Button } from "./ui/button";
 import {
@@ -30,9 +30,10 @@ interface HeaderProps {
   showFavorites: boolean;
   setShowFavorites: (show: boolean) => void;
   favoriteCount: number;
+  onRandomChannel?: () => void;
 }
 
-export default function Header({ user, showFavorites, setShowFavorites, favoriteCount }: HeaderProps) {
+export default function Header({ user, showFavorites, setShowFavorites, favoriteCount, onRandomChannel }: HeaderProps) {
   const router = useRouter();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
@@ -60,7 +61,7 @@ export default function Header({ user, showFavorites, setShowFavorites, favorite
             <Tv className="w-6 h-6 text-white" />
           </div>
           <span className="text-xl font-bold text-white">
-            Orion<span style={{ color: '#FF6B4A' }}>Stream</span>
+            Orion<span style={{ color: '#FF6B4A' }}>TV</span>
           </span>
         </div>
 
@@ -89,6 +90,17 @@ export default function Header({ user, showFavorites, setShowFavorites, favorite
               </span>
             )}
           </Button>
+          {onRandomChannel && (
+            <Button
+              variant="ghost"
+              className="text-white/70"
+              onClick={onRandomChannel}
+              title="Canal sorpresa"
+            >
+              <Shuffle className="w-4 h-4 mr-2" />
+              Sorpresa
+            </Button>
+          )}
         </div>
 
         {/* User Menu */}
@@ -97,7 +109,7 @@ export default function Header({ user, showFavorites, setShowFavorites, favorite
             <User className="w-4 h-4" />
             <span>{user.displayName || user.email?.split('@')[0]}</span>
           </div>
-          
+
           <DropdownMenu>
             <DropdownMenuTrigger asChild>
               <Button variant="ghost" className="relative h-10 w-10 rounded-full">
@@ -117,27 +129,36 @@ export default function Header({ user, showFavorites, setShowFavorites, favorite
                 </div>
               </DropdownMenuLabel>
               <DropdownMenuSeparator style={{ background: 'rgba(255,255,255,0.1)' }} />
-              
+
               {/* Mobile-only navigation items */}
               <div className="md:hidden">
-                <DropdownMenuItem 
+                <DropdownMenuItem
                   className="text-white cursor-pointer"
                   onClick={() => setShowFavorites(false)}
                 >
                   <Tv className="w-4 h-4 mr-2" />
                   Todos los Canales
                 </DropdownMenuItem>
-                <DropdownMenuItem 
+                <DropdownMenuItem
                   className="text-white cursor-pointer"
                   onClick={() => setShowFavorites(true)}
                 >
                   <Heart className="w-4 h-4 mr-2" />
                   Favoritos ({favoriteCount})
                 </DropdownMenuItem>
+                {onRandomChannel && (
+                  <DropdownMenuItem
+                    className="text-white cursor-pointer"
+                    onClick={onRandomChannel}
+                  >
+                    <Shuffle className="w-4 h-4 mr-2" />
+                    Canal Sorpresa
+                  </DropdownMenuItem>
+                )}
                 <DropdownMenuSeparator style={{ background: 'rgba(255,255,255,0.1)' }} />
               </div>
-              
-              <DropdownMenuItem 
+
+              <DropdownMenuItem
                 className="cursor-pointer"
                 style={{ color: '#EF4444' }}
                 onClick={handleSignOut}
@@ -187,6 +208,19 @@ export default function Header({ user, showFavorites, setShowFavorites, favorite
               <Heart className="w-4 h-4 mr-2" />
               Favoritos ({favoriteCount})
             </Button>
+            {onRandomChannel && (
+              <Button
+                variant="ghost"
+                className="text-white/70 justify-start"
+                onClick={() => {
+                  onRandomChannel();
+                  setMobileMenuOpen(false);
+                }}
+              >
+                <Shuffle className="w-4 h-4 mr-2" />
+                Canal Sorpresa
+              </Button>
+            )}
             <Button
               variant="ghost"
               className="text-red-400 justify-start"

@@ -7,24 +7,35 @@ import { useRouter } from "next/navigation";
 import Header from "@/components/Header";
 import HLSPlayer from "@/components/HLSPlayer";
 import WelcomeScreen from "@/components/WelcomeScreen";
-import { Loader2, Tv, Search, Heart, X, ChevronUp, ChevronDown, Play, WifiOff } from "lucide-react";
+import {
+  Loader2, Tv, Search, Heart, X, ChevronUp, ChevronDown, Play,
+  Shuffle, Clock, Sparkles
+} from "lucide-react";
 import type { Channel } from "@/lib/channel-service";
+import {
+  getRecentChannels,
+  addRecentChannel,
+  getRandomChannel,
+  type RecentChannel
+} from "@/lib/recent-channels";
 
 const WELCOME_ACCEPTED_KEY = 'oriontv_welcome_accepted';
 
-// Channel item component - Optimized for fast rendering
+// Channel item component
 const ChannelItem = ({
   channel,
   isActive,
   isFavorite,
   onClick,
   onToggleFavorite,
+  showTime = false,
 }: {
   channel: Channel;
   isActive: boolean;
   isFavorite: boolean;
   onClick: () => void;
   onToggleFavorite: (e: React.MouseEvent) => void;
+  showTime?: boolean;
 }) => (
   <button
     onClick={onClick}
@@ -34,7 +45,6 @@ const ChannelItem = ({
         : 'hover:bg-white/5 text-white/80 hover:text-white'
     }`}
   >
-    {/* Logo */}
     <div
       className={`w-12 h-12 rounded-lg flex items-center justify-center flex-shrink-0 overflow-hidden ${
         isActive ? 'bg-white/20' : 'bg-white/10'
@@ -55,15 +65,18 @@ const ChannelItem = ({
       )}
     </div>
 
-    {/* Info */}
     <div className="flex-1 min-w-0 text-left">
       <div className="font-medium truncate">{channel.name}</div>
-      <div className={`text-xs truncate ${isActive ? 'text-white/70' : 'text-white/40'}`}>
+      <div className={`text-xs truncate flex items-center gap-2 ${isActive ? 'text-white/70' : 'text-white/40'}`}>
         {channel.category}
+        {showTime && 'watchedAt' in channel && (
+          <span className="text-white/30">
+            • {formatTimeAgo((channel as RecentChannel).watchedAt)}
+          </span>
+        )}
       </div>
     </div>
 
-    {/* Favorite button */}
     <button
       onClick={onToggleFavorite}
       className={`p-2 rounded-lg transition-colors ${
@@ -81,7 +94,6 @@ const ChannelItem = ({
       />
     </button>
 
-    {/* Play indicator */}
     {isActive && (
       <div className="w-8 h-8 rounded-full bg-white/20 flex items-center justify-center">
         <Play className="w-4 h-4 text-white fill-white" />
@@ -89,6 +101,21 @@ const ChannelItem = ({
     )}
   </button>
 );
+
+// Format time ago
+function formatTimeAgo(dateString: string): string {
+  const date = new Date(dateString);
+  const now = new Date();
+  const diffMs = now.getTime() - date.getTime();
+  const diffMins = Math.floor(diffMs / 60000);
+  const diffHours = Math.floor(diffMs / 3600000);
+  const diffDays = Math.floor(diffMs / 86400000);
+
+  if (diffMins < 1) return 'Ahora';
+  if (diffMins < 60) return `${diffMins}m`;
+  if (diffHours < 24) return `${diffHours}h`;
+  return `${diffDays}d`;
+}
 
 // Category section component
 const CategorySection = ({
@@ -148,11 +175,10 @@ const CategorySection = ({
   );
 };
 
-// Offline overlay component
+// Offline overlay
 function OfflineOverlay() {
   return (
     <div className="fixed inset-0 z-[100] flex flex-col items-center justify-center p-6" style={{ background: '#0A0A0F' }}>
-      {/* Stars background */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         {[...Array(30)].map((_, i) => (
           <div
@@ -171,21 +197,15 @@ function OfflineOverlay() {
       </div>
 
       <div className="relative z-10 text-center max-w-md">
-        {/* Icon */}
         <div className="mb-6">
           <div className="w-20 h-20 mx-auto rounded-full flex items-center justify-center" style={{ background: 'rgba(255, 107, 74, 0.1)' }}>
-            <WifiOff className="w-10 h-10" style={{ color: '#FF6B4A' }} />
+            <Tv className="w-10 h-10" style={{ color: '#FF6B4A' }} />
           </div>
         </div>
-
-        <h2 className="text-xl font-bold text-white mb-3">
-          Sin conexión a Internet
-        </h2>
-
+        <h2 className="text-xl font-bold text-white mb-3">Sin conexión a Internet</h2>
         <p className="text-white/60 mb-6">
           Lo sentimos, conéctate a una conexión a Internet para disfrutar de OrionTV.
         </p>
-
         <button
           onClick={() => window.location.reload()}
           className="px-6 py-3 rounded-xl font-medium text-white transition-all"
@@ -207,6 +227,7 @@ export default function HomePage() {
 
   // Channels state
   const [groupedChannels, setGroupedChannels] = useState<Record<string, Channel[]>>({});
+  const [allChannels, setAllChannels] = useState<Channel[]>([]);
   const [categories, setCategories] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
@@ -214,20 +235,20 @@ export default function HomePage() {
 
   // Player state
   const [activeChannel, setActiveChannel] = useState<Channel | null>(null);
+  const [activeChannelIndex, setActiveChannelIndex] = useState<number>(-1);
   const [showPlayer, setShowPlayer] = useState(false);
   const [isPlayerMinimized, setIsPlayerMinimized] = useState(false);
 
-  // Favorites state
+  // Favorites & Recent
   const [favorites, setFavorites] = useState<string[]>([]);
+  const [recentChannels, setRecentChannels] = useState<RecentChannel[]>([]);
 
   // Check online status
   useEffect(() => {
     const handleOnline = () => setIsOnline(true);
     const handleOffline = () => setIsOnline(false);
 
-    // Set initial status
     setIsOnline(navigator.onLine);
-
     window.addEventListener('online', handleOnline);
     window.addEventListener('offline', handleOffline);
 
@@ -243,6 +264,8 @@ export default function HomePage() {
     if (accepted === 'true') {
       setShowWelcome(false);
     }
+    // Load recent channels
+    setRecentChannels(getRecentChannels());
   }, []);
 
   // Auth check
@@ -275,6 +298,13 @@ export default function HomePage() {
         if (data.grouped) {
           setGroupedChannels(data.grouped);
           setCategories(data.categories || []);
+
+          // Flatten all channels for random/zapping
+          const flatChannels: Channel[] = [];
+          for (const chs of Object.values(data.grouped)) {
+            flatChannels.push(...(chs as Channel[]));
+          }
+          setAllChannels(flatChannels);
         }
       } catch (error) {
         console.error('Error fetching channels:', error);
@@ -316,10 +346,84 @@ export default function HomePage() {
       return;
     }
 
+    // Find index in current display list
+    const currentList = selectedCategory === 'Favoritos'
+      ? allChannels.filter(ch => favorites.includes(ch.id))
+      : selectedCategory
+        ? groupedChannels[selectedCategory] || []
+        : allChannels;
+
+    const index = currentList.findIndex(ch => ch.id === channel.id);
+    setActiveChannelIndex(index);
+
     setActiveChannel(channel);
     setShowPlayer(true);
     setIsPlayerMinimized(false);
-  }, [activeChannel]);
+
+    // Add to recent
+    const updated = addRecentChannel(channel);
+    setRecentChannels(updated);
+  }, [activeChannel, selectedCategory, allChannels, groupedChannels, favorites]);
+
+  // Previous channel
+  const handlePrevChannel = useCallback(() => {
+    const currentList = selectedCategory === 'Favoritos'
+      ? allChannels.filter(ch => favorites.includes(ch.id))
+      : selectedCategory
+        ? groupedChannels[selectedCategory] || []
+        : allChannels;
+
+    if (currentList.length === 0) return;
+
+    const newIndex = activeChannelIndex > 0
+      ? activeChannelIndex - 1
+      : currentList.length - 1;
+
+    const newChannel = currentList[newIndex];
+    if (newChannel) {
+      setActiveChannelIndex(newIndex);
+      setActiveChannel(newChannel);
+      const updated = addRecentChannel(newChannel);
+      setRecentChannels(updated);
+    }
+  }, [activeChannelIndex, selectedCategory, allChannels, groupedChannels, favorites]);
+
+  // Next channel
+  const handleNextChannel = useCallback(() => {
+    const currentList = selectedCategory === 'Favoritos'
+      ? allChannels.filter(ch => favorites.includes(ch.id))
+      : selectedCategory
+        ? groupedChannels[selectedCategory] || []
+        : allChannels;
+
+    if (currentList.length === 0) return;
+
+    const newIndex = activeChannelIndex < currentList.length - 1
+      ? activeChannelIndex + 1
+      : 0;
+
+    const newChannel = currentList[newIndex];
+    if (newChannel) {
+      setActiveChannelIndex(newIndex);
+      setActiveChannel(newChannel);
+      const updated = addRecentChannel(newChannel);
+      setRecentChannels(updated);
+    }
+  }, [activeChannelIndex, selectedCategory, allChannels, groupedChannels, favorites]);
+
+  // Random channel
+  const handleRandomChannel = useCallback(() => {
+    const randomChannel = getRandomChannel(allChannels);
+    if (randomChannel) {
+      setActiveChannel(randomChannel);
+      const index = allChannels.findIndex(ch => ch.id === randomChannel.id);
+      setActiveChannelIndex(index);
+      setShowPlayer(true);
+      setIsPlayerMinimized(false);
+      const updated = addRecentChannel(randomChannel);
+      setRecentChannels(updated);
+    }
+  }, [allChannels]);
 
   // Toggle favorite
   const handleToggleFavorite = useCallback(async (channel: Channel, e: React.MouseEvent) => {
@@ -353,7 +457,7 @@ export default function HomePage() {
     }
   }, [user, favorites]);
 
-  // Close player completely
+  // Close player
   const handleClosePlayer = useCallback(() => {
     setShowPlayer(false);
     setActiveChannel(null);
@@ -446,9 +550,10 @@ export default function HomePage() {
         showFavorites={selectedCategory === 'Favoritos'}
         setShowFavorites={(show) => setSelectedCategory(show ? 'Favoritos' : null)}
         favoriteCount={favorites.length}
+        onRandomChannel={handleRandomChannel}
       />
 
-      {/* Main Content - Full screen channel list */}
+      {/* Main Content */}
       <div className="flex-1 flex flex-col">
         {/* Search and Filters */}
         <div className="p-4 border-b border-white/10 sticky top-0 z-10" style={{ background: '#0A0A0F' }}>
@@ -485,7 +590,15 @@ export default function HomePage() {
             >
               Favoritos ({favorites.length})
             </button>
-            {categories.slice(0, 10).map((cat) => (
+            {/* Random Channel Button */}
+            <button
+              onClick={handleRandomChannel}
+              className="px-3 py-1.5 rounded-full text-sm whitespace-nowrap transition-colors bg-white/10 text-white/70 hover:bg-white/20 flex items-center gap-1"
+            >
+              <Shuffle className="w-3 h-3" />
+              Sorpresa
+            </button>
+            {categories.slice(0, 8).map((cat) => (
               <button
                 key={cat}
                 onClick={() => setSelectedCategory(cat)}
@@ -501,8 +614,34 @@ export default function HomePage() {
           </div>
         </div>
 
-        {/* Channel List - Full height, scrollable */}
+        {/* Channel List */}
         <div className="flex-1 overflow-y-auto">
+          {/* Recent Channels Section */}
+          {!selectedCategory && !searchQuery && recentChannels.length > 0 && (
+            <div className="border-b border-white/10">
+              <button className="w-full flex items-center justify-between p-3 hover:bg-white/5 transition-colors">
+                <span className="font-semibold text-white flex items-center gap-2">
+                  <Clock className="w-4 h-4" style={{ color: '#FF6B4A' }} />
+                  Vistos Recientemente
+                </span>
+                <span className="text-xs text-white/50">{recentChannels.length}</span>
+              </button>
+              <div className="px-2 pb-2 space-y-1">
+                {recentChannels.slice(0, 5).map((channel) => (
+                  <ChannelItem
+                    key={channel.id}
+                    channel={channel}
+                    isActive={activeChannel?.id === channel.id}
+                    isFavorite={favorites.includes(channel.id)}
+                    onClick={() => handleSelectChannel(channel)}
+                    onToggleFavorite={(e) => handleToggleFavorite(channel, e)}
+                    showTime
+                  />
+                ))}
+              </div>
+            </div>
+          )}
+
           {loading ? (
             <div className="flex flex-col items-center justify-center py-20">
               <Loader2 className="w-10 h-10 animate-spin" style={{ color: '#FF6B4A' }} />
@@ -529,7 +668,7 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* FIXED PLAYER OVERLAY - No scroll needed */}
+      {/* PLAYER OVERLAY */}
       {showPlayer && activeChannel && !isPlayerMinimized && (
         <div className="fixed inset-0 z-50 bg-black">
           <HLSPlayer
@@ -537,6 +676,9 @@ export default function HomePage() {
             channelName={activeChannel.name}
             channelLogo={activeChannel.logo}
             onClose={handleClosePlayer}
+            onPrevChannel={handlePrevChannel}
+            onNextChannel={handleNextChannel}
+            onRandomChannel={handleRandomChannel}
             onError={(error) => {
               console.error('Player error:', error);
             }}
@@ -544,7 +686,6 @@ export default function HomePage() {
               console.log('Playing:', activeChannel.name);
             }}
           />
-
           <button
             onClick={handleMinimizePlayer}
             className="absolute top-4 right-20 p-2 rounded-lg bg-black/50 text-white hover:bg-black/70 transition-colors z-10"
@@ -554,7 +695,7 @@ export default function HomePage() {
         </div>
       )}
 
-      {/* MINIMIZED PLAYER - Bottom bar */}
+      {/* MINIMIZED PLAYER */}
       {showPlayer && activeChannel && isPlayerMinimized && (
         <div
           className="fixed bottom-0 left-0 right-0 z-50 bg-black border-t border-white/10 p-3"
@@ -572,7 +713,6 @@ export default function HomePage() {
                 <Tv className="w-6 h-6 text-white/50" />
               )}
             </div>
-
             <div className="flex-1 min-w-0">
               <div className="font-medium text-white truncate">{activeChannel.name}</div>
               <div className="flex items-center gap-2">
@@ -583,7 +723,6 @@ export default function HomePage() {
                 <span className="text-xs text-white/50">Toca para expandir</span>
               </div>
             </div>
-
             <button
               onClick={(e) => {
                 e.stopPropagation();
