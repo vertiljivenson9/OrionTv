@@ -14,33 +14,14 @@ const http = require('http');
 const CHANNELS_JSON_URL = 'https://iptv-org.github.io/api/channels.json';
 const STREAMS_JSON_URL = 'https://iptv-org.github.io/api/streams.json';
 const COUNTRIES_JSON_URL = 'https://iptv-org.github.io/api/countries.json';
-const LANGUAGES_JSON_URL = 'https://iptv-org.github.io/api/languages.json';
 const CATEGORIES_JSON_URL = 'https://iptv-org.github.io/api/categories.json';
+const ADULT_M3U_URL = 'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/xxx.m3u8';
 const OUTPUT_FILE = path.join(__dirname, '../public/data/channels.json');
 
 // Spanish-speaking countries (ISO 3166-1 alpha-2 codes)
 const SPANISH_SPEAKING_COUNTRIES = [
-  'ES', // Spain
-  'MX', // Mexico
-  'AR', // Argentina
-  'CO', // Colombia
-  'PE', // Peru
-  'VE', // Venezuela
-  'CL', // Chile
-  'EC', // Ecuador
-  'GT', // Guatemala
-  'CU', // Cuba
-  'BO', // Bolivia
-  'DO', // Dominican Republic
-  'HN', // Honduras
-  'PY', // Paraguay
-  'SV', // El Salvador
-  'NI', // Nicaragua
-  'CR', // Costa Rica
-  'PA', // Panama
-  'PR', // Puerto Rico
-  'UY', // Uruguay
-  'GQ'  // Equatorial Guinea
+  'ES', 'MX', 'AR', 'CO', 'PE', 'VE', 'CL', 'EC', 'GT', 'CU',
+  'BO', 'DO', 'HN', 'PY', 'SV', 'NI', 'CR', 'PA', 'PR', 'UY', 'GQ'
 ];
 
 // Section priority mapping
@@ -84,7 +65,8 @@ const CATEGORY_TRANSLATIONS = {
   'local': 'Local',
   'outdoor': 'Aire Libre',
   'science': 'Ciencia',
-  'travel': 'Viajes'
+  'travel': 'Viajes',
+  'xxx': 'Adultos'
 };
 
 // Section display names (Spanish)
@@ -120,6 +102,57 @@ function fetchJSON(url) {
   });
 }
 
+// Fetch text content from URL
+function fetchText(url) {
+  return new Promise((resolve, reject) => {
+    const client = url.startsWith('https') ? https : http;
+    
+    client.get(url, (res) => {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        return fetchText(res.headers.location).then(resolve).catch(reject);
+      }
+      
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => resolve(data));
+    }).on('error', reject);
+  });
+}
+
+// Parse M3U playlist for adult channels
+function parseAdultM3U(content) {
+  const lines = content.split('\n');
+  const channels = [];
+  let currentChannel = null;
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim();
+    
+    if (line.startsWith('#EXTINF:')) {
+      // Parse channel info
+      const tvgIdMatch = line.match(/tvg-id="([^"]*)"/i);
+      const tvgLogoMatch = line.match(/tvg-logo="([^"]*)"/i);
+      const groupMatch = line.match(/group-title="([^"]*)"/i);
+      const nameMatch = line.match(/,(.+)$/);
+      
+      currentChannel = {
+        id: tvgIdMatch ? tvgIdMatch[1] : `adult_${channels.length}`,
+        name: nameMatch ? nameMatch[1].trim() : 'Adult Channel',
+        logo: tvgLogoMatch ? tvgLogoMatch[1] : null,
+        group: groupMatch ? groupMatch[1] : 'XXX',
+        url: null
+      };
+    } else if (line && !line.startsWith('#') && currentChannel) {
+      // This is the URL line
+      currentChannel.url = line;
+      channels.push(currentChannel);
+      currentChannel = null;
+    }
+  }
+  
+  return channels;
+}
+
 // Determine section for a channel
 function determineSection(categories, isSpanish) {
   const cats = categories.map(c => c.toLowerCase());
@@ -142,26 +175,28 @@ async function updateChannels() {
     // Fetch all data sources
     console.log('\n📥 Fetching data sources...');
     
-    const [channelsData, streamsData, countriesData, languagesData, categoriesData] = await Promise.all([
+    const [channelsData, streamsData, countriesData, categoriesData, adultM3U] = await Promise.all([
       fetchJSON(CHANNELS_JSON_URL).catch(e => { console.error('Error fetching channels:', e.message); return []; }),
       fetchJSON(STREAMS_JSON_URL).catch(e => { console.error('Error fetching streams:', e.message); return []; }),
       fetchJSON(COUNTRIES_JSON_URL).catch(e => { console.error('Error fetching countries:', e.message); return []; }),
-      fetchJSON(LANGUAGES_JSON_URL).catch(e => { console.error('Error fetching languages:', e.message); return []; }),
-      fetchJSON(CATEGORIES_JSON_URL).catch(e => { console.error('Error fetching categories:', e.message); return []; })
+      fetchJSON(CATEGORIES_JSON_URL).catch(e => { console.error('Error fetching categories:', e.message); return []; }),
+      fetchText(ADULT_M3U_URL).catch(e => { console.error('Error fetching adult M3U:', e.message); return ''; })
     ]);
     
     console.log(`✅ Fetched ${channelsData.length} channels`);
     console.log(`✅ Fetched ${streamsData.length} streams`);
     console.log(`✅ Fetched ${countriesData.length} countries`);
-    console.log(`✅ Fetched ${languagesData.length} languages`);
     console.log(`✅ Fetched ${categoriesData.length} categories`);
+    
+    // Parse adult M3U
+    const adultChannels = parseAdultM3U(adultM3U);
+    console.log(`✅ Parsed ${adultChannels.length} adult channels from M3U`);
     
     // Create lookup maps
     const countryMap = new Map(countriesData.map(c => [c.code, c]));
-    const languageMap = new Map(languagesData.map(l => [l.code, l]));
     const categoryMap = new Map(categoriesData.map(c => [c.id, c]));
     
-    // Create stream lookup by channel ID
+    // Create stream lookup by channel ID (from API)
     const streamMap = new Map();
     for (const stream of streamsData) {
       if (stream.channel) {
@@ -187,12 +222,18 @@ async function updateChannels() {
       byCountry: {}
     };
     
+    // Process regular channels from iptv-org
     for (const channel of channelsData) {
       stats.total++;
       
+      // Skip adult channels from iptv-org (we use our own source)
+      const categoryIds = channel.categories || [];
+      const isNsfw = channel.is_nsfw === true || categoryIds.includes('xxx');
+      if (isNsfw) continue;
+      
       // Get streams for this channel
       const streams = streamMap.get(channel.id) || [];
-      if (streams.length === 0) continue; // Skip channels without streams
+      if (streams.length === 0) continue;
       
       stats.withStreams++;
       
@@ -212,17 +253,9 @@ async function updateChannels() {
       if (isSpanish) stats.spanish++;
       
       // Process categories
-      const categoryIds = channel.categories || [];
       const categoryNames = categoryIds
         .map(id => CATEGORY_TRANSLATIONS[id.toLowerCase()] || categoryMap.get(id)?.name || id)
         .filter(Boolean);
-      
-      // Check if adult content using is_nsfw field or category
-      const categoryIdsLower = categoryIds.map(c => c.toLowerCase());
-      const isAdult = channel.is_nsfw === true || 
-                      categoryIdsLower.includes('adult') || 
-                      categoryIdsLower.includes('xxx');
-      if (isAdult) stats.adult++;
       
       // Determine section
       const section = determineSection(categoryIds, isSpanish);
@@ -238,13 +271,41 @@ async function updateChannels() {
         countryCode: countryCode,
         language_primary: isSpanish ? 'Español' : null,
         is_spanish: isSpanish,
-        is_adult: isAdult,
+        is_adult: false,
         section: section,
-        categories: categoryNames,
+        categories: categoryNames.length > 0 ? categoryNames : ['General'],
         altNames: channel.alt_names || [],
         network: channel.network || null,
-        owners: channel.owners || [],
-        isGeoBlocked: channel.is_nsfw || false
+        owners: channel.owners || []
+      };
+      
+      processedChannels.push(processedChannel);
+    }
+    
+    // Process adult channels from M3U
+    for (const adultChannel of adultChannels) {
+      if (!adultChannel.url) continue;
+      
+      stats.total++;
+      stats.withStreams++;
+      stats.adult++;
+      
+      // Build adult channel object
+      const processedChannel = {
+        id: adultChannel.id || `adult_${stats.adult}`,
+        name: adultChannel.name,
+        logo: adultChannel.logo || 'https://i.imgur.com/cqKFF8A.png',
+        url: adultChannel.url,
+        country: 'United States',
+        countryCode: 'US',
+        language_primary: null,
+        is_spanish: false,
+        is_adult: true,
+        section: 'general',
+        categories: ['Adultos'],
+        altNames: [],
+        network: 'AdultIPTV.net',
+        owners: []
       };
       
       processedChannels.push(processedChannel);
@@ -325,4 +386,4 @@ if (require.main === module) {
   updateChannels();
 }
 
-module.exports = { updateChannels, fetchJSON };
+module.exports = { updateChannels, fetchJSON, fetchText, parseAdultM3U };
