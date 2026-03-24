@@ -1,0 +1,1410 @@
+{
+  "total": 156,
+  "updated": "2026-03-24T01:48:48.588Z",
+  "channels": [
+    {
+      "id": "premium-1",
+      "name": "T10 A sports Live",
+      "url": "https://webott.viatv.com.np/v0t1/ASportsHD.stream/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=T10%20A%20sports%20Live",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-2",
+      "name": "RTA Sports HD Ban Vs AFG",
+      "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=RTA%20Sports%20HD%20Ban%20Vs%20AFG",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-3",
+      "name": "TnT Sports 2",
+      "url": "https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TnT%20Sports%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "id": "premium-4",
+      "name": "Star Sports 1 HD",
+      "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Star%20Sports%201%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-5",
+      "name": "PTV Sports",
+      "url": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=PTV%20Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-6",
+      "name": "A Sports",
+      "url": "http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=A%20Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-7",
+      "name": "Ten Sports PK",
+      "url": "http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Ten%20Sports%20PK",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-8",
+      "name": "Bein Sports 1",
+      "url": "http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Bein%20Sports%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "premium-9",
+      "name": "Bein Sports 2",
+      "url": "http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Bein%20Sports%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "premium-10",
+      "name": "TnT Sports 3",
+      "url": "https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TnT%20Sports%203",
+      "group": "Sports",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "id": "premium-11",
+      "name": "Fast-Studios-Womens-Sports",
+      "url": "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Fast-Studios-Womens-Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-12",
+      "name": "Live Sports Football Laliga",
+      "url": "https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Live%20Sports%20Football%20Laliga",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-13",
+      "name": "TYC Sports Play",
+      "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TYC%20Sports%20Play",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-14",
+      "name": "BeiN Sports Extra",
+      "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=BeiN%20Sports%20Extra",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "premium-15",
+      "name": "Ufc~",
+      "url": "http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/134",
+      "logo": "https://via.placeholder.com/100x60?text=Ufc~",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-16",
+      "name": "Band~ sports 4kk",
+      "url": "http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23",
+      "logo": "https://via.placeholder.com/100x60?text=Band~%20sports%204kk",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-17",
+      "name": "Espn~ hd",
+      "url": "http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1",
+      "logo": "https://via.placeholder.com/100x60?text=Espn~%20hd",
+      "group": "Sports",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "id": "premium-18",
+      "name": "ESPN~ 4",
+      "url": "http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143",
+      "logo": "https://via.placeholder.com/100x60?text=ESPN~%204",
+      "group": "Sports",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "id": "premium-19",
+      "name": "Ten Sports 2 HD",
+      "url": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Ten%20Sports%202%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-20",
+      "name": "S LALIGA",
+      "url": "https://zylotech.xyz/live/1/chunks.m3u8?bongls.com",
+      "logo": "https://via.placeholder.com/100x60?text=S%20LALIGA",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-21",
+      "name": "Bein Sports 1 France",
+      "url": "http://51.178.65.238/BeinSport/mono.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Bein%20Sports%201%20France",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "premium-22",
+      "name": "ESPN DEPORTES",
+      "url": "http://190.92.10.66:4000/play/a003/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=ESPN%20DEPORTES",
+      "group": "Sports",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "id": "premium-23",
+      "name": "Setanta Sports 2",
+      "url": "https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Setanta%20Sports%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-24",
+      "name": "Setanta Sports 1",
+      "url": "https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Setanta%20Sports%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-25",
+      "name": "Turkmenistan Sport",
+      "url": "https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Turkmenistan%20Sport",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-26",
+      "name": "S SPORT 1",
+      "url": "http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19070/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=S%20SPORT%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-27",
+      "name": "S SPORT 2",
+      "url": "http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19071/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=S%20SPORT%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-28",
+      "name": "SKY SPORTS LALIGA",
+      "url": "http://181.78.105.146:2000/play/a08m/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=SKY%20SPORTS%20LALIGA",
+      "group": "Sports",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "id": "premium-29",
+      "name": "Bein Sports",
+      "url": "http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Bein%20Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "premium-30",
+      "name": "Arena Sport 1",
+      "url": "http://109.105.201.198/ARENASPORT1/video.m3u8?token=test",
+      "logo": "https://via.placeholder.com/100x60?text=Arena%20Sport%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-31",
+      "name": "Arena Sport 3",
+      "url": "http://109.105.201.198/ARENASPORT3/video.m3u8?token=test",
+      "logo": "https://via.placeholder.com/100x60?text=Arena%20Sport%203",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-32",
+      "name": "Arena Sport 4",
+      "url": "http://109.105.201.198/ARENASPORT4/video.m3u8?token=test",
+      "logo": "https://via.placeholder.com/100x60?text=Arena%20Sport%204",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-33",
+      "name": "Fast Sports",
+      "url": "http://stream01.vnet.am/Channel_131/mono.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Fast%20Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-34",
+      "name": "Megogo Sports 1",
+      "url": "http://158.101.214.187:8080/channel/n112aece8/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27",
+      "logo": "https://via.placeholder.com/100x60?text=Megogo%20Sports%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-35",
+      "name": "PRIMA SPORT 1",
+      "url": "http://193.106.124.204:8002/play/a01l",
+      "logo": "https://via.placeholder.com/100x60?text=PRIMA%20SPORT%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-36",
+      "name": "CANAL+ SPORT HD",
+      "url": "http://185.236.229.62:9981/play/a04c",
+      "logo": "https://via.placeholder.com/100x60?text=CANAL%2B%20SPORT%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-37",
+      "name": "CANAL+ SPORT 2 HD",
+      "url": "http://185.236.229.62:9981/play/a05t",
+      "logo": "https://via.placeholder.com/100x60?text=CANAL%2B%20SPORT%202%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-38",
+      "name": "Polsat SPORT 1",
+      "url": "http://178.219.128.68:64889/POLSSPORHD",
+      "logo": "https://via.placeholder.com/100x60?text=Polsat%20SPORT%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-39",
+      "name": "Polsat Sport NEWS",
+      "url": "http://178.219.128.68:64889/POLSSPORNEWSHD",
+      "logo": "https://via.placeholder.com/100x60?text=Polsat%20Sport%20NEWS",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-40",
+      "name": "EUROSPORT 1",
+      "url": "http://185.189.225.157/EuroSport1/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=EUROSPORT%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-41",
+      "name": "EUROSPORT 2",
+      "url": "http://185.189.225.157/EuroSport2/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=EUROSPORT%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-42",
+      "name": "REAL MADRID TV",
+      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=REAL%20MADRID%20TV",
+      "group": "Entertainment",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-43",
+      "name": "BEIN SPORT EXTRA Ñ",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=BEIN%20SPORT%20EXTRA%20%C3%91",
+      "group": "Sports",
+      "language": "Spanish",
+      "country": "QA"
+    },
+    {
+      "id": "premium-44",
+      "name": "ESPN VIVO",
+      "url": "http://hzcdn.vood.top:80/hls/309458_.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=ESPN%20VIVO",
+      "group": "Sports",
+      "language": "Spanish",
+      "country": "AR"
+    },
+    {
+      "id": "premium-45",
+      "name": "Fox Sports 2",
+      "url": "http://streamsy.online:2999/korrigan17/25AUFBdqOi/93",
+      "logo": "https://via.placeholder.com/100x60?text=Fox%20Sports%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-46",
+      "name": "Fox Sports 3",
+      "url": "http://streamsy.online:2999/korrigan17/25AUFBdqOi/100",
+      "logo": "https://via.placeholder.com/100x60?text=Fox%20Sports%203",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-47",
+      "name": "TIGO SPORTS",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357",
+      "logo": "https://via.placeholder.com/100x60?text=TIGO%20SPORTS",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-48",
+      "name": "TUDN",
+      "url": "http://181.78.105.146:2000/play/a08j/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TUDN",
+      "group": "Entertainment",
+      "language": "Spanish",
+      "country": "MX"
+    },
+    {
+      "id": "premium-49",
+      "name": "TELEMUNDO",
+      "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TELEMUNDO",
+      "group": "Entertainment",
+      "language": "Spanish",
+      "country": "MX"
+    },
+    {
+      "id": "premium-50",
+      "name": "TSN 1",
+      "url": "http://212.102.60.231/TSN_1/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TSN%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "CA"
+    },
+    {
+      "id": "premium-51",
+      "name": "TSN 2",
+      "url": "http://212.102.60.231/TSN_2/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TSN%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "CA"
+    },
+    {
+      "id": "premium-52",
+      "name": "TSN 3",
+      "url": "http://212.102.60.231/TSN_3/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TSN%203",
+      "group": "Sports",
+      "language": "English",
+      "country": "CA"
+    },
+    {
+      "id": "premium-53",
+      "name": "TSN 4",
+      "url": "http://212.102.60.231/TSN_4/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TSN%204",
+      "group": "Sports",
+      "language": "English",
+      "country": "CA"
+    },
+    {
+      "id": "premium-54",
+      "name": "TSN 5",
+      "url": "http://212.102.60.231/TSN_5/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TSN%205",
+      "group": "Sports",
+      "language": "English",
+      "country": "CA"
+    },
+    {
+      "id": "premium-55",
+      "name": "CBS SPORT",
+      "url": "https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=CBS%20SPORT",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-56",
+      "name": "FS 1 SPORT",
+      "url": "http://212.102.60.10/FOX_Sports_1/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=FS%201%20SPORT",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-57",
+      "name": "NOVA Sport 1",
+      "url": "http://78.130.250.2:8023/play/a009/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=NOVA%20Sport%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-58",
+      "name": "NOVA Sport 2",
+      "url": "http://78.130.250.2:8023/play/a004/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=NOVA%20Sport%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-59",
+      "name": "NovaSports 2",
+      "url": "http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81189",
+      "logo": "https://via.placeholder.com/100x60?text=NovaSports%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-60",
+      "name": "SPORT 1",
+      "url": "https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016",
+      "logo": "https://via.placeholder.com/100x60?text=SPORT%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-61",
+      "name": "SPORT 2",
+      "url": "https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=729&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016",
+      "logo": "https://via.placeholder.com/100x60?text=SPORT%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-62",
+      "name": "RTVS Sport",
+      "url": "https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301",
+      "logo": "https://via.placeholder.com/100x60?text=RTVS%20Sport",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-63",
+      "name": "JOJ Sport",
+      "url": "https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2164&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301",
+      "logo": "https://via.placeholder.com/100x60?text=JOJ%20Sport",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-64",
+      "name": "Sport5",
+      "url": "https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Sport5",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-65",
+      "name": "Viju+ Sport",
+      "url": "https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Viju%2B%20Sport",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-66",
+      "name": "SPORT RU",
+      "url": "http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=SPORT%20RU",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-67",
+      "name": "X SPORT",
+      "url": "http://iptv.prosto.tv:7000/ch109/video.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=X%20SPORT",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-68",
+      "name": "UZ SPORT",
+      "url": "https://stream1.cinerama.uz/1004/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=UZ%20SPORT",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-69",
+      "name": "BEIN SPORT CANLI",
+      "url": "http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5849.ts",
+      "logo": "https://via.placeholder.com/100x60?text=BEIN%20SPORT%20CANLI",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "premium-70",
+      "name": "SPORTS TV",
+      "url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%20TV",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-71",
+      "name": "ACISPORT TV",
+      "url": "http://45.65.112.49:8000/play/a0ns",
+      "logo": "https://via.placeholder.com/100x60?text=ACISPORT%20TV",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-72",
+      "name": "SPORT ITALIA",
+      "url": "http://46.232.186.35:35001/play/a01k",
+      "logo": "https://via.placeholder.com/100x60?text=SPORT%20ITALIA",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-73",
+      "name": "INFOSPORT",
+      "url": "http://212.102.60.80/Infosport/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=INFOSPORT",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-74",
+      "name": "SPORT 18 (3)",
+      "url": "http://15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3",
+      "logo": "https://via.placeholder.com/100x60?text=SPORT%2018%20(3)",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-75",
+      "name": "NOW SPORT 1",
+      "url": "http://manik@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1",
+      "logo": "https://via.placeholder.com/100x60?text=NOW%20SPORT%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-76",
+      "name": "Sport A",
+      "url": "http://37.27.111.214:8080/live/13/hls.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Sport%20A",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-77",
+      "name": "Sport B",
+      "url": "http://37.27.111.214:8080/live/14/hls.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Sport%20B",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-78",
+      "name": "Sport C",
+      "url": "http://37.27.111.214:8080/live/15/hls.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Sport%20C",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-79",
+      "name": "TENNIS",
+      "url": "https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TENNIS",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-80",
+      "name": "Bien sport 3",
+      "url": "http://www.teledunet.com:8080/tdn/tdn/456489.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Bien%20sport%203",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-81",
+      "name": "ELEVEN SPORTS 3 HD",
+      "url": "http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=ELEVEN%20SPORTS%203%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-82",
+      "name": "S CHAMPIONS",
+      "url": "https://cloudserve.world/live/stream_6.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=S%20CHAMPIONS",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-83",
+      "name": "Bien sport 1",
+      "url": "http://www.teledunet.com:8080/tdn/tdn/456487.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Bien%20sport%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-84",
+      "name": "TNT SPORT 4",
+      "url": "http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444",
+      "logo": "https://via.placeholder.com/100x60?text=TNT%20SPORT%204",
+      "group": "Sports",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "id": "premium-85",
+      "name": "TUDN USA",
+      "url": "https://848b3516657c-usatv.baby-beamup.club/public/m3u/66.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=TUDN%20USA",
+      "group": "Entertainment",
+      "language": "Spanish",
+      "country": "MX"
+    },
+    {
+      "id": "premium-86",
+      "name": "Unimas Miami",
+      "url": "http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Unimas%20Miami",
+      "group": "Entertainment",
+      "language": "Spanish",
+      "country": "MX"
+    },
+    {
+      "id": "premium-87",
+      "name": "Sony Ten 1 HD",
+      "url": "http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C",
+      "logo": "https://via.placeholder.com/100x60?text=Sony%20Ten%201%20HD",
+      "group": "Entertainment",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-88",
+      "name": "ESPN PREMIUM",
+      "url": "http://190.102.246.93:9005/play/a00x",
+      "logo": "https://via.placeholder.com/100x60?text=ESPN%20PREMIUM",
+      "group": "Sports",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "id": "premium-89",
+      "name": "ESPN 2",
+      "url": "http://190.102.246.93:9005/play/a029",
+      "logo": "https://via.placeholder.com/100x60?text=ESPN%202",
+      "group": "Sports",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "id": "premium-90",
+      "name": "ESPN 3",
+      "url": "http://190.102.246.93:9005/play/a02l",
+      "logo": "https://via.placeholder.com/100x60?text=ESPN%203",
+      "group": "Sports",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "id": "premium-91",
+      "name": "ESPN 6",
+      "url": "http://190.102.246.93:9005/play/a02m",
+      "logo": "https://via.placeholder.com/100x60?text=ESPN%206",
+      "group": "Sports",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "id": "premium-92",
+      "name": "FOX SPORT",
+      "url": "http://181.78.27.128:8000/play/a062/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=FOX%20SPORT",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-93",
+      "name": "TNT SPORT 1",
+      "url": "http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444",
+      "logo": "https://via.placeholder.com/100x60?text=TNT%20SPORT%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "id": "premium-94",
+      "name": "TNT SPORT 2",
+      "url": "http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444",
+      "logo": "https://via.placeholder.com/100x60?text=TNT%20SPORT%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "id": "premium-95",
+      "name": "TNT SPORT 3",
+      "url": "http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444",
+      "logo": "https://via.placeholder.com/100x60?text=TNT%20SPORT%203",
+      "group": "Sports",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "id": "premium-96",
+      "name": "ESPN",
+      "url": "http://168.227.131.66:8000/play/tfc0/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=ESPN",
+      "group": "Sports",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "id": "premium-97",
+      "name": "Abu Dhabi Sports 1",
+      "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Abu%20Dhabi%20Sports%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "premium-98",
+      "name": "Abu Dhabi Sports 2",
+      "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Abu%20Dhabi%20Sports%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "premium-99",
+      "name": "Abu Dhabi Sports 3",
+      "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Abu%20Dhabi%20Sports%203",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "premium-100",
+      "name": "Abu Dhabi Sports 4",
+      "url": "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Abu%20Dhabi%20Sports%204",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "premium-101",
+      "name": "ALL Sports",
+      "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=ALL%20Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-102",
+      "name": "b31N Sports 1",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34718",
+      "logo": "https://via.placeholder.com/100x60?text=b31N%20Sports%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "premium-103",
+      "name": "b31N Sports 2",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34719",
+      "logo": "https://via.placeholder.com/100x60?text=b31N%20Sports%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "premium-104",
+      "name": "b31N Sports 4",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34721",
+      "logo": "https://via.placeholder.com/100x60?text=b31N%20Sports%204",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "premium-105",
+      "name": "b31N Sports 5",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34722",
+      "logo": "https://via.placeholder.com/100x60?text=b31N%20Sports%205",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "premium-106",
+      "name": "b31N Sports 7",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34724",
+      "logo": "https://via.placeholder.com/100x60?text=b31N%20Sports%207",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "premium-107",
+      "name": "Bahrain Sport 1",
+      "url": "http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Bahrain%20Sport%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-108",
+      "name": "Bek Sports East",
+      "url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Bek%20Sports%20East",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-109",
+      "name": "Bek Sports West",
+      "url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Bek%20Sports%20West",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-110",
+      "name": "CCTV5",
+      "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=CCTV5",
+      "group": "Entertainment",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-111",
+      "name": "DD Sports",
+      "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=DD%20Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-112",
+      "name": "Dubai Sports",
+      "url": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com",
+      "logo": "https://via.placeholder.com/100x60?text=Dubai%20Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "premium-113",
+      "name": "Dubai Sports 1",
+      "url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Dubai%20Sports%201",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "premium-114",
+      "name": "Dubai Sports 2",
+      "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Dubai%20Sports%202",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "premium-115",
+      "name": "Dubai Sports 3",
+      "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Dubai%20Sports%203",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "premium-116",
+      "name": "EDGE sport",
+      "url": "https://edgesports-row-rakuten.amagi.tv/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=EDGE%20sport",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-117",
+      "name": "Edge Sports",
+      "url": "https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Edge%20Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-118",
+      "name": "Euro Sport",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34709",
+      "logo": "https://via.placeholder.com/100x60?text=Euro%20Sport",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-119",
+      "name": "Eurosport1 HD",
+      "url": "http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Eurosport1%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-120",
+      "name": "Eurosport2 HD",
+      "url": "https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Eurosport2%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-121",
+      "name": "Fight Sports",
+      "url": "http://210.210.155.35/uq2663/h/h05/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Fight%20Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-122",
+      "name": "FOX SPORT 1 HD",
+      "url": "http://190.110.99.102:8000/play/a016",
+      "logo": "https://via.placeholder.com/100x60?text=FOX%20SPORT%201%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-123",
+      "name": "FOX SPORT 2 HD",
+      "url": "http://190.110.99.102:8000/play/a017",
+      "logo": "https://via.placeholder.com/100x60?text=FOX%20SPORT%202%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-124",
+      "name": "FOX SPORT 3 HD",
+      "url": "http://190.110.99.102:8000/play/a018",
+      "logo": "https://via.placeholder.com/100x60?text=FOX%20SPORT%203%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-125",
+      "name": "Fox Sports",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34622",
+      "logo": "https://via.placeholder.com/100x60?text=Fox%20Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-126",
+      "name": "Fox Sports News",
+      "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Fox%20Sports%20News",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-127",
+      "name": "Fox Sports Premium",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/123874",
+      "logo": "https://via.placeholder.com/100x60?text=Fox%20Sports%20Premium",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-128",
+      "name": "Oman Sport",
+      "url": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Oman%20Sport",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-129",
+      "name": "Sharjah Sport",
+      "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Sharjah%20Sport",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-130",
+      "name": "TNT SPORT HD",
+      "url": "http://190.110.99.102:8000/play/a010",
+      "logo": "https://via.placeholder.com/100x60?text=TNT%20SPORT%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "id": "premium-131",
+      "name": "TNT Sports",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/124014",
+      "logo": "https://via.placeholder.com/100x60?text=TNT%20Sports",
+      "group": "Sports",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "id": "premium-132",
+      "name": "Türkmenistan Sport",
+      "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=T%C3%BCrkmenistan%20Sport",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-133",
+      "name": "Viasat Sport East",
+      "url": "https://persik.tv/stream/3602/287583/10249.m3u8",
+      "logo": "https://via.placeholder.com/100x60?text=Viasat%20Sport%20East",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-134",
+      "name": "NBC Golf",
+      "url": "http://89.187.175.143:80/3013/mpegts",
+      "logo": "https://via.placeholder.com/100x60?text=NBC%20Golf",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-135",
+      "name": "SPORTS PREMIUM 1 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86613",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%20PREMIUM%201%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-136",
+      "name": "SPORTS PREMIUM 2HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86611",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%20PREMIUM%202HD%C2%B2",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-137",
+      "name": "SPORTS PREMIUM 3 4k",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86610",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%20PREMIUM%203%204k",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-138",
+      "name": "SPORTS PREMIUM 3 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86609",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%20PREMIUM%203%20HD%C2%B2",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-139",
+      "name": "SPORTS 1 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86608",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%201%204K",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-140",
+      "name": "SPORTS 1 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86607",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%201%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-141",
+      "name": "SPORTS 1 HD EN",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86606",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%201%20HD%20EN",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-142",
+      "name": "SPORTS 2 4k",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86605",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%202%204k",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-143",
+      "name": "SPORTS 2 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86604",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%202%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-144",
+      "name": "SPORTS 3 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86602",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%203%204K",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-145",
+      "name": "SPORTS 3 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86601",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%203%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-146",
+      "name": "SPORTS 4 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86600",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%204%204K",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-147",
+      "name": "SPORTS 4 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86599",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%204%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-148",
+      "name": "SPORTS 5 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86597",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%205%20HD%C2%B2",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-149",
+      "name": "SPORTS 6 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86595",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%206%20HD%C2%B2",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-150",
+      "name": "SPORTS 7 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86594",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%207%204K",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-151",
+      "name": "SPORTS 7 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86593",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%207%20HD%C2%B2",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-152",
+      "name": "SPORT NEWS HEVC",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109256",
+      "logo": "https://via.placeholder.com/100x60?text=SPORT%20NEWS%20HEVC",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-153",
+      "name": "SPORTS 1 HD FR",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/100694",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%201%20HD%20FR",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-154",
+      "name": "SPORTS 2 HD FR",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/100695",
+      "logo": "https://via.placeholder.com/100x60?text=SPORTS%202%20HD%20FR",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-155",
+      "name": "Sport XTRA 1 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/102724",
+      "logo": "https://via.placeholder.com/100x60?text=Sport%20XTRA%201%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "premium-156",
+      "name": "Sport XTRA 2 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/102725</pre></body></html>",
+      "logo": "https://via.placeholder.com/100x60?text=Sport%20XTRA%202%20HD",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    }
+  ]
+}
