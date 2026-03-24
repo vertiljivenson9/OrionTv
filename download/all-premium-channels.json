@@ -1,0 +1,1429 @@
+{
+  "total": 156,
+  "extracted": "2026-03-24T01:45:06.376Z",
+  "stats": {
+    "byGroup": {
+      "Sports": 149,
+      "Entertainment": 7
+    },
+    "byLanguage": {
+      "English": 142,
+      "Spanish": 14
+    },
+    "byCountry": {
+      "US": 117,
+      "GB": 9,
+      "QA": 12,
+      "AR": 1,
+      "MX": 4,
+      "CA": 5,
+      "AE": 8
+    }
+  },
+  "channels": [
+    {
+      "name": "T10 A sports Live",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://webott.viatv.com.np/v0t1/ASportsHD.stream/playlist.m3u8",
+      "id": "freecatv-1",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "RTA Sports HD Ban Vs AFG",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8",
+      "id": "freecatv-2",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "TnT Sports 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8",
+      "id": "freecatv-3",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "name": "Star Sports 1 HD",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+      "id": "freecatv-4",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "PTV Sports",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8",
+      "id": "freecatv-5",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "A Sports",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8",
+      "id": "freecatv-6",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Ten Sports PK",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8",
+      "id": "freecatv-8",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Bein Sports 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8",
+      "id": "freecatv-9",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "name": "Bein Sports 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8",
+      "id": "freecatv-10",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "name": "TnT Sports 3",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8",
+      "id": "freecatv-13",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "name": "Fast-Studios-Womens-Sports",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8",
+      "id": "freecatv-14",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Live Sports Football Laliga",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8",
+      "id": "freecatv-17",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "TYC Sports Play",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8",
+      "id": "freecatv-18",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "BeiN Sports Extra",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+      "id": "freecatv-19",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "name": "Ufc~",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/134",
+      "id": "freecatv-20",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Band~ sports 4kk",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23",
+      "id": "freecatv-21",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Espn~ hd",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1",
+      "id": "freecatv-22",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "name": "ESPN~ 4",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143",
+      "id": "freecatv-23",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "name": "Ten Sports 2 HD",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8",
+      "id": "freecatv-38",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "S LALIGA",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://zylotech.xyz/live/1/chunks.m3u8?bongls.com",
+      "id": "freecatv-40",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Bein Sports 1 France",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://51.178.65.238/BeinSport/mono.m3u8",
+      "id": "freecatv-42",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "name": "ESPN DEPORTES",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://190.92.10.66:4000/play/a003/index.m3u8",
+      "id": "freecatv-43",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "name": "Setanta Sports 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8",
+      "id": "freecatv-44",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Setanta Sports 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8",
+      "id": "freecatv-45",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Turkmenistan Sport",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8",
+      "id": "freecatv-46",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "S SPORT 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19070/index.m3u8",
+      "id": "freecatv-48",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "S SPORT 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19071/index.m3u8",
+      "id": "freecatv-49",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "SKY SPORTS LALIGA",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://181.78.105.146:2000/play/a08m/index.m3u8",
+      "id": "freecatv-50",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "name": "Bein Sports",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+      "id": "freecatv-56",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "name": "Arena Sport 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://109.105.201.198/ARENASPORT1/video.m3u8?token=test",
+      "id": "freecatv-58",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Arena Sport 3",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://109.105.201.198/ARENASPORT3/video.m3u8?token=test",
+      "id": "freecatv-59",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Arena Sport 4",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://109.105.201.198/ARENASPORT4/video.m3u8?token=test",
+      "id": "freecatv-60",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Fast Sports",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://stream01.vnet.am/Channel_131/mono.m3u8",
+      "id": "freecatv-64",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Megogo Sports 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://158.101.214.187:8080/channel/n112aece8/index.m3u8?q=b8633cb8eb71b49cb814d6ae70ae0c27",
+      "id": "freecatv-67",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "PRIMA SPORT 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://193.106.124.204:8002/play/a01l",
+      "id": "freecatv-69",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "CANAL+ SPORT HD",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://185.236.229.62:9981/play/a04c",
+      "id": "freecatv-70",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "CANAL+ SPORT 2 HD",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://185.236.229.62:9981/play/a05t",
+      "id": "freecatv-71",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Polsat SPORT 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://178.219.128.68:64889/POLSSPORHD",
+      "id": "freecatv-72",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Polsat Sport NEWS",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://178.219.128.68:64889/POLSSPORNEWSHD",
+      "id": "freecatv-73",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "EUROSPORT 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://185.189.225.157/EuroSport1/index.m3u8",
+      "id": "freecatv-77",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "EUROSPORT 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://185.189.225.157/EuroSport2/index.m3u8",
+      "id": "freecatv-78",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "REAL MADRID TV",
+      "logo": "",
+      "group": "Entertainment",
+      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+      "id": "freecatv-79",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "BEIN SPORT EXTRA Ñ",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+      "id": "freecatv-80",
+      "language": "Spanish",
+      "country": "QA"
+    },
+    {
+      "name": "ESPN VIVO",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://hzcdn.vood.top:80/hls/309458_.m3u8",
+      "id": "freecatv-82",
+      "language": "Spanish",
+      "country": "AR"
+    },
+    {
+      "name": "Fox Sports 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://streamsy.online:2999/korrigan17/25AUFBdqOi/93",
+      "id": "freecatv-83",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Fox Sports 3",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://streamsy.online:2999/korrigan17/25AUFBdqOi/100",
+      "id": "freecatv-84",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "TIGO SPORTS",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357",
+      "id": "freecatv-86",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "TUDN",
+      "logo": "",
+      "group": "Entertainment",
+      "url": "http://181.78.105.146:2000/play/a08j/index.m3u8",
+      "id": "freecatv-87",
+      "language": "Spanish",
+      "country": "MX"
+    },
+    {
+      "name": "TELEMUNDO",
+      "logo": "",
+      "group": "Entertainment",
+      "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+      "id": "freecatv-89",
+      "language": "Spanish",
+      "country": "MX"
+    },
+    {
+      "name": "TSN 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://212.102.60.231/TSN_1/index.m3u8",
+      "id": "freecatv-90",
+      "language": "English",
+      "country": "CA"
+    },
+    {
+      "name": "TSN 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://212.102.60.231/TSN_2/index.m3u8",
+      "id": "freecatv-91",
+      "language": "English",
+      "country": "CA"
+    },
+    {
+      "name": "TSN 3",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://212.102.60.231/TSN_3/index.m3u8",
+      "id": "freecatv-92",
+      "language": "English",
+      "country": "CA"
+    },
+    {
+      "name": "TSN 4",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://212.102.60.231/TSN_4/index.m3u8",
+      "id": "freecatv-93",
+      "language": "English",
+      "country": "CA"
+    },
+    {
+      "name": "TSN 5",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://212.102.60.231/TSN_5/index.m3u8",
+      "id": "freecatv-94",
+      "language": "English",
+      "country": "CA"
+    },
+    {
+      "name": "CBS SPORT",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+      "id": "freecatv-95",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "FS 1 SPORT",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://212.102.60.10/FOX_Sports_1/index.m3u8",
+      "id": "freecatv-96",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "NOVA Sport 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://78.130.250.2:8023/play/a009/index.m3u8",
+      "id": "freecatv-98",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "NOVA Sport 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://78.130.250.2:8023/play/a004/index.m3u8",
+      "id": "freecatv-100",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "NovaSports 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81189",
+      "id": "freecatv-101",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "SPORT 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016",
+      "id": "freecatv-103",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "SPORT 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=729&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016",
+      "id": "freecatv-104",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "RTVS Sport",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301",
+      "id": "freecatv-106",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "JOJ Sport",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2164&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301",
+      "id": "freecatv-107",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Sport5",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8",
+      "id": "freecatv-108",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Viju+ Sport",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
+      "id": "freecatv-109",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "SPORT RU",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8",
+      "id": "freecatv-111",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "X SPORT",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://iptv.prosto.tv:7000/ch109/video.m3u8",
+      "id": "freecatv-112",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "UZ SPORT",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://stream1.cinerama.uz/1004/index.m3u8",
+      "id": "freecatv-116",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "BEIN SPORT CANLI",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5849.ts",
+      "id": "freecatv-117",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "name": "SPORTS TV",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+      "id": "freecatv-118",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "ACISPORT TV",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://45.65.112.49:8000/play/a0ns",
+      "id": "freecatv-120",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "SPORT ITALIA",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://46.232.186.35:35001/play/a01k",
+      "id": "freecatv-121",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "INFOSPORT",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://212.102.60.80/Infosport/index.m3u8",
+      "id": "freecatv-125",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "SPORT 18 (3)",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3",
+      "id": "freecatv-129",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "NOW SPORT 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://manik@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1",
+      "id": "freecatv-133",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Sport A",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://37.27.111.214:8080/live/13/hls.m3u8",
+      "id": "freecatv-134",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Sport B",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://37.27.111.214:8080/live/14/hls.m3u8",
+      "id": "freecatv-135",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Sport C",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://37.27.111.214:8080/live/15/hls.m3u8",
+      "id": "freecatv-136",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "TENNIS",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8",
+      "id": "freecatv-139",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Bien sport 3",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://www.teledunet.com:8080/tdn/tdn/456489.m3u8",
+      "id": "freecatv-141",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "ELEVEN SPORTS 3 HD",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8",
+      "id": "freecatv-142",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "S CHAMPIONS",
+      "logo": "",
+      "group": "Sports",
+      "url": "https://cloudserve.world/live/stream_6.m3u8",
+      "id": "freecatv-143",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "Bien sport 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://www.teledunet.com:8080/tdn/tdn/456487.m3u8",
+      "id": "freecatv-151",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "TNT SPORT 4",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444",
+      "id": "freecatv-153",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "name": "TUDN USA",
+      "logo": "",
+      "group": "Entertainment",
+      "url": "https://848b3516657c-usatv.baby-beamup.club/public/m3u/66.m3u8",
+      "id": "freecatv-155",
+      "language": "Spanish",
+      "country": "MX"
+    },
+    {
+      "name": "Unimas Miami",
+      "logo": "",
+      "group": "Entertainment",
+      "url": "http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8",
+      "id": "freecatv-156",
+      "language": "Spanish",
+      "country": "MX"
+    },
+    {
+      "name": "Sony Ten 1 HD",
+      "logo": "",
+      "group": "Entertainment",
+      "url": "http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C",
+      "id": "freecatv-158",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "ESPN PREMIUM",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://190.102.246.93:9005/play/a00x",
+      "id": "freecatv-159",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "name": "ESPN 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://190.102.246.93:9005/play/a029",
+      "id": "freecatv-160",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "name": "ESPN 3",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://190.102.246.93:9005/play/a02l",
+      "id": "freecatv-161",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "name": "ESPN 6",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://190.102.246.93:9005/play/a02m",
+      "id": "freecatv-163",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "name": "FOX SPORT",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://181.78.27.128:8000/play/a062/index.m3u8",
+      "id": "freecatv-164",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "name": "TNT SPORT 1",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444",
+      "id": "freecatv-166",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "name": "TNT SPORT 2",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444",
+      "id": "freecatv-167",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "name": "TNT SPORT 3",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444",
+      "id": "freecatv-168",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "name": "ESPN",
+      "logo": "",
+      "group": "Sports",
+      "url": "http://168.227.131.66:8000/play/tfc0/index.m3u8",
+      "id": "freecatv-169",
+      "language": "Spanish",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-2",
+      "name": "Abu Dhabi Sports 1",
+      "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-simple-3",
+      "name": "Abu Dhabi Sports 2",
+      "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-simple-4",
+      "name": "Abu Dhabi Sports 3",
+      "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-simple-5",
+      "name": "Abu Dhabi Sports 4",
+      "url": "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-simple-6",
+      "name": "ALL Sports",
+      "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-9",
+      "name": "b31N Sports 1",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34718",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "wcb1969-simple-10",
+      "name": "b31N Sports 2",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34719",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "wcb1969-simple-11",
+      "name": "b31N Sports 4",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34721",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "wcb1969-simple-12",
+      "name": "b31N Sports 5",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34722",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "wcb1969-simple-13",
+      "name": "b31N Sports 7",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34724",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "wcb1969-simple-14",
+      "name": "Bahrain Sport 1",
+      "url": "http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-16",
+      "name": "Bek Sports East",
+      "url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-17",
+      "name": "Bek Sports West",
+      "url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-18",
+      "name": "CCTV5",
+      "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8",
+      "logo": "",
+      "group": "Entertainment",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-410",
+      "name": "DD Sports",
+      "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-414",
+      "name": "Dubai Sports",
+      "url": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-simple-416",
+      "name": "Dubai Sports 1",
+      "url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-simple-418",
+      "name": "Dubai Sports 2",
+      "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-simple-420",
+      "name": "Dubai Sports 3",
+      "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-simple-422",
+      "name": "EDGE sport",
+      "url": "https://edgesports-row-rakuten.amagi.tv/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-423",
+      "name": "Edge Sports",
+      "url": "https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-432",
+      "name": "Euro Sport",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34709",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-438",
+      "name": "Eurosport1 HD",
+      "url": "http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-447",
+      "name": "Eurosport2 HD",
+      "url": "https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-454",
+      "name": "Fight Sports",
+      "url": "http://210.210.155.35/uq2663/h/h05/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-457",
+      "name": "FOX SPORT 1 HD",
+      "url": "http://190.110.99.102:8000/play/a016",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-458",
+      "name": "FOX SPORT 2 HD",
+      "url": "http://190.110.99.102:8000/play/a017",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-459",
+      "name": "FOX SPORT 3 HD",
+      "url": "http://190.110.99.102:8000/play/a018",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-460",
+      "name": "Fox Sports",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34622",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-466",
+      "name": "Fox Sports News",
+      "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-467",
+      "name": "Fox Sports Premium",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/123874",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-489",
+      "name": "Oman Sport",
+      "url": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-495",
+      "name": "Sharjah Sport",
+      "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-497",
+      "name": "TNT SPORT HD",
+      "url": "http://190.110.99.102:8000/play/a010",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "id": "wcb1969-simple-498",
+      "name": "TNT Sports",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/124014",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "GB"
+    },
+    {
+      "id": "wcb1969-simple-501",
+      "name": "Türkmenistan Sport",
+      "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-506",
+      "name": "Viasat Sport East",
+      "url": "https://persik.tv/stream/3602/287583/10249.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-620",
+      "name": "NBC Golf",
+      "url": "http://89.187.175.143:80/3013/mpegts",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-621",
+      "name": "SPORTS PREMIUM 1 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86613",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-622",
+      "name": "SPORTS PREMIUM 2HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86611",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-623",
+      "name": "SPORTS PREMIUM 3 4k",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86610",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-624",
+      "name": "SPORTS PREMIUM 3 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86609",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-625",
+      "name": "SPORTS 1 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86608",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-626",
+      "name": "SPORTS 1 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86607",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-627",
+      "name": "SPORTS 1 HD EN",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86606",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-628",
+      "name": "SPORTS 2 4k",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86605",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-629",
+      "name": "SPORTS 2 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86604",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-630",
+      "name": "SPORTS 3 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86602",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-631",
+      "name": "SPORTS 3 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86601",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-632",
+      "name": "SPORTS 4 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86600",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-633",
+      "name": "SPORTS 4 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86599",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-634",
+      "name": "SPORTS 5 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86597",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-635",
+      "name": "SPORTS 6 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86595",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-636",
+      "name": "SPORTS 7 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86594",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-637",
+      "name": "SPORTS 7 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86593",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-638",
+      "name": "SPORT NEWS HEVC",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109256",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-639",
+      "name": "SPORTS 1 HD FR",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/100694",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-640",
+      "name": "SPORTS 2 HD FR",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/100695",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-641",
+      "name": "Sport XTRA 1 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/102724",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-simple-642",
+      "name": "Sport XTRA 2 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/102725</pre></body></html>",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://github.com/orgs/community/discussions/161907",
+    "name": "How does GitHub handle exposed secrets or credentials in public",
+    "snippet": "Yes, GitHub automatically scans for known secret patterns (AWS keys, Google API tokens, etc.) using a feature called Secret Scanning.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.github.com/en/rest/authentication/keeping-your-api-credentials-secure",
+    "name": "Keeping your API credentials secure - GitHub Docs",
+    "snippet": "Don't push unencrypted authentication credentials like tokens or keys to any repository, even if the repository is private. Instead consider using a GitHub ...",
+    "host_name": "docs.github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.github.com/code-security/secret-scanning/about-secret-scanning%3Flearn%3Dsecret_scanning",
+    "name": "About secret scanning - GitHub Docs",
+    "snippet": "Prevent fraudulent use of your secrets by automatically detecting exposed credentials before they can be exploited.",
+    "host_name": "docs.github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/orgs/community/discussions/141974",
+    "name": "How to use they private key of a GitHub App when stored in an",
+    "snippet": "The Key Vault uses the private key behind the scenes to create the signed JWT and sends that back to you, without ever revealing the key itself.",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.github.com/en/enterprise-server%403.19/code-security/concepts/secret-security/about-secret-scanning",
+    "name": "About secret scanning - GitHub Enterprise Server 3.19 Docs",
+    "snippet": "Prevent fraudulent use of your secrets by automatically detecting exposed credentials before they can be exploited.",
+    "host_name": "docs.github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.github.com/en/code-security/tutorials/remediate-leaked-secrets/remediating-a-leaked-secret",
+    "name": "Remediating a leaked secret in your repository - GitHub Docs",
+    "snippet": "Introduction. Secrets, such as API keys, tokens and credentials, can pose significant security risks to your team and organization if inadvertently exposed ...",
+    "host_name": "docs.github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/orgs/community/discussions/173077",
+    "name": "Misleading Security Alert from Secret scanning #173077 - GitHub",
+    "snippet": "GitHub's security alerts are designed to flag any secrets that appear in your repository, including API keys, tokens, or passwords. The system ...",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.github.com/en/code-security/concepts/secret-security/github-secret-types",
+    "name": "GitHub secret types",
+    "snippet": "GitHub secrets are used to securely store sensitive information like API keys, tokens, and passwords in repositories. When you store the sensitive information ...",
+    "host_name": "docs.github.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/IBM/mcp-context-forge/issues/2399",
+    "name": "[TESTING][SECURITY]: Secrets detection plugin manual test plan",
+    "snippet": "Produce a comprehensive manual test plan for validating the secrets detection plugin identifies and handles sensitive credentials in content, including AWS keys ...",
+    "host_name": "github.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/rustfs/rustfs/security/advisories/GHSA-r54g-49rx-98cr",
+    "name": "Sensitive Credentials Logged in Plaintext - GitHub",
+    "snippet": "Credential Compromise: Access keys, secret keys, and session tokens may be used by unauthorized individuals to authenticate to RustFS services ... Missing: private | Show results with: private",
+    "host_name": "github.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

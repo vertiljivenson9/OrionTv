@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://github.com/orgs/community/discussions/161907",
+    "name": "How does GitHub handle exposed secrets or credentials in public",
+    "snippet": "Yes, GitHub automatically scans for known secret patterns (AWS keys, Google API tokens, etc.) using a feature called Secret Scanning.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://gist.github.com/win3zz/0a1c70589fcbea64dba4588b93095855",
+    "name": "GitHub-Leaked-API-Keys-and-Secrets.md",
+    "snippet": "I have created a comprehensive search list using powerful search syntax that enables the search of thousands of leaked keys and secrets in a single search. Missing: password | Show results with: password",
+    "host_name": "gist.github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens",
+    "name": "Managing your personal access tokens - GitHub Docs",
+    "snippet": "You can use a personal access token in place of a password when authenticating to GitHub in the command line or with the API. Missing: json exposed",
+    "host_name": "docs.github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://stackoverflow.com/questions/18935539/authenticate-with-github-using-a-token",
+    "name": "Authenticate with GitHub using a token - Stack Overflow",
+    "snippet": "I am trying to authenticate with GitHub using a personal access token. In the help files at GitHub, it states to use the cURL method to authenticate. Where to store my Git personal access token? - Stack Overflow How to make sure API tokens & passwords stay off github More results from stackoverflow.com",
+    "host_name": "stackoverflow.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/%40CVxTz/how-i-found-hundreds-of-secret-passwords-and-api-keys-on-github-and-then-got-banned-for-trying-to-f6f11f0e15a6",
+    "name": "How I found hundreds of secret passwords and API keys on GitHub",
+    "snippet": "I set up a process to scan thousands of repositories every hour and identify any potential secrets for further review. Here's how I did it.",
+    "host_name": "medium.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://infosecwriteups.com/secrets-in-github-repos-how-hackers-find-api-keys-config-files-859fec498fdf",
+    "name": "Secrets in GitHub Repos: How Hackers Find API Keys & Config Files",
+    "snippet": "Full config files with passwords; Hardcoded passwords/tokens in source code. Even big companies have made these mistakes. Here are some publicly ...",
+    "host_name": "infosecwriteups.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.pentesteracademy.com/hacking-jwt-tokens-leaked-jwt-secret-578955645a04",
+    "name": "Hacking JWT Tokens: Leaked JWT Secret - Pentester Academy Blog",
+    "snippet": "The file named jwt.json contains the signing / secret key. Note: There are 2 files named jwt.json. The contents of both the file are same.",
+    "host_name": "blog.pentesteracademy.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.github.com/actions/security-guides/using-secrets-in-github-actions",
+    "name": "Using secrets in GitHub Actions",
+    "snippet": "Under your repository name, click Settings. · In the \"Security\" section of the sidebar, select Secrets ...",
+    "host_name": "docs.github.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch%3Fv%3DEkkn7y3QPIY",
+    "name": "Github Secrets - How to use and hide api key | token - YouTube",
+    "snippet": "... setup and using .env for sensitive data 02:37 – Running Playwright ... Github Secrets - How to use and hide api key | token | credentials | ... Missing: json exposed",
+    "host_name": "www.youtube.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/orgs/community/discussions/158668",
+    "name": "How to enforce secret detection and prevent accidental commits of",
+    "snippet": "I'm currently working on several projects and I'm concerned about accidentally committing sensitive data like API keys, passwords or private ...",
+    "host_name": "github.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

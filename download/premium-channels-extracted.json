@@ -1,0 +1,582 @@
+{
+  "total": 64,
+  "extracted": "2026-03-24T01:42:18.372Z",
+  "channels": [
+    {
+      "id": "wcb1969-2",
+      "name": "Abu Dhabi Sports 1",
+      "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-3",
+      "name": "Abu Dhabi Sports 2",
+      "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-4",
+      "name": "Abu Dhabi Sports 3",
+      "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-5",
+      "name": "Abu Dhabi Sports 4",
+      "url": "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-6",
+      "name": "ALL Sports",
+      "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-9",
+      "name": "b31N Sports 1",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34718",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "wcb1969-10",
+      "name": "b31N Sports 2",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34719",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "wcb1969-11",
+      "name": "b31N Sports 4",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34721",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "wcb1969-12",
+      "name": "b31N Sports 5",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34722",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "wcb1969-13",
+      "name": "b31N Sports 7",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34724",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "QA"
+    },
+    {
+      "id": "wcb1969-14",
+      "name": "Bahrain Sport 1",
+      "url": "http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "BH"
+    },
+    {
+      "id": "wcb1969-16",
+      "name": "Bek Sports East",
+      "url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-17",
+      "name": "Bek Sports West",
+      "url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-18",
+      "name": "CCTV5",
+      "url": "http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "CN"
+    },
+    {
+      "id": "wcb1969-193",
+      "name": "CCTV5+",
+      "url": "http://39.134.115.163:8080/PLTV-/88888910/224/3221225649/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "CN"
+    },
+    {
+      "id": "wcb1969-410",
+      "name": "DD Sports",
+      "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "IN"
+    },
+    {
+      "id": "wcb1969-414",
+      "name": "Dubai Sports",
+      "url": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-416",
+      "name": "Dubai Sports 1",
+      "url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-418",
+      "name": "Dubai Sports 2",
+      "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-420",
+      "name": "Dubai Sports 3",
+      "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "AE"
+    },
+    {
+      "id": "wcb1969-422",
+      "name": "EDGE sport",
+      "url": "https://edgesports-row-rakuten.amagi.tv/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-423",
+      "name": "Edge Sports",
+      "url": "https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-424",
+      "name": "ESPN",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34653",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-432",
+      "name": "Euro Sport",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34709",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-434",
+      "name": "EUROSPORT 1",
+      "url": "http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/858",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "EU"
+    },
+    {
+      "id": "wcb1969-436",
+      "name": "EUROSPORT 2",
+      "url": "http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/9542",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "EU"
+    },
+    {
+      "id": "wcb1969-438",
+      "name": "Eurosport1 HD",
+      "url": "http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "EU"
+    },
+    {
+      "id": "wcb1969-447",
+      "name": "Eurosport2 HD",
+      "url": "https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "EU"
+    },
+    {
+      "id": "wcb1969-454",
+      "name": "Fight Sports",
+      "url": "http://210.210.155.35/uq2663/h/h05/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-457",
+      "name": "FOX SPORT 1 HD",
+      "url": "http://190.110.99.102:8000/play/a016",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-458",
+      "name": "FOX SPORT 2 HD",
+      "url": "http://190.110.99.102:8000/play/a017",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-459",
+      "name": "FOX SPORT 3 HD",
+      "url": "http://190.110.99.102:8000/play/a018",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-460",
+      "name": "Fox Sports",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/34622",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-466",
+      "name": "Fox Sports News",
+      "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-467",
+      "name": "Fox Sports Premium",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/123874",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-489",
+      "name": "Oman Sport",
+      "url": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "OM"
+    },
+    {
+      "id": "wcb1969-495",
+      "name": "Sharjah Sport",
+      "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-496",
+      "name": "TNT sport 2",
+      "url": "http://190.110.99.102:8000/play/a02k",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-497",
+      "name": "TNT SPORT HD",
+      "url": "http://190.110.99.102:8000/play/a010",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-498",
+      "name": "TNT Sports",
+      "url": "http://dnsplay.xyz:80/aumdkodc/vgasdt13/124014",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-501",
+      "name": "Türkmenistan Sport",
+      "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "TM"
+    },
+    {
+      "id": "wcb1969-506",
+      "name": "Viasat Sport East",
+      "url": "https://persik.tv/stream/3602/287583/10249.m3u8",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-621",
+      "name": "SPORTS PREMIUM 1 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86613",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-622",
+      "name": "SPORTS PREMIUM 2HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86611",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-623",
+      "name": "SPORTS PREMIUM 3 4k",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86610",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-624",
+      "name": "SPORTS PREMIUM 3 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86609",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-625",
+      "name": "SPORTS 1 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86608",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-626",
+      "name": "SPORTS 1 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86607",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-627",
+      "name": "SPORTS 1 HD EN",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86606",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-628",
+      "name": "SPORTS 2 4k",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86605",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-629",
+      "name": "SPORTS 2 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86604",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-630",
+      "name": "SPORTS 3 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86602",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-631",
+      "name": "SPORTS 3 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86601",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-632",
+      "name": "SPORTS 4 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86600",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-633",
+      "name": "SPORTS 4 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86599",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-634",
+      "name": "SPORTS 5 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86597",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-635",
+      "name": "SPORTS 6 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86595",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-636",
+      "name": "SPORTS 7 4K",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86594",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-637",
+      "name": "SPORTS 7 HD²",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/86593",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-638",
+      "name": "SPORT NEWS HEVC",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/109256",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-639",
+      "name": "SPORTS 1 HD FR",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/100694",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-640",
+      "name": "SPORTS 2 HD FR",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/100695",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-641",
+      "name": "Sport XTRA 1 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/102724",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    },
+    {
+      "id": "wcb1969-642",
+      "name": "Sport XTRA 2 HD",
+      "url": "http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/102725</pre></body></html>",
+      "logo": "",
+      "group": "Sports",
+      "language": "English",
+      "country": "US"
+    }
+  ]
+}
