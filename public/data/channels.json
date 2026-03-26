@@ -1066,7 +1066,7 @@
         "Noticias"
       ],
       "altNames": [
-        "Хабар 24"
+        "��абар 24"
       ],
       "network": null,
       "owners": [
@@ -3616,7 +3616,7 @@
       "id": "AbadanTV.ir",
       "name": "Abadan TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/abadan/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -5333,7 +5333,7 @@
       "id": "AflakTV.ir",
       "name": "Aflak TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/aflak/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -5738,7 +5738,7 @@
       "id": "AftabTV.ir",
       "name": "Aftab TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/aftab/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -7553,27 +7553,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "AlKawtharTV.ir",
-      "name": "Al-Kawthar TV",
-      "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8",
-      "country": "Iran",
-      "countryCode": "IR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Religioso",
-        "Cultura"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Islamic Republic of Iran Broadcasting"
-      ]
     },
     {
       "id": "AlMahdiTV.us",
@@ -9841,7 +9820,7 @@
       "id": "AmouzeshTV.ir",
       "name": "Amouzesh TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226151/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -15718,7 +15697,7 @@
       "id": "BaranTV.ir",
       "name": "Baran TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/baran/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -19467,6 +19446,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "BluRadio.co",
+      "name": "Blu Radio",
+      "logo": null,
+      "url": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Caracol Televisión S.A."
+      ]
     },
     {
       "id": "BlueBloods.us",
@@ -47051,6 +47050,27 @@
       "owners": []
     },
     {
+      "id": "ExtremeSportsChannelPolska.pl",
+      "name": "Extreme Sports Channel Polska",
+      "logo": null,
+      "url": "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc124/extremesportshdraw/extremesportshdraw.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "AMC Networks Inc.",
+        "Extreme International"
+      ]
+    },
+    {
       "id": "F1Channel.ie",
       "name": "F1 Channel",
       "logo": null,
@@ -47612,7 +47632,7 @@
       "id": "FarsTV.ir",
       "name": "Fars TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/fars/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -55202,24 +55222,6 @@
       "owners": []
     },
     {
-      "id": "HauntTV.us",
-      "name": "Haunt TV",
-      "logo": null,
-      "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Hayat.ba",
       "name": "Hayat",
       "logo": null,
@@ -61105,7 +61107,7 @@
       "id": "IRIB1.ir",
       "name": "IRIB 1",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -61127,7 +61129,7 @@
       "id": "IRIB2.ir",
       "name": "IRIB 2",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -61149,7 +61151,7 @@
       "id": "IRIB3.ir",
       "name": "IRIB 3",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -61171,7 +61173,7 @@
       "id": "IRIB4.ir",
       "name": "IRIB 4",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -61193,7 +61195,7 @@
       "id": "IRIBMostanad.ir",
       "name": "IRIB Mostanad",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -61213,7 +61215,7 @@
       "id": "IRIBOmid.ir",
       "name": "IRIB Omid",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -61273,7 +61275,7 @@
       "id": "IRINN.ir",
       "name": "IRINN",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/irinn/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -61295,7 +61297,7 @@
       "id": "IRINN2.ir",
       "name": "IRINN 2",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -61412,7 +61414,7 @@
       "id": "IsfahanTV.ir",
       "name": "Isfahan TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226652/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -66851,7 +66853,7 @@
       "id": "KermanTV.ir",
       "name": "Kerman TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226856/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/kerman/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -67365,7 +67367,7 @@
       "id": "KhozestanTV.ir",
       "name": "Khozestan TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226415/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -67829,6 +67831,24 @@
       "owners": [
         "SPI International Polska"
       ]
+    },
+    {
+      "id": "KinoPolskaMuzyka.pl",
+      "name": "Kino Polska Muzyka",
+      "logo": null,
+      "url": "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc122/kinopolskamuzykaraw/kinopolskamuzykaraw.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "KinoTV.pl",
@@ -69171,7 +69191,7 @@
       "id": "KordestanTV.ir",
       "name": "Kordestan TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -73292,42 +73312,6 @@
       "altNames": [
         "ЛенТВ24"
       ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "LenzAnimation.ir",
-      "name": "Lenz Animation",
-      "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221227043/index.m3u8",
-      "country": "Iran",
-      "countryCode": "IR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "LenzFilm.ir",
-      "name": "Lenz Film",
-      "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8",
-      "country": "Iran",
-      "countryCode": "IR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -85654,7 +85638,7 @@
       "id": "NamayeshTV.ir",
       "name": "Namayesh TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -85935,7 +85919,7 @@
       "id": "Nasim.ir",
       "name": "Nasim",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/nasim/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -86389,24 +86373,6 @@
       "section": "general",
       "categories": [
         "Cultura"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "NatureTime.es",
-      "name": "NatureTime",
-      "logo": null,
-      "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Documentales"
       ],
       "altNames": [],
       "network": null,
@@ -89176,26 +89142,6 @@
       ]
     },
     {
-      "id": "Nickelodeon.br",
-      "name": "Nickelodeon",
-      "logo": null,
-      "url": "http://x1co.com.br:8080/hls/0/stream.m3u8",
-      "country": "Brazil",
-      "countryCode": "BR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": "Nickelodeon",
-      "owners": [
-        "Paramount Networks Americas"
-      ]
-    },
-    {
       "id": "Nickelodeon.de",
       "name": "Nickelodeon",
       "logo": null,
@@ -89398,7 +89344,7 @@
       "id": "NickOnline.br",
       "name": "NickOnline",
       "logo": null,
-      "url": "http://x1co.com.br:8080/hls/stream.m3u8",
+      "url": "https://x1co.com.br:8443/hls/stream.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -92761,7 +92707,7 @@
       "id": "OfoghTV.ir",
       "name": "Ofogh TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -98063,86 +98009,6 @@
       ]
     },
     {
-      "id": "PersianaSports.fr",
-      "name": "Persiana Sports",
-      "logo": null,
-      "url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports/chunks.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Persiana Media Group"
-      ]
-    },
-    {
-      "id": "PersianaSports2.fr",
-      "name": "Persiana Sports 2",
-      "logo": null,
-      "url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports2/chunks.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Persiana Media Group"
-      ]
-    },
-    {
-      "id": "PersianaSports3.fr",
-      "name": "Persiana Sports 3",
-      "logo": null,
-      "url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports3/chunks.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Persiana Media Group"
-      ]
-    },
-    {
-      "id": "PersianaSports4.fr",
-      "name": "Persiana Sports 4",
-      "logo": null,
-      "url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports4/chunks.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Persiana Media Group"
-      ]
-    },
-    {
       "id": "PersianaTeen.fr",
       "name": "Persiana Teen",
       "logo": null,
@@ -98279,7 +98145,7 @@
         "General"
       ],
       "altNames": [
-        "Первый городской канал",
+        "Первый городс��ой канал",
         "Нова Одеса",
         "ТА-Одеса"
       ],
@@ -100808,6 +100674,27 @@
       ]
     },
     {
+      "id": "PolsatJimJam.pl",
+      "name": "Polsat JimJam",
+      "logo": null,
+      "url": "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc119/polsatjimjamraw/polsatjimjamraw.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Cyfrowy Polsat S.A.",
+        "AMC Networks Inc."
+      ]
+    },
+    {
       "id": "PolsatNews.pl",
       "name": "Polsat News",
       "logo": null,
@@ -100982,7 +100869,7 @@
       "id": "PooyaTV.ir",
       "name": "Pooya TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -101997,6 +101884,24 @@
       "section": "general",
       "categories": [
         "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PrimeNews.in",
+      "name": "Prime News",
+      "logo": null,
+      "url": "https://mumt02.tangotv.in/PRIMENEWS/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -103615,7 +103520,7 @@
       "id": "QazvinTV.ir",
       "name": "Qazvin TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226888/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -104017,7 +103922,7 @@
       "id": "QuranTV.ir",
       "name": "Quran TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -110542,6 +110447,24 @@
       "owners": []
     },
     {
+      "id": "RomanceTV.pl",
+      "name": "Romance TV",
+      "logo": null,
+      "url": "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc116/romancetvhdraw/romancetvhdraw.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "RomaniaTV.ro",
       "name": "Romania TV",
       "logo": null,
@@ -110694,7 +110617,7 @@
         "Películas"
       ],
       "altNames": [
-        "روت��نا سينما السعودية"
+        "روتانا سينما السعودية"
       ],
       "network": null,
       "owners": []
@@ -113267,7 +113190,10 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Ángel Costta García",
+        "Gustavo Alarcón"
+      ]
     },
     {
       "id": "RTV.at",
@@ -115227,7 +115153,7 @@
       "id": "SahandTV.ir",
       "name": "Sahand TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/sahand/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -115342,7 +115268,7 @@
       "id": "SalamatTV.ir",
       "name": "Salamat TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226152/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/salamat/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -117508,7 +117434,7 @@
       "id": "SepehrTV.ir",
       "name": "Sepehr TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226161/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -118584,6 +118510,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ShekinahTV.in",
+      "name": "Shekinah TV",
+      "logo": null,
+      "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Shekinah Communications Limited"
+      ]
     },
     {
       "id": "ShelanuTV.il",
@@ -123375,30 +123321,6 @@
       "owners": []
     },
     {
-      "id": "StarPlus.in",
-      "name": "StarPlus",
-      "logo": null,
-      "url": "https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Star Plus"
-      ],
-      "network": "JioStar",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
       "id": "STARTAir.ru",
       "name": "START Air",
       "logo": null,
@@ -124522,6 +124444,24 @@
       "owners": []
     },
     {
+      "id": "StudioMedTV.pl",
+      "name": "StudioMed TV",
+      "logo": null,
+      "url": "https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc112/studiomedtvhdraw/studiomedtvhdraw.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "StudiyaFakt.ru",
       "name": "Studiya Fakt",
       "logo": null,
@@ -124620,6 +124560,24 @@
       "owners": [
         "Shanghai Media Group"
       ]
+    },
+    {
+      "id": "STVHaryanaNews.in",
+      "name": "STV Haryana News",
+      "logo": null,
+      "url": "https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "STVNewsandGeneral.cn",
@@ -126578,10 +126536,28 @@
       "owners": []
     },
     {
+      "id": "TaazaTV.in",
+      "name": "Taaza TV",
+      "logo": null,
+      "url": "https://live.we2live.in/taazatv/live/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TabarestanTV.ir",
       "name": "Tabarestan TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226786/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -126978,7 +126954,7 @@
       "id": "Tamasha.ir",
       "name": "Tamasha",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -128243,7 +128219,7 @@
       "id": "TehranTV.ir",
       "name": "Tehran TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -131515,24 +131491,6 @@
       "owners": []
     },
     {
-      "id": "Telesud.fr",
-      "name": "Telesud",
-      "logo": null,
-      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telesud.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TelesudTrapani.it",
       "name": "Telesud Trapani",
       "logo": null,
@@ -132253,60 +132211,6 @@
       "altNames": [
         "Televizija Uršlja"
       ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TelewebionSport.ir",
-      "name": "Telewebion Sport",
-      "logo": null,
-      "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://gg.hls2.xyz/live/Twsport1/chunks.m3u8",
-      "country": "Iran",
-      "countryCode": "IR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TelewebionSport2.ir",
-      "name": "Telewebion Sport 2",
-      "logo": null,
-      "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://gg.hls2.xyz/live/Twsport2/chunks.m3u8",
-      "country": "Iran",
-      "countryCode": "IR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TelewebionSport3.ir",
-      "name": "Telewebion Sport 3",
-      "logo": null,
-      "url": "https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://gg.hls2.xyz/live/Twsport3/chunks.m3u8",
-      "country": "Iran",
-      "countryCode": "IR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -150479,7 +150383,7 @@
       "id": "VarzeshTV.ir",
       "name": "Varzesh TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -152071,6 +151975,24 @@
       "owners": [
         "Raj Television Network"
       ]
+    },
+    {
+      "id": "VistaarNews.in",
+      "name": "Vistaar News",
+      "logo": null,
+      "url": "https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "VisualRadio.it",
@@ -154632,7 +154554,7 @@
       "id": "WestAzerbaijanTV.ir",
       "name": "West Azerbaijan TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -158592,7 +158514,7 @@
       "id": "YazdTV.ir",
       "name": "Yazd TV",
       "logo": null,
-      "url": "https://lenz.splus.ir/PLTV/88888888/224/3221227023/index.m3u8",
+      "url": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -162349,12 +162271,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 264
+      "count": 258
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 338
+      "count": 337
     },
     {
       "id": "series",
@@ -162364,7 +162286,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 248
+      "count": 247
     },
     {
       "id": "español",
@@ -162374,31 +162296,31 @@
     {
       "id": "general",
       "name": "General",
-      "count": 5863
+      "count": 5867
     }
   ],
   "stats": {
-    "total": 39308,
-    "withStreams": 8327,
+    "total": 39319,
+    "withStreams": 8323,
     "spanish": 1454,
     "adult": 78,
     "bySection": {
-      "general": 5863,
+      "general": 5867,
       "español": 1377,
-      "infantil": 248,
+      "infantil": 247,
       "series": 159,
-      "peliculas": 338,
-      "deportes": 264
+      "peliculas": 337,
+      "deportes": 258
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1414,
+        "count": 1413,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 605,
+        "count": 609,
         "name": "India"
       },
       {
@@ -162407,14 +162329,14 @@
         "name": "Russia"
       },
       {
-        "code": "ES",
-        "count": 248,
-        "name": "Spain"
-      },
-      {
         "code": "IT",
         "count": 248,
         "name": "Italy"
+      },
+      {
+        "code": "ES",
+        "count": 247,
+        "name": "Spain"
       },
       {
         "code": "DO",
@@ -162432,17 +162354,17 @@
         "name": "Germany"
       },
       {
-        "code": "FR",
-        "count": 181,
-        "name": "France"
-      },
-      {
         "code": "UK",
         "count": 179,
         "name": "United Kingdom"
+      },
+      {
+        "code": "FR",
+        "count": 176,
+        "name": "France"
       }
     ]
   },
-  "lastUpdated": "2026-03-25T00:59:13.676Z",
+  "lastUpdated": "2026-03-26T01:04:06.778Z",
   "source": "orion-stream"
 }
