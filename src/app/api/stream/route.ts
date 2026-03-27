@@ -1,12 +1,12 @@
 // Stream Proxy API - Node.js runtime for full functionality
-// Proxies HLS streams and rewrites m3u8 playlists to avoid CORS
+// Proxies HLS streams, follows redirects, and rewrites m3u8 playlists
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
-const STREAM_TIMEOUT = 20000;
+const STREAM_TIMEOUT = 25000;
+const MAX_REDIRECTS = 5;
 
-// Detect content type from URL or response
 function getContentType(url: string, responseContentType?: string): string {
   if (responseContentType && !responseContentType.includes('octet-stream')) {
     return responseContentType;
@@ -33,13 +33,11 @@ function getContentType(url: string, responseContentType?: string): string {
   return 'application/vnd.apple.mpegurl';
 }
 
-// Check if URL is an m3u8 playlist
 function isM3u8(url: string, contentType: string): boolean {
   const urlLower = url.toLowerCase();
   return urlLower.includes('.m3u8') || contentType.includes('mpegurl');
 }
 
-// Rewrite m3u8 content to proxy all URLs
 function rewriteM3u8(content: string, baseUrl: string): string {
   const lines = content.split('\n');
   
@@ -51,9 +49,7 @@ function rewriteM3u8(content: string, baseUrl: string): string {
     return lines.map(line => {
       const trimmed = line.trim();
       
-      // Skip comments and empty lines (but keep them)
       if (!trimmed || trimmed.startsWith('#')) {
-        // Handle URI attributes in tags like #EXT-X-KEY:METHOD=AES-128,URI="..."
         if (trimmed.includes('URI="')) {
           return trimmed.replace(/URI="([^"]+)"/g, (match, uri) => {
             const absoluteUrl = resolveUrl(uri, baseOrigin, basePath);
@@ -63,7 +59,6 @@ function rewriteM3u8(content: string, baseUrl: string): string {
         return line;
       }
       
-      // This is a URL line - make it absolute and proxy it
       const absoluteUrl = resolveUrl(trimmed, baseOrigin, basePath);
       return `/api/stream?url=${encodeURIComponent(absoluteUrl)}`;
     }).join('\n');
@@ -73,7 +68,6 @@ function rewriteM3u8(content: string, baseUrl: string): string {
   }
 }
 
-// Resolve relative URLs to absolute
 function resolveUrl(url: string, baseOrigin: string, basePath: string): string {
   if (url.startsWith('http://') || url.startsWith('https://')) {
     return url;
@@ -87,6 +81,68 @@ function resolveUrl(url: string, baseOrigin: string, basePath: string): string {
   return baseOrigin + basePath + url;
 }
 
+// Fetch following redirects manually to track final URL
+async function fetchWithRedirects(url: string, maxRedirects: number = MAX_REDIRECTS): Promise<{
+  response: Response;
+  finalUrl: string;
+}> {
+  let currentUrl = url;
+  let redirects = 0;
+
+  while (redirects <= maxRedirects) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), STREAM_TIMEOUT);
+
+    try {
+      console.log(`[Proxy] Fetching: ${currentUrl.substring(0, 60)}...`);
+      
+      const response = await fetch(currentUrl, {
+        signal: controller.signal,
+        headers: {
+          'User-Agent': 'VLC/3.0.0 LibVLC/3.0.0',
+          'Accept': '*/*',
+          'Accept-Encoding': 'gzip, deflate',
+          'Connection': 'keep-alive',
+          'Icy-MetaData': '1',
+        },
+        redirect: 'manual', // Handle redirects manually to track final URL
+      });
+
+      clearTimeout(timeoutId);
+
+      // Check for redirect
+      if (response.status === 301 || response.status === 302 || response.status === 307 || response.status === 308) {
+        const location = response.headers.get('location');
+        if (location) {
+          console.log(`[Proxy] Redirect ${response.status} -> ${location.substring(0, 60)}...`);
+          
+          // Handle relative redirects
+          if (location.startsWith('/')) {
+            const baseUrl = new URL(currentUrl);
+            currentUrl = baseUrl.origin + location;
+          } else if (location.startsWith('http')) {
+            currentUrl = location;
+          } else {
+            const baseUrl = new URL(currentUrl);
+            currentUrl = baseUrl.origin + baseUrl.pathname.substring(0, baseUrl.pathname.lastIndexOf('/') + 1) + location;
+          }
+          
+          redirects++;
+          continue;
+        }
+      }
+
+      // Not a redirect, return the response
+      return { response, finalUrl: currentUrl };
+    } catch (error) {
+      clearTimeout(timeoutId);
+      throw error;
+    }
+  }
+
+  throw new Error('Too many redirects');
+}
+
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const streamUrl = searchParams.get('url');
@@ -96,15 +152,11 @@ export async function GET(request: Request) {
       JSON.stringify({ error: 'Missing url parameter' }),
       {
         status: 400,
-        headers: {
-          'Content-Type': 'application/json',
-          'Access-Control-Allow-Origin': '*',
-        },
+        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
       }
     );
   }
 
-  // Validate URL
   try {
     new URL(streamUrl);
   } catch {
@@ -112,75 +164,43 @@ export async function GET(request: Request) {
       JSON.stringify({ error: 'Invalid URL' }),
       {
         status: 400,
-        headers: {
-          'Content-Type': 'application/json',
-          'Access-Control-Allow-Origin': '*',
-        },
+        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
       }
     );
   }
 
-  const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), STREAM_TIMEOUT);
-
   try {
-    console.log(`[Stream Proxy] Fetching: ${streamUrl.substring(0, 80)}...`);
-
-    const response = await fetch(streamUrl, {
-      signal: controller.signal,
-      headers: {
-        'User-Agent': 'VLC/3.0.0 LibVLC/3.0.0',
-        'Accept': '*/*',
-        'Accept-Encoding': 'gzip, deflate',
-        'Connection': 'keep-alive',
-        'Icy-MetaData': '1',
-      },
-    });
-
-    clearTimeout(timeoutId);
+    const { response, finalUrl } = await fetchWithRedirects(streamUrl);
 
     if (!response.ok) {
-      console.log(`[Stream Proxy] Error: ${response.status} ${response.statusText}`);
+      console.log(`[Proxy] Error: ${response.status} ${response.statusText}`);
       return new Response(
-        JSON.stringify({
-          error: 'Stream unavailable',
-          status: response.status,
-          statusText: response.statusText,
-        }),
+        JSON.stringify({ error: 'Stream unavailable', status: response.status }),
         {
           status: response.status >= 500 ? 502 : response.status,
-          headers: {
-            'Content-Type': 'application/json',
-            'Access-Control-Allow-Origin': '*',
-          },
+          headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
         }
       );
     }
 
     const responseContentType = response.headers.get('content-type') || '';
-    const contentType = getContentType(streamUrl, responseContentType);
-    console.log(`[Stream Proxy] Success: ${contentType}`);
+    const contentType = getContentType(finalUrl, responseContentType);
+    console.log(`[Proxy] Success: ${contentType} from ${finalUrl.substring(0, 50)}...`);
 
     // For m3u8 playlists, rewrite URLs to use proxy
-    if (isM3u8(streamUrl, contentType)) {
+    if (isM3u8(finalUrl, contentType)) {
       const text = await response.text();
       
       if (!text || text.length < 10) {
-        console.log('[Stream Proxy] Empty m3u8 response');
+        console.log('[Proxy] Empty m3u8 response');
         return new Response(
           JSON.stringify({ error: 'Empty playlist' }),
-          {
-            status: 502,
-            headers: {
-              'Content-Type': 'application/json',
-              'Access-Control-Allow-Origin': '*',
-            },
-          }
+          { status: 502, headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' } }
         );
       }
       
-      const rewritten = rewriteM3u8(text, streamUrl);
-      console.log('[Stream Proxy] Rewrote m3u8 playlist');
+      const rewritten = rewriteM3u8(text, finalUrl);
+      console.log('[Proxy] Rewrote m3u8 playlist, length:', rewritten.length);
       
       return new Response(rewritten, {
         status: 200,
@@ -203,47 +223,27 @@ export async function GET(request: Request) {
         'Access-Control-Allow-Methods': 'GET, OPTIONS',
         'Access-Control-Allow-Headers': '*',
         'Cache-Control': 'no-cache',
-        'Connection': 'keep-alive',
       },
     });
   } catch (error) {
-    clearTimeout(timeoutId);
-
-    if (error instanceof Error && error.name === 'AbortError') {
-      console.log(`[Stream Proxy] Timeout after ${STREAM_TIMEOUT}ms`);
-      return new Response(
-        JSON.stringify({
-          error: 'Stream timeout',
-          message: `Stream did not respond within ${STREAM_TIMEOUT / 1000}s`,
-        }),
-        {
-          status: 504,
-          headers: {
-            'Content-Type': 'application/json',
-            'Access-Control-Allow-Origin': '*',
-          },
-        }
-      );
-    }
-
-    console.error(`[Stream Proxy] Error:`, error);
+    console.error(`[Proxy] Error:`, error);
+    
+    const errorMessage = error instanceof Error ? error.message : 'Unknown error';
+    const isTimeout = errorMessage.includes('abort') || errorMessage.includes('timeout');
+    
     return new Response(
       JSON.stringify({
-        error: 'Stream fetch failed',
-        message: error instanceof Error ? error.message : 'Unknown error',
+        error: isTimeout ? 'Stream timeout' : 'Stream fetch failed',
+        message: errorMessage,
       }),
       {
-        status: 502,
-        headers: {
-          'Content-Type': 'application/json',
-          'Access-Control-Allow-Origin': '*',
-        },
+        status: isTimeout ? 504 : 502,
+        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
       }
     );
   }
 }
 
-// Handle CORS preflight
 export async function OPTIONS() {
   return new Response(null, {
     status: 204,
