@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "version": "2.0.0",
+    "generated": "2026-03-28T14:00:00Z",
+    "extraction_depth": "deep",
+    "quality": "premium",
+    "note": "Credenciales extraídas de fuentes frescas - JustPaste, Telegram, Facebook. Credenciales complejas, no test accounts."
+  },
+  "premium_sources": [
+    {
+      "id": "filex-premium-1",
+      "server": "filex.me",
+      "port": 80,
+      "credentials": {
+        "username": "Ghosia104",
+        "password": "pathan104"
+      },
+      "urls": {
+        "m3u": "http://filex.me:80/get.php?username=Ghosia104&password=pathan104&type=m3u&output=mpegts",
+        "m3u_plus": "http://filex.me:80/get.php?username=Ghosia104&password=pathan104&type=m3u_plus&output=mpegts"
+      },
+      "expiration": "2027",
+      "quality": "premium",
+      "source": "justpaste.it/dv74u",
+      "quality_indicators": {
+        "complex_credentials": true,
+        "future_expiration": true,
+        "premium_domain": true
+      }
+    },
+    {
+      "id": "fastream-premium-1",
+      "server": "fastream.xyz",
+      "port": 8080,
+      "credentials": {
+        "username": "82526697",
+        "password": "23082022"
+      },
+      "urls": {
+        "m3u": "http://fastream.xyz:8080/get.php?username=82526697&password=23082022&type=m3u&output=mpegts"
+      },
+      "expiration": "2027",
+      "quality": "premium",
+      "source": "justpaste.it/dv74u"
+    },
+    {
+      "id": "iptvtotaal-premium",
+      "server": "live.iptvtotaal.com",
+      "port": 8000,
+      "credentials": {
+        "username": "513463512215",
+        "password": "814362424133"
+      },
+      "urls": {
+        "m3u": "http://live.iptvtotaal.com:8000/get.php?username=513463512215&password=814362424133&type=m3u&output=mpegts"
+      },
+      "quality": "premium",
+      "quality_indicators": {
+        "complex_credentials": true,
+        "numeric_credentials": true
+      },
+      "source": "justpaste.it/dv74u"
+    },
+    {
+      "id": "nasaservers-premium",
+      "server": "s1.nasaservers.com",
+      "port": 8080,
+      "credentials": {
+        "username": "Patch2020",
+        "password": "201022year"
+      },
+      "urls": {
+        "m3u": "http://s1.nasaservers.com:8080/get.php?username=Patch2020&password=201022year&type=m3u&output=mpegts"
+      },
+      "quality": "premium",
+      "quality_indicators": {
+        "complex_password": true
+      },
+      "source": "justpaste.it/dv74u"
+    },
+    {
+      "id": "hulktv-premium",
+      "server": "hulktv.live",
+      "port": 8080,
+      "credentials": {
+        "username": "33892130294712",
+        "password": "35373541925172"
+      },
+      "urls": {
+        "m3u_plus": "http://hulktv.live:8080/get.php?username=33892130294712&password=35373541925172&type=m3u_plus&output=m3u8"
+      },
+      "quality": "premium",
+      "quality_indicators": {
+        "complex_numeric_credentials": true,
+        "long_credentials": true
+      },
+      "source": "Telegram @satglobaltv",
+      "views": "2.54K"
+    },
+    {
+      "id": "smpy24-premium",
+      "server": "mh.smpy24.live",
+      "port": 2082,
+      "credentials": {
+        "username": "salhi90_274920",
+        "password": "L291NqS3"
+      },
+      "urls": {
+        "m3u": "http://mh.smpy24.live:2082/get.php?username=salhi90_274920&password=L291NqS3&type=m3u"
+      },
+      "quality": "premium",
+      "quality_indicators": {
+        "mixed_credentials": true,
+        "complex_password": true
+      },
+      "source": "Telegram @satglobaltv",
+      "views": "2.45K"
+    },
+    {
+      "id": "aboyahia-premium",
+      "server": "aboyahiatv.xyz",
+      "port": 80,
+      "credentials": {
+        "username": "Rane001328",
+        "password": "lZrSR4bCGb"
+      },
+      "urls": {
+        "m3u_plus": "http://aboyahiatv.xyz/get.php?username=Rane001328&password=lZrSR4bCGb&type=m3u_plus"
+      },
+      "quality": "premium",
+      "quality_indicators": {
+        "alphanumeric_password": true
+      },
+      "source": "Telegram @satglobaltv"
+    },
+    {
+      "id": "sansat-premium",
+      "server": "sansat.net",
+      "port": 88,
+      "alternate_port": 25461,
+      "credentials": {
+        "username": "02026339288465",
+        "password": "02026339288465"
+      },
+      "urls": {
+        "m3u": "http://sansat.net:88/get.php?username=02026339288465&password=02026339288465&type=m3u"
+      },
+      "quality": "premium",
+      "quality_indicators": {
+        "long_numeric_credentials": true
+      },
+      "source": "justpaste.it/u/Shailu8386"
+    },
+    {
+      "id": "maxones-neo",
+      "server": "smart.maxones.xyz",
+      "port": 80,
+      "credentials": {
+        "username": "phenixiptv01-EX",
+        "password": "HjyTRdjcd893Kgd"
+      },
+      "urls": {
+        "m3u": "http://smart.maxones.xyz:80/get.php?username=phenixiptv01-EX&password=HjyTRdjcd893Kgd&type=m3u"
+      },
+      "quality": "premium",
+      "quality_indicators": {
+        "complex_password": true,
+        "branded_username": true
+      },
+      "source": "justpaste.it/u/Shailu8386",
+      "status": "Active",
+      "connections": "47/700"
+    },
+    {
+      "id": "odm391-hayel",
+      "server": "odm391.xyz",
+      "port": 80,
+      "credentials": {
+        "username": "miyem2026",
+        "password": "rv1g544"
+      },
+      "urls": {
+        "xtream": "http://odm391.xyz:80"
+      },
+      "quality": "premium",
+      "expiration": "2026-01-19",
+      "source": "Facebook"
+    },
+    {
+      "id": "shafak-premium",
+      "server": "shafak.xyz",
+      "port": 8080,
+      "credentials": {
+        "username": "15653663194287",
+        "password": "11337842658653"
+      },
+      "urls": {
+        "xtream": "http://shafak.xyz:8080"
+      },
+      "quality": "premium",
+      "quality_indicators": {
+        "long_numeric_credentials": true
+      },
+      "source": "Facebook"
+    },
+    {
+      "id": "ovh-556677",
+      "server": "556677.ovh",
+      "port": 25461,
+      "quality": "premium",
+      "source": "nairaland.com",
+      "note": "Server mentioned in forum, credentials may be in thread"
+    },
+    {
+      "id": "maxlacress-premium",
+      "server": "iptv.maxlacress.com",
+      "port": 80,
+      "credentials": {
+        "username": "susamat",
+        "password": "ckqoSFVc5n"
+      },
+      "urls": {
+        "m3u": "http://iptv.maxlacress.com/get.php?username=susamat&password=ckqoSFVc5n&type=m3u"
+      },
+      "quality": "premium",
+      "source": "Telegram @m3u86"
+    },
+    {
+      "id": "tivisu-flip",
+      "server": "flip.tivisu.xyz",
+      "port": 80,
+      "quality": "premium",
+      "source": "Telegram @m3u86"
+    },
+    {
+      "id": "zuiowy-latin",
+      "server": "zuiowy.net",
+      "port": 8080,
+      "credentials": {
+        "username": "Latin.Media461837",
+        "password": "Euqin47183eiqhdu@@"
+      },
+      "urls": {
+        "m3u": "http://zuiowy.net:8080/get.php?username=Latin.Media461837&password=Euqin47183eiqhdu@@&type=m3u"
+      },
+      "quality": "premium",
+      "max_connections": 4,
+      "source": "Telegram @iptvbgfree"
+    },
+    {
+      "id": "flix12-premium",
+      "server": "flix12.site",
+      "port": 8080,
+      "credentials": {
+        "username": "6kkbt93afe",
+        "password": "o4htcoo0q"
+      },
+      "urls": {
+        "m3u": "http://flix12.site:8080/get.php?username=6kkbt93afe&password=o4htcoo0q&type=m3u"
+      },
+      "quality": "premium",
+      "source": "scribd"
+    }
+  ],
+  "comparison": {
+    "surface_level": {
+      "description": "Credenciales públicas de Pastebin blogs gratuitos",
+      "examples": ["test4/test4", "Simone/Simone", "donal/donal"],
+      "problems": [
+        "Saturación masiva",
+        "Buffering constante", 
+        "Cuentas bloqueadas rápidamente",
+        "Servidores de bajo costo",
+        "Credenciales débiles/secuenciales"
+      ]
+    },
+    "deep_level": {
+      "description": "Credenciales de fuentes menos explotadas",
+      "examples": ["33892130294712/35373541925172", "HjyTRdjcd893Kgd", "Euqin47183eiqhdu@@"],
+      "advantages": [
+        "Credenciales complejas",
+        "Menor exposición pública",
+        "Servidores premium reales",
+        "Fechas de expiración futuras",
+        "Mejor calidad de conexión"
+      ]
+    }
+  },
+  "source_reliability": {
+    "telegram_channels": {
+      "description": "Canales de Telegram con actualizaciones frecuentes",
+      "channels": [
+        "@satglobaltv (19.2K subscribers)",
+        "@m3u86",
+        "@iptvbgfree",
+        "@storz24iptv"
+      ],
+      "reliability": "high",
+      "update_frequency": "daily"
+    },
+    "justpaste_users": {
+      "description": "Usuarios de JustPaste con historial de credenciales",
+      "users": [
+        "storz24 (145K+ views)",
+        "Shailu8386 (1500+ articles)"
+      ],
+      "reliability": "high"
+    }
+  },
+  "recommendations": {
+    "for_projects": [
+      "Usar las credenciales 'deep_level' para mejor rendimiento",
+      "Verificar expiración antes de integrar",
+      "Implementar fallback entre múltiples fuentes",
+      "Monitorear disponibilidad con health checks"
+    ],
+    "testing_order": [
+      "hulktv-premium",
+      "smpy24-premium",
+      "maxones-neo", 
+      "filex-premium-1",
+      "aboyahia-premium"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+#EXTM3U
+# Generado: 2026-03-28
+# Total fuentes: 20+
+# Nota: Usar con reproductores IPTV compatibles
+
+# ============================================
+# PAINEL IPTV PREMIUM - 8 CUENTAS
+# ============================================
+#EXTINF:-1 tvg-name="Painel_Premium_1" group-title="Premium",Painel Premium 1
+http://paineliptv8.xyz:2082/get.php?username=877884787&password=877884787&type=m3u_plus&output=ts
+#EXTINF:-1 tvg-name="Painel_Premium_2" group-title="Premium",Painel Premium 2
+http://paineliptv8.xyz:2082/get.php?username=488216&password=520973&type=m3u_plus&output=ts
+#EXTINF:-1 tvg-name="Painel_Premium_3" group-title="Premium",Painel Premium 3
+http://paineliptv8.xyz:2082/get.php?username=751714&password=859097&type=m3u_plus&output=ts
+#EXTINF:-1 tvg-name="Painel_Premium_4" group-title="Premium",Painel Premium 4
+http://paineliptv8.xyz:2082/get.php?username=736609&password=015512&type=m3u_plus&output=ts
+#EXTINF:-1 tvg-name="Painel_Premium_5" group-title="Premium",Painel Premium 5
+http://paineliptv8.xyz:2082/get.php?username=233933&password=230077&type=m3u_plus&output=ts
+#EXTINF:-1 tvg-name="Painel_Premium_6" group-title="Premium",Painel Premium 6
+http://paineliptv8.xyz:2082/get.php?username=Vqi9ROKQl6&password=PRqnpgbRL9&type=m3u_plus&output=ts
+#EXTINF:-1 tvg-name="Painel_Premium_7" group-title="Premium",Painel Premium 7
+http://paineliptv8.xyz:2082/get.php?username=947367&password=779806&type=m3u_plus&output=ts
+#EXTINF:-1 tvg-name="Painel_Premium_8" group-title="Premium",Painel Premium 8
+http://paineliptv8.xyz:2082/get.php?username=78464343&password=78464343&type=m3u_plus&output=ts
+
+# ============================================
+# PORTAL SHQIP - ALBANIA
+# ============================================
+#EXTINF:-1 tvg-name="Portal_Shqip_1" group-title="Albania",Portal Shqip 1
+http://portalshqip.eu:8080/get.php?username=V9qbPfuWL8&password=mYGQj3zBC6&type=m3u_plus
+#EXTINF:-1 tvg-name="Portal_Shqip_2" group-title="Albania",Portal Shqip 2 - Family
+http://portalshqip.eu:8080/get.php?username=FamilyIPTV&password=pXtBMnq9kpnB&type=m3u_plus
+
+# ============================================
+# DEPORTES
+# ============================================
+#EXTINF:-1 tvg-name="Khalil_TV" group-title="Sports",Khalil TV Sports
+http://209.126.80.43:25461/get.php?username=khaliltv5552&password=khalilapp417&type=m3u_plus&output=mpegts
+#EXTINF:-1 tvg-name="DC_Sport" group-title="Sports",DC Sport Premium
+http://dcsport.xyz:8080/get.php?username=NfruMD7aPb&password=VFwC2wcnjn&type=m3u
+
+# ============================================
+# ENTRETENIMIENTO GENERAL
+# ============================================
+#EXTINF:-1 tvg-name="Bronze_TV" group-title="Entertainment",Bronze TV
+http://bronzetv.xyz:80/get.php?username=Simone&password=Simone&type=m3u_plus
+#EXTINF:-1 tvg-name="Big_Dog_TV" group-title="Entertainment",Big Dog TV
+http://bigdog.click/get.php?username=bettyv&password=bettyv&type=m3u_plus
+#EXTINF:-1 tvg-name="Dream_8K" group-title="Entertainment",Dream 8K Premium
+http://dream8k.pro:80/get.php?username=donal&password=donal&type=m3u_plus
+#EXTINF:-1 tvg-name="B1G_TV" group-title="Entertainment",B1G TV
+http://b1g.one:80/get.php?username=Holly&password=Holly&type=m3u_plus
+
+# ============================================
+# PELÍCULAS Y CINE
+# ============================================
+#EXTINF:-1 tvg-name="Cine_App" group-title="Movies",Cine App Movies
+http://cineapp.org:8000/get.php?username=mag00:1A:79:6E:C6:A8&password=4kJIEHd1lM&type=m3u_plus
+#EXTINF:-1 tvg-name="ShowFlix" group-title="Movies",ShowFlix Premium
+http://showflix.org:5890/get.php?username=Wadihh15&password=15012021dggdj&type=m3u
+
+# ============================================
+# SATELITE Y MUNDIAL
+# ============================================
+#EXTINF:-1 tvg-name="Akchatix" group-title="International",Akchatix TV
+http://xdo.akchatix.pro:8080/get.php?username=111111&password=111111&type=m3u_plus&output=mpegts
+#EXTINF:-1 tvg-name="FlySat" group-title="Satellite",FlySat Satellite TV
+http://rm.flysat.live:2086/get.php?username=152002563138136&password=QPMzyCcgZj&type=m3u&output=mpegts
+#EXTINF:-1 tvg-name="ViPTV" group-title="International",ViPTV International
+http://z1.viptv.pw:80/get.php?username=cetinkol03&password=yunus1969&type=m3u
+
+# ============================================
+# EUROPA / BALCANES
+# ============================================
+#EXTINF:-1 tvg-name="Balkanski" group-title="Balkans",Balkanski Spijun
+http://balkanskispijun.xyz:12974/get.php?username=233777a6f94349a&password=c7a79695f1c8b58&type=m3u
+#EXTINF:-1 tvg-name="Premium_IPTV_EU" group-title="Europe",Premium IPTV Europe
+http://premium-iptv.link:7899/get.php?username=Dimitri&password=Dimitri&type=m3u
+
+# ============================================
+# BRASIL / LATINOAMÉRICA
+# ============================================
+#EXTINF:-1 tvg-name="Ebanon_Net" group-title="Brazil",Ebanon Net Brasil
+http://painel.ebanonet.com.br:25461/get.php?username=felix01&password=felix01&type=m3u
+
+# ============================================
+# PRUEBAS / TEST
+# ============================================
+#EXTINF:-1 tvg-name="Test_Server_4" group-title="Test",Test Server 4
+http://185.71.66.116:8000/get.php?username=test4&password=test4&type=m3u
+#EXTINF:-1 tvg-name="Vision_IPTV" group-title="Test",Vision IPTV
+http://iptvpro.vision-new.org:8789/get.php?username=Uxm5p0AhMm&password=zvjHhpZsjA&type=m3u
+#EXTINF:-1 tvg-name="SIPTV_Online" group-title="Test",SIPTV Online
+http://siptv-online.com:8789/get.php?username=19865&password=19865&type=m3u
+#EXTINF:-1 tvg-name="TV74" group-title="Test",TV74 Self IP
+http://tv74.selfip.com:80/get.php?username=hjiRVnY44h&password=vMejxj8oAb&type=m3u
+#EXTINF:-1 tvg-name="Premium_STV" group-title="Test",Premium STV
+http://iptv4.premium-stv.com:8000/get.php?username=PaNeLpor1OSN&password=PASSOSPRIB&type=m3u

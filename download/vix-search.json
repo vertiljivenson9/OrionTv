@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://github.com/aclap-dev/video-downloadhelper/discussions/1080",
+    "name": "Downloading from ViX.com issue · aclap-dev video-downloadhelper",
+    "snippet": "I am having problems downloading videos from the ViX.com (Spanish language programs) web site. Essentially, the downloading starts properly but stops with the ...\nUsing these, in combination with a couple of web searches (to make up for my limited knowledge of streaming), I finally figured out a way to get around VDH's issue downloading from vix.com.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forum.videohelp.com/threads/411670-Help-for-automatic-download-on-Vix-com",
+    "name": "Help for automatic download on Vix.com - VideoHelp Forum",
+    "snippet": "I am able to download videos from Vix getting the mpd and license url from devtools in firefox, then the keys on getwvkeys.cc. Download VIX how? Can't find mpd or m3u8 on Vix Free (USA) More results from forum.videohelp.com\nSince the show I want to download has around 600 episodes what I am trying to do is for a list of video urls from vix, generate the manifest url, use getwvkeys API to get the keys and finally use N_m3u8DL-RE to download and decrypt the videos. Which returns a json with the full url to the manifest.",
+    "host_name": "forum.videohelp.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://video.streamgaga.com/vix-downloader",
+    "name": "Download ViX Videos in 1080p - StreamGaGa ViX Downloader",
+    "snippet": "StreamGaGa ViX Downloader is a reliable ViX video downloader. It lets you easily download from ViX for perfect offline viewing. Use it as your go-to ViX ...",
+    "host_name": "video.streamgaga.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/pratikkarbhal/m3u8_StreamSniper",
+    "name": "Extract .m3u8 Stream URLs with Selenium + GitHub Actions",
+    "snippet": "This tool automates the process of extracting .m3u8 URLs from live stream pages. It uses Selenium + Chrome DevTools Protocol (CDP) in a GitHub Actions workflow to capture stream URLs directly from the given page.",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forum.videohelp.com/threads/416562-Can-t-find-mpd-or-m3u8-on-Vix-Free-%28USA%29",
+    "name": "Can't find mpd or m3u8 on Vix Free (USA) - VideoHelp Forum",
+    "snippet": "Hello everyone, recently there was a change on this streaming site, I used to download without issues, now I can still get the keys but I can no longer capture the MPD or m3u8 using The Stream Detector or the developer tool.",
+    "host_name": "forum.videohelp.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/gvxhrgi/m3u8-extractor",
+    "name": "Extract .m3u8 Stream URLs with GitHub Actions",
+    "snippet": "This tool automates the process of extracting .m3u8 URLs from live stream pages. It uses Puppeteer in a GitHub Actions workflow to fetch URLs directly from a given page.",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forum.videohelp.com/threads/406511-How-to-automatically-extract-the-m3u8-stream-URL-from-this-site",
+    "name": "How to automatically extract the m3u8 stream URL from this",
+    "snippet": "In such a case I need a working script that can be automatically run for a certain video site's main URL to produce the stream's m3u8 URL right before it will be used.",
+    "host_name": "forum.videohelp.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://m3u8-player.net/guides/m3u8-url-extractor",
+    "name": "How to Extract M3U8 URLs - Developer Guide [2026]",
+    "snippet": "Learn how to surface M3U8 playlist URLs from streaming pages so you can debug playback, monitor delivery, or load manifests into tooling. This guide highlights fast, reproducible techniques that do not rely on browser extensions or guesswork.",
+    "host_name": "m3u8-player.net",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

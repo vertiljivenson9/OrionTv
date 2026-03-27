@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "generated": "2026-03-28T12:00:00Z",
+    "total_sources": 20,
+    "total_credentials": 29,
+    "author": "Espejo Mission",
+    "description": "Base de datos de fuentes IPTV premium extraídas de Pastebin y blogs públicos"
+  },
+  "sources": [
+    {
+      "id": "painel-1",
+      "name": "Painel IPTV Premium 1",
+      "server": "paineliptv8.xyz",
+      "port": 2082,
+      "protocol": "http",
+      "credentials": {
+        "username": "877884787",
+        "password": "877884787"
+      },
+      "urls": {
+        "m3u": "http://paineliptv8.xyz:2082/get.php?username=877884787&password=877884787&type=m3u",
+        "m3u_plus": "http://paineliptv8.xyz:2082/get.php?username=877884787&password=877884787&type=m3u_plus",
+        "m3u_ts": "http://paineliptv8.xyz:2082/get.php?username=877884787&password=877884787&type=m3u_plus&output=ts"
+      },
+      "category": "premium",
+      "country": "international",
+      "status": "active"
+    },
+    {
+      "id": "painel-2",
+      "name": "Painel IPTV Premium 2",
+      "server": "paineliptv8.xyz",
+      "port": 2082,
+      "protocol": "http",
+      "credentials": {
+        "username": "488216",
+        "password": "520973"
+      },
+      "urls": {
+        "m3u_plus": "http://paineliptv8.xyz:2082/get.php?username=488216&password=520973&type=m3u_plus&output=ts"
+      },
+      "category": "premium",
+      "country": "international",
+      "status": "active"
+    },
+    {
+      "id": "painel-3",
+      "name": "Painel IPTV Premium 3",
+      "server": "paineliptv8.xyz",
+      "port": 2082,
+      "protocol": "http",
+      "credentials": {
+        "username": "751714",
+        "password": "859097"
+      },
+      "urls": {
+        "m3u_plus": "http://paineliptv8.xyz:2082/get.php?username=751714&password=859097&type=m3u_plus&output=ts"
+      },
+      "category": "premium",
+      "status": "active"
+    },
+    {
+      "id": "painel-4",
+      "name": "Painel IPTV Premium 4",
+      "server": "paineliptv8.xyz",
+      "port": 2082,
+      "credentials": {
+        "username": "736609",
+        "password": "015512"
+      },
+      "urls": {
+        "m3u_plus": "http://paineliptv8.xyz:2082/get.php?username=736609&password=015512&type=m3u_plus&output=ts"
+      },
+      "category": "premium",
+      "status": "active"
+    },
+    {
+      "id": "painel-5",
+      "name": "Painel IPTV Premium 5",
+      "server": "paineliptv8.xyz",
+      "port": 2082,
+      "credentials": {
+        "username": "233933",
+        "password": "230077"
+      },
+      "urls": {
+        "m3u_plus": "http://paineliptv8.xyz:2082/get.php?username=233933&password=230077&type=m3u_plus&output=ts"
+      },
+      "category": "premium",
+      "status": "active"
+    },
+    {
+      "id": "painel-6",
+      "name": "Painel IPTV Premium 6",
+      "server": "paineliptv8.xyz",
+      "port": 2082,
+      "credentials": {
+        "username": "Vqi9ROKQl6",
+        "password": "PRqnpgbRL9"
+      },
+      "urls": {
+        "m3u_plus": "http://paineliptv8.xyz:2082/get.php?username=Vqi9ROKQl6&password=PRqnpgbRL9&type=m3u_plus&output=ts"
+      },
+      "category": "premium",
+      "status": "active"
+    },
+    {
+      "id": "painel-7",
+      "name": "Painel IPTV Premium 7",
+      "server": "paineliptv8.xyz",
+      "port": 2082,
+      "credentials": {
+        "username": "947367",
+        "password": "779806"
+      },
+      "urls": {
+        "m3u_plus": "http://paineliptv8.xyz:2082/get.php?username=947367&password=779806&type=m3u_plus&output=ts"
+      },
+      "category": "premium",
+      "status": "active"
+    },
+    {
+      "id": "painel-8",
+      "name": "Painel IPTV Premium 8",
+      "server": "paineliptv8.xyz",
+      "port": 2082,
+      "credentials": {
+        "username": "78464343",
+        "password": "78464343"
+      },
+      "urls": {
+        "m3u_plus": "http://paineliptv8.xyz:2082/get.php?username=78464343&password=78464343&type=m3u_plus&output=ts"
+      },
+      "category": "premium",
+      "status": "active"
+    },
+    {
+      "id": "portal-shqip-1",
+      "name": "Portal Shqip 1",
+      "server": "portalshqip.eu",
+      "port": 8080,
+      "credentials": {
+        "username": "V9qbPfuWL8",
+        "password": "mYGQj3zBC6"
+      },
+      "urls": {
+        "m3u_plus": "http://portalshqip.eu:8080/get.php?username=V9qbPfuWL8&password=mYGQj3zBC6&type=m3u_plus"
+      },
+      "category": "premium",
+      "country": "albania",
+      "status": "active"
+    },
+    {
+      "id": "portal-shqip-2",
+      "name": "Portal Shqip Family",
+      "server": "portalshqip.eu",
+      "port": 8080,
+      "credentials": {
+        "username": "FamilyIPTV",
+        "password": "pXtBMnq9kpnB"
+      },
+      "urls": {
+        "m3u_plus": "http://portalshqip.eu:8080/get.php?username=FamilyIPTV&password=pXtBMnq9kpnB&type=m3u_plus"
+      },
+      "category": "premium",
+      "country": "albania",
+      "status": "active"
+    },
+    {
+      "id": "khalil-tv",
+      "name": "Khalil TV Sports",
+      "server": "209.126.80.43",
+      "port": 25461,
+      "credentials": {
+        "username": "khaliltv5552",
+        "password": "khalilapp417"
+      },
+      "urls": {
+        "m3u_plus": "http://209.126.80.43:25461/get.php?username=khaliltv5552&password=khalilapp417&type=m3u_plus&output=mpegts"
+      },
+      "category": "sports",
+      "status": "active"
+    },
+    {
+      "id": "bronze-tv",
+      "name": "Bronze TV",
+      "server": "bronzetv.xyz",
+      "port": 80,
+      "credentials": {
+        "username": "Simone",
+        "password": "Simone"
+      },
+      "urls": {
+        "m3u_plus": "http://bronzetv.xyz:80/get.php?username=Simone&password=Simone&type=m3u_plus"
+      },
+      "category": "entertainment",
+      "status": "active"
+    },
+    {
+      "id": "bigdog-tv",
+      "name": "Big Dog TV",
+      "server": "bigdog.click",
+      "port": 80,
+      "credentials": {
+        "username": "bettyv",
+        "password": "bettyv"
+      },
+      "urls": {
+        "m3u_plus": "http://bigdog.click/get.php?username=bettyv&password=bettyv&type=m3u_plus"
+      },
+      "category": "entertainment",
+      "status": "active"
+    },
+    {
+      "id": "dream-8k",
+      "name": "Dream 8K Premium",
+      "server": "dream8k.pro",
+      "port": 80,
+      "credentials": {
+        "username": "donal",
+        "password": "donal"
+      },
+      "urls": {
+        "m3u_plus": "http://dream8k.pro:80/get.php?username=donal&password=donal&type=m3u_plus"
+      },
+      "category": "entertainment",
+      "status": "active"
+    },
+    {
+      "id": "akchatix",
+      "name": "Akchatix TV",
+      "server": "xdo.akchatix.pro",
+      "port": 8080,
+      "credentials": {
+        "username": "111111",
+        "password": "111111"
+      },
+      "urls": {
+        "m3u_plus": "http://xdo.akchatix.pro:8080/get.php?username=111111&password=111111&type=m3u_plus&output=mpegts"
+      },
+      "category": "international",
+      "status": "active"
+    },
+    {
+      "id": "flysat",
+      "name": "FlySat Satellite",
+      "server": "rm.flysat.live",
+      "port": 2086,
+      "credentials": {
+        "username": "152002563138136",
+        "password": "QPMzyCcgZj"
+      },
+      "urls": {
+        "m3u": "http://rm.flysat.live:2086/get.php?username=152002563138136&password=QPMzyCcgZj&type=m3u&output=mpegts"
+      },
+      "category": "satellite",
+      "status": "active"
+    },
+    {
+      "id": "dc-sport",
+      "name": "DC Sport Premium",
+      "server": "dcsport.xyz",
+      "port": 8080,
+      "credentials": {
+        "username": "NfruMD7aPb",
+        "password": "VFwC2wcnjn"
+      },
+      "urls": {
+        "m3u": "http://dcsport.xyz:8080/get.php?username=NfruMD7aPb&password=VFwC2wcnjn&type=m3u"
+      },
+      "category": "sports",
+      "status": "active"
+    },
+    {
+      "id": "cine-app",
+      "name": "Cine App Movies",
+      "server": "cineapp.org",
+      "port": 8000,
+      "credentials": {
+        "username": "mag00:1A:79:6E:C6:A8",
+        "password": "4kJIEHd1lM"
+      },
+      "urls": {
+        "m3u_plus": "http://cineapp.org:8000/get.php?username=mag00:1A:79:6E:C6:A8&password=4kJIEHd1lM&type=m3u_plus"
+      },
+      "category": "movies",
+      "status": "active"
+    },
+    {
+      "id": "b1g-tv",
+      "name": "B1G TV",
+      "server": "b1g.one",
+      "port": 80,
+      "credentials": {
+        "username": "Holly",
+        "password": "Holly"
+      },
+      "urls": {
+        "m3u_plus": "http://b1g.one:80/get.php?username=Holly&password=Holly&type=m3u_plus"
+      },
+      "category": "entertainment",
+      "status": "active"
+    },
+    {
+      "id": "showflix",
+      "name": "ShowFlix Premium",
+      "server": "showflix.org",
+      "port": 5890,
+      "credentials": {
+        "username": "Wadihh15",
+        "password": "15012021dggdj"
+      },
+      "urls": {
+        "m3u": "http://showflix.org:5890/get.php?username=Wadihh15&password=15012021dggdj&type=m3u"
+      },
+      "category": "movies",
+      "status": "active"
+    },
+    {
+      "id": "premium-stv",
+      "name": "Premium STV",
+      "server": "iptv4.premium-stv.com",
+      "port": 8000,
+      "credentials": {
+        "username": "PaNeLpor1OSN",
+        "password": "PASSOSPRIB"
+      },
+      "urls": {
+        "m3u": "http://iptv4.premium-stv.com:8000/get.php?username=PaNeLpor1OSN&password=PASSOSPRIB&type=m3u"
+      },
+      "category": "premium",
+      "status": "active"
+    },
+    {
+      "id": "tv74",
+      "name": "TV74 Self IP",
+      "server": "tv74.selfip.com",
+      "port": 80,
+      "credentials": {
+        "username": "hjiRVnY44h",
+        "password": "vMejxj8oAb"
+      },
+      "urls": {
+        "m3u": "http://tv74.selfip.com:80/get.php?username=hjiRVnY44h&password=vMejxj8oAb&type=m3u"
+      },
+      "category": "international",
+      "status": "active"
+    },
+    {
+      "id": "ebanon-br",
+      "name": "Ebanon Net Brasil",
+      "server": "painel.ebanonet.com.br",
+      "port": 25461,
+      "credentials": {
+        "username": "felix01",
+        "password": "felix01"
+      },
+      "urls": {
+        "m3u": "http://painel.ebanonet.com.br:25461/get.php?username=felix01&password=felix01&type=m3u"
+      },
+      "category": "brazil",
+      "country": "brazil",
+      "status": "active"
+    },
+    {
+      "id": "test-4",
+      "name": "Test Server 4",
+      "server": "185.71.66.116",
+      "port": 8000,
+      "credentials": {
+        "username": "test4",
+        "password": "test4"
+      },
+      "urls": {
+        "m3u": "http://185.71.66.116:8000/get.php?username=test4&password=test4&type=m3u"
+      },
+      "category": "test",
+      "status": "active"
+    },
+    {
+      "id": "vision-iptv",
+      "name": "Vision IPTV",
+      "server": "iptvpro.vision-new.org",
+      "port": 8789,
+      "credentials": {
+        "username": "Uxm5p0AhMm",
+        "password": "zvjHhpZsjA"
+      },
+      "urls": {
+        "m3u": "http://iptvpro.vision-new.org:8789/get.php?username=Uxm5p0AhMm&password=zvjHhpZsjA&type=m3u"
+      },
+      "category": "premium",
+      "status": "active"
+    },
+    {
+      "id": "siptv",
+      "name": "SIPTV Online",
+      "server": "siptv-online.com",
+      "port": 8789,
+      "credentials": {
+        "username": "19865",
+        "password": "19865"
+      },
+      "urls": {
+        "m3u": "http://siptv-online.com:8789/get.php?username=19865&password=19865&type=m3u"
+      },
+      "category": "international",
+      "status": "active"
+    },
+    {
+      "id": "viptv",
+      "name": "ViPTV International",
+      "server": "z1.viptv.pw",
+      "port": 80,
+      "credentials": {
+        "username": "cetinkol03",
+        "password": "yunus1969"
+      },
+      "urls": {
+        "m3u": "http://z1.viptv.pw:80/get.php?username=cetinkol03&password=yunus1969&type=m3u"
+      },
+      "category": "international",
+      "status": "active"
+    },
+    {
+      "id": "balkanski",
+      "name": "Balkanski Spijun",
+      "server": "balkanskispijun.xyz",
+      "port": 12974,
+      "credentials": {
+        "username": "233777a6f94349a",
+        "password": "c7a79695f1c8b58"
+      },
+      "urls": {
+        "m3u": "http://balkanskispijun.xyz:12974/get.php?username=233777a6f94349a&password=c7a79695f1c8b58&type=m3u"
+      },
+      "category": "balkans",
+      "country": "balkans",
+      "status": "active"
+    },
+    {
+      "id": "premium-eu",
+      "name": "Premium IPTV Europe",
+      "server": "premium-iptv.link",
+      "port": 7899,
+      "credentials": {
+        "username": "Dimitri",
+        "password": "Dimitri"
+      },
+      "urls": {
+        "m3u": "http://premium-iptv.link:7899/get.php?username=Dimitri&password=Dimitri&type=m3u"
+      },
+      "category": "europe",
+      "country": "europe",
+      "status": "active"
+    }
+  ],
+  "categories": {
+    "premium": ["painel-1", "painel-2", "painel-3", "painel-4", "painel-5", "painel-6", "painel-7", "painel-8", "portal-shqip-1", "portal-shqip-2", "premium-stv", "vision-iptv"],
+    "sports": ["khalil-tv", "dc-sport"],
+    "movies": ["cine-app", "showflix"],
+    "entertainment": ["bronze-tv", "bigdog-tv", "dream-8k", "b1g-tv"],
+    "international": ["akchatix", "flysat", "tv74", "siptv", "viptv"],
+    "balkans": ["balkanski"],
+    "europe": ["premium-eu"],
+    "brazil": ["ebanon-br"],
+    "test": ["test-4"]
+  },
+  "daily_updated_sources": {
+    "pastebin_user": "skawkaw12",
+    "pastebin_url": "https://pastebin.com/u/skawkaw12",
+    "telegram": "@iptvfree1980",
+    "blogs": [
+      "https://iptvfree.wuaze.com/",
+      "https://freecodeiptv.liveblog365.com/",
+      "https://freeiptvfree2.blogspot.com/"
+    ],
+    "update_frequency": "daily"
+  }
+}
