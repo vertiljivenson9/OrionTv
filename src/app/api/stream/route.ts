@@ -1,10 +1,10 @@
-// Stream Proxy API - Edge runtime for fast response
-// Implements timeout, validation, and proper error handling
-// Rewrites m3u8 playlists to proxy all segments
+// Stream Proxy API - Node.js runtime for full functionality
+// Proxies HLS streams and rewrites m3u8 playlists to avoid CORS
 
-export const runtime = 'edge';
+export const runtime = 'nodejs';
+export const dynamic = 'force-dynamic';
 
-const STREAM_TIMEOUT = 15000; // 15 seconds for better reliability
+const STREAM_TIMEOUT = 20000;
 
 // Detect content type from URL or response
 function getContentType(url: string, responseContentType?: string): string {
@@ -30,7 +30,7 @@ function getContentType(url: string, responseContentType?: string): string {
     return 'application/octet-stream';
   }
 
-  return 'application/vnd.apple.mpegurl'; // Default to HLS
+  return 'application/vnd.apple.mpegurl';
 }
 
 // Check if URL is an m3u8 playlist
@@ -42,29 +42,35 @@ function isM3u8(url: string, contentType: string): boolean {
 // Rewrite m3u8 content to proxy all URLs
 function rewriteM3u8(content: string, baseUrl: string): string {
   const lines = content.split('\n');
-  const base = new URL(baseUrl);
-  const basePath = base.pathname.substring(0, base.pathname.lastIndexOf('/') + 1);
-  const baseOrigin = base.origin;
+  
+  try {
+    const base = new URL(baseUrl);
+    const basePath = base.pathname.substring(0, base.pathname.lastIndexOf('/') + 1);
+    const baseOrigin = base.origin;
 
-  return lines.map(line => {
-    const trimmed = line.trim();
-    
-    // Skip comments and empty lines (but keep them)
-    if (!trimmed || trimmed.startsWith('#')) {
-      // Handle URI attributes in tags like #EXT-X-KEY:METHOD=AES-128,URI="..."
-      if (trimmed.includes('URI="')) {
-        return trimmed.replace(/URI="([^"]+)"/g, (match, uri) => {
-          const absoluteUrl = resolveUrl(uri, baseOrigin, basePath);
-          return `URI="/api/stream?url=${encodeURIComponent(absoluteUrl)}"`;
-        });
+    return lines.map(line => {
+      const trimmed = line.trim();
+      
+      // Skip comments and empty lines (but keep them)
+      if (!trimmed || trimmed.startsWith('#')) {
+        // Handle URI attributes in tags like #EXT-X-KEY:METHOD=AES-128,URI="..."
+        if (trimmed.includes('URI="')) {
+          return trimmed.replace(/URI="([^"]+)"/g, (match, uri) => {
+            const absoluteUrl = resolveUrl(uri, baseOrigin, basePath);
+            return `URI="/api/stream?url=${encodeURIComponent(absoluteUrl)}"`;
+          });
+        }
+        return line;
       }
-      return line;
-    }
-    
-    // This is a URL line - make it absolute and proxy it
-    const absoluteUrl = resolveUrl(trimmed, baseOrigin, basePath);
-    return `/api/stream?url=${encodeURIComponent(absoluteUrl)}`;
-  }).join('\n');
+      
+      // This is a URL line - make it absolute and proxy it
+      const absoluteUrl = resolveUrl(trimmed, baseOrigin, basePath);
+      return `/api/stream?url=${encodeURIComponent(absoluteUrl)}`;
+    }).join('\n');
+  } catch (e) {
+    console.error('[Proxy] Error rewriting m3u8:', e);
+    return content;
+  }
 }
 
 // Resolve relative URLs to absolute
@@ -114,11 +120,8 @@ export async function GET(request: Request) {
     );
   }
 
-  // Create abort controller for timeout
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => {
-    controller.abort();
-  }, STREAM_TIMEOUT);
+  const timeoutId = setTimeout(() => controller.abort(), STREAM_TIMEOUT);
 
   try {
     console.log(`[Stream Proxy] Fetching: ${streamUrl.substring(0, 80)}...`);
@@ -130,6 +133,7 @@ export async function GET(request: Request) {
         'Accept': '*/*',
         'Accept-Encoding': 'gzip, deflate',
         'Connection': 'keep-alive',
+        'Icy-MetaData': '1',
       },
     });
 
@@ -160,7 +164,23 @@ export async function GET(request: Request) {
     // For m3u8 playlists, rewrite URLs to use proxy
     if (isM3u8(streamUrl, contentType)) {
       const text = await response.text();
+      
+      if (!text || text.length < 10) {
+        console.log('[Stream Proxy] Empty m3u8 response');
+        return new Response(
+          JSON.stringify({ error: 'Empty playlist' }),
+          {
+            status: 502,
+            headers: {
+              'Content-Type': 'application/json',
+              'Access-Control-Allow-Origin': '*',
+            },
+          }
+        );
+      }
+      
       const rewritten = rewriteM3u8(text, streamUrl);
+      console.log('[Stream Proxy] Rewrote m3u8 playlist');
       
       return new Response(rewritten, {
         status: 200,
