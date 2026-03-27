@@ -1,9 +1,10 @@
 // Stream Proxy API - Edge runtime for fast response
 // Implements timeout, validation, and proper error handling
+// Rewrites m3u8 playlists to proxy all segments
 
 export const runtime = 'edge';
 
-const STREAM_TIMEOUT = 4000; // 4 seconds max
+const STREAM_TIMEOUT = 15000; // 15 seconds for better reliability
 
 // Detect content type from URL or response
 function getContentType(url: string, responseContentType?: string): string {
@@ -25,8 +26,59 @@ function getContentType(url: string, responseContentType?: string): string {
   if (urlLower.includes('.mp4')) {
     return 'video/mp4';
   }
+  if (urlLower.includes('.key')) {
+    return 'application/octet-stream';
+  }
 
   return 'application/vnd.apple.mpegurl'; // Default to HLS
+}
+
+// Check if URL is an m3u8 playlist
+function isM3u8(url: string, contentType: string): boolean {
+  const urlLower = url.toLowerCase();
+  return urlLower.includes('.m3u8') || contentType.includes('mpegurl');
+}
+
+// Rewrite m3u8 content to proxy all URLs
+function rewriteM3u8(content: string, baseUrl: string): string {
+  const lines = content.split('\n');
+  const base = new URL(baseUrl);
+  const basePath = base.pathname.substring(0, base.pathname.lastIndexOf('/') + 1);
+  const baseOrigin = base.origin;
+
+  return lines.map(line => {
+    const trimmed = line.trim();
+    
+    // Skip comments and empty lines (but keep them)
+    if (!trimmed || trimmed.startsWith('#')) {
+      // Handle URI attributes in tags like #EXT-X-KEY:METHOD=AES-128,URI="..."
+      if (trimmed.includes('URI="')) {
+        return trimmed.replace(/URI="([^"]+)"/g, (match, uri) => {
+          const absoluteUrl = resolveUrl(uri, baseOrigin, basePath);
+          return `URI="/api/stream?url=${encodeURIComponent(absoluteUrl)}"`;
+        });
+      }
+      return line;
+    }
+    
+    // This is a URL line - make it absolute and proxy it
+    const absoluteUrl = resolveUrl(trimmed, baseOrigin, basePath);
+    return `/api/stream?url=${encodeURIComponent(absoluteUrl)}`;
+  }).join('\n');
+}
+
+// Resolve relative URLs to absolute
+function resolveUrl(url: string, baseOrigin: string, basePath: string): string {
+  if (url.startsWith('http://') || url.startsWith('https://')) {
+    return url;
+  }
+  if (url.startsWith('//')) {
+    return 'http:' + url;
+  }
+  if (url.startsWith('/')) {
+    return baseOrigin + url;
+  }
+  return baseOrigin + basePath + url;
 }
 
 export async function GET(request: Request) {
@@ -101,10 +153,28 @@ export async function GET(request: Request) {
       );
     }
 
-    const contentType = getContentType(streamUrl, response.headers.get('content-type') || undefined);
+    const responseContentType = response.headers.get('content-type') || '';
+    const contentType = getContentType(streamUrl, responseContentType);
     console.log(`[Stream Proxy] Success: ${contentType}`);
 
-    // Stream the response
+    // For m3u8 playlists, rewrite URLs to use proxy
+    if (isM3u8(streamUrl, contentType)) {
+      const text = await response.text();
+      const rewritten = rewriteM3u8(text, streamUrl);
+      
+      return new Response(rewritten, {
+        status: 200,
+        headers: {
+          'Content-Type': 'application/vnd.apple.mpegurl',
+          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Methods': 'GET, OPTIONS',
+          'Access-Control-Allow-Headers': '*',
+          'Cache-Control': 'no-cache',
+        },
+      });
+    }
+
+    // For other content (ts segments, keys, etc), stream directly
     return new Response(response.body, {
       status: 200,
       headers: {

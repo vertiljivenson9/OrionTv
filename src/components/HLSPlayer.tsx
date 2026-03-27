@@ -103,10 +103,13 @@ export default function HLSPlayer({
     setErrorMessage('');
     setLoadingTimeout();
 
-    console.log('[Player] Initializing with URL:', streamUrl.substring(0, 80));
+    // Use proxy API to avoid CORS issues - the proxy rewrites m3u8 URLs automatically
+    const proxyUrl = `/api/stream?url=${encodeURIComponent(streamUrl)}`;
+    console.log('[Player] Initializing with proxy URL');
 
     if (!Hls.isSupported()) {
-      video.src = streamUrl;
+      // For Safari, try native HLS through proxy
+      video.src = proxyUrl;
       video.play().catch((err) => {
         console.error('[Player] Native play error:', err);
         handleFallbackOrError('No se puede reproducir este stream');
@@ -115,15 +118,15 @@ export default function HLSPlayer({
     }
 
     const hls = new Hls({
-      manifestLoadingTimeOut: 4000,
-      manifestLoadingMaxRetry: 1,
-      levelLoadingTimeOut: 4000,
-      levelLoadingMaxRetry: 1,
-      fragLoadingTimeOut: 4000,
-      fragLoadingMaxRetry: 1,
-      maxBufferLength: 10,
-      maxMaxBufferLength: 15,
-      maxBufferSize: 30 * 1000 * 1000,
+      manifestLoadingTimeOut: 10000,
+      manifestLoadingMaxRetry: 2,
+      levelLoadingTimeOut: 10000,
+      levelLoadingMaxRetry: 2,
+      fragLoadingTimeOut: 15000,
+      fragLoadingMaxRetry: 2,
+      maxBufferLength: 15,
+      maxMaxBufferLength: 30,
+      maxBufferSize: 60 * 1000 * 1000,
       maxBufferHole: 0.5,
       lowLatencyMode: false,
       startLevel: -1,
@@ -134,7 +137,7 @@ export default function HLSPlayer({
     hlsRef.current = hls;
 
     hls.on(Hls.Events.MANIFEST_PARSED, () => {
-      console.log('[Player] Manifest parsed');
+      console.log('[Player] Manifest parsed successfully');
       clearTimeout();
       video.play().catch(() => {});
     });
@@ -152,19 +155,21 @@ export default function HLSPlayer({
 
         switch (data.type) {
           case Hls.ErrorTypes.NETWORK_ERROR:
-            handleFallbackOrError('Error de conexión');
+            console.log('[Player] Network error, trying to recover...');
+            hls.startLoad(0);
             break;
           case Hls.ErrorTypes.MEDIA_ERROR:
+            console.log('[Player] Media error, trying to recover...');
             hls.recoverMediaError();
             break;
           default:
-            handleFallbackOrError('Error desconocido');
+            handleFallbackOrError('Error de conexión - intenta otro canal');
             break;
         }
       }
     });
 
-    hls.loadSource(streamUrl);
+    hls.loadSource(proxyUrl);
     hls.attachMedia(video);
   }, [setLoadingTimeout, clearTimeout, handleFallbackOrError, onPlay]);
 
