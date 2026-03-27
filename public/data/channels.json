@@ -6150,7 +6150,7 @@
       "id": "AjyalTV.ps",
       "name": "Ajyal TV",
       "logo": null,
-      "url": "http://htvmada.mada.ps:8888/ajyal/index.m3u8",
+      "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
       "country": "Palestine",
       "countryCode": "PS",
       "language_primary": null,
@@ -10858,7 +10858,7 @@
       "id": "Antena3Internacional.es",
       "name": "Antena 3 Internacional",
       "logo": null,
-      "url": "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhs2a6SBsY0RnvGwCP6rgwKx/m3u8",
+      "url": "http://187.190.55.136:5501/udp/225.1.1.101:5101",
       "country": "Spain",
       "countryCode": "ES",
       "language_primary": "Español",
@@ -13643,7 +13643,7 @@
       "id": "ATV.tr",
       "name": "ATV",
       "logo": null,
-      "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+      "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -24875,6 +24875,26 @@
       "owners": []
     },
     {
+      "id": "CanalCapital.co",
+      "name": "Canal Capital",
+      "logo": null,
+      "url": "https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Capital Sistema de Comunicación Pública de Bogotá"
+      ]
+    },
+    {
       "id": "CanalCatorce.do",
       "name": "Canal Catorce",
       "logo": null,
@@ -25276,6 +25296,31 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "CanalInstitucional.co",
+      "name": "Canal Institucional",
+      "logo": null,
+      "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "CITV Canal Institucional",
+        "Señal Institucional",
+        "Institucional",
+        "Señal Colombia Institucional"
+      ],
+      "network": null,
+      "owners": [
+        "Government of Colombia"
+      ]
     },
     {
       "id": "CanalISB.cl",
@@ -25724,7 +25769,7 @@
       "id": "CanalSantaMartaTV.co",
       "name": "Canal Santa Marta TV",
       "logo": null,
-      "url": "https://cdn.amelbasoluciones.co:8081/santamartalive/index.m3u8",
+      "url": "https://stream.amelbasoluciones.co/live/santamartalive.m3u8",
       "country": "Colombia",
       "countryCode": "CO",
       "language_primary": "Español",
@@ -26883,7 +26928,7 @@
       "id": "CartagoMediosTV.cr",
       "name": "Cartago Medios TV",
       "logo": null,
-      "url": "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
+      "url": "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8",
       "country": "Costa Rica",
       "countryCode": "CR",
       "language_primary": "Español",
@@ -34071,7 +34116,7 @@
       "id": "CNCLaUnion.co",
       "name": "CNC La Union",
       "logo": null,
-      "url": "https://cdn.streamtech.com.co/cnclaunion/streams/xqujjFzO6xsKIDbS1371921740891.m3u8",
+      "url": "https://live.amelbatv.co:81/cnclaunion/index.fmp4.m3u8",
       "country": "Colombia",
       "countryCode": "CO",
       "language_primary": "Español",
@@ -43869,6 +43914,26 @@
       ]
     },
     {
+      "id": "ElMundodelCampo.co",
+      "name": "El Mundo del Campo",
+      "logo": null,
+      "url": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Aire Libre"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Alfonso Uribe Torres"
+      ]
+    },
+    {
       "id": "ElNuevoDiarioTV.do",
       "name": "El Nuevo Diario TV",
       "logo": null,
@@ -46256,6 +46321,26 @@
       "owners": []
     },
     {
+      "id": "Eureka.co",
+      "name": "Eureka",
+      "logo": null,
+      "url": "https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Capital Sistema de Comunicación Pública de Bogotá"
+      ]
+    },
+    {
       "id": "EuroD.tr",
       "name": "Euro D",
       "logo": null,
@@ -48273,6 +48358,26 @@
       "network": null,
       "owners": [
         "Anthem Sports & Entertainment"
+      ]
+    },
+    {
+      "id": "FightBox.nl",
+      "name": "FightBox",
+      "logo": null,
+      "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc002/fightboxhdraw/fightboxhdraw.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International Inc."
       ]
     },
     {
@@ -59447,7 +59552,7 @@
       "id": "IIPCTV.ca",
       "name": "IIPC TV",
       "logo": null,
-      "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+      "url": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
       "country": "Canada",
       "countryCode": "CA",
       "language_primary": null,
@@ -63678,30 +63783,6 @@
       ],
       "network": "NNN/NNS",
       "owners": []
-    },
-    {
-      "id": "JOAYDTV.jp",
-      "name": "JOAY-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ABC TV",
-        "朝日放送テレビ",
-        "ABCテレビ"
-      ],
-      "network": "ANN",
-      "owners": [
-        "朝日放送グループホールディングス株式会社"
-      ]
     },
     {
       "id": "JOBTV.ro",
@@ -71273,7 +71354,7 @@
       "id": "La1.es",
       "name": "La 1",
       "logo": null,
-      "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8",
       "country": "Spain",
       "countryCode": "ES",
       "language_primary": "Español",
@@ -71294,7 +71375,7 @@
       "id": "La1Canarias.es",
       "name": "La 1 Canarias",
       "logo": null,
-      "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
       "country": "Spain",
       "countryCode": "ES",
       "language_primary": "Español",
@@ -71315,7 +71396,7 @@
       "id": "La1Catalunya.es",
       "name": "La 1 Catalunya",
       "logo": null,
-      "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8",
       "country": "Spain",
       "countryCode": "ES",
       "language_primary": "Español",
@@ -77826,7 +77907,7 @@
       "id": "MatchArena.ru",
       "name": "Match! Arena",
       "logo": null,
-      "url": "http://31.148.48.15/Match_Arena/index.m3u8",
+      "url": "http://31.148.48.15/Match_Arena_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -77870,7 +77951,7 @@
       "id": "MatchIgra.ru",
       "name": "Match! Igra",
       "logo": null,
-      "url": "http://31.148.48.15/Match_Igra/index.m3u8",
+      "url": "http://31.148.48.15/Match_Igra_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -80012,26 +80093,6 @@
       ]
     },
     {
-      "id": "MetroGlobeNetwork.id",
-      "name": "Metro Globe Network",
-      "logo": null,
-      "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
-      "country": "Indonesia",
-      "countryCode": "ID",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Media Group"
-      ]
-    },
-    {
       "id": "MetroTV.ar",
       "name": "Metro TV",
       "logo": null,
@@ -82029,7 +82090,7 @@
       "id": "MoldovaTV.md",
       "name": "Moldova TV",
       "logo": null,
-      "url": "http://89.38.8.130:39435",
+      "url": "https://moldovatv.ro/live-tv/live.m3u8",
       "country": "Moldova",
       "countryCode": "MD",
       "language_primary": null,
@@ -84165,7 +84226,7 @@
       "id": "Mult.ru",
       "name": "Mult",
       "logo": null,
-      "url": "http://31.148.48.15/Mult/index.m3u8",
+      "url": "http://31.148.48.15/Mult_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -84560,7 +84621,7 @@
       "id": "MundoMas.co",
       "name": "Mundo Mas",
       "logo": null,
-      "url": "https://edge.teveo.net/live/AeAAAgA_AALTA1IAyADIUDAAAAGAAAAAAmg03eFAIAByAAAA/playlist.m3u8",
+      "url": "https://edge.teveo.net/live/AeAAAgA_AALTA1IAyADIUDAAAAGAAAAAAmnFPGG-RDKFAAAA/playlist.m3u8",
       "country": "Colombia",
       "countryCode": "CO",
       "language_primary": "Español",
@@ -85240,7 +85301,7 @@
       "id": "MY5.uz",
       "name": "MY5",
       "logo": null,
-      "url": "https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8",
+      "url": "https://st.my5.media/hls/hd/index.m3u8",
       "country": "Uzbekistan",
       "countryCode": "UZ",
       "language_primary": null,
@@ -87301,7 +87362,7 @@
       "id": "NeoNews.pk",
       "name": "Neo News",
       "logo": null,
-      "url": "https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8",
+      "url": "http://103.250.28.74:8000/play/a01p/index.m3u8",
       "country": "Pakistan",
       "countryCode": "PK",
       "language_primary": null,
@@ -90472,7 +90533,7 @@
       "id": "Nova.rs",
       "name": "Nova",
       "logo": null,
-      "url": "https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8",
+      "url": "https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas",
       "country": "Serbia",
       "countryCode": "RS",
       "language_primary": null,
@@ -90513,7 +90574,7 @@
       "id": "NovaTV.hr",
       "name": "Nova TV",
       "logo": null,
-      "url": "https://str.gledamsport.com/proxy.php?c=nova&type=playlist&path=mono.m3u8",
+      "url": "https://str.gledamsport.com/proxy.php?c=nova&path=mono.m3u8&type=playlist",
       "country": "Croatia",
       "countryCode": "HR",
       "language_primary": null,
@@ -98145,7 +98206,7 @@
         "General"
       ],
       "altNames": [
-        "Первый городс��ой канал",
+        "Первый городской канал",
         "Нова Одеса",
         "ТА-Одеса"
       ],
@@ -111645,7 +111706,7 @@
       "id": "RTGTV.ru",
       "name": "RTG TV",
       "logo": null,
-      "url": "http://31.148.48.15/RTG/index.m3u8",
+      "url": "http://31.148.48.15/RTG_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -112517,7 +112578,7 @@
       "id": "RTNC.cd",
       "name": "RTNC",
       "logo": null,
-      "url": "https://tnt-television.com/rtnc_HD/index.m3u8",
+      "url": "http://69.64.57.208/rtnc/playlist.m3u8",
       "country": "Democratic Republic of the Congo",
       "countryCode": "CD",
       "language_primary": null,
@@ -114320,7 +114381,7 @@
       "id": "Russkiyroman.ru",
       "name": "Russkiy roman",
       "logo": null,
-      "url": "http://31.148.48.15/Russkiy_Roman/index.m3u8",
+      "url": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -115531,7 +115592,7 @@
       "id": "SamaaTV.pk",
       "name": "Samaa TV",
       "logo": null,
-      "url": "https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8",
+      "url": "http://103.250.28.74:8000/play/a022/index.m3u8",
       "country": "Pakistan",
       "countryCode": "PK",
       "language_primary": null,
@@ -116248,7 +116309,7 @@
       "id": "Saphire.ru",
       "name": "Saphire",
       "logo": null,
-      "url": "http://31.148.48.15/Sapfir/index.m3u8",
+      "url": "http://31.148.48.15/Sapfir_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -117244,6 +117305,28 @@
       "network": null,
       "owners": [
         "D-Media Group"
+      ]
+    },
+    {
+      "id": "SenalColombia.co",
+      "name": "Senal Colombia",
+      "logo": null,
+      "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Señal Colombia"
+      ],
+      "network": "RTVC Sistema de Medios Públicos",
+      "owners": [
+        "Government of Colombia"
       ]
     },
     {
@@ -129422,7 +129505,7 @@
       "id": "Telecafe.co",
       "name": "Telecafe",
       "logo": null,
-      "url": "https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8",
+      "url": "https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8",
       "country": "Colombia",
       "countryCode": "CO",
       "language_primary": "Español",
@@ -130411,6 +130494,26 @@
         "General"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Telemedellin.co",
+      "name": "Telemedellin",
+      "logo": null,
+      "url": "https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Telemedellín"
+      ],
       "network": null,
       "owners": []
     },
@@ -136473,6 +136576,26 @@
       "owners": []
     },
     {
+      "id": "Trece.co",
+      "name": "Trece",
+      "logo": null,
+      "url": "https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "RTVC Sistema de Medios Públicos",
+      "owners": [
+        "Government of Colombia"
+      ]
+    },
+    {
       "id": "Trece.es",
       "name": "Trece",
       "logo": null,
@@ -136510,26 +136633,6 @@
       "network": null,
       "owners": [
         "Grupo JBB"
-      ]
-    },
-    {
-      "id": "TrecePlus.co",
-      "name": "Trece+",
-      "logo": null,
-      "url": "http://190.2.212.209:8050/play/a0nf",
-      "country": "Colombia",
-      "countryCode": "CO",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "RTVC Sistema de Medios Públicos",
-      "owners": [
-        "Government of Colombia"
       ]
     },
     {
@@ -143597,7 +143700,7 @@
       "id": "TV1.my",
       "name": "TV1",
       "logo": null,
-      "url": "https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
       "country": "Malaysia",
       "countryCode": "MY",
       "language_primary": null,
@@ -143800,7 +143903,7 @@
       "id": "TV2.my",
       "name": "TV2",
       "logo": null,
-      "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
       "country": "Malaysia",
       "countryCode": "MY",
       "language_primary": null,
@@ -145535,7 +145638,7 @@
         "Series"
       ],
       "altNames": [
-        "TVI Ficção"
+        "TVI Ficç��o"
       ],
       "network": null,
       "owners": [
@@ -148787,6 +148890,24 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "UMATV.br",
+      "name": "UMA TV",
+      "logo": null,
+      "url": "https://umatv.nuvemplay.live/hls/stream.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
       ],
       "altNames": [],
       "network": null,
@@ -152793,7 +152914,7 @@
       "id": "VTV.id",
       "name": "VTV",
       "logo": null,
-      "url": "https://flv.intechmedia.net/live/ch107.m3u8",
+      "url": "http://103.66.62.83:8000/play/a00c/index.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -152849,7 +152970,7 @@
       "id": "VTVCanal32.do",
       "name": "VTV Canal 32",
       "logo": null,
-      "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8",
+      "url": "https://dbt-gcore-video-cdn.b-cdn.net/mpegts/986244_4049034/master_mpegts.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -162271,7 +162392,7 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 258
+      "count": 259
     },
     {
       "id": "peliculas",
@@ -162286,31 +162407,31 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 247
+      "count": 248
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1377
+      "count": 1382
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5867
+      "count": 5866
     }
   ],
   "stats": {
     "total": 39319,
-    "withStreams": 8323,
-    "spanish": 1454,
+    "withStreams": 8329,
+    "spanish": 1460,
     "adult": 78,
     "bySection": {
-      "general": 5867,
-      "español": 1377,
-      "infantil": 247,
+      "general": 5866,
+      "español": 1382,
+      "infantil": 248,
       "series": 159,
       "peliculas": 337,
-      "deportes": 258
+      "deportes": 259
     },
     "topCountries": [
       {
@@ -162365,6 +162486,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-03-26T01:04:06.778Z",
+  "lastUpdated": "2026-03-27T01:04:06.913Z",
   "source": "orion-stream"
 }
