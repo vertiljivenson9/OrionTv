@@ -1066,7 +1066,7 @@
         "Noticias"
       ],
       "altNames": [
-        "Хабар 24"
+        "��абар 24"
       ],
       "network": null,
       "owners": [
@@ -2037,30 +2037,6 @@
       "network": "3Cat",
       "owners": [
         "Corporació Catalana de Mitjans Audiovisuals"
-      ]
-    },
-    {
-      "id": "3HD.th",
-      "name": "3HD",
-      "logo": null,
-      "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8",
-      "country": "Thailand",
-      "countryCode": "TH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "3HD 33",
-        "Channel 3 HD",
-        "ช่อง 3 เอชดี"
-      ],
-      "network": null,
-      "owners": [
-        "BEC World"
       ]
     },
     {
@@ -25668,6 +25644,26 @@
         "General"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "CanalPyC.co",
+      "name": "Canal PyC",
+      "logo": null,
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "PyC Televisión"
+      ],
       "network": null,
       "owners": []
     },
@@ -71511,6 +71507,26 @@
       "owners": [
         "Memorias Producciones"
       ]
+    },
+    {
+      "id": "LaCheverisimaRadioTV.co",
+      "name": "La Cheverisima Radio TV",
+      "logo": null,
+      "url": "https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "La Cheverísima Radio TV"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "LACityView35.us",
@@ -124642,6 +124658,24 @@
       "owners": []
     },
     {
+      "id": "SuMundoTV.do",
+      "name": "Su Mundo TV",
+      "logo": null,
+      "url": "https://appapi.sumundotv.com/api/stream-proxy/4pf8yy3WF1xp1_tQ6yUYRIsbwyLc3qxDRcZAY_NLNDs/playlist.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Subbota.ru",
       "name": "Subbota!",
       "logo": null,
@@ -131377,6 +131411,24 @@
       "altNames": [
         "TSD TV"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Telesangil.co",
+      "name": "Telesangil",
+      "logo": null,
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -162291,22 +162343,22 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1377
+      "count": 1381
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5866
+      "count": 5865
     }
   ],
   "stats": {
     "total": 39323,
-    "withStreams": 8323,
-    "spanish": 1455,
+    "withStreams": 8326,
+    "spanish": 1459,
     "adult": 78,
     "bySection": {
-      "general": 5866,
-      "español": 1377,
+      "general": 5865,
+      "español": 1381,
       "infantil": 247,
       "series": 159,
       "peliculas": 337,
@@ -162340,7 +162392,7 @@
       },
       {
         "code": "DO",
-        "count": 234,
+        "count": 235,
         "name": "Dominican Republic"
       },
       {
@@ -162365,6 +162417,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-03-28T00:58:13.299Z",
+  "lastUpdated": "2026-03-29T01:06:24.968Z",
   "source": "orion-stream"
 }
