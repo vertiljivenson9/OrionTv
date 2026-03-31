@@ -516,28 +516,6 @@
       "owners": []
     },
     {
-      "id": "13Ulica.pl",
-      "name": "13 Ulica",
-      "logo": null,
-      "url": "http://116.90.120.151:8000/play/a0l4/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "13th Street"
-      ],
-      "network": null,
-      "owners": [
-        "NBCUniversal"
-      ]
-    },
-    {
       "id": "13C.cl",
       "name": "13C",
       "logo": null,
@@ -20199,7 +20177,7 @@
         "General"
       ],
       "altNames": [
-        "��包台"
+        "面包台"
       ],
       "network": null,
       "owners": []
@@ -34435,6 +34413,28 @@
       ]
     },
     {
+      "id": "ColorsTamil.in",
+      "name": "Colors Tamil",
+      "logo": null,
+      "url": "http://ptu.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Colors",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "ColosalTV.cr",
       "name": "Colosal TV",
       "logo": null,
@@ -40211,6 +40211,26 @@
       ]
     },
     {
+      "id": "DisneyJunior.es",
+      "name": "Disney Junior",
+      "logo": null,
+      "url": "https://bbb.exoadash.com/TVD1561/index.mpd",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "DisneyJunior.us",
       "name": "Disney Junior",
       "logo": null,
@@ -42553,29 +42573,6 @@
       "network": null,
       "owners": [
         "BAG Films & Media"
-      ]
-    },
-    {
-      "id": "E.pl",
-      "name": "E!",
-      "logo": null,
-      "url": "http://116.90.120.151:8000/play/a0kz/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Entertainment"
-      ],
-      "network": "NBCUniversal International Networks",
-      "owners": [
-        "NBCUniversal",
-        "Sky Group"
       ]
     },
     {
@@ -60186,9 +60183,9 @@
         "Estilo de Vida"
       ],
       "altNames": [],
-      "network": null,
+      "network": "Insight TV",
       "owners": [
-        "Insight TV"
+        "TV Entertainment Reality Network B.V."
       ]
     },
     {
@@ -60567,7 +60564,7 @@
       "altNames": [],
       "network": "Insight TV",
       "owners": [
-        "Insight TV"
+        "TV Entertainment Reality Network B.V."
       ]
     },
     {
@@ -60587,9 +60584,9 @@
         "Aire Libre"
       ],
       "altNames": [],
-      "network": null,
+      "network": "Insight TV",
       "owners": [
-        "Insight TV"
+        "TV Entertainment Reality Network B.V."
       ]
     },
     {
@@ -60662,9 +60659,9 @@
         "Documentales"
       ],
       "altNames": [],
-      "network": null,
+      "network": "Insight TV",
       "owners": [
-        "Insight TV"
+        "TV Entertainment Reality Network B.V."
       ]
     },
     {
@@ -60682,9 +60679,9 @@
         "Ciencia"
       ],
       "altNames": [],
-      "network": null,
+      "network": "Insight TV",
       "owners": [
-        "Insight TV"
+        "TV Entertainment Reality Network B.V."
       ]
     },
     {
@@ -71110,6 +71107,26 @@
       "network": null,
       "owners": [
         "Amaury Group"
+      ]
+    },
+    {
+      "id": "L1Max.pe",
+      "name": "L1 Max",
+      "logo": null,
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Federación Peruana de Fútbol"
       ]
     },
     {
@@ -122170,7 +122187,7 @@
       "id": "SportdigitalFUSSBALL.de",
       "name": "Sportdigital FUSSBALL",
       "logo": null,
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -122928,6 +122945,28 @@
         "Maa Gold",
         "Maa Junior"
       ],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "StarMovies.in",
+      "name": "Star Movies",
+      "logo": null,
+      "url": "http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
       "network": "JioStar",
       "owners": [
         "JioStar India Pvt. Ltd.",
@@ -151545,6 +151584,30 @@
       ]
     },
     {
+      "id": "VijaySuper.in",
+      "name": "Vijay Super",
+      "logo": null,
+      "url": "http://ptu.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Star Vijay Super"
+      ],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "vijuTV1000russkoe.ru",
       "name": "viju TV1000 russkoe",
       "logo": null,
@@ -151585,6 +151648,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "VillageTV.in",
+      "name": "Village TV",
+      "logo": null,
+      "url": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Softline Creations Pvt. Ltd."
+      ]
     },
     {
       "id": "VinhLongTV1.vn",
@@ -159950,7 +160033,7 @@
       "id": "ZeeTamil.in",
       "name": "Zee Tamil",
       "logo": null,
-      "url": "http://103.161.153.165:8000/play/a05z/index.m3u8",
+      "url": "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -159985,6 +160068,26 @@
       "owners": [
         "Zee Media Corporation Limited (ZMCL)",
         "The Essel Group"
+      ]
+    },
+    {
+      "id": "ZeeThirai.in",
+      "name": "Zee Thirai",
+      "logo": null,
+      "url": "http://ptu.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
       ]
     },
     {
@@ -162132,12 +162235,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 259
+      "count": 260
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 338
+      "count": 341
     },
     {
       "id": "series",
@@ -162147,7 +162250,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 244
+      "count": 245
     },
     {
       "id": "español",
@@ -162161,17 +162264,17 @@
     }
   ],
   "stats": {
-    "total": 39336,
-    "withStreams": 8319,
-    "spanish": 1458,
+    "total": 39345,
+    "withStreams": 8324,
+    "spanish": 1460,
     "adult": 78,
     "bySection": {
       "general": 5858,
       "español": 1381,
-      "infantil": 244,
+      "infantil": 245,
       "series": 161,
-      "peliculas": 338,
-      "deportes": 259
+      "peliculas": 341,
+      "deportes": 260
     },
     "topCountries": [
       {
@@ -162181,7 +162284,7 @@
       },
       {
         "code": "IN",
-        "count": 615,
+        "count": 620,
         "name": "India"
       },
       {
@@ -162190,14 +162293,14 @@
         "name": "Russia"
       },
       {
+        "code": "ES",
+        "count": 248,
+        "name": "Spain"
+      },
+      {
         "code": "IT",
         "count": 248,
         "name": "Italy"
-      },
-      {
-        "code": "ES",
-        "count": 247,
-        "name": "Spain"
       },
       {
         "code": "DO",
@@ -162226,6 +162329,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-03-30T01:07:25.636Z",
+  "lastUpdated": "2026-03-31T01:05:48.776Z",
   "source": "orion-stream"
 }
