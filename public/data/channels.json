@@ -120,28 +120,6 @@
       ]
     },
     {
-      "id": "AndpriveHD.in",
-      "name": "&prive HD",
-      "logo": null,
-      "url": "http://103.161.153.165:8000/play/a05m/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "&privé HD"
-      ],
-      "network": "Z",
-      "owners": [
-        "Zee Entertainment Enterprises Limited"
-      ]
-    },
-    {
       "id": "AndTV.in",
       "name": "&TV",
       "logo": null,
@@ -1044,7 +1022,7 @@
         "Noticias"
       ],
       "altNames": [
-        "Хабар 24"
+        "��абар 24"
       ],
       "network": null,
       "owners": [
@@ -4815,11 +4793,11 @@
         "Noticias"
       ],
       "altNames": [],
-      "network": null,
+      "network": "News 360",
       "owners": [
         "Agencia EFE",
         "Europa Press",
-        "Love TV Channels"
+        "Love TV Channels S.L."
       ]
     },
     {
@@ -5304,7 +5282,7 @@
       "id": "Aflam.sa",
       "name": "Aflam",
       "logo": null,
-      "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8",
+      "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8",
       "country": "Saudi Arabia",
       "countryCode": "SA",
       "language_primary": null,
@@ -10409,28 +10387,6 @@
       ]
     },
     {
-      "id": "Anime.sa",
-      "name": "Anime",
-      "logo": null,
-      "url": "https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8",
-      "country": "Saudi Arabia",
-      "countryCode": "SA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación"
-      ],
-      "altNames": [
-        "إنمي"
-      ],
-      "network": "Shahid",
-      "owners": [
-        "MBC Group"
-      ]
-    },
-    {
       "id": "AnimeVision.es",
       "name": "Anime Vision",
       "logo": null,
@@ -12795,7 +12751,7 @@
       "is_adult": false,
       "section": "español",
       "categories": [
-        "General"
+        "Religioso"
       ],
       "altNames": [
         "Asomavisión"
@@ -39847,7 +39803,7 @@
       "altNames": [],
       "network": null,
       "owners": [
-        "Első Roma M��dia Kft."
+        "Első Roma Média Kft."
       ]
     },
     {
@@ -65100,7 +65056,7 @@
       "id": "KaluTV.co",
       "name": "Kalu TV",
       "logo": null,
-      "url": "https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8",
+      "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
       "country": "Colombia",
       "countryCode": "CO",
       "language_primary": "Español",
@@ -66373,6 +66329,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "KBSWorld.kr",
+      "name": "KBS World",
+      "logo": null,
+      "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
+      "country": "South Korea",
+      "countryCode": "KR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "KBS 월드"
+      ],
+      "network": "Korean Broadcasting System",
+      "owners": [
+        "Korean Broadcasting System"
+      ]
     },
     {
       "id": "KBSIDT1.us",
@@ -72936,7 +72914,9 @@
         "إل بي سي"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Rotana Group"
+      ]
     },
     {
       "id": "LBFDRTV.cd",
@@ -75024,9 +75004,9 @@
         "Documentales"
       ],
       "altNames": [],
-      "network": null,
+      "network": "Love The Planet",
       "owners": [
-        "Love TV Channels"
+        "Love TV Channels S.L."
       ]
     },
     {
@@ -90596,6 +90576,26 @@
       "owners": []
     },
     {
+      "id": "NovelaTV.pl",
+      "name": "Novela TV",
+      "logo": null,
+      "url": "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc021/novelatvhdraw/novelatvhdraw.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Polcast Television"
+      ]
+    },
+    {
       "id": "Novelisima.us",
       "name": "Novelisima",
       "logo": null,
@@ -104518,7 +104518,7 @@
       "id": "RabehSaqer.sa",
       "name": "Rabeh Saqer",
       "logo": null,
-      "url": "https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8",
+      "url": "https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8",
       "country": "Saudi Arabia",
       "countryCode": "SA",
       "language_primary": null,
@@ -106620,26 +106620,6 @@
       "name": "Rai 4",
       "logo": null,
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966",
-      "country": "Italy",
-      "countryCode": "IT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Rai"
-      ]
-    },
-    {
-      "id": "Rai4K.it",
-      "name": "Rai 4K",
-      "logo": null,
-      "url": "https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -116788,7 +116768,9 @@
         "اس بي سي"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Saudi Broadcasting Authority"
+      ]
     },
     {
       "id": "SBCTV.so",
@@ -122308,26 +122290,6 @@
       "altNames": [],
       "network": "Pluto TV",
       "owners": []
-    },
-    {
-      "id": "SpookyNights.sa",
-      "name": "Spooky Nights",
-      "logo": null,
-      "url": "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8",
-      "country": "Saudi Arabia",
-      "countryCode": "SA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "Shahid",
-      "owners": [
-        "MBC Group"
-      ]
     },
     {
       "id": "Sport.kg",
@@ -146523,26 +146485,6 @@
       ]
     },
     {
-      "id": "TVPHD.pl",
-      "name": "TVP HD",
-      "logo": null,
-      "url": "http://78.130.250.2:8023/play/a03a/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "TVP",
-      "owners": [
-        "Telewizja Polska"
-      ]
-    },
-    {
       "id": "TVPInfo.pl",
       "name": "TVP Info",
       "logo": null,
@@ -152869,7 +152811,7 @@
         "General"
       ],
       "altNames": [
-        "VICA Televisión"
+        "VICA Televisi��n"
       ],
       "network": null,
       "owners": [
@@ -153704,6 +153646,24 @@
       "url": "https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "WaterPlanet.pl",
+      "name": "Water Planet",
+      "logo": null,
+      "url": "https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc021/waterplanethdraw/waterplanethdraw.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -162388,17 +162348,17 @@
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 341
+      "count": 339
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 161
+      "count": 162
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 246
+      "count": 245
     },
     {
       "id": "español",
@@ -162412,16 +162372,16 @@
     }
   ],
   "stats": {
-    "total": 39345,
-    "withStreams": 8331,
+    "total": 39352,
+    "withStreams": 8329,
     "spanish": 1477,
     "adult": 78,
     "bySection": {
       "general": 5851,
       "español": 1396,
-      "infantil": 246,
-      "series": 161,
-      "peliculas": 341,
+      "infantil": 245,
+      "series": 162,
+      "peliculas": 339,
       "deportes": 258
     },
     "topCountries": [
@@ -162432,7 +162392,7 @@
       },
       {
         "code": "IN",
-        "count": 617,
+        "count": 616,
         "name": "India"
       },
       {
@@ -162447,7 +162407,7 @@
       },
       {
         "code": "IT",
-        "count": 248,
+        "count": 247,
         "name": "Italy"
       },
       {
@@ -162477,6 +162437,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-04-01T01:11:59.276Z",
+  "lastUpdated": "2026-04-02T01:02:26.372Z",
   "source": "orion-stream"
 }
