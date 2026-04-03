@@ -1022,7 +1022,7 @@
         "Noticias"
       ],
       "altNames": [
-        "��абар 24"
+        "Хабар 24"
       ],
       "network": null,
       "owners": [
@@ -36382,7 +36382,7 @@
       "id": "CTVBarranquilla.co",
       "name": "CTV Barranquilla",
       "logo": null,
-      "url": "https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8",
+      "url": "https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8",
       "country": "Colombia",
       "countryCode": "CO",
       "language_primary": "Español",
@@ -49629,7 +49629,7 @@
       "id": "FrecuenciaFTV.co",
       "name": "Frecuencia F TV",
       "logo": null,
-      "url": "https://tv.frecuenciaf.com/live/envivo.m3u8",
+      "url": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
       "country": "Colombia",
       "countryCode": "CO",
       "language_primary": "Español",
@@ -52492,6 +52492,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "GoalZone.sa",
+      "name": "Goal Zone",
+      "logo": null,
+      "url": "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8",
+      "country": "Saudi Arabia",
+      "countryCode": "SA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Spooky Nights"
+      ],
+      "network": "Shahid",
+      "owners": [
+        "MBC Group"
+      ]
     },
     {
       "id": "GodStandsTV.pk",
@@ -106934,7 +106956,7 @@
       "id": "RajMusixTamil.in",
       "name": "Raj Musix Tamil",
       "logo": null,
-      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
+      "url": "http://ajkiptv.ridsys.in/riptv/live/RAJ_MUSIX/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -107980,6 +108002,24 @@
       "altNames": [
         "Realitatea Sportivă"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "RealitateaStar.ro",
+      "name": "Realitatea Star",
+      "logo": null,
+      "url": "https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -129847,26 +129887,6 @@
       ]
     },
     {
-      "id": "Telefe.ar",
-      "name": "Telefe",
-      "logo": null,
-      "url": "https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Grupo Televisión Litoral"
-      ]
-    },
-    {
       "id": "TelefeInternacional.ar",
       "name": "Telefe Internacional",
       "logo": null,
@@ -132776,6 +132796,24 @@
       "owners": []
     },
     {
+      "id": "TezaurTV.md",
+      "name": "Tezaur TV",
+      "logo": null,
+      "url": "https://tezaurtv.md/stream/index.m3u8",
+      "country": "Moldova",
+      "countryCode": "MD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TF1.fr",
       "name": "TF1",
       "logo": null,
@@ -134998,24 +135036,6 @@
       "owners": []
     },
     {
-      "id": "TN.ar",
-      "name": "TN",
-      "logo": null,
-      "url": "http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TNAWrestlingChannel.pl",
       "name": "TNA Wrestling Channel",
       "logo": null,
@@ -137105,7 +137125,7 @@
       "id": "TRT1.tr",
       "name": "TRT 1",
       "logo": null,
-      "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web",
+      "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -146870,6 +146890,27 @@
       ]
     },
     {
+      "id": "TVRFolclor.ro",
+      "name": "TVR Folclor",
+      "logo": null,
+      "url": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General",
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Televiziunea Română"
+      ]
+    },
+    {
       "id": "TVRIasi.ro",
       "name": "TVR Iasi",
       "logo": null,
@@ -151674,6 +151715,32 @@
       ]
     },
     {
+      "id": "VijayTakkar.in",
+      "name": "Vijay Takkar",
+      "logo": null,
+      "url": "http://ajkiptv.ridsys.in/riptv/live/VIJAY_TAKKAR/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "Star Vijay Takkar",
+        "Vijay Music",
+        "Star Vijay Music"
+      ],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "vijuTV1000russkoe.ru",
       "name": "viju TV1000 russkoe",
       "logo": null,
@@ -152811,7 +152878,7 @@
         "General"
       ],
       "altNames": [
-        "VICA Televisi��n"
+        "VICA Televisión"
       ],
       "network": null,
       "owners": [
@@ -162343,7 +162410,7 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 258
+      "count": 259
     },
     {
       "id": "peliculas",
@@ -162363,26 +162430,26 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1396
+      "count": 1394
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5851
+      "count": 5855
     }
   ],
   "stats": {
     "total": 39352,
-    "withStreams": 8329,
-    "spanish": 1477,
+    "withStreams": 8332,
+    "spanish": 1475,
     "adult": 78,
     "bySection": {
-      "general": 5851,
-      "español": 1396,
+      "general": 5855,
+      "español": 1394,
       "infantil": 245,
       "series": 162,
       "peliculas": 339,
-      "deportes": 258
+      "deportes": 259
     },
     "topCountries": [
       {
@@ -162392,7 +162459,7 @@
       },
       {
         "code": "IN",
-        "count": 616,
+        "count": 617,
         "name": "India"
       },
       {
@@ -162437,6 +162504,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-04-02T01:02:26.372Z",
+  "lastUpdated": "2026-04-03T01:04:34.190Z",
   "source": "orion-stream"
 }
