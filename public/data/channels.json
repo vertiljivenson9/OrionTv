@@ -1002,7 +1002,7 @@
         "Noticias"
       ],
       "altNames": [
-        "Хабар 24"
+        "��абар 24"
       ],
       "network": null,
       "owners": [
@@ -9319,6 +9319,26 @@
       ]
     },
     {
+      "id": "AMCLatinAmerica.us",
+      "name": "AMC Latin America",
+      "logo": null,
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "AMC",
+      "owners": [
+        "AMC Networks Inc."
+      ]
+    },
+    {
       "id": "Ame47.do",
       "name": "Ame 47",
       "logo": null,
@@ -14326,6 +14346,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "AXNLatinAmerica.us",
+      "name": "AXN Latin America",
+      "logo": null,
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Sony Pictures Television"
+      ]
     },
     {
       "id": "AyenehTV.us",
@@ -40002,6 +40042,26 @@
       "owners": []
     },
     {
+      "id": "DirecTVSports.us",
+      "name": "DirecTV Sports",
+      "logo": null,
+      "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "AT&T"
+      ]
+    },
+    {
       "id": "DiscoverFilm.uk",
       "name": "Discover Film",
       "logo": null,
@@ -40485,6 +40545,24 @@
       "owners": [
         "Shree Krishna Pranami Media Pvt. Ltd."
       ]
+    },
+    {
+      "id": "DivyavaniTV.in",
+      "name": "Divyavani TV",
+      "logo": null,
+      "url": "https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "DiyanetTV.tr",
@@ -68819,7 +68897,7 @@
         "Legislativo"
       ],
       "altNames": [
-        "ערוץ כנסת"
+        "ער��ץ כנסת"
       ],
       "network": null,
       "owners": [
@@ -72528,6 +72606,32 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "LaLigaHypermotion.es",
+      "name": "LaLiga Hypermotion",
+      "logo": null,
+      "url": "http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "LaLiga SmartBank",
+        "LaLiga 1|2|3",
+        "LaLiga2",
+        "Liga Adelante",
+        "Liga BBVA"
+      ],
+      "network": null,
+      "owners": [
+        "Telefonica S A"
+      ]
     },
     {
       "id": "LamDongTV.vn",
@@ -85779,6 +85883,26 @@
       "owners": []
     },
     {
+      "id": "NaftemporikiTV.gr",
+      "name": "Naftemporiki TV",
+      "logo": null,
+      "url": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8",
+      "country": "Greece",
+      "countryCode": "GR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "Ναυτεμπορική TV"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "NagalandTV.in",
       "name": "Nagaland TV",
       "logo": null,
@@ -85939,6 +86063,26 @@
       "owners": [
         "Nadighosha TV Private Limited"
       ]
+    },
+    {
+      "id": "Nanduti.py",
+      "name": "Nanduti",
+      "logo": null,
+      "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "Ñanduti"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "Nano.ru",
@@ -92874,27 +93018,6 @@
       "network": null,
       "owners": [
         "Stanice O a s"
-      ]
-    },
-    {
-      "id": "OCN.kr",
-      "name": "OCN",
-      "logo": null,
-      "url": "http://202.60.106.14:8080/207/playlist.m3u8",
-      "country": "South Korea",
-      "countryCode": "KR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas",
-        "Series"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "CJ Group"
       ]
     },
     {
@@ -99926,6 +100049,26 @@
       "owners": []
     },
     {
+      "id": "PlutoTVFutbolParaFans.us",
+      "name": "Pluto TV Futbol Para Fans",
+      "logo": null,
+      "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Pluto TV Fútbol Para Fans"
+      ],
+      "network": "Pluto TV",
+      "owners": []
+    },
+    {
       "id": "PlutoTVGameShows.us",
       "name": "Pluto TV Game Shows",
       "logo": null,
@@ -102499,6 +102642,24 @@
       "owners": []
     },
     {
+      "id": "ProductivaTV.py",
+      "name": "Productiva TV",
+      "logo": null,
+      "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Aire Libre"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Prodvizhenie.ru",
       "name": "Prodvizhenie",
       "logo": null,
@@ -104235,6 +104396,24 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "QuieroMusicaenmiIdioma.ar",
+      "name": "Quiero Musica en mi Idioma",
+      "logo": null,
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
       ],
       "altNames": [],
       "network": null,
@@ -112975,7 +113154,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Rádio e Televisão de Portugal"
+      ]
     },
     {
       "id": "RTP2.pt",
@@ -112993,7 +113174,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Rádio e Televisão de Portugal"
+      ]
     },
     {
       "id": "RTPAcores.pt",
@@ -113034,24 +113217,6 @@
       "altNames": [
         "RTP África"
       ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "RTPInternacional.pt",
-      "name": "RTP Internacional",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8",
-      "country": "Portugal",
-      "countryCode": "PT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
       "network": null,
       "owners": [
         "Rádio e Televisão de Portugal"
@@ -113117,7 +113282,9 @@
         "RTP 3"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Rádio e Televisão de Portugal"
+      ]
     },
     {
       "id": "RTQQueretaro.mx",
@@ -126612,6 +126779,26 @@
       ]
     },
     {
+      "id": "SyrianSatelliteChannel.sy",
+      "name": "Syrian Satellite Channel",
+      "logo": null,
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8",
+      "country": "Syria",
+      "countryCode": "SY",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "General Organization of Radio and TV"
+      ]
+    },
+    {
       "id": "SyrosTV1.gr",
       "name": "Syros TV1",
       "logo": null,
@@ -130979,7 +131166,7 @@
       "id": "TelemundoInternacional.us",
       "name": "Telemundo Internacional",
       "logo": null,
-      "url": "http://190.2.212.209:8050/play/a0oa",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -134614,6 +134801,24 @@
       "owners": []
     },
     {
+      "id": "TigoSports.py",
+      "name": "Tigo Sports",
+      "logo": null,
+      "url": "https://live.enhdtv.com:8081/8160/index.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TigoSports.sv",
       "name": "Tigo Sports",
       "logo": null,
@@ -136945,26 +137150,6 @@
       "owners": []
     },
     {
-      "id": "Trece.py",
-      "name": "Trece",
-      "logo": null,
-      "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
-      "country": "Paraguay",
-      "countryCode": "PY",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Grupo JBB"
-      ]
-    },
-    {
       "id": "Trek.fr",
       "name": "Trek",
       "logo": null,
@@ -138172,6 +138357,24 @@
       "owners": []
     },
     {
+      "id": "TUDN.mx",
+      "name": "TUDN",
+      "logo": null,
+      "url": "https://streaming.alwaysdata.net/tudn.php",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TUDN.us",
       "name": "TUDN",
       "logo": null,
@@ -138869,6 +139072,24 @@
       "section": "general",
       "categories": [
         "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TVAire.py",
+      "name": "TV Aire",
+      "logo": null,
+      "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -160146,6 +160367,26 @@
       ]
     },
     {
+      "id": "ZeeCinemalu.in",
+      "name": "Zee Cinemalu",
+      "logo": null,
+      "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
       "id": "ZeeClassic.in",
       "name": "Zee Classic",
       "logo": null,
@@ -160458,6 +160699,26 @@
       "name": "Zee Tamil",
       "logo": null,
       "url": "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
+      "id": "ZeeTelugu.in",
+      "name": "Zee Telugu",
+      "logo": null,
+      "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -162679,12 +162940,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 262
+      "count": 266
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 337
+      "count": 339
     },
     {
       "id": "series",
@@ -162699,36 +162960,36 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1401
+      "count": 1405
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5858
+      "count": 5861
     }
   ],
   "stats": {
     "total": 39371,
-    "withStreams": 8345,
-    "spanish": 1486,
+    "withStreams": 8358,
+    "spanish": 1492,
     "adult": 78,
     "bySection": {
-      "general": 5858,
-      "español": 1401,
+      "general": 5861,
+      "español": 1405,
       "infantil": 247,
       "series": 162,
-      "peliculas": 337,
-      "deportes": 262
+      "peliculas": 339,
+      "deportes": 266
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1413,
+        "count": 1417,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 617,
+        "count": 620,
         "name": "India"
       },
       {
@@ -162738,7 +162999,7 @@
       },
       {
         "code": "ES",
-        "count": 248,
+        "count": 249,
         "name": "Spain"
       },
       {
@@ -162773,6 +163034,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-04-05T01:07:03.958Z",
+  "lastUpdated": "2026-04-06T01:07:34.394Z",
   "source": "orion-stream"
 }
