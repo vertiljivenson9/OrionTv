@@ -4905,7 +4905,7 @@
       "id": "ADBTV.pt",
       "name": "ADB TV",
       "logo": null,
-      "url": "https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8",
+      "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
       "country": "Portugal",
       "countryCode": "PT",
       "language_primary": null,
@@ -6847,26 +6847,6 @@
       ]
     },
     {
-      "id": "AlMamlakaTV.jo",
-      "name": "Al Mamlaka TV",
-      "logo": null,
-      "url": "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8",
-      "country": "Jordan",
-      "countryCode": "JO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "المملكة تي في"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "AlMasarTV.ly",
       "name": "Al Masar TV",
       "logo": null,
@@ -7373,7 +7353,7 @@
       "id": "AlAimmaTV.iq",
       "name": "Al-Aimma TV",
       "logo": null,
-      "url": "http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8",
+      "url": "https://alaimma.tv/live/index.m3u8",
       "country": "Iraq",
       "countryCode": "IQ",
       "language_primary": null,
@@ -7522,26 +7502,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "AlMajdHolyQuran.sa",
-      "name": "Al-Majd Holy Quran",
-      "logo": null,
-      "url": "https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8",
-      "country": "Saudi Arabia",
-      "countryCode": "SA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Religioso"
-      ],
-      "altNames": [],
-      "network": "Al-Majd Network",
-      "owners": [
-        "Fahad Abdulrahman Alshimeimri"
-      ]
     },
     {
       "id": "AlManar.lb",
@@ -39230,6 +39190,24 @@
       "owners": []
     },
     {
+      "id": "Deluxe139.it",
+      "name": "Deluxe 139",
+      "logo": null,
+      "url": "https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "DeluxeDance.de",
       "name": "Deluxe Dance",
       "logo": null,
@@ -39504,6 +39482,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "DeportesTVC.hn",
+      "name": "Deportes TVC",
+      "logo": null,
+      "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8",
+      "country": "Honduras",
+      "countryCode": "HN",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Corporación Televicentro"
+      ]
     },
     {
       "id": "DeporTV.ar",
@@ -45435,26 +45433,6 @@
       "owners": [
         "IN10 Media Network"
       ]
-    },
-    {
-      "id": "EpicMusic.in",
-      "name": "Epic Music",
-      "logo": null,
-      "url": "http://116.90.120.151:8000/play/a0k2/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "ShowBox"
-      ],
-      "network": "Epic",
-      "owners": []
     },
     {
       "id": "EpicTV.in",
@@ -56344,26 +56322,6 @@
       ]
     },
     {
-      "id": "HelwaTV.tr",
-      "name": "Helwa TV",
-      "logo": null,
-      "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "حلوة"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "HenanTVSatellite.cn",
       "name": "Henan TV Satellite",
       "logo": null,
@@ -57503,7 +57461,7 @@
       ],
       "altNames": [
         "TBC TV",
-        "주식회사 티비씨",
+        "주식회사 티비���",
         "株式會社 大邱放送"
       ],
       "network": "SBS",
@@ -59465,28 +59423,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "i24NEWSArabic.il",
-      "name": "i24NEWS Arabic",
-      "logo": null,
-      "url": "https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8",
-      "country": "Israel",
-      "countryCode": "IL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "i24NEWS عربى"
-      ],
-      "network": null,
-      "owners": [
-        "Israel Television News Company"
-      ]
     },
     {
       "id": "i24NEWSEnglishUSA.il",
@@ -73451,6 +73387,26 @@
         "Liga Adelante",
         "Liga BBVA"
       ],
+      "network": null,
+      "owners": [
+        "Telefonica S A"
+      ]
+    },
+    {
+      "id": "LaLigaTV.es",
+      "name": "LaLiga TV",
+      "logo": null,
+      "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "Telefonica S A"
@@ -90725,7 +90681,7 @@
       "id": "NickOnline.br",
       "name": "NickOnline",
       "logo": null,
-      "url": "https://x1co.com.br:8443/hls/stream.m3u8",
+      "url": "https://x1co.com.br:2083/hls/stream.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -96349,6 +96305,27 @@
         "Canal 10"
       ],
       "network": null,
+      "owners": []
+    },
+    {
+      "id": "OrbitaChileTV.cl",
+      "name": "Orbita Chile TV",
+      "logo": null,
+      "url": "https://orbitachiletv.org/hls/0/stream.m3u8",
+      "country": "Chile",
+      "countryCode": "CL",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas",
+        "Música"
+      ],
+      "altNames": [
+        "Órbita Chile TV"
+      ],
+      "network": "Concepción",
       "owners": []
     },
     {
@@ -109817,26 +109794,6 @@
       "owners": []
     },
     {
-      "id": "RecordTVEuropa.pt",
-      "name": "RecordTV Europa",
-      "logo": null,
-      "url": "https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8",
-      "country": "Portugal",
-      "countryCode": "PT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "RecordTV Europa"
-      ]
-    },
-    {
       "id": "RecordTVGoias.br",
       "name": "RecordTV Goias",
       "logo": null,
@@ -114559,6 +114516,28 @@
       ],
       "altNames": [
         "RTP Memória"
+      ],
+      "network": null,
+      "owners": [
+        "Rádio e Televisão de Portugal"
+      ]
+    },
+    {
+      "id": "RTPMundo.pt",
+      "name": "RTP Mundo",
+      "logo": null,
+      "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "RTP Internacional"
       ],
       "network": null,
       "owners": [
@@ -128094,26 +128073,6 @@
       ]
     },
     {
-      "id": "SyrianSatelliteChannel.sy",
-      "name": "Syrian Satellite Channel",
-      "logo": null,
-      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8",
-      "country": "Syria",
-      "countryCode": "SY",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "General Organization of Radio and TV"
-      ]
-    },
-    {
       "id": "SyrosTV1.gr",
       "name": "Syros TV1",
       "logo": null,
@@ -132398,6 +132357,28 @@
       "owners": []
     },
     {
+      "id": "Telemontecarlo.it",
+      "name": "Telemontecarlo",
+      "logo": null,
+      "url": "https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "TMC",
+        "Tele Monte-Carlo",
+        "Telé Monte Carlo"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "teleMonteneve.it",
       "name": "teleMonteneve",
       "logo": null,
@@ -136163,6 +136144,24 @@
       "owners": []
     },
     {
+      "id": "TigoSports.gt",
+      "name": "Tigo Sports",
+      "logo": null,
+      "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8",
+      "country": "Guatemala",
+      "countryCode": "GT",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TigoSports.py",
       "name": "Tigo Sports",
       "logo": null,
@@ -136463,6 +136462,24 @@
       "is_spanish": false,
       "is_adult": false,
       "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TitoTV.es",
+      "name": "Tito TV",
+      "logo": null,
+      "url": "https://cloud.tvomix.com/TITOTV/index.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
       "categories": [
         "General"
       ],
@@ -147334,7 +147351,7 @@
       "id": "TVI.pt",
       "name": "TVI",
       "logo": null,
-      "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8",
+      "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
       "country": "Portugal",
       "countryCode": "PT",
       "language_primary": null,
@@ -147345,28 +147362,6 @@
         "General"
       ],
       "altNames": [],
-      "network": null,
-      "owners": [
-        "Media Capital"
-      ]
-    },
-    {
-      "id": "TVIAfrica.pt",
-      "name": "TVI Africa",
-      "logo": null,
-      "url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
-      "country": "Portugal",
-      "countryCode": "PT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TVI África"
-      ],
       "network": null,
       "owners": [
         "Media Capital"
@@ -165137,12 +165132,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 269
+      "count": 272
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 344
+      "count": 345
     },
     {
       "id": "series",
@@ -165157,26 +165152,26 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1429
+      "count": 1430
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5886
+      "count": 5881
     }
   ],
   "stats": {
-    "total": 39372,
+    "total": 39376,
     "withStreams": 8423,
-    "spanish": 1518,
+    "spanish": 1523,
     "adult": 78,
     "bySection": {
-      "general": 5886,
-      "español": 1429,
+      "general": 5881,
+      "español": 1430,
       "infantil": 248,
       "series": 169,
-      "peliculas": 344,
-      "deportes": 269
+      "peliculas": 345,
+      "deportes": 272
     },
     "topCountries": [
       {
@@ -165186,7 +165181,7 @@
       },
       {
         "code": "IN",
-        "count": 619,
+        "count": 618,
         "name": "India"
       },
       {
@@ -165196,12 +165191,12 @@
       },
       {
         "code": "ES",
-        "count": 254,
+        "count": 256,
         "name": "Spain"
       },
       {
         "code": "IT",
-        "count": 246,
+        "count": 248,
         "name": "Italy"
       },
       {
@@ -165211,7 +165206,7 @@
       },
       {
         "code": "TR",
-        "count": 223,
+        "count": 222,
         "name": "Turkiye"
       },
       {
@@ -165231,6 +165226,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-04-09T00:57:21.537Z",
+  "lastUpdated": "2026-04-10T01:07:08.855Z",
   "source": "orion-stream"
 }
