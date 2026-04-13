@@ -6025,7 +6025,7 @@
       "id": "AIONTV.do",
       "name": "AION TV",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/aiontelevision/tracks-v1a1/mono.m3u8",
+      "url": "https://edge.essastream.com/aiontelevision/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -7064,7 +7064,7 @@
         "General"
       ],
       "altNames": [
-        "ا��ريان"
+        "الريان"
       ],
       "network": null,
       "owners": [
@@ -19919,7 +19919,7 @@
       "id": "Boreal.do",
       "name": "Boreal",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/borealtelevision/tracks-v1a1/mono.m3u8",
+      "url": "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -20835,6 +20835,45 @@
       "owners": [
         "Telewizja BTB"
       ]
+    },
+    {
+      "id": "BTBInfo.pl",
+      "name": "BTB Info",
+      "logo": null,
+      "url": "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales",
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": "Telewizja BTB",
+      "owners": [
+        "Telewizja BTB"
+      ]
+    },
+    {
+      "id": "BTBInternational.pl",
+      "name": "BTB International",
+      "logo": null,
+      "url": "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "BTLTV.ke",
@@ -29835,7 +29874,7 @@
         "Noticias"
       ],
       "altNames": [
-        "24 канал"
+        "24 ��анал"
       ],
       "network": null,
       "owners": [
@@ -31836,7 +31875,7 @@
       "id": "CitricoTV.do",
       "name": "Citrico TV",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/citricotv/playlist.m3u8",
+      "url": "https://edge.essastream.com/citricotv/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -34192,7 +34231,7 @@
       "id": "CNTMasTV.do",
       "name": "CNT Mas TV",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/cntmas/playlist.m3u8",
+      "url": "https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -34210,7 +34249,7 @@
       "id": "COCOTV.do",
       "name": "COCO TV",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/canalcocotv/playlist.m3u8",
+      "url": "https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -34228,7 +34267,7 @@
       "id": "CodigoTV.do",
       "name": "Codigo TV",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/codigotv/playlist.m3u8",
+      "url": "https://edge.essastream.com/codigotv/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -42292,6 +42331,26 @@
       "owners": []
     },
     {
+      "id": "DuacaVision.ve",
+      "name": "DuacaVision",
+      "logo": null,
+      "url": "https://vs20.live.opencaster.com/duacavision_092f3447/index.m3u8",
+      "country": "Venezuela",
+      "countryCode": "VE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "DuacaVisión"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "DuckDynasty.us",
       "name": "Duck Dynasty",
       "logo": null,
@@ -45052,7 +45111,7 @@
       "id": "Enntivision.do",
       "name": "Enntivision",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/enntivision/tracks-v1a1/mono.m3u8",
+      "url": "https://edge.essastream.com/enntivision/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -49380,7 +49439,7 @@
       "id": "FoodFood.in",
       "name": "Food Food",
       "logo": null,
-      "url": "http://45.148.145.57/IN_FOODFOOD/index.m3u8",
+      "url": "https://mumt03.tangotv.in/FOODFOOD/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -60721,7 +60780,7 @@
       "id": "InformeTV.do",
       "name": "Informe TV",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/informetv/playlist.m3u8",
+      "url": "https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -63111,7 +63170,7 @@
       "id": "JayaMax.in",
       "name": "Jaya Max",
       "logo": null,
-      "url": "https://mac.zenplay.top/linear-live.php?amp;e=.m3u8&amp;vtoken=&id=994",
+      "url": "http://ajkiptv.ridsys.in/riptv/live/JAYA_MAX/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -69170,6 +69229,29 @@
       ]
     },
     {
+      "id": "KNSO511.us",
+      "name": "KNSO 51.1",
+      "logo": null,
+      "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Telemundo Fresno",
+        "KNSO"
+      ],
+      "network": "Telemundo",
+      "owners": [
+        "NBC Telemundo License LLC"
+      ]
+    },
+    {
       "id": "KNTV111.us",
       "name": "KNTV 11.1",
       "logo": null,
@@ -72056,24 +72138,6 @@
       "is_spanish": false,
       "is_adult": false,
       "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "LaCaletaTV.do",
-      "name": "La Caleta TV",
-      "logo": null,
-      "url": "https://mlb.essastream.com:8081/lacaletatv/playlist.m3u8",
-      "country": "Dominican Republic",
-      "countryCode": "DO",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
       "categories": [
         "General"
       ],
@@ -76369,7 +76433,7 @@
         "Noticias"
       ],
       "altNames": [
-        "எம் நாடு நியூஸ்"
+        "எம் நாடு ந���யூஸ்"
       ],
       "network": null,
       "owners": []
@@ -81238,7 +81302,7 @@
       "id": "MiavisionTV.do",
       "name": "Miavision TV",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/miavisiontv/tracks-v1a1/mono.m3u8",
+      "url": "https://edge.essastream.com/miavisiontv/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -90091,7 +90155,7 @@
       "id": "NickOnline.br",
       "name": "NickOnline",
       "logo": null,
-      "url": "https://x1co.com.br:2083/hls/stream.m3u8",
+      "url": "https://x1co.com.br/hls/stream.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -90992,7 +91056,7 @@
       "id": "Noticias16.do",
       "name": "Noticias 16",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/noticias16/playlist.m3u8",
+      "url": "https://edge.essastream.com/noticias16/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -99507,6 +99571,24 @@
       "owners": []
     },
     {
+      "id": "PlanetaChannel.ec",
+      "name": "Planeta Channel",
+      "logo": null,
+      "url": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
+      "country": "Ecuador",
+      "countryCode": "EC",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "PlanetaTV.pe",
       "name": "Planeta TV",
       "logo": null,
@@ -102247,6 +102329,26 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "PragNews.in",
+      "name": "Prag News",
+      "logo": null,
+      "url": "https://mumt05.tangotv.in/PRAGNEWS/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Prag Network"
+      ]
     },
     {
       "id": "PraiseJesusTowerTV.ug",
@@ -108602,7 +108704,7 @@
       "id": "RDN.do",
       "name": "RDN",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/rdntv/tracks-v1a1/mono.m3u8",
+      "url": "https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -116115,6 +116217,24 @@
       "owners": []
     },
     {
+      "id": "SaiTV.in",
+      "name": "Sai TV",
+      "logo": null,
+      "url": "https://mumt03.tangotv.in/SAITVTAMILDEVOTIONAL/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SairamTV.in",
       "name": "Sairam TV",
       "logo": null,
@@ -117175,7 +117295,7 @@
       "id": "SantiagoTV.do",
       "name": "Santiago TV",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/telemilenio/playlist.m3u8",
+      "url": "https://edge.essastream.com/telemilenio/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -117699,6 +117819,27 @@
       "owners": [
         "Talpa Network"
       ]
+    },
+    {
+      "id": "SBTCuiaba.br",
+      "name": "SBT Cuiaba",
+      "logo": null,
+      "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "SBT Cuiabá",
+        "SBT Mato Grosso"
+      ],
+      "network": "Canais SBT",
+      "owners": []
     },
     {
       "id": "SBTInterior.br",
@@ -130242,7 +130383,7 @@
       "id": "Telecanal12.do",
       "name": "Telecanal 12",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/telecanal12/tracks-v1a1/mono.m3u8",
+      "url": "https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -130260,7 +130401,7 @@
       "id": "Telecanal28.do",
       "name": "Telecanal 28",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/telecanal28/tracks-v1a1/mono.m3u8",
+      "url": "https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -130386,7 +130527,7 @@
       "id": "TeleCibaoHD.do",
       "name": "TeleCibaoHD",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/telecibaotv/tracks-v1a1/mono.m3u8",
+      "url": "https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -131176,7 +131317,7 @@
       "id": "Telemax.do",
       "name": "Telemax",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/telemax/tracks-v1a1/mono.m3u8",
+      "url": "https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -132852,7 +132993,7 @@
       "id": "TelevisiondelEste.do",
       "name": "Television del Este",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/televisiondeleste/tracks-v1a1/mono.m3u8",
+      "url": "https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -133166,6 +133307,26 @@
       "owners": []
     },
     {
+      "id": "TelewizjaRelax.pl",
+      "name": "Telewizja Relax",
+      "logo": null,
+      "url": "https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "TV Relax"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TelewizjaTorun.pl",
       "name": "Telewizja Torun",
       "logo": null,
@@ -133371,7 +133532,7 @@
       "id": "TenarensesTV.do",
       "name": "Tenarenses TV",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/tenarensestvrd/playlist.m3u8",
+      "url": "https://edge.essastream.com/tenarensestvrd/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -138743,7 +138904,7 @@
       "id": "TuMusicaHD.do",
       "name": "Tu Musica HD",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/tumusicahd/tracks-v1a1/mono.m3u8",
+      "url": "https://edge.essastream.com/tumusicahd/tracks-v1a1/mono.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -140829,7 +140990,7 @@
       "id": "TVDaja.do",
       "name": "TV Daja",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/dajatv/playlist.m3u8",
+      "url": "https://edge.essastream.com/dajatv/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -142775,6 +142936,24 @@
       "owners": []
     },
     {
+      "id": "TVPampa.br",
+      "name": "TV Pampa",
+      "logo": null,
+      "url": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TVPanou.ht",
       "name": "TV Panou",
       "logo": null,
@@ -143218,6 +143397,24 @@
       "url": "https://ottst05.flexitv.sk/2827-tv-pc.m3u8",
       "country": "Slovakia",
       "countryCode": "SK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TVRegionalnaLubin.pl",
+      "name": "TV Regionalna Lubin",
+      "logo": null,
+      "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -153883,6 +154080,24 @@
       "owners": []
     },
     {
+      "id": "VTVNews.in",
+      "name": "VTV News",
+      "logo": null,
+      "url": "https://mumt04.tangotv.in/VTV/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "VTVValledeAconcagua.cl",
       "name": "VTV Valle de Aconcagua",
       "logo": null,
@@ -159890,7 +160105,7 @@
       "id": "XtraTv.do",
       "name": "Xtra Tv",
       "logo": null,
-      "url": "https://mlb.essastream.com:8081/xtratv/index.m3u8",
+      "url": "https://edge.essastream.com/xtratv/index.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -164027,22 +164242,22 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1430
+      "count": 1431
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5843
+      "count": 5853
     }
   ],
   "stats": {
-    "total": 39377,
-    "withStreams": 8364,
-    "spanish": 1524,
+    "total": 39379,
+    "withStreams": 8375,
+    "spanish": 1525,
     "adult": 78,
     "bySection": {
-      "general": 5843,
-      "español": 1430,
+      "general": 5853,
+      "español": 1431,
       "infantil": 239,
       "series": 168,
       "peliculas": 337,
@@ -164051,12 +164266,12 @@
     "topCountries": [
       {
         "code": "US",
-        "count": 1437,
+        "count": 1438,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 616,
+        "count": 619,
         "name": "India"
       },
       {
@@ -164076,7 +164291,7 @@
       },
       {
         "code": "DO",
-        "count": 235,
+        "count": 234,
         "name": "Dominican Republic"
       },
       {
@@ -164096,11 +164311,11 @@
       },
       {
         "code": "BR",
-        "count": 177,
+        "count": 179,
         "name": "Brazil"
       }
     ]
   },
-  "lastUpdated": "2026-04-12T01:10:59.828Z",
+  "lastUpdated": "2026-04-13T01:13:14.413Z",
   "source": "orion-stream"
 }
