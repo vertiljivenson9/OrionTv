@@ -1002,7 +1002,7 @@
         "Noticias"
       ],
       "altNames": [
-        "Хабар 24"
+        "��абар 24"
       ],
       "network": null,
       "owners": [
@@ -7064,7 +7064,7 @@
         "General"
       ],
       "altNames": [
-        "ا��ريان"
+        "الريان"
       ],
       "network": null,
       "owners": [
@@ -17798,7 +17798,7 @@
       "id": "BeritaSatu.id",
       "name": "BeritaSatu",
       "logo": null,
-      "url": "https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8",
+      "url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -17814,24 +17814,6 @@
         "BeritaSatu World",
         "Swara"
       ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BeritaSatuEnglish.id",
-      "name": "BeritaSatu English",
-      "logo": null,
-      "url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8",
-      "country": "Indonesia",
-      "countryCode": "ID",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -20892,6 +20874,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "BTBMusic.pl",
+      "name": "BTB Music",
+      "logo": null,
+      "url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": "Telewizja BTB",
+      "owners": [
+        "Telewizja BTB"
+      ]
     },
     {
       "id": "BTLTV.ke",
@@ -28693,7 +28695,7 @@
       "id": "CCTV9.cn",
       "name": "CCTV-9",
       "logo": null,
-      "url": "http://123.175.209.52:9003/hls/10/index.m3u8",
+      "url": "https://xykt-fix.github.io/Y77.m3u8",
       "country": "China",
       "countryCode": "CN",
       "language_primary": null,
@@ -41073,7 +41075,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถา��ีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
+        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -45352,7 +45354,8 @@
         "Entretenimiento"
       ],
       "altNames": [
-        "Nazara"
+        "EPIC भारत",
+        "Nazara TV"
       ],
       "network": "Epic",
       "owners": []
@@ -52424,6 +52427,28 @@
       "owners": []
     },
     {
+      "id": "GikTVMX.mx",
+      "name": "GikTVMX",
+      "logo": null,
+      "url": "https://pistream.ddns.net/hls/stream.m3u8",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Cultura",
+        "Animación",
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "G3 N Media MX"
+      ]
+    },
+    {
       "id": "GiornaleRadioTV.it",
       "name": "Giornale Radio TV",
       "logo": null,
@@ -53660,6 +53685,24 @@
       "url": "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8",
       "country": "United States",
       "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "GospelTVIndia.in",
+      "name": "Gospel TV India",
+      "logo": null,
+      "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -73145,7 +73188,7 @@
       "id": "LanaTV.lb",
       "name": "Lana TV",
       "logo": null,
-      "url": "https://p-ltv.akamaized.net/ltv/ltv.m3u8",
+      "url": "https://cdn.streamlane.tv/hls/ltv/master.m3u8",
       "country": "Lebanon",
       "countryCode": "LB",
       "language_primary": null,
@@ -73819,7 +73862,7 @@
       "id": "LCI.fr",
       "name": "LCI",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -76966,7 +77009,7 @@
       "id": "MadhaTV.in",
       "name": "Madha TV",
       "logo": null,
-      "url": "https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8",
+      "url": "https://cdn-3.pishow.tv/live/1265/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -88622,6 +88665,26 @@
       ]
     },
     {
+      "id": "News24MPChhattisgarh.in",
+      "name": "News 24 MP & Chhattisgarh",
+      "logo": null,
+      "url": "https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "B A G Network"
+      ]
+    },
+    {
       "id": "News7Tamil.in",
       "name": "News 7 Tamil",
       "logo": null,
@@ -90251,6 +90314,29 @@
       "network": "Nickelodeon",
       "owners": [
         "Paramount Networks EMEAA"
+      ]
+    },
+    {
+      "id": "NickOnline.br",
+      "name": "NickOnline",
+      "logo": null,
+      "url": "https://x1co.com.br/hls/stream.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil",
+        "Animación"
+      ],
+      "altNames": [
+        "Nickelodeon Online"
+      ],
+      "network": null,
+      "owners": [
+        "x1co"
       ]
     },
     {
@@ -118739,7 +118825,7 @@
       "id": "ServusTV.at",
       "name": "ServusTV",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8",
+      "url": "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8",
       "country": "Austria",
       "countryCode": "AT",
       "language_primary": null,
@@ -119640,27 +119726,6 @@
       "owners": []
     },
     {
-      "id": "ShauntheSheepFriends.uk",
-      "name": "Shaun the Sheep & Friends",
-      "logo": null,
-      "url": "https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Aardman Animations Ltd."
-      ]
-    },
-    {
       "id": "ShayanTV.ru",
       "name": "Shayan TV",
       "logo": null,
@@ -119775,6 +119840,27 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ShemarooFilmiGaane.in",
+      "name": "Shemaroo Filmi Gaane",
+      "logo": null,
+      "url": "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Música",
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Shemaroo Entertainment Ltd."
+      ]
     },
     {
       "id": "ShemarooJosh.in",
@@ -128959,7 +129045,7 @@
         "Noticias"
       ],
       "altNames": [
-        "澳門資訊頻���",
+        "澳門資訊頻道",
         "TDMInformação"
       ],
       "network": null,
@@ -164310,7 +164396,7 @@
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 337
+      "count": 338
     },
     {
       "id": "series",
@@ -164320,7 +164406,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 238
+      "count": 239
     },
     {
       "id": "español",
@@ -164330,20 +164416,20 @@
     {
       "id": "general",
       "name": "General",
-      "count": 5858
+      "count": 5860
     }
   ],
   "stats": {
-    "total": 39379,
-    "withStreams": 8379,
-    "spanish": 1525,
+    "total": 39385,
+    "withStreams": 8383,
+    "spanish": 1526,
     "adult": 78,
     "bySection": {
-      "general": 5858,
+      "general": 5860,
       "español": 1431,
-      "infantil": 238,
+      "infantil": 239,
       "series": 168,
-      "peliculas": 337,
+      "peliculas": 338,
       "deportes": 269
     },
     "topCountries": [
@@ -164354,7 +164440,7 @@
       },
       {
         "code": "IN",
-        "count": 623,
+        "count": 626,
         "name": "India"
       },
       {
@@ -164389,16 +164475,16 @@
       },
       {
         "code": "UK",
-        "count": 182,
+        "count": 181,
         "name": "United Kingdom"
       },
       {
         "code": "BR",
-        "count": 178,
+        "count": 179,
         "name": "Brazil"
       }
     ]
   },
-  "lastUpdated": "2026-04-14T01:11:42.867Z",
+  "lastUpdated": "2026-04-15T01:10:24.013Z",
   "source": "orion-stream"
 }
