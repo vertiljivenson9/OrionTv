@@ -80,26 +80,6 @@
       "owners": []
     },
     {
-      "id": "Andpictures.in",
-      "name": "&pictures",
-      "logo": null,
-      "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "Z",
-      "owners": [
-        "Zee Entertainment Enterprises Limited"
-      ]
-    },
-    {
       "id": "AndTV.in",
       "name": "&TV",
       "logo": null,
@@ -1002,7 +982,7 @@
         "Noticias"
       ],
       "altNames": [
-        "��абар 24"
+        "Хабар 24"
       ],
       "network": null,
       "owners": [
@@ -7064,7 +7044,7 @@
         "General"
       ],
       "altNames": [
-        "الريان"
+        "ا��ريان"
       ],
       "network": null,
       "owners": [
@@ -17806,7 +17786,7 @@
       "is_adult": false,
       "section": "general",
       "categories": [
-        "Negocios"
+        "Noticias"
       ],
       "altNames": [
         "IDTV",
@@ -40943,7 +40923,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
+        "สถานี���ิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -60140,6 +60120,24 @@
       "section": "español",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "ImaiTV.lk",
+      "name": "Imai TV",
+      "logo": null,
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+      "country": "Sri Lanka",
+      "countryCode": "LK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Cultura"
       ],
       "altNames": [],
       "network": null,
@@ -155026,6 +155024,24 @@
       ]
     },
     {
+      "id": "WatchitKID.us",
+      "name": "Watch it KID!",
+      "logo": null,
+      "url": "https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "WAVETV.bz",
       "name": "WAVE TV",
       "logo": null,
@@ -164396,7 +164412,7 @@
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 338
+      "count": 337
     },
     {
       "id": "series",
@@ -164406,7 +164422,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 239
+      "count": 240
     },
     {
       "id": "español",
@@ -164416,31 +164432,31 @@
     {
       "id": "general",
       "name": "General",
-      "count": 5860
+      "count": 5861
     }
   ],
   "stats": {
     "total": 39385,
-    "withStreams": 8383,
+    "withStreams": 8384,
     "spanish": 1526,
     "adult": 78,
     "bySection": {
-      "general": 5860,
+      "general": 5861,
       "español": 1431,
-      "infantil": 239,
+      "infantil": 240,
       "series": 168,
-      "peliculas": 338,
+      "peliculas": 337,
       "deportes": 269
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1438,
+        "count": 1439,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 626,
+        "count": 625,
         "name": "India"
       },
       {
@@ -164485,6 +164501,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-04-15T01:10:24.013Z",
+  "lastUpdated": "2026-04-16T01:14:45.361Z",
   "source": "orion-stream"
 }
