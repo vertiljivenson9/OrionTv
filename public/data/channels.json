@@ -24763,6 +24763,24 @@
       "owners": []
     },
     {
+      "id": "CanalCHD.co",
+      "name": "Canal CHD",
+      "logo": null,
+      "url": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "CanalClave.cu",
       "name": "Canal Clave",
       "logo": null,
@@ -25536,6 +25554,24 @@
       "section": "español",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "CanalPulpoTV.ar",
+      "name": "Canal Pulpo TV",
+      "logo": null,
+      "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
       ],
       "altNames": [],
       "network": null,
@@ -40923,7 +40959,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานี���ิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
+        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -44846,6 +44882,24 @@
       "section": "general",
       "categories": [
         "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "EmisoraLasVegas.co",
+      "name": "Emisora Las Vegas",
+      "logo": null,
+      "url": "https://vs20.live.opencaster.com/emisoralasvegas_b84f5781/index.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -54516,7 +54570,7 @@
       "id": "GuaroTV.ve",
       "name": "Guaro TV",
       "logo": null,
-      "url": "https://streamtv.intervenhosting.net:3592/stream/play.m3u8",
+      "url": "https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8",
       "country": "Venezuela",
       "countryCode": "VE",
       "language_primary": "Español",
@@ -72589,6 +72643,26 @@
       "owners": []
     },
     {
+      "id": "LaSalvaciondelAlmaTV.do",
+      "name": "La Salvacion del Alma TV",
+      "logo": null,
+      "url": "https://vs20.live.opencaster.com/lasalvaciondelalmatv_dfc663c0/index.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [
+        "La Salvación del Alma TV"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "LaSultanadelEsteTV.do",
       "name": "La Sultana del Este TV",
       "logo": null,
@@ -80080,7 +80154,7 @@
       "id": "Medi1TVAfrique.ma",
       "name": "Medi1TV Afrique",
       "logo": null,
-      "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8",
+      "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8",
       "country": "Morocco",
       "countryCode": "MA",
       "language_primary": null,
@@ -80103,7 +80177,7 @@
       "id": "Medi1TVArabic.ma",
       "name": "Medi1TV Arabic",
       "logo": null,
-      "url": "https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8",
+      "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8",
       "country": "Morocco",
       "countryCode": "MA",
       "language_primary": null,
@@ -80126,7 +80200,7 @@
       "id": "Medi1TVMaghreb.ma",
       "name": "Medi1TV Maghreb",
       "logo": null,
-      "url": "https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
+      "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8",
       "country": "Morocco",
       "countryCode": "MA",
       "language_primary": null,
@@ -80948,6 +81022,24 @@
       "section": "peliculas",
       "categories": [
         "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "MetaleitorTV.us",
+      "name": "Metaleitor TV",
+      "logo": null,
+      "url": "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
       ],
       "altNames": [],
       "network": null,
@@ -81904,6 +81996,24 @@
       "owners": [
         "AMC Networks Inc."
       ]
+    },
+    {
+      "id": "MinisterioLaVozDeUnRemanenteTV.us",
+      "name": "Ministerio La Voz De Un Remanente TV",
+      "logo": null,
+      "url": "https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "Mir.ru",
@@ -87328,7 +87438,7 @@
         "Noticias"
       ],
       "altNames": [
-        "تلویزیون کنگره ملی ایرانیان"
+        "تلویزیون کنگ��ه ملی ایرانیان"
       ],
       "network": "National Iranian Congress",
       "owners": [
@@ -90336,6 +90446,27 @@
       "owners": [
         "x1co"
       ]
+    },
+    {
+      "id": "NickToonsBrasil.br",
+      "name": "NickToons Brasil",
+      "logo": null,
+      "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil",
+        "Animación"
+      ],
+      "altNames": [
+        "NToons WebTV"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "NicoyaTV.cr",
@@ -102626,6 +102757,24 @@
       ]
     },
     {
+      "id": "PrattelTV.pe",
+      "name": "Prattel TV",
+      "logo": null,
+      "url": "https://vs20.live.opencaster.com/prattelpe_a2b8d350/index.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "PravasiChannel.in",
       "name": "Pravasi Channel",
       "logo": null,
@@ -109706,6 +109855,24 @@
       "owners": []
     },
     {
+      "id": "RedeTVMais.br",
+      "name": "Rede TV! Mais",
+      "logo": null,
+      "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "RedemptionTelevisionMinistry.za",
       "name": "Redemption Television Ministry",
       "logo": null,
@@ -109724,6 +109891,28 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "RedeTVParana.br",
+      "name": "RedeTV! Parana",
+      "logo": null,
+      "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "RedeTV! Paraná"
+      ],
+      "network": "RedeTV!",
+      "owners": [
+        "Devaur Menossi"
+      ]
     },
     {
       "id": "RedMusic.gr",
@@ -116796,6 +116985,24 @@
       ]
     },
     {
+      "id": "SamacharPlus.in",
+      "name": "Samachar Plus",
+      "logo": null,
+      "url": "https://cdn-2.pishow.tv/live/269/master.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SamacharPlus24x7.in",
       "name": "Samachar Plus 24x7",
       "logo": null,
@@ -118041,6 +118248,73 @@
       "altNames": [],
       "network": "Sistema Brasileiro de Televisão",
       "owners": []
+    },
+    {
+      "id": "SBTNovaMutum.br",
+      "name": "SBT Nova Mutum",
+      "logo": null,
+      "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "TV Arinos"
+      ],
+      "network": "SBT",
+      "owners": [
+        "Roberto Dorner"
+      ]
+    },
+    {
+      "id": "SBTRondonopolis.br",
+      "name": "SBT Rondonopolis",
+      "logo": null,
+      "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "SBT Rondonópolis",
+        "TV Rondon"
+      ],
+      "network": "SBT",
+      "owners": [
+        "Roberto Dorner"
+      ]
+    },
+    {
+      "id": "SBTSinop.br",
+      "name": "SBT Sinop",
+      "logo": null,
+      "url": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "TV Cidade"
+      ],
+      "network": "SBT",
+      "owners": [
+        "Roberto Dorner"
+      ]
     },
     {
       "id": "SBTTV.th",
@@ -155060,6 +155334,24 @@
       "owners": []
     },
     {
+      "id": "WavezFM.aw",
+      "name": "Wavez FM",
+      "logo": null,
+      "url": "https://vs20.live.opencaster.com/wavezfm1075aruba_37766c9d/index.m3u8",
+      "country": "Aruba",
+      "countryCode": "AW",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "WayTV.pt",
       "name": "Way TV",
       "logo": null,
@@ -164422,28 +164714,28 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 240
+      "count": 241
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1431
+      "count": 1436
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5861
+      "count": 5870
     }
   ],
   "stats": {
-    "total": 39385,
-    "withStreams": 8384,
-    "spanish": 1526,
+    "total": 39413,
+    "withStreams": 8399,
+    "spanish": 1531,
     "adult": 78,
     "bySection": {
-      "general": 5861,
-      "español": 1431,
-      "infantil": 240,
+      "general": 5870,
+      "español": 1436,
+      "infantil": 241,
       "series": 168,
       "peliculas": 337,
       "deportes": 269
@@ -164451,12 +164743,12 @@
     "topCountries": [
       {
         "code": "US",
-        "count": 1439,
+        "count": 1441,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 625,
+        "count": 626,
         "name": "India"
       },
       {
@@ -164476,7 +164768,7 @@
       },
       {
         "code": "DO",
-        "count": 234,
+        "count": 235,
         "name": "Dominican Republic"
       },
       {
@@ -164490,17 +164782,17 @@
         "name": "Germany"
       },
       {
+        "code": "BR",
+        "count": 185,
+        "name": "Brazil"
+      },
+      {
         "code": "UK",
         "count": 181,
         "name": "United Kingdom"
-      },
-      {
-        "code": "BR",
-        "count": 179,
-        "name": "Brazil"
       }
     ]
   },
-  "lastUpdated": "2026-04-16T01:14:45.361Z",
+  "lastUpdated": "2026-04-17T01:12:13.390Z",
   "source": "orion-stream"
 }
