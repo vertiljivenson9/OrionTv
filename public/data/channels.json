@@ -454,6 +454,28 @@
       "owners": []
     },
     {
+      "id": "13Ulica.pl",
+      "name": "13 Ulica",
+      "logo": null,
+      "url": "https://lowa8026-cmyk.github.io/13Ulica.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "13th Street"
+      ],
+      "network": null,
+      "owners": [
+        "NBCUniversal"
+      ]
+    },
+    {
       "id": "13C.cl",
       "name": "13C",
       "logo": null,
@@ -982,7 +1004,7 @@
         "Noticias"
       ],
       "altNames": [
-        "Хабар 24"
+        "��абар 24"
       ],
       "network": null,
       "owners": [
@@ -8951,6 +8973,24 @@
       "altNames": [
         "قناة التغيير الفضائية"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "AltantoTV.do",
+      "name": "Altanto TV",
+      "logo": null,
+      "url": "https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -20977,7 +21017,7 @@
       "id": "BTV.id",
       "name": "BTV",
       "logo": null,
-      "url": "https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8",
+      "url": "https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -31815,7 +31855,7 @@
       "id": "CinevisionCanal19.do",
       "name": "Cinevision Canal 19",
       "logo": null,
-      "url": "https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8",
+      "url": "https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -45083,7 +45123,10 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Emilayla Coffi",
+        "Erick Alvarez"
+      ]
     },
     {
       "id": "Energy.ir",
@@ -63024,7 +63067,7 @@
       "id": "JakartaGlobeNewsChannel.id",
       "name": "Jakarta Globe News Channel",
       "logo": null,
-      "url": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8",
+      "url": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -69974,7 +70017,7 @@
         "General"
       ],
       "altNames": [
-        "조선중앙텔레비죤",
+        "조선중앙텔레��죤",
         "KCTV",
         "Pyongyang Television",
         "Central Television Broadcasting System of the DPRK"
@@ -77693,7 +77736,7 @@
       "id": "MakinaTV.do",
       "name": "Makina TV",
       "logo": null,
-      "url": "https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8",
+      "url": "https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -83669,24 +83712,6 @@
       ]
     },
     {
-      "id": "MostHaunted.us",
-      "name": "Most Haunted",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-6081648340382e0007f73d45.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": []
-    },
-    {
       "id": "MotorTrend.us",
       "name": "Motor Trend",
       "logo": null,
@@ -87438,7 +87463,7 @@
         "Noticias"
       ],
       "altNames": [
-        "تلویزیون کنگ��ه ملی ایرانیان"
+        "تلویزیون کنگره ملی ایرانیان"
       ],
       "network": "National Iranian Congress",
       "owners": [
@@ -90441,6 +90466,29 @@
       ],
       "altNames": [
         "Nickelodeon Online"
+      ],
+      "network": null,
+      "owners": [
+        "x1co"
+      ]
+    },
+    {
+      "id": "NickOnlineSpongebob.br",
+      "name": "NickOnline Spongebob",
+      "logo": null,
+      "url": "https://x1co.com.br:2083/hls/stream.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
+      ],
+      "altNames": [
+        "Nickelodeon Online Spongebob"
       ],
       "network": null,
       "owners": [
@@ -102006,6 +102054,24 @@
       "owners": []
     },
     {
+      "id": "PolsatRodzina.pl",
+      "name": "Polsat Rodzina",
+      "logo": null,
+      "url": "https://lowa8026-cmyk.github.io/PolsatRodzina.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "PolsatSeriale.pl",
       "name": "Polsat Seriale",
       "logo": null,
@@ -102840,6 +102906,150 @@
       "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8",
       "country": "Philippines",
       "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PremiereFC1.br",
+      "name": "Premiere FC 1",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PremiereFC2.br",
+      "name": "Premiere FC 2",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PremiereFC3.br",
+      "name": "Premiere FC 3",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PremiereFC4.br",
+      "name": "Premiere FC 4",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PremiereFC5.br",
+      "name": "Premiere FC 5",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PremiereFC6.br",
+      "name": "Premiere FC 6",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PremiereFC7.br",
+      "name": "Premiere FC 7",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PremiereFC8.br",
+      "name": "Premiere FC 8",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -123913,6 +124123,62 @@
       "owners": []
     },
     {
+      "id": "SporTV.br",
+      "name": "SporTV",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Grupo Globo"
+      ]
+    },
+    {
+      "id": "SporTV2.br",
+      "name": "SporTV 2",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SporTV3.br",
+      "name": "SporTV 3",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SPTV.us",
       "name": "SPTV",
       "logo": null,
@@ -124523,6 +124789,30 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "StarSports1.in",
+      "name": "Star Sports 1",
+      "logo": null,
+      "url": "http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Star Sports"
+      ],
+      "network": "Star Sports",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
     },
     {
       "id": "StarSports1Hindi.in",
@@ -147966,6 +148256,26 @@
       ]
     },
     {
+      "id": "TVPKultura.pl",
+      "name": "TVP Kultura",
+      "logo": null,
+      "url": "https://lowa8026-cmyk.github.io/TVPKultura.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "TVP",
+      "owners": [
+        "Telewizja Polska"
+      ]
+    },
+    {
       "id": "TVPLosMochis.mx",
       "name": "TVP Los Mochis",
       "logo": null,
@@ -155345,7 +155655,7 @@
       "is_adult": false,
       "section": "general",
       "categories": [
-        "General"
+        "Música"
       ],
       "altNames": [],
       "network": null,
@@ -164699,7 +165009,7 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 269
+      "count": 281
     },
     {
       "id": "peliculas",
@@ -164709,46 +165019,46 @@
     {
       "id": "series",
       "name": "Series",
-      "count": 168
+      "count": 167
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 241
+      "count": 242
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1436
+      "count": 1437
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5870
+      "count": 5873
     }
   ],
   "stats": {
-    "total": 39413,
-    "withStreams": 8399,
-    "spanish": 1531,
+    "total": 39414,
+    "withStreams": 8415,
+    "spanish": 1532,
     "adult": 78,
     "bySection": {
-      "general": 5870,
-      "español": 1436,
-      "infantil": 241,
-      "series": 168,
+      "general": 5873,
+      "español": 1437,
+      "infantil": 242,
+      "series": 167,
       "peliculas": 337,
-      "deportes": 269
+      "deportes": 281
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1441,
+        "count": 1440,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 626,
+        "count": 627,
         "name": "India"
       },
       {
@@ -164768,7 +165078,7 @@
       },
       {
         "code": "DO",
-        "count": 235,
+        "count": 236,
         "name": "Dominican Republic"
       },
       {
@@ -164777,14 +165087,14 @@
         "name": "Turkiye"
       },
       {
+        "code": "BR",
+        "count": 197,
+        "name": "Brazil"
+      },
+      {
         "code": "DE",
         "count": 187,
         "name": "Germany"
-      },
-      {
-        "code": "BR",
-        "count": 185,
-        "name": "Brazil"
       },
       {
         "code": "UK",
@@ -164793,6 +165103,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-04-17T01:12:13.390Z",
+  "lastUpdated": "2026-04-18T01:05:55.114Z",
   "source": "orion-stream"
 }
