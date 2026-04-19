@@ -1004,7 +1004,7 @@
         "Noticias"
       ],
       "altNames": [
-        "��абар 24"
+        "Хабар 24"
       ],
       "network": null,
       "owners": [
@@ -7066,7 +7066,7 @@
         "General"
       ],
       "altNames": [
-        "ا��ريان"
+        "الريان"
       ],
       "network": null,
       "owners": [
@@ -10332,7 +10332,7 @@
         "General"
       ],
       "altNames": [
-        "安徽卫视"
+        "���徽卫视"
       ],
       "network": null,
       "owners": []
@@ -19762,7 +19762,7 @@
       "id": "BollywoodHD.ro",
       "name": "Bollywood HD",
       "logo": null,
-      "url": "http://103.213.31.109:90/BollywoodHD/playlist.m3u8",
+      "url": "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -28885,6 +28885,26 @@
       "network": null,
       "owners": [
         "Asociacion Evangelistica Cristo Viene"
+      ]
+    },
+    {
+      "id": "CDN.do",
+      "name": "CDN",
+      "logo": null,
+      "url": "http://200.125.170.121:8000/play/a09j/index.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Banco Popular Dominicano"
       ]
     },
     {
@@ -39800,6 +39820,24 @@
       "owners": []
     },
     {
+      "id": "DharsanTV.in",
+      "name": "Dharsan TV",
+      "logo": null,
+      "url": "https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "DheeranTV.in",
       "name": "Dheeran TV",
       "logo": null,
@@ -40632,7 +40670,7 @@
       "id": "DisneyJunior.us",
       "name": "Disney Junior",
       "logo": null,
-      "url": "https://tvpass.org/live/DisneyJuniorEast/hd",
+      "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -52349,6 +52387,24 @@
       "owners": []
     },
     {
+      "id": "GETtv.do",
+      "name": "GET tv",
+      "logo": null,
+      "url": "https://cnn.livestreaminggroup.info:3050/live/gettv/playlist.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "GexTV.cr",
       "name": "Gex TV",
       "logo": null,
@@ -56084,6 +56140,24 @@
       "section": "general",
       "categories": [
         "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "HebronTV.in",
+      "name": "Hebron TV",
+      "logo": null,
+      "url": "https://account20.livebox.co.in/charleshls/live.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
       ],
       "altNames": [],
       "network": null,
@@ -70017,7 +70091,7 @@
         "General"
       ],
       "altNames": [
-        "조선중앙텔레��죤",
+        "조선중앙텔레비죤",
         "KCTV",
         "Pyongyang Television",
         "Central Television Broadcasting System of the DPRK"
@@ -72452,6 +72526,24 @@
       "section": "español",
       "categories": [
         "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "LaHoraTV.do",
+      "name": "La Hora TV",
+      "logo": null,
+      "url": "https://edge.enhdtv.com/8206/index.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -82339,6 +82431,24 @@
       "owners": []
     },
     {
+      "id": "MisionELTV.do",
+      "name": "Mision ELTV",
+      "logo": null,
+      "url": "https://rd.tvabierta.net/live/misioneltv.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "MisionesCuatro.ar",
       "name": "Misiones Cuatro",
       "logo": null,
@@ -82864,7 +82974,7 @@
       "id": "MocaVisionCanal48.do",
       "name": "Moca Vision Canal 48",
       "logo": null,
-      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_0950055006c111f18f43137dc9c9d153/index.fmp4.m3u8",
+      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_8d5018903a7411f192db85ebd8052258/index.fmp4.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -119399,6 +119509,24 @@
       "owners": []
     },
     {
+      "id": "SevenChannel.mn",
+      "name": "Seven Channel",
+      "logo": null,
+      "url": "https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8",
+      "country": "Mongolia",
+      "countryCode": "MN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Sever.ru",
       "name": "Sever",
       "logo": null,
@@ -123274,6 +123402,29 @@
       ]
     },
     {
+      "id": "SonySportsTen4.in",
+      "name": "Sony Sports Ten 4",
+      "logo": null,
+      "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Sony Ten 4"
+      ],
+      "network": "Sony Sports Network",
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
+    },
+    {
       "id": "SonySportsTen5.in",
       "name": "Sony Sports Ten 5",
       "logo": null,
@@ -124161,10 +124312,46 @@
       "owners": []
     },
     {
+      "id": "SporTV2Alternativo.br",
+      "name": "SporTV 2 Alternativo",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/19025/video.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SporTV3.br",
       "name": "SporTV 3",
       "logo": null,
       "url": "https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SporTVAlternativo.br",
+      "name": "SporTV Alternativo",
+      "logo": null,
+      "url": "https://stm.sinalmycn.com/19024/video.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -124831,30 +125018,6 @@
       "altNames": [
         "Star Sports 3",
         "Star Cricket"
-      ],
-      "network": "Star Sports",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "StarSports1Tamil.in",
-      "name": "Star Sports 1 Tamil",
-      "logo": null,
-      "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Star Sports 4"
       ],
       "network": "Star Sports",
       "owners": [
@@ -127203,6 +127366,30 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "SURTVItapua.py",
+      "name": "SUR TV Itapua",
+      "logo": null,
+      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "SUR TV Itapúa",
+        "SUR Televisión"
+      ],
+      "network": null,
+      "owners": [
+        "Albavisión",
+        "Grupo SNT"
+      ]
     },
     {
       "id": "SurabayaTV.id",
@@ -133530,7 +133717,7 @@
       "id": "TeleviaductoCanal14.do",
       "name": "Televiaducto Canal 14",
       "logo": null,
-      "url": "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8",
+      "url": "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_c643ffb0338811f1be68f7b92e2425b0/index.fmp4.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -133548,7 +133735,7 @@
       "id": "TeleviaductoCanal3.do",
       "name": "Televiaducto Canal 3",
       "logo": null,
-      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_3cb3e4400c2d11f19b89efdef653b396/index.fmp4.m3u8",
+      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_ee0c4e703a7311f18cbf95410dc72949/index.fmp4.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -136848,7 +137035,7 @@
       "id": "TNECanal58.do",
       "name": "TNE Canal 58",
       "logo": null,
-      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_3ca2dd7006c011f1a1d343392087972b/index.fmp4.m3u8",
+      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_480636203a7411f19080b3aba823bf2e/index.fmp4.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -141109,6 +141296,26 @@
       "owners": [
         "Brazilian Chamber of Deputies"
       ]
+    },
+    {
+      "id": "TVCamara.py",
+      "name": "TV Camara",
+      "logo": null,
+      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Legislativo"
+      ],
+      "altNames": [
+        "TV Cámara"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "TVCamara2.br",
@@ -150038,6 +150245,24 @@
       "owners": []
     },
     {
+      "id": "TyCSportsUSA.ar",
+      "name": "TyC Sports USA",
+      "logo": null,
+      "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TYTTurk.tr",
       "name": "TYT Turk",
       "logo": null,
@@ -158856,6 +159081,24 @@
       "owners": []
     },
     {
+      "id": "WOWTV.sv",
+      "name": "WOW TV",
+      "logo": null,
+      "url": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8",
+      "country": "El Salvador",
+      "countryCode": "SV",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "WOWOWCinema.jp",
       "name": "WOWOW Cinema",
       "logo": null,
@@ -165009,7 +165252,7 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 281
+      "count": 284
     },
     {
       "id": "peliculas",
@@ -165029,26 +165272,26 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1437
+      "count": 1444
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5873
+      "count": 5876
     }
   ],
   "stats": {
     "total": 39414,
-    "withStreams": 8415,
-    "spanish": 1532,
+    "withStreams": 8428,
+    "spanish": 1540,
     "adult": 78,
     "bySection": {
-      "general": 5873,
-      "español": 1437,
+      "general": 5876,
+      "español": 1444,
       "infantil": 242,
       "series": 167,
       "peliculas": 337,
-      "deportes": 281
+      "deportes": 284
     },
     "topCountries": [
       {
@@ -165058,7 +165301,7 @@
       },
       {
         "code": "IN",
-        "count": 627,
+        "count": 629,
         "name": "India"
       },
       {
@@ -165078,7 +165321,7 @@
       },
       {
         "code": "DO",
-        "count": 236,
+        "count": 240,
         "name": "Dominican Republic"
       },
       {
@@ -165088,7 +165331,7 @@
       },
       {
         "code": "BR",
-        "count": 197,
+        "count": 199,
         "name": "Brazil"
       },
       {
@@ -165103,6 +165346,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-04-18T01:05:55.114Z",
+  "lastUpdated": "2026-04-19T01:14:25.220Z",
   "source": "orion-stream"
 }
