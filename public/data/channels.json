@@ -90956,26 +90956,6 @@
       ]
     },
     {
-      "id": "NethraTV.lk",
-      "name": "Nethra TV",
-      "logo": null,
-      "url": "https://edge3-moblive.yuppcdn.net/transsd/smil:chii02.smil/playlist.m3u8?dvr=",
-      "country": "Sri Lanka",
-      "countryCode": "LK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Sri Lanka Rupavahini Corporation"
-      ]
-    },
-    {
       "id": "NetmaxTV.gr",
       "name": "Netmax TV",
       "logo": null,
@@ -131392,26 +131372,6 @@
       "owners": []
     },
     {
-      "id": "Swarnavahini.lk",
-      "name": "Swarnavahini",
-      "logo": null,
-      "url": "https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8",
-      "country": "Sri Lanka",
-      "countryCode": "LK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "EAP Network",
-      "owners": [
-        "Lyca Group Ben Holdings"
-      ]
-    },
-    {
       "id": "SwatantraTV.in",
       "name": "Swatantra TV",
       "logo": null,
@@ -141214,26 +141174,6 @@
       "network": null,
       "owners": [
         "Government of Haiti"
-      ]
-    },
-    {
-      "id": "TNLTV.lk",
-      "name": "TNL TV",
-      "logo": null,
-      "url": "https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8?dvr=",
-      "country": "Sri Lanka",
-      "countryCode": "LK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Telshan Network Pvt. Ltd."
       ]
     },
     {
@@ -155302,7 +155242,7 @@
       "is_adult": false,
       "section": "español",
       "categories": [
-        "General"
+        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -170271,16 +170211,16 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6024
+      "count": 6021
     }
   ],
   "stats": {
     "total": 39638,
-    "withStreams": 8673,
+    "withStreams": 8670,
     "spanish": 1582,
     "adult": 78,
     "bySection": {
-      "general": 6024,
+      "general": 6021,
       "español": 1479,
       "infantil": 257,
       "series": 166,
@@ -170340,6 +170280,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-17T01:43:15.390Z",
+  "lastUpdated": "2026-05-18T01:52:38.872Z",
   "source": "orion-stream"
 }
