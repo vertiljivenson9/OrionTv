@@ -15217,7 +15217,7 @@
       "id": "BabAlHara.sa",
       "name": "Bab Al Hara",
       "logo": null,
-      "url": "https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8",
+      "url": "https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8",
       "country": "Saudi Arabia",
       "countryCode": "SA",
       "language_primary": null,
@@ -15277,7 +15277,7 @@
       "id": "BabyTV.uk",
       "name": "BabyTV",
       "logo": null,
-      "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
+      "url": "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -22709,7 +22709,7 @@
         "THTPCT",
         "STV3"
       ],
-      "network": "CầnThơ TV",
+      "network": "CầnTh�� TV",
       "owners": []
     },
     {
@@ -80729,7 +80729,7 @@
       "id": "Maraya.sa",
       "name": "Maraya",
       "logo": null,
-      "url": "https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8",
+      "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8",
       "country": "Saudi Arabia",
       "countryCode": "SA",
       "language_primary": null,
@@ -86164,7 +86164,7 @@
       "id": "MoviesAction.sa",
       "name": "Movies Action",
       "logo": null,
-      "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
+      "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
       "country": "Saudi Arabia",
       "countryCode": "SA",
       "language_primary": null,
@@ -92741,6 +92741,26 @@
       ]
     },
     {
+      "id": "Nickelodeon.es",
+      "name": "Nickelodeon",
+      "logo": null,
+      "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Networks EMEAA"
+      ]
+    },
+    {
       "id": "Nickelodeon.fr",
       "name": "Nickelodeon",
       "logo": null,
@@ -93421,7 +93441,7 @@
         "Deportes"
       ],
       "altNames": [
-        "日テレジータス"
+        "日テレジー���ス"
       ],
       "network": null,
       "owners": [
@@ -115501,28 +115521,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "RoyaTV.jo",
-      "name": "Roya TV",
-      "logo": null,
-      "url": "https://royatv-live.daioncdn.net/royatv/royatv.m3u8",
-      "country": "Jordan",
-      "countryCode": "JO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "رؤيا تي في"
-      ],
-      "network": null,
-      "owners": [
-        "Sayegh Group"
-      ]
     },
     {
       "id": "RoyalTimeTelevision.us",
@@ -170201,7 +170199,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 257
+      "count": 258
     },
     {
       "id": "español",
@@ -170211,18 +170209,18 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6021
+      "count": 6020
     }
   ],
   "stats": {
     "total": 39638,
     "withStreams": 8670,
-    "spanish": 1582,
+    "spanish": 1583,
     "adult": 78,
     "bySection": {
-      "general": 6021,
+      "general": 6020,
       "español": 1479,
-      "infantil": 257,
+      "infantil": 258,
       "series": 166,
       "peliculas": 367,
       "deportes": 302
@@ -170245,7 +170243,7 @@
       },
       {
         "code": "ES",
-        "count": 271,
+        "count": 272,
         "name": "Spain"
       },
       {
@@ -170280,6 +170278,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-18T01:52:38.872Z",
+  "lastUpdated": "2026-05-19T01:52:30.045Z",
   "source": "orion-stream"
 }
