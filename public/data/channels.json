@@ -72651,7 +72651,7 @@
       "id": "Kurdsat.iq",
       "name": "Kurdsat",
       "logo": null,
-      "url": "https://iko-live.akamaized.net/KurdsatTV/master.m3u8",
+      "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
       "country": "Iraq",
       "countryCode": "IQ",
       "language_primary": null,
@@ -80774,26 +80774,6 @@
       "altNames": [
         "إم بي سي العراق"
       ],
-      "network": null,
-      "owners": [
-        "MBC Group"
-      ]
-    },
-    {
-      "id": "MBCLoud.sa",
-      "name": "MBC Loud",
-      "logo": null,
-      "url": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8",
-      "country": "Saudi Arabia",
-      "countryCode": "SA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
       "network": null,
       "owners": [
         "MBC Group"
@@ -138617,28 +138597,6 @@
       ]
     },
     {
-      "id": "Thmanyah2.sa",
-      "name": "Thmanyah 2",
-      "logo": null,
-      "url": "https://dflive.app.tc/60.m3u8",
-      "country": "Saudi Arabia",
-      "countryCode": "SA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "ثمانية ٢"
-      ],
-      "network": null,
-      "owners": [
-        "Abdulrahman Abumalih"
-      ]
-    },
-    {
       "id": "Thmanyah3.sa",
       "name": "Thmanyah 3",
       "logo": null,
@@ -160673,6 +160631,62 @@
       ]
     },
     {
+      "id": "Whiplash.us",
+      "name": "Whiplash",
+      "logo": null,
+      "url": "https://cdn.whiplash.cc/whiplash/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Whiplash",
+      "owners": []
+    },
+    {
+      "id": "WhiplashCinema.us",
+      "name": "Whiplash Cinema",
+      "logo": null,
+      "url": "https://cdn.whiplash.cc/whiplash-cinema/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Whiplash",
+      "owners": []
+    },
+    {
+      "id": "WhiplashII.us",
+      "name": "Whiplash II",
+      "logo": null,
+      "url": "https://cdn.whiplash.cc/whiplash-2/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Whiplash 2"
+      ],
+      "network": "Whiplash",
+      "owners": []
+    },
+    {
       "id": "WhiteChannel.th",
       "name": "White Channel",
       "logo": null,
@@ -161025,6 +161039,24 @@
         "DirecTV",
         "RCN Televisión"
       ]
+    },
+    {
+      "id": "WindowTV.us",
+      "name": "Window TV",
+      "logo": null,
+      "url": "https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Whiplash",
+      "owners": []
     },
     {
       "id": "WineWatchesWhiskey.us",
@@ -168625,12 +168657,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 298
+      "count": 297
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 362
+      "count": 363
     },
     {
       "id": "series",
@@ -168650,26 +168682,26 @@
     {
       "id": "general",
       "name": "General",
-      "count": 5975
+      "count": 5977
     }
   ],
   "stats": {
-    "total": 39638,
-    "withStreams": 8595,
+    "total": 39646,
+    "withStreams": 8597,
     "spanish": 1558,
     "adult": 78,
     "bySection": {
-      "general": 5975,
+      "general": 5977,
       "español": 1460,
       "infantil": 256,
       "series": 166,
-      "peliculas": 362,
-      "deportes": 298
+      "peliculas": 363,
+      "deportes": 297
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1396,
+        "count": 1400,
         "name": "United States"
       },
       {
@@ -168719,6 +168751,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-20T01:52:18.765Z",
+  "lastUpdated": "2026-05-21T01:51:26.405Z",
   "source": "orion-stream"
 }
