@@ -14874,26 +14874,6 @@
       ]
     },
     {
-      "id": "AztecaHonduras.hn",
-      "name": "Azteca Honduras",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8",
-      "country": "Honduras",
-      "countryCode": "HN",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "TV Azteca Honduras"
-      ]
-    },
-    {
       "id": "AztecaInternacional.mx",
       "name": "Azteca Internacional",
       "logo": null,
@@ -15818,6 +15798,24 @@
       "owners": [
         "DigitAlb"
       ]
+    },
+    {
+      "id": "BaniVision.do",
+      "name": "Bani Vision",
+      "logo": null,
+      "url": "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "BanjarTV.id",
@@ -29353,24 +29351,6 @@
       "owners": []
     },
     {
-      "id": "CeibaVisionCanal36.hn",
-      "name": "Ceiba Vision Canal 36",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-ceibavisionhd/index.m3u8",
-      "country": "Honduras",
-      "countryCode": "HN",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "CekmekoyTV.tr",
       "name": "Cekmekoy TV",
       "logo": null,
@@ -32830,7 +32810,7 @@
       ],
       "network": null,
       "owners": [
-        "Сити Эдем Групп"
+        "Сити Эдем Гр��пп"
       ]
     },
     {
@@ -39547,26 +39527,6 @@
       "owners": []
     },
     {
-      "id": "Decades.us",
-      "name": "Decades",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Weigel Broadcasting"
-      ]
-    },
-    {
       "id": "DecimaTV.cl",
       "name": "Decima TV",
       "logo": null,
@@ -41666,7 +41626,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
+        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเท��ยม"
       ],
       "network": null,
       "owners": [
@@ -43170,28 +43130,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "DTV.hn",
-      "name": "DTV",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu-dtelevision/index.m3u8",
-      "country": "Honduras",
-      "countryCode": "HN",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "D Televisión"
-      ],
-      "network": null,
-      "owners": [
-        "Sociedad Televisora Nacional S.A."
-      ]
     },
     {
       "id": "DTV.hu",
@@ -45335,24 +45273,6 @@
       "owners": []
     },
     {
-      "id": "ElOussraTV.mr",
-      "name": "El Oussra TV",
-      "logo": null,
-      "url": "https://dvrfl06.bozztv.com/astv-elousra/index.m3u8",
-      "country": "Mauritania",
-      "countryCode": "MR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "ElPitucoTV.do",
       "name": "El Pituco TV",
       "logo": null,
@@ -46990,26 +46910,6 @@
       "owners": []
     },
     {
-      "id": "Esaie45Tele.cg",
-      "name": "Esaie 45 Tele",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/gin-esaie45/index.m3u8",
-      "country": "Republic of the Congo",
-      "countryCode": "CG",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Religioso"
-      ],
-      "altNames": [
-        "Esaïe 45 Télé"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "EscambiaCountyTV.us",
       "name": "Escambia County TV",
       "logo": null,
@@ -48106,26 +48006,6 @@
         "Euronews Français",
         " Euronews FR"
       ],
-      "network": "Euronews",
-      "owners": [
-        "Euronews SA"
-      ]
-    },
-    {
-      "id": "EuronewsGeorgia.ge",
-      "name": "Euronews Georgia",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/gin-euronewsgeorgia/index.m3u8",
-      "country": "Georgia",
-      "countryCode": "GE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
       "network": "Euronews",
       "owners": [
         "Euronews SA"
@@ -49515,24 +49395,6 @@
       "owners": [
         "Michel Adam Lisowski"
       ]
-    },
-    {
-      "id": "FassoTVKankan.gn",
-      "name": "Fasso TV Kankan",
-      "logo": null,
-      "url": "https://dvrfl06.bozztv.com/astv-fassotv/index.m3u8",
-      "country": "Guinea",
-      "countryCode": "GN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "FastTV.us",
@@ -54352,24 +54214,6 @@
       "owners": []
     },
     {
-      "id": "GoTV.hn",
-      "name": "Go TV",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-gotv/index.m3u8",
-      "country": "Honduras",
-      "countryCode": "HN",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "GOTV.py",
       "name": "GO TV",
       "logo": null,
@@ -57296,7 +57140,7 @@
       "id": "HCH.hn",
       "name": "HCH",
       "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8",
+      "url": "https://live.streamhch.com/live/streams/hch1.m3u8",
       "country": "Honduras",
       "countryCode": "HN",
       "language_primary": "Español",
@@ -68269,26 +68113,6 @@
       "owners": []
     },
     {
-      "id": "KartuliTV.ge",
-      "name": "Kartuli TV",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/gin-qartulitv/index.m3u8",
-      "country": "Georgia",
-      "countryCode": "GE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Cultura"
-      ],
-      "altNames": [
-        "ქართული TV"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "KashishNews.in",
       "name": "Kashish News",
       "logo": null,
@@ -68383,28 +68207,6 @@
       "network": null,
       "owners": [
         "Kerala Kaumudi"
-      ]
-    },
-    {
-      "id": "KavkasiaTV.ge",
-      "name": "Kavkasia TV",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/gin-kavkasia/index.m3u8",
-      "country": "Georgia",
-      "countryCode": "GE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ტელეკომპანია კავკასია"
-      ],
-      "network": null,
-      "owners": [
-        "Telecompany Kavkasia LLC"
       ]
     },
     {
@@ -79505,24 +79307,6 @@
       "owners": []
     },
     {
-      "id": "MaraoTV.ge",
-      "name": "Marao TV",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/gin-marao/index.m3u8",
-      "country": "Georgia",
-      "countryCode": "GE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Estilo de Vida"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Maraya.sa",
       "name": "Maraya",
       "logo": null,
@@ -82309,24 +82093,6 @@
       "owners": [
         "Florentin Pandele"
       ]
-    },
-    {
-      "id": "Metropole.ht",
-      "name": "Metropole",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-telemetrolple2/index.m3u8",
-      "country": "Haiti",
-      "countryCode": "HT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "MetropoliMediosTV.ec",
@@ -95819,24 +95585,6 @@
       "owners": []
     },
     {
-      "id": "OlanchitoTVCanal23.hn",
-      "name": "Olanchito TV Canal 23",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-otvcanal23/index.m3u8",
-      "country": "Honduras",
-      "countryCode": "HN",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "OlayTurkTV.tr",
       "name": "OlayTurk TV",
       "logo": null,
@@ -98850,24 +98598,6 @@
       "altNames": [
         "Pantalla Clásica EC"
       ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "ParadiseTV.gm",
-      "name": "Paradise TV",
-      "logo": null,
-      "url": "https://dvrfl06.bozztv.com/astv-ptvgambia/index.m3u8",
-      "country": "Gambia",
-      "countryCode": "GM",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -103663,24 +103393,6 @@
         "Portuguesa Televisión",
         "PortuTV"
       ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "PosTV.ge",
-      "name": "Pos TV",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/gin-postv/index.m3u8",
-      "country": "Georgia",
-      "countryCode": "GE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -108805,26 +108517,6 @@
         "Religioso"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "RadioTeleSuperStar.ht",
-      "name": "Radio Tele SuperStar",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-telecaraibes/index.m3u8",
-      "country": "Haiti",
-      "countryCode": "HT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Radio Télé SuperStar"
-      ],
       "network": null,
       "owners": []
     },
@@ -114768,44 +114460,6 @@
       "owners": []
     },
     {
-      "id": "RTD.dj",
-      "name": "RTD",
-      "logo": null,
-      "url": "https://dvrfl06.bozztv.com/astv-djibouti/index.m3u8",
-      "country": "Djibouti",
-      "countryCode": "DJ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Radiodiffusion Télévision de Djibouti"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "RTD4.dj",
-      "name": "RTD 4",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/gin-rtddjibouti/index.m3u8",
-      "country": "Djibouti",
-      "countryCode": "DJ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "RTG.mx",
       "name": "RTG",
       "logo": null,
@@ -116448,24 +116102,6 @@
       "url": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8",
       "country": "Ecuador",
       "countryCode": "EC",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "RTV.hn",
-      "name": "RTV",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-rtvtv/index.m3u8",
-      "country": "Honduras",
-      "countryCode": "HN",
       "language_primary": "Español",
       "is_spanish": true,
       "is_adult": false,
@@ -122741,24 +122377,6 @@
       "owners": []
     },
     {
-      "id": "SilkUniversal.ge",
-      "name": "Silk Universal",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/gin-silkuniversal/index.m3u8",
-      "country": "Georgia",
-      "countryCode": "GE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "SilkWay.kz",
       "name": "Silk Way",
       "logo": null,
@@ -122988,7 +122606,7 @@
         "General"
       ],
       "altNames": [
-        "四平广播电视台"
+        "四���广播电视台"
       ],
       "network": null,
       "owners": []
@@ -124974,29 +124592,6 @@
         "Películas"
       ],
       "altNames": [],
-      "network": "Sony Pictures Networks",
-      "owners": [
-        "Sony Pictures Networks India (SPNI)",
-        "Culver Max Entertainment Private Limited"
-      ]
-    },
-    {
-      "id": "SonySAB.in",
-      "name": "Sony SAB",
-      "logo": null,
-      "url": "http://103.122.249.134:8000/play/a04h",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "SAB TV"
-      ],
       "network": "Sony Pictures Networks",
       "owners": [
         "Sony Pictures Networks India (SPNI)",
@@ -133652,26 +133247,6 @@
       "owners": []
     },
     {
-      "id": "Telecadena7y4.hn",
-      "name": "Telecadena 7 y 4",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8",
-      "country": "Honduras",
-      "countryCode": "HN",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Corporación Televicentro"
-      ]
-    },
-    {
       "id": "Telecafe.co",
       "name": "Telecafe",
       "logo": null,
@@ -133829,7 +133404,7 @@
       "id": "Teleceiba.hn",
       "name": "Teleceiba",
       "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu-teleceiba/index.m3u8",
+      "url": "https://teleceiba.com/stream/tlcb720.m3u8",
       "country": "Honduras",
       "countryCode": "HN",
       "language_primary": "Español",
@@ -135461,24 +135036,6 @@
       "section": "español",
       "categories": [
         "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TeleProgreso.hn",
-      "name": "TeleProgreso",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu-teleprogreso/index.m3u8",
-      "country": "Honduras",
-      "countryCode": "HN",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
       ],
       "altNames": [],
       "network": null,
@@ -142131,7 +141688,7 @@
       "id": "TrueCrimeNetwork.us",
       "name": "True Crime Network",
       "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8",
+      "url": "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -143062,24 +142619,6 @@
       "url": "https://s1.teve.mk/tvstanici/5/playlist.m3u8",
       "country": "North Macedonia",
       "countryCode": "MK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TV25.ge",
-      "name": "TV 25",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/gin-tv25/index.m3u8",
-      "country": "Georgia",
-      "countryCode": "GE",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -146900,24 +146439,6 @@
       "owners": [
         "TV Pirot d.o.o."
       ]
-    },
-    {
-      "id": "TVPirveli.ge",
-      "name": "TV Pirveli",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/gin-tvpirveli/index.m3u8",
-      "country": "Georgia",
-      "countryCode": "GE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "TVPlata.do",
@@ -154286,24 +153807,6 @@
       "owners": []
     },
     {
-      "id": "UniversalSomaliTV.uk",
-      "name": "Universal Somali TV",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/gin-universalsomali/index.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "UniversiteTV.tr",
       "name": "Universite TV",
       "logo": null,
@@ -158841,29 +158344,6 @@
       "owners": []
     },
     {
-      "id": "WAGATV51.us",
-      "name": "WAGA-TV 5.1",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Fox 5 Atlanta",
-        "WAGA-HD"
-      ],
-      "network": "FOX",
-      "owners": [
-        "New World Communications of Atlanta Inc."
-      ]
-    },
-    {
       "id": "WairarapaTV.nz",
       "name": "Wairarapa TV",
       "logo": null,
@@ -160802,28 +160282,6 @@
       ]
     },
     {
-      "id": "WHSGTV634.us",
-      "name": "WHSG-TV 63.4",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ONTV4U"
-      ],
-      "network": "Infomercials",
-      "owners": [
-        "Trinity Broadcasting of Texas Inc."
-      ]
-    },
-    {
       "id": "WikiTV.kh",
       "name": "Wiki TV",
       "logo": null,
@@ -161489,28 +160947,6 @@
       ]
     },
     {
-      "id": "WKCF22.us",
-      "name": "WKCF 2.2",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "MeTV"
-      ],
-      "network": "Me-TV",
-      "owners": [
-        "Hearst Properties Inc."
-      ]
-    },
-    {
       "id": "WKEF451.us",
       "name": "WKEF 45.1",
       "logo": null,
@@ -161530,29 +160966,6 @@
       "network": "ROAR",
       "owners": [
         "WKEF Licensee L.P."
-      ]
-    },
-    {
-      "id": "WKMGTV61.us",
-      "name": "WKMG-TV 6.1",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "News 6",
-        "WKMG-DT"
-      ],
-      "network": "CBS",
-      "owners": [
-        "WKMG-TV"
       ]
     },
     {
@@ -161596,28 +161009,6 @@
         "KETKY"
       ],
       "network": "Kentucky Channel",
-      "owners": [
-        "Kentucky Authority for Educational TV"
-      ]
-    },
-    {
-      "id": "WKOH314.us",
-      "name": "WKOH 31.4",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KETKIDS"
-      ],
-      "network": "PBS Kids 24/7",
       "owners": [
         "Kentucky Authority for Educational TV"
       ]
@@ -161829,29 +161220,6 @@
       "network": "CW",
       "owners": [
         "WLUK Licensee LLC"
-      ]
-    },
-    {
-      "id": "WLVTTV691.us",
-      "name": "WLVT-TV 69.1",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [
-        "WFMZ 69",
-        "WFMZ-HD"
-      ],
-      "network": "Independent",
-      "owners": [
-        "Lehigh Valley Public Telecommunications Corp."
       ]
     },
     {
@@ -162886,31 +162254,6 @@
       ]
     },
     {
-      "id": "WTMOCD311.us",
-      "name": "WTMO-CD 31.1",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Telemundo 31",
-        "channel 31",
-        "Telemundo Orlando",
-        "WTMO-CD"
-      ],
-      "network": "Telemundo",
-      "owners": [
-        "NBC Telemundo License LLC"
-      ]
-    },
-    {
       "id": "WTNH81.us",
       "name": "WTNH 8.1",
       "logo": null,
@@ -163222,29 +162565,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "WUPA691.us",
-      "name": "WUPA 69.1",
-      "logo": null,
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Atlanta 69",
-        "WUPA-HD"
-      ],
-      "network": "CBS",
-      "owners": [
-        "Atlanta Television Station WUPA Inc."
-      ]
     },
     {
       "id": "WVCULP.us",
@@ -168677,22 +167997,22 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1460
+      "count": 1453
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5977
+      "count": 5950
     }
   ],
   "stats": {
-    "total": 39646,
-    "withStreams": 8597,
-    "spanish": 1558,
+    "total": 39647,
+    "withStreams": 8563,
+    "spanish": 1551,
     "adult": 78,
     "bySection": {
-      "general": 5977,
-      "español": 1460,
+      "general": 5950,
+      "español": 1453,
       "infantil": 256,
       "series": 166,
       "peliculas": 363,
@@ -168701,12 +168021,12 @@
     "topCountries": [
       {
         "code": "US",
-        "count": 1400,
+        "count": 1391,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 723,
+        "count": 722,
         "name": "India"
       },
       {
@@ -168726,7 +168046,7 @@
       },
       {
         "code": "DO",
-        "count": 243,
+        "count": 244,
         "name": "Dominican Republic"
       },
       {
@@ -168746,11 +168066,11 @@
       },
       {
         "code": "UK",
-        "count": 186,
+        "count": 185,
         "name": "United Kingdom"
       }
     ]
   },
-  "lastUpdated": "2026-05-21T01:51:26.405Z",
+  "lastUpdated": "2026-05-22T01:52:40.918Z",
   "source": "orion-stream"
 }
