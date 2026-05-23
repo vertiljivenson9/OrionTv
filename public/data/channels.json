@@ -14696,7 +14696,7 @@
       "id": "AXNAsia.sg",
       "name": "AXN Asia",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd",
       "country": "Singapore",
       "countryCode": "SG",
       "language_primary": null,
@@ -32810,7 +32810,7 @@
       ],
       "network": null,
       "owners": [
-        "Сити Эдем Гр��пп"
+        "Сити Эдем Групп"
       ]
     },
     {
@@ -41626,7 +41626,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเท��ยม"
+        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -44651,6 +44651,24 @@
       "owners": []
     },
     {
+      "id": "EcosCanal57.do",
+      "name": "Ecos Canal 57",
+      "logo": null,
+      "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "EcotelTV.ec",
       "name": "Ecotel TV",
       "logo": null,
@@ -45507,6 +45525,26 @@
       "owners": [
         "Télévision Tunisienne"
       ]
+    },
+    {
+      "id": "ElHeddafTV.dz",
+      "name": "El-Heddaf TV",
+      "logo": null,
+      "url": "https://live.elheddaftv.com:8081/elheddaf/index.mpd",
+      "country": "Algeria",
+      "countryCode": "DZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "الهدّاف تي في"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "ElRoiTV.gt",
@@ -55603,26 +55641,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "GTV.ph",
-      "name": "GTV",
-      "logo": null,
-      "url": "http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8",
-      "country": "Philippines",
-      "countryCode": "PH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "GMA Network Inc"
-      ]
     },
     {
       "id": "GTV.si",
@@ -81211,6 +81229,26 @@
       ]
     },
     {
+      "id": "MediBizTV.in",
+      "name": "MediBizTV",
+      "logo": null,
+      "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Ciencia",
+        "Educación",
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "MediCOOLTV.ro",
       "name": "MediCOOL TV",
       "logo": null,
@@ -83529,6 +83567,29 @@
       "network": null,
       "owners": [
         "Shwe Thanlwin"
+      ]
+    },
+    {
+      "id": "MNPlus.mn",
+      "name": "MN+",
+      "logo": null,
+      "url": "https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8",
+      "country": "Mongolia",
+      "countryCode": "MN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Mnplus91",
+        "MN+"
+      ],
+      "network": null,
+      "owners": [
+        "Skytel LLC"
       ]
     },
     {
@@ -93068,6 +93129,25 @@
       "owners": [
         "Huzur Radyo TV A.Ş."
       ]
+    },
+    {
+      "id": "NowMediaTelevision.us",
+      "name": "NowMedia Television",
+      "logo": null,
+      "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias",
+        "Estilo de Vida"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "NPCRadioeTV.pt",
@@ -113022,7 +113102,7 @@
       "id": "RNN.do",
       "name": "RNN",
       "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8",
+      "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -122606,7 +122686,7 @@
         "General"
       ],
       "altNames": [
-        "四���广播电视台"
+        "四平广播电视台"
       ],
       "network": null,
       "owners": []
@@ -167977,12 +168057,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 297
+      "count": 298
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 363
+      "count": 364
     },
     {
       "id": "series",
@@ -167997,36 +168077,36 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1453
+      "count": 1454
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5950
+      "count": 5951
     }
   ],
   "stats": {
-    "total": 39647,
-    "withStreams": 8563,
-    "spanish": 1551,
+    "total": 39651,
+    "withStreams": 8567,
+    "spanish": 1552,
     "adult": 78,
     "bySection": {
-      "general": 5950,
-      "español": 1453,
+      "general": 5951,
+      "español": 1454,
       "infantil": 256,
       "series": 166,
-      "peliculas": 363,
-      "deportes": 297
+      "peliculas": 364,
+      "deportes": 298
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1391,
+        "count": 1392,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 722,
+        "count": 723,
         "name": "India"
       },
       {
@@ -168046,7 +168126,7 @@
       },
       {
         "code": "DO",
-        "count": 244,
+        "count": 245,
         "name": "Dominican Republic"
       },
       {
@@ -168071,6 +168151,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-22T01:52:40.918Z",
+  "lastUpdated": "2026-05-23T01:44:10.493Z",
   "source": "orion-stream"
 }
