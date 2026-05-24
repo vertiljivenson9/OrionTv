@@ -13521,6 +13521,24 @@
       "owners": []
     },
     {
+      "id": "Atlas.us",
+      "name": "Atlas",
+      "logo": null,
+      "url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": "Whiplash",
+      "owners": []
+    },
+    {
       "id": "ATNBanglaUK.uk",
       "name": "ATN Bangla UK",
       "logo": null,
@@ -17261,7 +17279,7 @@
       "id": "BCNGospelTV.es",
       "name": "BCN Gospel TV",
       "logo": null,
-      "url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8",
+      "url": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8",
       "country": "Spain",
       "countryCode": "ES",
       "language_primary": "Español",
@@ -20424,7 +20442,7 @@
       "id": "BratTV.us",
       "name": "Brat TV",
       "logo": null,
-      "url": "https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8",
+      "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -28787,7 +28805,7 @@
       ],
       "altNames": [
         "CCTV-13 新闻",
-        "中国中央电视台新闻频道"
+        "中��中央电视台新闻频道"
       ],
       "network": null,
       "owners": [
@@ -36542,7 +36560,7 @@
       "id": "CricketGold.au",
       "name": "Cricket Gold",
       "logo": null,
-      "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8",
+      "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
       "country": "Australia",
       "countryCode": "AU",
       "language_primary": null,
@@ -42870,7 +42888,7 @@
       "id": "DreamTV.mn",
       "name": "DreamTV",
       "logo": null,
-      "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd",
+      "url": "https://xykt-fix.github.io/play/a02j/index.m3u8",
       "country": "Mongolia",
       "countryCode": "MN",
       "language_primary": null,
@@ -54367,6 +54385,26 @@
       "owners": []
     },
     {
+      "id": "GODTV.uk",
+      "name": "GOD TV",
+      "logo": null,
+      "url": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Angel Christian Television Trust"
+      ]
+    },
+    {
       "id": "GoienaEus.es",
       "name": "Goiena Eus",
       "logo": null,
@@ -57866,7 +57904,7 @@
       "id": "HindiKhabar.in",
       "name": "Hindi Khabar",
       "logo": null,
-      "url": "https://cdn-2.pishow.tv/live/1041/master.m3u8",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -59508,7 +59546,7 @@
       "id": "HornbillTV.in",
       "name": "Hornbill TV",
       "logo": null,
-      "url": "https://cdn-2.pishow.tv/live/1463/master.m3u8",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -59980,6 +60018,27 @@
       "is_adult": false,
       "section": "general",
       "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Ho Chi Minh City Television Station"
+      ]
+    },
+    {
+      "id": "HTV2.vn",
+      "name": "HTV2",
+      "logo": null,
+      "url": "http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento",
         "General"
       ],
       "altNames": [],
@@ -69185,7 +69244,7 @@
       "id": "KhabrainAbhiTak.in",
       "name": "Khabrain Abhi Tak",
       "logo": null,
-      "url": "https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -89626,10 +89685,30 @@
       "owners": []
     },
     {
+      "id": "News1India.in",
+      "name": "News 1 India",
+      "logo": null,
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Olecom Media"
+      ]
+    },
+    {
       "id": "News11.in",
       "name": "News 11",
       "logo": null,
-      "url": "https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -136989,7 +137068,7 @@
       "altNames": [],
       "network": null,
       "owners": [
-        "Huzur Radyo TV A.Ş",
+        "Huzur Radyo TV A.��",
         "İhlas Holding"
       ]
     },
@@ -140277,7 +140356,7 @@
       "id": "TotalTVHaryana.in",
       "name": "Total TV Haryana",
       "logo": null,
-      "url": "https://cdn-2.pishow.tv/live/1522/master.m3u8",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -168082,16 +168161,16 @@
     {
       "id": "general",
       "name": "General",
-      "count": 5951
+      "count": 5955
     }
   ],
   "stats": {
-    "total": 39651,
-    "withStreams": 8567,
+    "total": 39653,
+    "withStreams": 8571,
     "spanish": 1552,
     "adult": 78,
     "bySection": {
-      "general": 5951,
+      "general": 5955,
       "español": 1454,
       "infantil": 256,
       "series": 166,
@@ -168101,12 +168180,12 @@
     "topCountries": [
       {
         "code": "US",
-        "count": 1392,
+        "count": 1393,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 723,
+        "count": 724,
         "name": "India"
       },
       {
@@ -168146,11 +168225,11 @@
       },
       {
         "code": "UK",
-        "count": 185,
+        "count": 186,
         "name": "United Kingdom"
       }
     ]
   },
-  "lastUpdated": "2026-05-23T01:44:10.493Z",
+  "lastUpdated": "2026-05-24T01:49:58.376Z",
   "source": "orion-stream"
 }
