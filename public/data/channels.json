@@ -28805,7 +28805,7 @@
       ],
       "altNames": [
         "CCTV-13 新闻",
-        "中��中央电视台新闻频道"
+        "中国中央电视台新闻频道"
       ],
       "network": null,
       "owners": [
@@ -74504,6 +74504,24 @@
       ]
     },
     {
+      "id": "LasVegasTonightwithDaleDavidson.us",
+      "name": "Las Vegas Tonight with Dale Davidson",
+      "logo": null,
+      "url": "https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "LatacungaTV.ec",
       "name": "LatacungaTV",
       "logo": null,
@@ -82310,6 +82328,24 @@
       ]
     },
     {
+      "id": "mfm.lb",
+      "name": "mfm",
+      "logo": null,
+      "url": "https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8",
+      "country": "Lebanon",
+      "countryCode": "LB",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "MGITV.id",
       "name": "MGI TV",
       "logo": null,
@@ -84639,7 +84675,7 @@
         "General"
       ],
       "altNames": [
-        "Москва 24"
+        "Мос��ва 24"
       ],
       "network": null,
       "owners": []
@@ -91597,7 +91633,7 @@
         "Música"
       ],
       "altNames": [
-        "Nickelodeon Music Online"
+        "NickMusic Online"
       ],
       "network": null,
       "owners": [
@@ -91944,7 +91980,7 @@
       ],
       "altNames": [
         "卫视频道",
-        "宁夏卫视"
+        "宁夏卫���"
       ],
       "network": null,
       "owners": []
@@ -137068,7 +137104,7 @@
       "altNames": [],
       "network": null,
       "owners": [
-        "Huzur Radyo TV A.��",
+        "Huzur Radyo TV A.Ş",
         "İhlas Holding"
       ]
     },
@@ -168161,16 +168197,16 @@
     {
       "id": "general",
       "name": "General",
-      "count": 5955
+      "count": 5957
     }
   ],
   "stats": {
-    "total": 39653,
-    "withStreams": 8571,
+    "total": 39657,
+    "withStreams": 8573,
     "spanish": 1552,
     "adult": 78,
     "bySection": {
-      "general": 5955,
+      "general": 5957,
       "español": 1454,
       "infantil": 256,
       "series": 166,
@@ -168180,7 +168216,7 @@
     "topCountries": [
       {
         "code": "US",
-        "count": 1393,
+        "count": 1394,
         "name": "United States"
       },
       {
@@ -168230,6 +168266,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-24T01:49:58.376Z",
+  "lastUpdated": "2026-05-25T01:56:08.437Z",
   "source": "orion-stream"
 }
