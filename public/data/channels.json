@@ -224,7 +224,7 @@
       "id": "10TV.in",
       "name": "10 TV",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/391/master.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/10TV/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -2474,7 +2474,7 @@
       "id": "7SMusic.in",
       "name": "7S Music",
       "logo": null,
-      "url": "https://mumt03.tangotv.in/7SMUSIC/index.m3u8",
+      "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -3299,7 +3299,7 @@
       "id": "AakaashAath.in",
       "name": "Aakaash Aath",
       "logo": null,
-      "url": "https://mumt03.tangotv.in/AAKASHAATH/index.m3u8",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -3357,7 +3357,7 @@
       "id": "AaseervathamTV.in",
       "name": "Aaseervatham TV",
       "logo": null,
-      "url": "https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8",
+      "url": "https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -4468,46 +4468,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "AbzyDhakad.in",
-      "name": "Abzy Dhakad",
-      "logo": null,
-      "url": "http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Skystar Entertainment Pvt Ltd"
-      ]
-    },
-    {
-      "id": "AbzyMovies.in",
-      "name": "Abzy Movies",
-      "logo": null,
-      "url": "http://57.129.53.130:21001/ABZY_Movies/master.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Skystar Entertainment Pvt Ltd"
-      ]
     },
     {
       "id": "ACTV.tg",
@@ -10250,7 +10210,7 @@
       "id": "ANBNews.in",
       "name": "ANB News",
       "logo": null,
-      "url": "https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8",
+      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -10360,6 +10320,28 @@
       ],
       "network": "Pluto TV",
       "owners": []
+    },
+    {
+      "id": "AndyHaryana.in",
+      "name": "Andy Haryana",
+      "logo": null,
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Cultura",
+        "Música"
+      ],
+      "altNames": [],
+      "network": "iTV Network",
+      "owners": [
+        "Information TV Private Limited",
+        "Kartikeya Sharma"
+      ]
     },
     {
       "id": "AnewZTV.az",
@@ -10753,7 +10735,7 @@
       "id": "AnjanTV.in",
       "name": "Anjan TV",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/993/master.m3u8",
+      "url": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -10771,7 +10753,7 @@
       "id": "AnmolCinema.in",
       "name": "Anmol Cinema",
       "logo": null,
-      "url": "http://116.90.120.151:8000/play/a0j6/index.m3u8",
+      "url": "http://103.175.73.12:8080/live/271/271_0.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -10788,10 +10770,32 @@
       ]
     },
     {
+      "id": "AnmolCinema2.in",
+      "name": "Anmol Cinema 2",
+      "logo": null,
+      "url": "http://103.175.73.12:8080/live/257/257_0.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Zee Anmol Cinema 2"
+      ],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
       "id": "AnmolTV.in",
       "name": "Anmol TV",
       "logo": null,
-      "url": "http://163.61.227.29:8000/play/a04a/index.m3u8",
+      "url": "http://103.175.73.12:8080/live/256/256_0.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -12658,7 +12662,7 @@
       "id": "AryanTVNational.in",
       "name": "Aryan TV National",
       "logo": null,
-      "url": "https://mumt04.tangotv.in/ARYANTVNATIONAL/index.m3u8",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -13147,26 +13151,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "AssamTalks.in",
-      "name": "Assam Talks",
-      "logo": null,
-      "url": "https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Rockland Media and Communication Pvt Ltd"
-      ]
     },
     {
       "id": "AssenTV.nl",
@@ -15111,7 +15095,7 @@
       "id": "B4UMusic.in",
       "name": "B4U Music",
       "logo": null,
-      "url": "http://103.213.31.109:90/B4UMusic/playlist.m3u8",
+      "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -33041,6 +33025,24 @@
       "owners": []
     },
     {
+      "id": "CityofMonroeGovernmentChannel.us",
+      "name": "City of Monroe Government Channel",
+      "logo": null,
+      "url": "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Legislativo"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "CityofPompanoBeach.us",
       "name": "City of Pompano Beach",
       "logo": null,
@@ -41147,26 +41149,6 @@
       "network": null,
       "owners": [
         "Disney Entertainment"
-      ]
-    },
-    {
-      "id": "DisneyChannel.pl",
-      "name": "Disney Channel",
-      "logo": null,
-      "url": "https://streamer.filmowo.xyz/memfs/24012cc7-5a6e-492f-9083-579349d56f37.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "The Walt Disney Company Limited"
       ]
     },
     {
@@ -65876,7 +65858,7 @@
       "id": "JOEXDTV.jp",
       "name": "JOEX-DTV",
       "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06",
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06",
       "country": "Japan",
       "countryCode": "JP",
       "language_primary": null,
@@ -71635,6 +71617,28 @@
       "network": "Religious",
       "owners": [
         "Channel 38 Christian Television"
+      ]
+    },
+    {
+      "id": "KSCNTV221.us",
+      "name": "KSCN-TV 22.1",
+      "logo": null,
+      "url": "https://stream-losangeles.scientology.org/master.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "SCNTV"
+      ],
+      "network": "Scientology Network",
+      "owners": [
+        "Sunset Boulevard Broadcasting Corporation"
       ]
     },
     {
@@ -87415,26 +87419,6 @@
       ]
     },
     {
-      "id": "ntv.de",
-      "name": "n-tv",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "RTL Group"
-      ]
-    },
-    {
       "id": "N24Doku.de",
       "name": "N24 Doku",
       "logo": null,
@@ -90020,8 +90004,9 @@
         "Noticias"
       ],
       "altNames": [],
-      "network": "SPLUS Media Private Limited",
+      "network": "TCCL",
       "owners": [
+        "Thamizhaga Cable TV Communication Pvt. Ltd.",
         "SPLUS Media Limited"
       ]
     },
@@ -91394,28 +91379,6 @@
       ]
     },
     {
-      "id": "Nickelodeon.pl",
-      "name": "Nickelodeon",
-      "logo": null,
-      "url": "https://streamer.filmowo.xyz/memfs/cd3264be-9df6-43cb-91ca-364082c257eb.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Nickelodeon Polska"
-      ],
-      "network": "Nickelodeon",
-      "owners": [
-        "Paramount Networks EMEAA"
-      ]
-    },
-    {
       "id": "Nickelodeon.us",
       "name": "Nickelodeon",
       "logo": null,
@@ -91589,28 +91552,6 @@
       "network": null,
       "owners": [
         "x1co"
-      ]
-    },
-    {
-      "id": "Nicktoons.pl",
-      "name": "Nicktoons",
-      "logo": null,
-      "url": "https://streamer.filmowo.xyz/memfs/a9e785bf-54f7-4a9d-be03-1ad6ace02cd3.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Nicktoons Polska"
-      ],
-      "network": "Nickelodeon",
-      "owners": [
-        "Paramount Global"
       ]
     },
     {
@@ -97977,7 +97918,7 @@
         "Entretenimiento"
       ],
       "altNames": [
-        "ОТ��-Прим"
+        "ОТВ-Прим"
       ],
       "network": null,
       "owners": []
@@ -110353,6 +110294,24 @@
       "owners": []
     },
     {
+      "id": "RCMusic.in",
+      "name": "RC Music",
+      "logo": null,
+      "url": "https://view.rcserver.in/tmp_hls2/stream/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "RCCTV.py",
       "name": "RCC TV",
       "logo": null,
@@ -111880,7 +111839,7 @@
       "id": "Rengoni.in",
       "name": "Rengoni",
       "logo": null,
-      "url": "https://mumt05.tangotv.in/RENGONI/index.m3u8",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/rengonitv/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -130415,7 +130374,7 @@
       "id": "TabbarHits.in",
       "name": "Tabbar Hits",
       "logo": null,
-      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=n1xb6TPm9sa",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -156278,30 +156237,6 @@
       ]
     },
     {
-      "id": "VijaySuper.in",
-      "name": "Vijay Super",
-      "logo": null,
-      "url": "http://149.71.34.166:8000/play/a06c/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Star Vijay Super"
-      ],
-      "network": "JioStar",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
       "id": "VijayTakkar.in",
       "name": "Vijay Takkar",
       "logo": null,
@@ -167921,7 +167856,7 @@
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 363
+      "count": 361
     },
     {
       "id": "series",
@@ -167931,7 +167866,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 253
+      "count": 250
     },
     {
       "id": "español",
@@ -167941,31 +167876,31 @@
     {
       "id": "general",
       "name": "General",
-      "count": 5957
+      "count": 5959
     }
   ],
   "stats": {
-    "total": 39657,
-    "withStreams": 8562,
+    "total": 39663,
+    "withStreams": 8559,
     "spanish": 1552,
     "adult": 78,
     "bySection": {
-      "general": 5957,
+      "general": 5959,
       "español": 1454,
-      "infantil": 253,
+      "infantil": 250,
       "series": 166,
-      "peliculas": 363,
+      "peliculas": 361,
       "deportes": 291
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1395,
+        "count": 1397,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 714,
+        "count": 713,
         "name": "India"
       },
       {
@@ -168000,7 +167935,7 @@
       },
       {
         "code": "DE",
-        "count": 188,
+        "count": 187,
         "name": "Germany"
       },
       {
@@ -168010,6 +167945,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-26T01:48:32.624Z",
+  "lastUpdated": "2026-05-27T01:56:09.501Z",
   "source": "orion-stream"
 }
