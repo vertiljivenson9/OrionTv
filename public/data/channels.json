@@ -41,28 +41,10 @@
       ]
     },
     {
-      "id": "red.ru",
-      "name": ".red",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH147/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "scifi.ru",
       "name": ".sci-fi",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH175/index.m3u8",
+      "url": "http://31.148.48.15/SONY_SCI_FI/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -6658,6 +6640,26 @@
       ]
     },
     {
+      "id": "AlIraqiaSport.iq",
+      "name": "Al Iraqia Sport",
+      "logo": null,
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+      "country": "Iraq",
+      "countryCode": "IQ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Iraqi Media Network"
+      ]
+    },
+    {
       "id": "AlIttihadTV.lb",
       "name": "Al Ittihad TV",
       "logo": null,
@@ -9519,7 +9521,7 @@
       "id": "AmediaPremium.ru",
       "name": "Amedia Premium",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH301/index.m3u8",
+      "url": "http://31.148.48.15/Amedia_Premium_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -14321,7 +14323,7 @@
       "id": "AutoPlus.ru",
       "name": "Auto Plus",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH49/index.m3u8",
+      "url": "http://31.148.48.15/Avto_Plus/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -20662,7 +20664,7 @@
       "id": "BRIDGEDeluxe.ru",
       "name": "BRIDGE Deluxe",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH257/index.m3u8",
+      "url": "http://31.148.48.15/Bridge_TV_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -26487,6 +26489,26 @@
       ]
     },
     {
+      "id": "CanalPlusFoot.fr",
+      "name": "Canal+ Foot",
+      "logo": null,
+      "url": "https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2",
+      "country": "France",
+      "countryCode": "FR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Vivendi"
+      ]
+    },
+    {
       "id": "CanalPlusHaiti.ht",
       "name": "Canal+ Haiti",
       "logo": null,
@@ -31567,7 +31589,7 @@
       "id": "Che.ru",
       "name": "Che!",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH185/index.m3u8",
+      "url": "http://31.148.48.15/Che/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -38146,24 +38168,6 @@
       "owners": []
     },
     {
-      "id": "DaVinci.ru",
-      "name": "Da Vinci",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH205/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "DaVinciAsia.de",
       "name": "Da Vinci Asia",
       "logo": null,
@@ -40518,29 +40522,6 @@
       "owners": []
     },
     {
-      "id": "Detskimir.ru",
-      "name": "Detski mir",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH35/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Детский мир",
-        "НТВ-Плюс Детский мир"
-      ],
-      "network": null,
-      "owners": [
-        "Mediamart"
-      ]
-    },
-    {
       "id": "Detskoekino.ru",
       "name": "Detskoe kino",
       "logo": null,
@@ -42513,28 +42494,6 @@
       "network": null,
       "owners": [
         "Government of the Russian Federation"
-      ]
-    },
-    {
-      "id": "DomashnieZhivotnye.ru",
-      "name": "Domashnie Zhivotnye",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH207/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Estilo de Vida"
-      ],
-      "altNames": [
-        "Домашние животные"
-      ],
-      "network": null,
-      "owners": [
-        "STS Media"
       ]
     },
     {
@@ -48382,7 +48341,7 @@
       "id": "EuropaPlusTV.ru",
       "name": "Europa Plus TV",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH267/index.m3u8",
+      "url": "http://31.148.48.15/Europa_Plus_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -48482,7 +48441,7 @@
       "id": "Evrokino.ru",
       "name": "Evrokino",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH163/index.m3u8",
+      "url": "http://31.148.48.15/Evrokino/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -50909,7 +50868,7 @@
       "id": "FonMusic.ru",
       "name": "Fon Music",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH121/index.m3u8",
+      "url": "https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -62284,29 +62243,6 @@
       "owners": []
     },
     {
-      "id": "IndiyskoyeKino.ru",
-      "name": "Indiyskoye Kino",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH107/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Индийское кино",
-        "Indijskoe Kino"
-      ],
-      "network": null,
-      "owners": [
-        "Gazprom Media"
-      ]
-    },
-    {
       "id": "IndonesianaTV.id",
       "name": "Indonesiana.TV",
       "logo": null,
@@ -68402,6 +68338,24 @@
       "owners": []
     },
     {
+      "id": "KasterweyMedia.ec",
+      "name": "Kasterwey Media",
+      "logo": null,
+      "url": "https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8",
+      "country": "Ecuador",
+      "countryCode": "EC",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "KATU321.us",
       "name": "KATU 32.1",
       "logo": null,
@@ -69557,7 +69511,7 @@
       "id": "KHL.ru",
       "name": "KHL",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH247/index.m3u8",
+      "url": "http://31.148.48.15/KHL_TV/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -70087,51 +70041,6 @@
       ]
     },
     {
-      "id": "KinoHit.ru",
-      "name": "KinoHit",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH57/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Кинохит"
-      ],
-      "network": null,
-      "owners": [
-        "Gazprom Media"
-      ]
-    },
-    {
-      "id": "Kinokomedija.ru",
-      "name": "Kinokomedija",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH47/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Comedia"
-      ],
-      "altNames": [
-        "Кинокомедия",
-        "Kinokomedia"
-      ],
-      "network": null,
-      "owners": [
-        "Gazprom Media"
-      ]
-    },
-    {
       "id": "Kinopokaz.ru",
       "name": "Kinopokaz",
       "logo": null,
@@ -70170,50 +70079,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "Kinosemja.ru",
-      "name": "Kinosemja",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH25/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Киносемья"
-      ],
-      "network": null,
-      "owners": [
-        "Gazprom Media"
-      ]
-    },
-    {
-      "id": "Kinosvidanie.ru",
-      "name": "Kinosvidanie",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH21/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Киносвидание"
-      ],
-      "network": null,
-      "owners": [
-        "Gazprom Media"
-      ]
     },
     {
       "id": "Kinoteatr.uz",
@@ -72546,7 +72411,7 @@
       "id": "KukhnyaTV.ru",
       "name": "Kukhnya TV",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH65/index.m3u8",
+      "url": "http://31.148.48.15/Kuhnya_TV/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -79169,7 +79034,7 @@
       "id": "Mama.ru",
       "name": "Mama",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH155/index.m3u8",
+      "url": "http://31.148.48.15/Mama/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -80152,7 +80017,7 @@
       "id": "MatchBoets.ru",
       "name": "Match! Boets",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH51/index.m3u8",
+      "url": "http://31.148.48.15/Match_Boec/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -80174,7 +80039,7 @@
       "id": "MatchIgra.ru",
       "name": "Match! Igra",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH255/index.m3u8",
+      "url": "http://31.148.48.15/Match_Igra_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -81165,28 +81030,6 @@
       "altNames": [],
       "network": "Pluto TV",
       "owners": []
-    },
-    {
-      "id": "MCMTop.ru",
-      "name": "MCM Top",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH77/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "MCM Top"
-      ],
-      "network": null,
-      "owners": [
-        "Groupe M6"
-      ]
     },
     {
       "id": "MCN6ArtsChannel.us",
@@ -85308,7 +85151,7 @@
       "id": "MoyaPlaneta.ru",
       "name": "Moya Planeta",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH225/index.m3u8",
+      "url": "http://31.148.48.15/Moya_Planeta_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -86122,10 +85965,7 @@
       "categories": [
         "Entretenimiento"
       ],
-      "altNames": [
-        "MTV Ava HD",
-        "AVA"
-      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "MTV Oy"
@@ -86375,10 +86215,7 @@
       "categories": [
         "General"
       ],
-      "altNames": [
-        "MTV Sub HD",
-        "Sub"
-      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -86476,9 +86313,7 @@
       "categories": [
         "General"
       ],
-      "altNames": [
-        "MTV3 HD"
-      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "MTV Oy"
@@ -87097,26 +86932,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "MusicBoxGold.ru",
-      "name": "MusicBox Gold",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH81/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Music Box Ru"
-      ]
     },
     {
       "id": "MusicTop.ar",
@@ -93763,29 +93578,6 @@
       ]
     },
     {
-      "id": "NST.ru",
-      "name": "NST",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH157/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "НСТ",
-        "Настоящее Страшное Телевидение"
-      ],
-      "network": null,
-      "owners": [
-        "VGTRK"
-      ]
-    },
-    {
       "id": "NSTV.co",
       "name": "NSTV",
       "logo": null,
@@ -98110,7 +97902,7 @@
       "id": "OTR.ru",
       "name": "OTR",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH317/index.m3u8",
+      "url": "https://streaming.televizor-24-tochka.ru/live/12.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -112102,7 +111894,7 @@
       "id": "RENTV.ru",
       "name": "REN TV",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH189/index.m3u8",
+      "url": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -112564,28 +112356,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "Retro.ru",
-      "name": "Retro",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH149/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Clásico"
-      ],
-      "altNames": [
-        "Ретро"
-      ],
-      "network": null,
-      "owners": [
-        "Stream"
-      ]
     },
     {
       "id": "RetroMusicTV.cz",
@@ -113633,7 +113403,7 @@
       "id": "RodnoeKino.ru",
       "name": "Rodnoe Kino",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH23/index.m3u8",
+      "url": "http://31.148.48.15/Rodnoe_kino/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -114906,7 +114676,7 @@
       "id": "RTGTV.ru",
       "name": "RTG TV",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH179/index.m3u8",
+      "url": "http://31.148.48.15/RTG_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -117502,7 +117272,7 @@
       "id": "RussianExtreme.ru",
       "name": "Russian Extreme",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH67/index.m3u8",
+      "url": "http://31.148.48.15/Russkiy_Ekstrim/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -119613,7 +119383,7 @@
       "id": "Sarafan.ru",
       "name": "Sarafan",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH199/index.m3u8",
+      "url": "http://31.148.48.15/Sarafan/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -125515,7 +125285,7 @@
       "id": "Spas.ru",
       "name": "Spas",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH105/index.m3u8",
+      "url": "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -126466,28 +126236,6 @@
       "network": null,
       "owners": [
         "New Television S.A."
-      ]
-    },
-    {
-      "id": "StarGold.in",
-      "name": "Star Gold",
-      "logo": null,
-      "url": "http://149.71.34.166:8000/play/a01b/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "JioStar",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
       ]
     },
     {
@@ -128020,7 +127768,7 @@
       "id": "STSkids.ru",
       "name": "STS kids",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH729/index.m3u8",
+      "url": "http://31.148.48.15/STS_Kids_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -130593,31 +130341,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "T24.ru",
-      "name": "T24",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH173/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Т24",
-        "Техно 24",
-        "Tekhno 24",
-        "24 Tekhno"
-      ],
-      "network": null,
-      "owners": [
-        "VGTRK"
-      ]
     },
     {
       "id": "T7.xk",
@@ -139662,7 +139385,7 @@
       "id": "TNT4.ru",
       "name": "TNT4",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH71/index.m3u8",
+      "url": "http://31.148.48.15/TNT4/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -140994,7 +140717,7 @@
       "id": "TravelPlusAdventure.ru",
       "name": "Travel+Adventure",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH273/index.m3u8",
+      "url": "http://31.148.48.15/Travel_Adventure_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -142833,27 +142556,6 @@
         "General"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TV21.ru",
-      "name": "TV 21",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH145/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "ТВ 21",
-        "TV XXI"
-      ],
       "network": null,
       "owners": []
     },
@@ -153710,7 +153412,7 @@
       "id": "Unikum.ru",
       "name": "Unikum",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH167/index.m3u8",
+      "url": "http://31.148.48.15/Detskiy/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -154418,26 +154120,6 @@
       "owners": [
         "USA TODAY Co. Inc."
       ]
-    },
-    {
-      "id": "Usadba.ru",
-      "name": "Usadba",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH137/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Усадьба"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "USMPTV.pe",
@@ -156626,98 +156308,10 @@
       ]
     },
     {
-      "id": "vijuHistory.ru",
-      "name": "viju History",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH133/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [
-        "Viasat History Russia"
-      ],
-      "network": null,
-      "owners": [
-        "National Media Group"
-      ]
-    },
-    {
-      "id": "vijuNature.ru",
-      "name": "viju Nature",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH203/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [
-        "Viasat Nature Russia"
-      ],
-      "network": null,
-      "owners": [
-        "National Media Group"
-      ]
-    },
-    {
-      "id": "vijuTV1000.ru",
-      "name": "viju TV1000",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH141/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "viju TV1000 Global Kino"
-      ],
-      "network": "Viasat",
-      "owners": [
-        "National Media Group"
-      ]
-    },
-    {
-      "id": "vijuTV1000action.ru",
-      "name": "viju TV1000 action",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH143/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "TV1000 Action East"
-      ],
-      "network": "Viasat",
-      "owners": [
-        "National Media Group"
-      ]
-    },
-    {
       "id": "vijuTV1000russkoe.ru",
       "name": "viju TV1000 russkoe",
       "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH139/index.m3u8",
+      "url": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -156733,97 +156327,6 @@
         "TV1000 Русское Кино"
       ],
       "network": "Viasat",
-      "owners": [
-        "National Media Group"
-      ]
-    },
-    {
-      "id": "vijuPlusComedy.ru",
-      "name": "viju+ Comedy",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH311/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Comedia"
-      ],
-      "altNames": [
-        "ViP Comedy",
-        "TV1000 Comedy"
-      ],
-      "network": null,
-      "owners": [
-        "National Media Group"
-      ]
-    },
-    {
-      "id": "vijuPlusMegahit.ru",
-      "name": "viju+ Megahit",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH313/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "TV1000 Megahit",
-        "ViP Megahit"
-      ],
-      "network": null,
-      "owners": [
-        "National Media Group"
-      ]
-    },
-    {
-      "id": "vijuPlusPremiere.ru",
-      "name": "viju+ Premiere",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH315/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "ViP Premiere",
-        "TV1000 Premium"
-      ],
-      "network": null,
-      "owners": [
-        "National Media Group"
-      ]
-    },
-    {
-      "id": "vijuPlusSport.ru",
-      "name": "viju+ Sport",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH131/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Viasat Sport"
-      ],
-      "network": null,
       "owners": [
         "National Media Group"
       ]
@@ -157642,28 +157145,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "VoprosyiOtvety.ru",
-      "name": "Voprosy i Otvety",
-      "logo": null,
-      "url": "http://tmptv.sunduk.tv/CH211/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Вопросы и ответы"
-      ],
-      "network": null,
-      "owners": [
-        "Stream"
-      ]
     },
     {
       "id": "VosTV.ni",
@@ -168214,12 +167695,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 297
+      "count": 298
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 362
+      "count": 352
     },
     {
       "id": "series",
@@ -168229,31 +167710,31 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 250
+      "count": 249
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1453
+      "count": 1454
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5970
+      "count": 5956
     }
   ],
   "stats": {
-    "total": 39674,
-    "withStreams": 8576,
-    "spanish": 1551,
+    "total": 39682,
+    "withStreams": 8553,
+    "spanish": 1552,
     "adult": 78,
     "bySection": {
-      "general": 5970,
-      "español": 1453,
-      "infantil": 250,
+      "general": 5956,
+      "español": 1454,
+      "infantil": 249,
       "series": 166,
-      "peliculas": 362,
-      "deportes": 297
+      "peliculas": 352,
+      "deportes": 298
     },
     "topCountries": [
       {
@@ -168263,12 +167744,12 @@
       },
       {
         "code": "IN",
-        "count": 715,
+        "count": 714,
         "name": "India"
       },
       {
         "code": "RU",
-        "count": 345,
+        "count": 320,
         "name": "Russia"
       },
       {
@@ -168308,6 +167789,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-05-29T01:50:03.182Z",
+  "lastUpdated": "2026-05-30T01:46:22.538Z",
   "source": "orion-stream"
 }
