@@ -5094,6 +5094,26 @@
       "owners": []
     },
     {
+      "id": "AFBTVKupang.id",
+      "name": "AFBTV Kupang",
+      "logo": null,
+      "url": "https://afbtv.siar.us/live/afbtv.m3u8",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "AFB TV"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "AfghanNobelMovies.ca",
       "name": "Afghan Nobel Movies",
       "logo": null,
@@ -6488,6 +6508,24 @@
       "owners": [
         "Iraqi Media Network"
       ]
+    },
+    {
+      "id": "AlIraqiaKurdish.iq",
+      "name": "Al Iraqia Kurdish",
+      "logo": null,
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+      "country": "Iraq",
+      "countryCode": "IQ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Iraqi Media Network",
+      "owners": []
     },
     {
       "id": "AlIraqiaNews.iq",
@@ -10672,6 +10710,26 @@
       ]
     },
     {
+      "id": "AntaraTV.id",
+      "name": "Antara TV",
+      "logo": null,
+      "url": "https://indihuy.streamized.net/atm/DASH/antara/manifest.mpd",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Government of Indonesia"
+      ]
+    },
+    {
       "id": "AntaresTelevision.pe",
       "name": "Antares Television",
       "logo": null,
@@ -11143,7 +11201,7 @@
       "id": "ANTV.id",
       "name": "ANTV",
       "logo": null,
-      "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
+      "url": "http://103.58.160.157:8278/720-ANTV/playlist.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -15318,7 +15376,7 @@
       "id": "BaliTV.id",
       "name": "Bali TV",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/balitv/manifest.mpd",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -15333,26 +15391,6 @@
       "owners": [
         "Bali Post Media Group"
       ]
-    },
-    {
-      "id": "BalikpapanTV.id",
-      "name": "Balikpapan TV",
-      "logo": null,
-      "url": "https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8",
-      "country": "Indonesia",
-      "countryCode": "ID",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "BTV"
-      ],
-      "network": "Jawa Pos Multimedia",
-      "owners": []
     },
     {
       "id": "BalkanRadioSalzburg.at",
@@ -15902,7 +15940,7 @@
       "id": "BBCAlba.uk",
       "name": "BBC Alba",
       "logo": null,
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16119,7 +16157,7 @@
       "id": "BBCNews.uk",
       "name": "BBC News",
       "logo": null,
-      "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16161,7 +16199,7 @@
       "id": "BBCOne.uk",
       "name": "BBC One",
       "logo": null,
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16185,7 +16223,7 @@
       "id": "BBCParliament.uk",
       "name": "BBC Parliament",
       "logo": null,
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16227,7 +16265,7 @@
       "id": "BBCRedButton1.uk",
       "name": "BBC Red Button 1",
       "logo": null,
-      "url": "https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16249,7 +16287,7 @@
       "id": "BBCRedButton10.uk",
       "name": "BBC Red Button 10",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16269,7 +16307,7 @@
       "id": "BBCRedButton11.uk",
       "name": "BBC Red Button 11",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16289,7 +16327,7 @@
       "id": "BBCRedButton12.uk",
       "name": "BBC Red Button 12",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16309,7 +16347,7 @@
       "id": "BBCRedButton13.uk",
       "name": "BBC Red Button 13",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16329,7 +16367,7 @@
       "id": "BBCRedButton14.uk",
       "name": "BBC Red Button 14",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16349,7 +16387,7 @@
       "id": "BBCRedButton15.uk",
       "name": "BBC Red Button 15",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16369,7 +16407,7 @@
       "id": "BBCRedButton16.uk",
       "name": "BBC Red Button 16",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16389,7 +16427,7 @@
       "id": "BBCRedButton17.uk",
       "name": "BBC Red Button 17",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16409,7 +16447,7 @@
       "id": "BBCRedButton18.uk",
       "name": "BBC Red Button 18",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16429,7 +16467,7 @@
       "id": "BBCRedButton19.uk",
       "name": "BBC Red Button 19",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16449,7 +16487,7 @@
       "id": "BBCRedButton2.uk",
       "name": "BBC Red Button 2",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16469,7 +16507,7 @@
       "id": "BBCRedButton20.uk",
       "name": "BBC Red Button 20",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16489,7 +16527,7 @@
       "id": "BBCRedButton21.uk",
       "name": "BBC Red Button 21",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16509,7 +16547,7 @@
       "id": "BBCRedButton22.uk",
       "name": "BBC Red Button 22",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16529,7 +16567,7 @@
       "id": "BBCRedButton23.uk",
       "name": "BBC Red Button 23",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16549,7 +16587,7 @@
       "id": "BBCRedButton24.uk",
       "name": "BBC Red Button 24",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16569,7 +16607,7 @@
       "id": "BBCRedButton3.uk",
       "name": "BBC Red Button 3",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16589,7 +16627,7 @@
       "id": "BBCRedButton4.uk",
       "name": "BBC Red Button 4",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16609,7 +16647,7 @@
       "id": "BBCRedButton5.uk",
       "name": "BBC Red Button 5",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16629,7 +16667,7 @@
       "id": "BBCRedButton6.uk",
       "name": "BBC Red Button 6",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16649,7 +16687,7 @@
       "id": "BBCRedButton7.uk",
       "name": "BBC Red Button 7",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16669,7 +16707,7 @@
       "id": "BBCRedButton8.uk",
       "name": "BBC Red Button 8",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16689,7 +16727,7 @@
       "id": "BBCRedButton9.uk",
       "name": "BBC Red Button 9",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_mse_v0_hevc.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -20682,26 +20720,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "BTBMusic.pl",
-      "name": "BTB Music",
-      "logo": null,
-      "url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": "Telewizja BTB",
-      "owners": [
-        "Telewizja BTB"
-      ]
     },
     {
       "id": "BTLTV.ke",
@@ -27045,7 +27063,7 @@
       "id": "CBBC.uk",
       "name": "CBBC",
       "logo": null,
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -40887,7 +40905,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
+        "สถาน���วิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -84353,7 +84371,7 @@
       "id": "MTVLebanon.lb",
       "name": "MTV Lebanon",
       "logo": null,
-      "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8",
       "country": "Lebanon",
       "countryCode": "LB",
       "language_primary": null,
@@ -98950,6 +98968,26 @@
       "owners": []
     },
     {
+      "id": "Placid.us",
+      "name": "Placid",
+      "logo": null,
+      "url": "https://toy.vcdn.fyi/placid/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación"
+      ],
+      "altNames": [],
+      "network": "Orbit Media",
+      "owners": [
+        "Orbit Media"
+      ]
+    },
+    {
       "id": "Planet1009FM.pa",
       "name": "Planet 100.9 FM",
       "logo": null,
@@ -101836,7 +101874,7 @@
         "General"
       ],
       "altNames": [
-        "PTV C��rdoba"
+        "PTV Córdoba"
       ],
       "network": "PTV",
       "owners": []
@@ -103086,24 +103124,6 @@
       "section": "general",
       "categories": [
         "Religioso"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "QuranRadio.sa",
-      "name": "Quran Radio",
-      "logo": null,
-      "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
-      "country": "Saudi Arabia",
-      "countryCode": "SA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
       ],
       "altNames": [],
       "network": null,
@@ -119120,6 +119140,24 @@
       "altNames": [
         "Симферополь 24"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Simon.ua",
+      "name": "Simon",
+      "logo": null,
+      "url": "https://hls.simon.ua/live-HD/live/playlist.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -146650,6 +146688,26 @@
       ]
     },
     {
+      "id": "TVPDokument.pl",
+      "name": "TVP Dokument",
+      "logo": null,
+      "url": "https://tvpi.travny.workers.dev/tvpdokument.m3u",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "TVP",
+      "owners": [
+        "Telewizja Polska"
+      ]
+    },
+    {
       "id": "TVPInfo.pl",
       "name": "TVP Info",
       "logo": null,
@@ -153558,6 +153616,26 @@
       "owners": []
     },
     {
+      "id": "VTV1.vn",
+      "name": "VTV1",
+      "logo": null,
+      "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Vietnam Television"
+      ]
+    },
+    {
       "id": "VTV2.vn",
       "name": "VTV2",
       "logo": null,
@@ -153582,6 +153660,46 @@
       "name": "VTV3",
       "logo": null,
       "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Vietnam Television"
+      ]
+    },
+    {
+      "id": "VTV4.vn",
+      "name": "VTV4",
+      "logo": null,
+      "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Vietnam Television"
+      ]
+    },
+    {
+      "id": "VTV5.vn",
+      "name": "VTV5",
+      "logo": null,
+      "url": "https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8",
       "country": "Vietnam",
       "countryCode": "VN",
       "language_primary": null,
@@ -163529,7 +163647,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 220
+      "count": 221
     },
     {
       "id": "español",
@@ -163539,18 +163657,18 @@
     {
       "id": "general",
       "name": "General",
-      "count": 5867
+      "count": 5872
     }
   ],
   "stats": {
-    "total": 39687,
-    "withStreams": 8333,
+    "total": 39697,
+    "withStreams": 8339,
     "spanish": 1548,
     "adult": 78,
     "bySection": {
-      "general": 5867,
+      "general": 5872,
       "español": 1450,
-      "infantil": 220,
+      "infantil": 221,
       "series": 111,
       "peliculas": 310,
       "deportes": 297
@@ -163558,7 +163676,7 @@
     "topCountries": [
       {
         "code": "US",
-        "count": 1187,
+        "count": 1188,
         "name": "United States"
       },
       {
@@ -163608,6 +163726,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-01T02:05:22.976Z",
+  "lastUpdated": "2026-06-02T02:06:52.070Z",
   "source": "orion-stream"
 }
