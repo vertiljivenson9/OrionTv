@@ -12227,6 +12227,29 @@
       "owners": []
     },
     {
+      "id": "ART.gr",
+      "name": "ART",
+      "logo": null,
+      "url": "https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8",
+      "country": "Greece",
+      "countryCode": "GR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Cultura"
+      ],
+      "altNames": [
+        "Τηλεάστυ",
+        "Άστυ Ράδιο Τηλεόραση"
+      ],
+      "network": null,
+      "owners": [
+        "City News S.A."
+      ]
+    },
+    {
       "id": "ARTTelevision.lk",
       "name": "ART Television",
       "logo": null,
@@ -15393,6 +15416,26 @@
       ]
     },
     {
+      "id": "BalikpapanTV.id",
+      "name": "Balikpapan TV",
+      "logo": null,
+      "url": "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "BTV"
+      ],
+      "network": "Jawa Pos Multimedia",
+      "owners": []
+    },
+    {
       "id": "BalkanRadioSalzburg.at",
       "name": "Balkan Radio Salzburg",
       "logo": null,
@@ -17750,7 +17793,7 @@
       "id": "BeritaSatu.id",
       "name": "BeritaSatu",
       "logo": null,
-      "url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8",
+      "url": "https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -20823,7 +20866,7 @@
       "id": "BTV.id",
       "name": "BTV",
       "logo": null,
-      "url": "https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8",
+      "url": "https://xtdslboppkkv-pull.bpmedialive.com/live/btv/abr.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -40905,7 +40948,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถาน���วิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
+        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -47392,6 +47435,26 @@
       "network": "Euronews",
       "owners": [
         "Euronews SA"
+      ]
+    },
+    {
+      "id": "EuropaEuropa.ar",
+      "name": "Europa Europa",
+      "logo": null,
+      "url": "http://181.119.93.83:8000/play/a1sr/index.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "AMC Networks International"
       ]
     },
     {
@@ -54600,7 +54663,7 @@
       "id": "GTV.id",
       "name": "GTV",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/globaltv/manifest.mpd",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -59960,7 +60023,7 @@
       "id": "IDXChannel.id",
       "name": "IDX Channel",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/idx/manifest.mpd",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -60976,7 +61039,7 @@
       "id": "iNews.id",
       "name": "iNews",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -61275,6 +61338,26 @@
         "Entretenimiento"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "InterPlus.ua",
+      "name": "Inter+",
+      "logo": null,
+      "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Інтер+"
+      ],
       "network": null,
       "owners": []
     },
@@ -63146,7 +63229,7 @@
       "id": "JakTV.id",
       "name": "Jak TV",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/JAK_TV/manifest.mpd",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -63244,24 +63327,6 @@
       "owners": [
         "Whirlwind International Group"
       ]
-    },
-    {
-      "id": "JambiTV.id",
-      "name": "Jambi TV",
-      "logo": null,
-      "url": "https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8",
-      "country": "Indonesia",
-      "countryCode": "ID",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Jawa Pos Multimedia",
-      "owners": []
     },
     {
       "id": "Jambyl.kz",
@@ -78701,6 +78766,49 @@
       "owners": []
     },
     {
+      "id": "MAXEats.id",
+      "name": "MAX Eats",
+      "logo": null,
+      "url": "https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Cocina"
+      ],
+      "altNames": [],
+      "network": "IndiHome",
+      "owners": [
+        "Telkomsel Indonesia"
+      ]
+    },
+    {
+      "id": "MAXKids.id",
+      "name": "MAX Kids",
+      "logo": null,
+      "url": "https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "IndiKids",
+        "Fun Planet"
+      ],
+      "network": "IndiHome",
+      "owners": [
+        "Telkomsel Indonesia"
+      ]
+    },
+    {
       "id": "MaxMovies.in",
       "name": "Max Movies",
       "logo": null,
@@ -78738,6 +78846,26 @@
       "network": "Max",
       "owners": [
         "Max Group"
+      ]
+    },
+    {
+      "id": "MAXStreak.id",
+      "name": "MAX Streak",
+      "logo": null,
+      "url": "https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "IndiHome",
+      "owners": [
+        "Telkomsel Indonesia"
       ]
     },
     {
@@ -82310,7 +82438,7 @@
       "id": "MNCTV.id",
       "name": "MNCTV",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -83908,7 +84036,7 @@
       "id": "MTATV.id",
       "name": "MTA TV",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -85194,6 +85322,29 @@
       "network": null,
       "owners": [
         "Media Muzangala"
+      ]
+    },
+    {
+      "id": "Muzvar.ua",
+      "name": "Muzvar",
+      "logo": null,
+      "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "Музвар"
+      ],
+      "network": null,
+      "owners": [
+        "Oleksiy Dontsov",
+        "Yulian Novak"
       ]
     },
     {
@@ -91775,6 +91926,29 @@
       ]
     },
     {
+      "id": "NTN.ua",
+      "name": "NTN",
+      "logo": null,
+      "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "НТН"
+      ],
+      "network": null,
+      "owners": [
+        "Ukrainian Media Resource",
+        "Mindon Holdings"
+      ]
+    },
+    {
       "id": "NTS.ru",
       "name": "NTS",
       "logo": null,
@@ -92163,26 +92337,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "NudgeSportsChannel.ph",
-      "name": "Nudge Sports Channel",
-      "logo": null,
-      "url": "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8",
-      "country": "Philippines",
-      "countryCode": "PH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Nudge Productions"
-      ]
     },
     {
       "id": "NuevaVidaFM.pr",
@@ -100424,6 +100578,26 @@
       "owners": []
     },
     {
+      "id": "Prambors.id",
+      "name": "Prambors",
+      "logo": null,
+      "url": "https://indihuy.streamized.net/atm/DASH/pramborstv/manifest.mpd",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": "IndiHome",
+      "owners": [
+        "Masima Radio Network"
+      ]
+    },
+    {
       "id": "PrameyaNews7.in",
       "name": "Prameya News7",
       "logo": null,
@@ -100578,6 +100752,29 @@
       "owners": [
         "Ivan Evgenievich Grishin",
         "Ekaterina Pavlovna Grishina"
+      ]
+    },
+    {
+      "id": "PravdaTUTLviv.ua",
+      "name": "PravdaTUT Lviv",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&e=1782901327&st=bflIqYjnSIr75ACfgV-mug",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "ПравдаТУТ Львів",
+        "Truth is HERE Lviv"
+      ],
+      "network": null,
+      "owners": [
+        "Telekanal PravdaTUT Lviv Media Group"
       ]
     },
     {
@@ -103203,26 +103400,6 @@
       "network": null,
       "owners": [
         "QVC Italia Srl"
-      ]
-    },
-    {
-      "id": "QVC.jp",
-      "name": "QVC",
-      "logo": null,
-      "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Compras"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Qurate Retail Group"
       ]
     },
     {
@@ -107036,7 +107213,7 @@
       "id": "RCTI.id",
       "name": "RCTI",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -109767,7 +109944,7 @@
       "id": "ROCKAction.sg",
       "name": "ROCK Action",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd",
       "country": "Singapore",
       "countryCode": "SG",
       "language_primary": null,
@@ -109803,7 +109980,7 @@
       "id": "ROCKEntertainment.sg",
       "name": "ROCK Entertainment",
       "logo": null,
-      "url": "http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd",
+      "url": "http://indihuy.streamized.net/atm/DASH/rock_entertainment/manifest.mpd",
       "country": "Singapore",
       "countryCode": "SG",
       "language_primary": null,
@@ -119183,7 +119360,7 @@
       "id": "SinPoTV.id",
       "name": "Sin Po TV",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -119244,7 +119421,7 @@
       "id": "SindoNewsTV.id",
       "name": "Sindo News TV",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -125246,6 +125423,26 @@
       "owners": []
     },
     {
+      "id": "SuperTennis.it",
+      "name": "SuperTennis",
+      "logo": null,
+      "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Sportcast Srl"
+      ]
+    },
+    {
       "id": "SuperyachtTV.mc",
       "name": "Superyacht TV",
       "logo": null,
@@ -125634,6 +125831,30 @@
       "altNames": [],
       "network": "Suyai TV",
       "owners": []
+    },
+    {
+      "id": "Svarozhychy.ua",
+      "name": "Svarozhychy",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch168/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783001230&st=qEu2rz6Y32Q9vvupQDSuvA",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Сварожичи",
+        "Горизонт ТВ"
+      ],
+      "network": null,
+      "owners": [
+        "Unika-TV",
+        "Planeta"
+      ]
     },
     {
       "id": "SVBC.in",
@@ -127709,7 +127930,7 @@
       "id": "TBC1.tz",
       "name": "TBC1",
       "logo": null,
-      "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_f9bd5b30323411f0a32aaf26f944974f/index.fmp4.m3u8",
+      "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_67aeec90584911f1ab60174d68f7c06e/index.fmp4.m3u8",
       "country": "Tanzania",
       "countryCode": "TZ",
       "language_primary": null,
@@ -136595,7 +136816,7 @@
       "id": "TraceUrban.fr",
       "name": "Trace Urban",
       "logo": null,
-      "url": "http://103.213.31.109:90/TraceUrbanHD/playlist.m3u8",
+      "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -141798,7 +142019,7 @@
       "id": "TVMUI.id",
       "name": "TV MUI",
       "logo": null,
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd",
+      "url": "https://indihuy.streamized.net/atm/DASH/muitv/manifest.mpd",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -146770,6 +146991,26 @@
       ]
     },
     {
+      "id": "TVPNauka.pl",
+      "name": "TVP Nauka",
+      "logo": null,
+      "url": "https://tvpi.travny.workers.dev/tvpnauka.m3u",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "TVP",
+      "owners": [
+        "Telewizja Polska"
+      ]
+    },
+    {
       "id": "TVPObregon.mx",
       "name": "TVP Obregon",
       "logo": null,
@@ -146807,6 +147048,26 @@
       ],
       "altNames": [],
       "network": "TVP",
+      "owners": [
+        "Telewizja Polska"
+      ]
+    },
+    {
+      "id": "TVPRozrywka.pl",
+      "name": "TVP Rozrywka",
+      "logo": null,
+      "url": "https://tvpi.travny.workers.dev/tvprozrywka.m3u",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
       "owners": [
         "Telewizja Polska"
       ]
@@ -148698,24 +148959,6 @@
       "url": "https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd",
       "country": "Mongolia",
       "countryCode": "MN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "UBTVBrawijaya.id",
-      "name": "UBTV Brawijaya",
-      "logo": null,
-      "url": "https://ubmedcom.siar.us/live/ubmedcom.m3u8",
-      "country": "Indonesia",
-      "countryCode": "ID",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -163642,12 +163885,12 @@
     {
       "id": "series",
       "name": "Series",
-      "count": 111
+      "count": 112
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 221
+      "count": 222
     },
     {
       "id": "español",
@@ -163657,19 +163900,19 @@
     {
       "id": "general",
       "name": "General",
-      "count": 5872
+      "count": 5881
     }
   ],
   "stats": {
-    "total": 39697,
-    "withStreams": 8339,
-    "spanish": 1548,
+    "total": 39699,
+    "withStreams": 8350,
+    "spanish": 1549,
     "adult": 78,
     "bySection": {
-      "general": 5872,
+      "general": 5881,
       "español": 1450,
-      "infantil": 221,
-      "series": 111,
+      "infantil": 222,
+      "series": 112,
       "peliculas": 310,
       "deportes": 297
     },
@@ -163696,7 +163939,7 @@
       },
       {
         "code": "IT",
-        "count": 251,
+        "count": 252,
         "name": "Italy"
       },
       {
@@ -163726,6 +163969,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-02T02:06:52.070Z",
+  "lastUpdated": "2026-06-03T02:14:38.193Z",
   "source": "orion-stream"
 }
