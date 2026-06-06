@@ -41,6 +41,26 @@
       ]
     },
     {
+      "id": "VivaLatino.ua",
+      "name": "¡Viva Latino!",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch138/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=8a9f3acf84249fbe&uid=9szoe89y&cs_track=false&e=1783163037&st=907ywHdZsxDhbfHEV52usw",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Music Television of Ukraine"
+      ]
+    },
+    {
       "id": "scifi.ru",
       "name": ".sci-fi",
       "logo": null,
@@ -1045,7 +1065,7 @@
       "id": "2MMonde.ma",
       "name": "2M Monde",
       "logo": null,
-      "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+      "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
       "country": "Morocco",
       "countryCode": "MA",
       "language_primary": null,
@@ -2087,6 +2107,28 @@
       "network": null,
       "owners": [
         "RADIO TV STATION GREEK ORTHODOX ECCLESIASTICAL INFORMATIVE BROADCAST S.A."
+      ]
+    },
+    {
+      "id": "4everMusic.ua",
+      "name": "4ever Music",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch132/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=41545bc9645b3681&uid=9szoe89y&cs_track=false&e=1783162962&st=bprjJC1msNDEIjna-uUQjw",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "UA Music"
+      ],
+      "network": null,
+      "owners": [
+        "Music Television of Ukraine"
       ]
     },
     {
@@ -6232,6 +6274,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "AlAoula.ma",
+      "name": "Al Aoula",
+      "logo": null,
+      "url": "https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8",
+      "country": "Morocco",
+      "countryCode": "MA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "قناة الأولى"
+      ],
+      "network": null,
+      "owners": [
+        "SNRT"
+      ]
     },
     {
       "id": "AlArabiyaBusiness.ae",
@@ -12206,6 +12270,90 @@
       "owners": []
     },
     {
+      "id": "Arryadia.ma",
+      "name": "Arryadia",
+      "logo": null,
+      "url": "https://stream-lb.livemediama.com/arryadia/hls/master.m3u8",
+      "country": "Morocco",
+      "countryCode": "MA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "قناة الرياضية"
+      ],
+      "network": null,
+      "owners": [
+        "SNRT"
+      ]
+    },
+    {
+      "id": "ArryadiaHD1.ma",
+      "name": "Arryadia HD1",
+      "logo": null,
+      "url": "https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8",
+      "country": "Morocco",
+      "countryCode": "MA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Arryadia Olympics HD"
+      ],
+      "network": "SNRT",
+      "owners": [
+        "Société nationale de radiodiffusion et de télévision"
+      ]
+    },
+    {
+      "id": "ArryadiaHD2.ma",
+      "name": "Arryadia HD2",
+      "logo": null,
+      "url": "https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8",
+      "country": "Morocco",
+      "countryCode": "MA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "SNRT",
+      "owners": [
+        "Société nationale de radiodiffusion et de télévision"
+      ]
+    },
+    {
+      "id": "ArryadiaHD3.ma",
+      "name": "Arryadia HD3",
+      "logo": null,
+      "url": "https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8",
+      "country": "Morocco",
+      "countryCode": "MA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "SNRT",
+      "owners": [
+        "Société nationale de radiodiffusion et de télévision"
+      ]
+    },
+    {
       "id": "ART.gr",
       "name": "ART",
       "logo": null,
@@ -12756,6 +12904,28 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "AsianTV.bd",
+      "name": "Asian TV",
+      "logo": null,
+      "url": "https://tvsen6.aynaott.com/asiantv/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "এশিয়ান টিভি"
+      ],
+      "network": null,
+      "owners": [
+        "Asian Group of Industries"
+      ]
     },
     {
       "id": "AsianBox.mn",
@@ -13370,6 +13540,26 @@
         "Entretenimiento"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "ATNBangla.bd",
+      "name": "ATN Bangla",
+      "logo": null,
+      "url": "https://tvsen5.aynaott.com/atnbangla/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "এটিএন বাংলা"
+      ],
       "network": null,
       "owners": []
     },
@@ -15579,6 +15769,50 @@
       ]
     },
     {
+      "id": "BanglaTV.bd",
+      "name": "Bangla TV",
+      "logo": null,
+      "url": "https://tvsen6.aynaott.com/banglatv/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "যোগাযোগ"
+      ],
+      "network": null,
+      "owners": [
+        "Feroze Khan"
+      ]
+    },
+    {
+      "id": "BanglaVision.bd",
+      "name": "Bangla Vision",
+      "logo": null,
+      "url": "https://tvsen5.aynaott.com/banglavision/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "যোগাযোগ"
+      ],
+      "network": null,
+      "owners": [
+        "Bangla TV"
+      ]
+    },
+    {
       "id": "BaniVision.do",
       "name": "Bani Vision",
       "logo": null,
@@ -15962,7 +16196,7 @@
       "id": "BBCAlba.uk",
       "name": "BBC Alba",
       "logo": null,
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd",
+      "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16080,7 +16314,7 @@
       "id": "BBCFour.uk",
       "name": "BBC Four",
       "logo": null,
-      "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8",
+      "url": "https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16179,7 +16413,7 @@
       "id": "BBCNews.uk",
       "name": "BBC News",
       "logo": null,
-      "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
+      "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16221,7 +16455,7 @@
       "id": "BBCOne.uk",
       "name": "BBC One",
       "logo": null,
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/hevc_iptv_mse_v0.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16245,7 +16479,7 @@
       "id": "BBCParliament.uk",
       "name": "BBC Parliament",
       "logo": null,
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/hevc_iptv_mse_v0.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16287,7 +16521,7 @@
       "id": "BBCRedButton1.uk",
       "name": "BBC Red Button 1",
       "logo": null,
-      "url": "https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/hevc_iptv_mse_v0.mpd",
+      "url": "https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16309,7 +16543,7 @@
       "id": "BBCRedButton10.uk",
       "name": "BBC Red Button 10",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16329,7 +16563,7 @@
       "id": "BBCRedButton11.uk",
       "name": "BBC Red Button 11",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16349,7 +16583,7 @@
       "id": "BBCRedButton12.uk",
       "name": "BBC Red Button 12",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16369,7 +16603,7 @@
       "id": "BBCRedButton13.uk",
       "name": "BBC Red Button 13",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16389,7 +16623,7 @@
       "id": "BBCRedButton14.uk",
       "name": "BBC Red Button 14",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16409,7 +16643,7 @@
       "id": "BBCRedButton15.uk",
       "name": "BBC Red Button 15",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16429,7 +16663,7 @@
       "id": "BBCRedButton16.uk",
       "name": "BBC Red Button 16",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16449,7 +16683,7 @@
       "id": "BBCRedButton17.uk",
       "name": "BBC Red Button 17",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16469,7 +16703,7 @@
       "id": "BBCRedButton18.uk",
       "name": "BBC Red Button 18",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16489,7 +16723,7 @@
       "id": "BBCRedButton19.uk",
       "name": "BBC Red Button 19",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16509,7 +16743,7 @@
       "id": "BBCRedButton2.uk",
       "name": "BBC Red Button 2",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16529,7 +16763,7 @@
       "id": "BBCRedButton20.uk",
       "name": "BBC Red Button 20",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16549,7 +16783,7 @@
       "id": "BBCRedButton21.uk",
       "name": "BBC Red Button 21",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16569,7 +16803,7 @@
       "id": "BBCRedButton22.uk",
       "name": "BBC Red Button 22",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16589,7 +16823,7 @@
       "id": "BBCRedButton23.uk",
       "name": "BBC Red Button 23",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16609,7 +16843,7 @@
       "id": "BBCRedButton24.uk",
       "name": "BBC Red Button 24",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16629,7 +16863,7 @@
       "id": "BBCRedButton3.uk",
       "name": "BBC Red Button 3",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16649,7 +16883,7 @@
       "id": "BBCRedButton4.uk",
       "name": "BBC Red Button 4",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16669,7 +16903,7 @@
       "id": "BBCRedButton5.uk",
       "name": "BBC Red Button 5",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16689,7 +16923,7 @@
       "id": "BBCRedButton6.uk",
       "name": "BBC Red Button 6",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16709,7 +16943,7 @@
       "id": "BBCRedButton7.uk",
       "name": "BBC Red Button 7",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16729,7 +16963,7 @@
       "id": "BBCRedButton8.uk",
       "name": "BBC Red Button 8",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16749,7 +16983,7 @@
       "id": "BBCRedButton9.uk",
       "name": "BBC Red Button 9",
       "logo": null,
-      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/hevc_iptv_mse_v0.mpd",
+      "url": "https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -16846,96 +17080,6 @@
       "owners": [
         "BBC"
       ]
-    },
-    {
-      "id": "BBCUHD1.uk",
-      "name": "BBC UHD 1",
-      "logo": null,
-      "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BBCUHD2.uk",
-      "name": "BBC UHD 2",
-      "logo": null,
-      "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BBCUHD3.uk",
-      "name": "BBC UHD 3",
-      "logo": null,
-      "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BBCUHD4.uk",
-      "name": "BBC UHD 4",
-      "logo": null,
-      "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BBCUHD5.uk",
-      "name": "BBC UHD 5",
-      "logo": null,
-      "url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "BBNTV.bz",
@@ -17445,6 +17589,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Belarus1.by",
+      "name": "Belarus-1",
+      "logo": null,
+      "url": "https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1701491008_b5160000_sleng.m3u8",
+      "country": "Belarus",
+      "countryCode": "BY",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Беларусь 1"
+      ],
+      "network": null,
+      "owners": [
+        "National State Television and Radio Company of the Republic of Belarus"
+      ]
     },
     {
       "id": "Belarus2.by",
@@ -18734,6 +18900,28 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "BijoyTV.bd",
+      "name": "Bijoy TV",
+      "logo": null,
+      "url": "https://tvsen6.aynaott.com/bijoytv/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "বিজয় টিভি"
+      ],
+      "network": "COAB",
+      "owners": [
+        "Bijoy TV Limited"
+      ]
     },
     {
       "id": "BilimIlim.kg",
@@ -20456,124 +20644,6 @@
       "url": "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8",
       "country": "Belgium",
       "countryCode": "BE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BSAsahi.jp",
-      "name": "BS Asahi",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "BS朝日"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BSFuji.jp",
-      "name": "BS Fuji",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "BSフジ"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BSNipponTV.jp",
-      "name": "BS Nippon TV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "BS日テレ"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BSShochikuTokyu.jp",
-      "name": "BS Shochiku Tokyu",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "BS松竹東急"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BSTVTokyo.jp",
-      "name": "BS TV Tokyo",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "BSテレ東"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BSTBS.jp",
-      "name": "BS-TBS",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04",
-      "country": "Japan",
-      "countryCode": "JP",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -27086,7 +27156,7 @@
       "id": "CBBC.uk",
       "name": "CBBC",
       "logo": null,
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -30457,6 +30527,28 @@
       ]
     },
     {
+      "id": "Channel9.bd",
+      "name": "Channel 9",
+      "logo": null,
+      "url": "https://tvsen6.aynaott.com/channel9/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "চ্যানেল নাইন"
+      ],
+      "network": null,
+      "owners": [
+        "Virgo Media Limited"
+      ]
+    },
+    {
       "id": "Channel9.il",
       "name": "Channel 9",
       "logo": null,
@@ -30533,26 +30625,6 @@
         "Religioso"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "ChannelGinga.jp",
-      "name": "Channel Ginga",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "チャンネル銀河"
-      ],
       "network": null,
       "owners": []
     },
@@ -36453,7 +36525,7 @@
         "General"
       ],
       "altNames": [
-        "中天綜合台"
+        "���天綜合台"
       ],
       "network": null,
       "owners": [
@@ -37993,7 +38065,7 @@
       "id": "DBCNews.bd",
       "name": "DBC News",
       "logo": null,
-      "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
+      "url": "https://tvsen6.aynaott.com/dbcnews/index.m3u8",
       "country": "Bangladesh",
       "countryCode": "BD",
       "language_primary": null,
@@ -38926,6 +38998,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "DeeptoTV.bd",
+      "name": "Deepto TV",
+      "logo": null,
+      "url": "https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "দীপ্ত টিভি"
+      ],
+      "network": null,
+      "owners": [
+        "Kazi Media Limited"
+      ]
     },
     {
       "id": "DeFianceMedia.pr",
@@ -40386,28 +40480,6 @@
         "Infantil"
       ],
       "altNames": [],
-      "network": null,
-      "owners": [
-        "Disney Entertainment"
-      ]
-    },
-    {
-      "id": "DisneyChannel.jp",
-      "name": "Disney Channel",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "ディズニー・チャンネル"
-      ],
       "network": null,
       "owners": [
         "Disney Entertainment"
@@ -42829,6 +42901,26 @@
       "owners": []
     },
     {
+      "id": "DurontoTV.bd",
+      "name": "Duronto TV",
+      "logo": null,
+      "url": "https://tvsen5.aynaott.com/durontotv/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Barind Media Limited"
+      ]
+    },
+    {
       "id": "DushanbeHD.tj",
       "name": "Dushanbe HD",
       "logo": null,
@@ -44221,25 +44313,25 @@
       "owners": []
     },
     {
-      "id": "EiseiGekijo.jp",
-      "name": "Eisei Gekijo",
+      "id": "EkattorTV.bd",
+      "name": "Ekattor TV",
       "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22",
-      "country": "Japan",
-      "countryCode": "JP",
+      "url": "https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
-      "section": "peliculas",
+      "section": "general",
       "categories": [
-        "Películas"
+        "Noticias"
       ],
       "altNames": [
-        "衛星劇場"
+        "একাত্তর"
       ],
       "network": null,
       "owners": [
-        "Shochiku Broadcasting Co. Ltd."
+        "Meghna Group of Industries"
       ]
     },
     {
@@ -44306,7 +44398,7 @@
       "id": "EkusheyTV.bd",
       "name": "Ekushey TV",
       "logo": null,
-      "url": "https://ekusheyserver.com/etvlivesn.m3u8",
+      "url": "https://tvsen6.aynaott.com/etv/index.m3u8",
       "country": "Bangladesh",
       "countryCode": "BD",
       "language_primary": null,
@@ -46521,31 +46613,6 @@
       ]
     },
     {
-      "id": "ETBBasque.es",
-      "name": "ETB Basque",
-      "logo": null,
-      "url": "https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Cultura",
-        "Public"
-      ],
-      "altNames": [
-        "EiTB Basque",
-        "Canal Vasco",
-        "ETB Sat"
-      ],
-      "network": null,
-      "owners": [
-        "Department of Culture of the Basque Government"
-      ]
-    },
-    {
       "id": "ETBEvents1.es",
       "name": "ETB Events 1",
       "logo": null,
@@ -46565,7 +46632,49 @@
       ],
       "network": null,
       "owners": [
+        "EITB",
         "Department of Culture of the Basque Government"
+      ]
+    },
+    {
+      "id": "ETB1On.es",
+      "name": "ETB1 On",
+      "logo": null,
+      "url": "https://cdn1.etbon.eus/etb1on/index.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Public"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "EITB",
+        "Department of Culture of the Basque Government"
+      ]
+    },
+    {
+      "id": "ETB2On.es",
+      "name": "ETB2 On",
+      "logo": null,
+      "url": "https://cdn1.etbon.eus/etb2on/index.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "EITB"
       ]
     },
     {
@@ -48204,29 +48313,6 @@
       ]
     },
     {
-      "id": "FamilyGekijyo.jp",
-      "name": "Family Gekijyo",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Familia"
-      ],
-      "altNames": [
-        "ファミリー劇場",
-        "Family Theatre"
-      ],
-      "network": null,
-      "owners": [
-        "Tohokushinsha Film"
-      ]
-    },
-    {
       "id": "FamypancTV.es",
       "name": "Famypanc TV",
       "logo": null,
@@ -48636,6 +48722,26 @@
       "owners": [
         "The Hearst Corporation",
         " MotorTrend"
+      ]
+    },
+    {
+      "id": "FastFunBox.ru",
+      "name": "Fast&FunBox",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch120/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783249561&st=-CNEhLDi2VkEY_caCemBGQ",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI"
       ]
     },
     {
@@ -49122,6 +49228,46 @@
       "owners": []
     },
     {
+      "id": "FilmBoxArthouse.nl",
+      "name": "FilmBox Arthouse",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch63/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193843&st=TtdsKDYQcxuuOa_50TuApw",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International Inc."
+      ]
+    },
+    {
+      "id": "FilmBoxBaltics.nl",
+      "name": "FilmBox Baltics",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch64/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193705&st=MZPvPD4AwsRPTggeYFQLrA",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International Inc."
+      ]
+    },
+    {
       "id": "Filmex.mx",
       "name": "Filmex",
       "logo": null,
@@ -49427,28 +49573,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "FishingVision.jp",
-      "name": "Fishing Vision",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Aire Libre"
-      ],
-      "altNames": [
-        "釣りビジョン"
-      ],
-      "network": null,
-      "owners": [
-        "Broadmedia Corporation"
-      ]
     },
     {
       "id": "FITE247.us",
@@ -50904,28 +51028,6 @@
       "owners": []
     },
     {
-      "id": "FujiTVNEXT.jp",
-      "name": "Fuji TV NEXT",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "フジテレビNEXT"
-      ],
-      "network": null,
-      "owners": [
-        "Fuji Television Network Inc"
-      ]
-    },
-    {
       "id": "FunRadio.fr",
       "name": "Fun Radio",
       "logo": null,
@@ -51441,28 +51543,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "GAORASPORTS.jp",
-      "name": "GAORA SPORTS",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "チャンピオンシップ"
-      ],
-      "network": null,
-      "owners": [
-        "GAORA Inc."
-      ]
     },
     {
       "id": "GarabitoTV.cr",
@@ -52925,6 +53005,27 @@
       "owners": []
     },
     {
+      "id": "GlobalTelevision.bd",
+      "name": "Global Television",
+      "logo": null,
+      "url": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento",
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Globe Multimedia Limited"
+      ]
+    },
+    {
       "id": "GlobalTV.do",
       "name": "Global TV",
       "logo": null,
@@ -54169,28 +54270,6 @@
       "network": null,
       "owners": [
         "Narrative Entertainment UK Ltd"
-      ]
-    },
-    {
-      "id": "GreenChannel.jp",
-      "name": "Green Channel",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Aire Libre"
-      ],
-      "altNames": [
-        "グリーンチャンネル"
-      ],
-      "network": null,
-      "owners": [
-        "Satellite Broadcasting Foundation for Horseracing Agriculture Forestry and Fisheries"
       ]
     },
     {
@@ -56962,26 +57041,6 @@
       ]
     },
     {
-      "id": "History.jp",
-      "name": "History",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [
-        "ヒストリーチャンネル"
-      ],
-      "network": "A+E Networks Asia",
-      "owners": []
-    },
-    {
       "id": "History.si",
       "name": "History",
       "logo": null,
@@ -57162,28 +57221,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "HKIBC.hk",
-      "name": "HKIBC",
-      "logo": null,
-      "url": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
-      "country": "Hong Kong",
-      "countryCode": "HK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Negocios"
-      ],
-      "altNames": [
-        "HOY國際財經台"
-      ],
-      "network": null,
-      "owners": [
-        "i-CABLE HOY Limited"
-      ]
     },
     {
       "id": "HKTV.us",
@@ -57990,26 +58027,6 @@
       "owners": []
     },
     {
-      "id": "HomeDramaChannel.jp",
-      "name": "Home Drama Channel",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "ホームドラマチャンネル"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "HomeMadeNation.us",
       "name": "Home.Made.Nation",
       "logo": null,
@@ -58502,7 +58519,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "HOY 資訊台"
+      ],
       "network": "HOY TV",
       "owners": [
         "i-Cable Communications"
@@ -58522,11 +58541,7 @@
       "categories": [
         "General"
       ],
-      "altNames": [
-        "Hong Kong Open TV",
-        "香港开电视",
-        "Fantastic TV"
-      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "i-Cable Communications"
@@ -62954,86 +62969,6 @@
       "owners": []
     },
     {
-      "id": "JSPORTS1.jp",
-      "name": "J SPORTS 1",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "J Sports Corporation"
-      ]
-    },
-    {
-      "id": "JSPORTS2.jp",
-      "name": "J SPORTS 2",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "J Sports Corporation"
-      ]
-    },
-    {
-      "id": "JSPORTS3.jp",
-      "name": "J SPORTS 3",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "J Sports Corporation"
-      ]
-    },
-    {
-      "id": "JSPORTS4.jp",
-      "name": "J SPORTS 4",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "J Sports Corporation"
-      ]
-    },
-    {
       "id": "JacalCanal5.gt",
       "name": "Jacal Canal 5",
       "logo": null,
@@ -64042,28 +63977,6 @@
       "owners": []
     },
     {
-      "id": "JidaigekiSenmonChannel.jp",
-      "name": "Jidaigeki Senmon Channel",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "時代劇専門チャンネル"
-      ],
-      "network": null,
-      "owners": [
-        "Nihon Eiga Broadcasting Corp"
-      ]
-    },
-    {
       "id": "Jihoceskatelevize.cz",
       "name": "Jihoceska televize",
       "logo": null,
@@ -64361,50 +64274,6 @@
       "owners": []
     },
     {
-      "id": "JOABDTV.jp",
-      "name": "JOAB-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [
-        "NHK教育テレビジョン"
-      ],
-      "network": "NHK E",
-      "owners": [
-        "日本放送協会"
-      ]
-    },
-    {
-      "id": "JOAKDTV.jp",
-      "name": "JOAK-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NHK総合テレビジョン"
-      ],
-      "network": "NHK G",
-      "owners": [
-        "日本放送協会"
-      ]
-    },
-    {
       "id": "JOAXDTV.jp",
       "name": "JOAX-DTV",
       "logo": null,
@@ -64442,51 +64311,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "JOBHDTV.jp",
-      "name": "JOBH-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TV Osaka",
-        "テレビ大阪 TV"
-      ],
-      "network": "TVO",
-      "owners": [
-        "テレビ大阪株式会社"
-      ]
-    },
-    {
-      "id": "JOBKDTV.jp",
-      "name": "JOBK-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NHK総合テレビジョン"
-      ],
-      "network": "NHK G",
-      "owners": [
-        "日本放送協会"
-      ]
     },
     {
       "id": "JobplusTV.kr",
@@ -64529,30 +64353,6 @@
       ]
     },
     {
-      "id": "JODXDTV.jp",
-      "name": "JODX-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Kansai TV",
-        "関西テレビ",
-        "カンテレ"
-      ],
-      "network": "FNN/FNS",
-      "owners": [
-        "関西テレビ放送株式会社"
-      ]
-    },
-    {
       "id": "JoeFM.be",
       "name": "Joe FM",
       "logo": null,
@@ -64571,28 +64371,6 @@
       "owners": [
         "DPG Media"
       ]
-    },
-    {
-      "id": "JOEXDTV.jp",
-      "name": "JOEX-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TV Asahi",
-        "テレビ朝日",
-        "テレ朝"
-      ],
-      "network": "ANN/TV Asahi Network",
-      "owners": []
     },
     {
       "id": "JogjaIstimewaTV.id",
@@ -64649,54 +64427,6 @@
       "owners": []
     },
     {
-      "id": "JOIXDTV.jp",
-      "name": "JOIX-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Yomiuri TV",
-        "読売テレビ",
-        "読テレ",
-        "ytv"
-      ],
-      "network": "NNN/NNS",
-      "owners": [
-        "讀賣テレビ放送株式会社"
-      ]
-    },
-    {
-      "id": "JOMXDTV.jp",
-      "name": "JOMX-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Tokyo MX",
-        "東京MXテレビ"
-      ],
-      "network": null,
-      "owners": [
-        "JAITS"
-      ]
-    },
-    {
       "id": "Jonack.in",
       "name": "Jonack",
       "logo": null,
@@ -64733,29 +64463,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "JOOYDTV.jp",
-      "name": "JOOY-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "MBS TV",
-        "MBSテレビ"
-      ],
-      "network": "JNN/TBS Network",
-      "owners": [
-        "毎日放送テレビ"
-      ]
     },
     {
       "id": "JordanArchive.jo",
@@ -65005,52 +64712,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "JOTXDTV.jp",
-      "name": "JOTX-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TV Tokyo",
-        "テレビ東京"
-      ],
-      "network": "TXN Network",
-      "owners": [
-        "TV Tokyo Corporation"
-      ]
-    },
-    {
-      "id": "JOUHDTV.jp",
-      "name": "JOUH-DTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Sun TV",
-        "サンテレビ"
-      ],
-      "network": "JAITS",
-      "owners": [
-        "株式会社サンテレビジョン"
-      ]
     },
     {
       "id": "Journy.us",
@@ -67053,28 +66714,6 @@
       "owners": []
     },
     {
-      "id": "KayoPops.jp",
-      "name": "Kayo Pops",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "歌謡ポップスチャンネル"
-      ],
-      "network": null,
-      "owners": [
-        "WOWOW PLUS INC."
-      ]
-    },
-    {
       "id": "KBEV.us",
       "name": "KBEV",
       "logo": null,
@@ -68206,28 +67845,6 @@
       "network": null,
       "owners": [
         "SAMG Entertainment Co Ltd"
-      ]
-    },
-    {
-      "id": "KidsStation.jp",
-      "name": "Kids Station",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "キッズステーション"
-      ],
-      "network": null,
-      "owners": [
-        "Kids Station Inc"
       ]
     },
     {
@@ -76503,6 +76120,28 @@
       "owners": []
     },
     {
+      "id": "MaasrangaTV.bd",
+      "name": "Maasranga TV",
+      "logo": null,
+      "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "মাছরাঙা টেলিভিশন"
+      ],
+      "network": null,
+      "owners": [
+        "Square Group"
+      ]
+    },
+    {
       "id": "MadDogandMerrill.us",
       "name": "Mad Dog and Merrill",
       "logo": null,
@@ -79221,7 +78860,7 @@
       ],
       "network": null,
       "owners": [
-        "MBC Group"
+        "Munhwa Broadcasting Corporation"
       ]
     },
     {
@@ -79286,7 +78925,8 @@
       ],
       "network": "MBC",
       "owners": [
-        "MBC Gyeongnam Corporation"
+        "Munhwa Broadcasting Corporation",
+        "MBC Gyeongnam Broadcasting Corporation"
       ]
     },
     {
@@ -79412,8 +79052,10 @@
         "Música"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
+      "network": "Shahid;MBC Mood",
+      "owners": [
+        "MBC Group"
+      ]
     },
     {
       "id": "MBCNet.kr",
@@ -79432,7 +79074,7 @@
       "altNames": [],
       "network": null,
       "owners": [
-        "MBC Group"
+        "Munhwa Broadcasting Corporation"
       ]
     },
     {
@@ -79594,6 +79236,28 @@
       "altNames": [],
       "network": "Pluto TV",
       "owners": []
+    },
+    {
+      "id": "MCMTop.ru",
+      "name": "MCM Top",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch137/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783194291&st=-kALbkeUiNVyIGhNiqT7QA",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "MCM Top"
+      ],
+      "network": null,
+      "owners": [
+        "Groupe M6"
+      ]
     },
     {
       "id": "MCN6ArtsChannel.us",
@@ -84388,26 +84052,6 @@
       ]
     },
     {
-      "id": "MTV.jp",
-      "name": "MTV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Paramount Networks Japan K.K."
-      ]
-    },
-    {
       "id": "MTVAva.fi",
       "name": "MTV Ava",
       "logo": null,
@@ -85156,28 +84800,6 @@
       "owners": []
     },
     {
-      "id": "MusicJapanTV.jp",
-      "name": "Music Japan TV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "ミュージック・ジャパンＴＶ"
-      ],
-      "network": null,
-      "owners": [
-        "Atoss International Ltd."
-      ]
-    },
-    {
       "id": "MusicTVGranada.es",
       "name": "Music TV Granada",
       "logo": null,
@@ -85620,6 +85242,26 @@
       "network": null,
       "owners": [
         "Living God Ministries International"
+      ]
+    },
+    {
+      "id": "MyTV.bd",
+      "name": "My TV",
+      "logo": null,
+      "url": "https://tvsen6.aynaott.com/mytv/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "VM International Limited"
       ]
     },
     {
@@ -86543,28 +86185,6 @@
         "JioStar India Pvt. Ltd.",
         "Reliance Industries(RIL)",
         "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "NationalGeographic.jp",
-      "name": "National Geographic",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [
-        "ナショナル ジオグラフィック チャンネル"
-      ],
-      "network": null,
-      "owners": [
-        "NGC Network Asia LLC"
       ]
     },
     {
@@ -89379,46 +88999,6 @@
       "owners": []
     },
     {
-      "id": "NHKBS.jp",
-      "name": "NHK BS",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Citizens of Japan"
-      ]
-    },
-    {
-      "id": "NHKBSP4K.jp",
-      "name": "NHK BSP4K",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Citizens of Japan"
-      ]
-    },
-    {
       "id": "NHKKishouSaigai.jp",
       "name": "NHK Kishou-Saigai",
       "logo": null,
@@ -90049,28 +89629,6 @@
       "owners": []
     },
     {
-      "id": "NihonEigaSenmonChannel.jp",
-      "name": "Nihon Eiga Senmon Channel",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "日本映画専門チャンネル"
-      ],
-      "network": null,
-      "owners": [
-        "Nihon Eiga Broadcasting Corp"
-      ]
-    },
-    {
       "id": "NikaTV.ru",
       "name": "Nika TV",
       "logo": null,
@@ -90245,28 +89803,6 @@
       "network": null,
       "owners": [
         "RTL Group"
-      ]
-    },
-    {
-      "id": "NitteleGPlus.jp",
-      "name": "Nittele G+",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "日テレジータス"
-      ],
-      "network": null,
-      "owners": [
-        "Nippon Television Network Corporation"
       ]
     },
     {
@@ -92040,6 +91576,28 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "NTV.bd",
+      "name": "NTV",
+      "logo": null,
+      "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "এনটিভি"
+      ],
+      "network": null,
+      "owners": [
+        "International Television Channel Ltd"
+      ]
     },
     {
       "id": "NTV.ci",
@@ -114402,6 +113960,29 @@
       "owners": []
     },
     {
+      "id": "Rybalka.ua",
+      "name": "Rybalka",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch88/tracks-v1a1/0.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=022341aa72e7f9f5&uid=9szoe89y&cs_track=false&e=1783162403&st=BO0a5dZP4ZX9tKTz6QEbOw",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Aire Libre"
+      ],
+      "altNames": [
+        "Рибалка",
+        "Fishing"
+      ],
+      "network": null,
+      "owners": [
+        "National Television Council"
+      ]
+    },
+    {
       "id": "Ryzhiy.ru",
       "name": "Ryzhiy",
       "logo": null,
@@ -114515,6 +114096,26 @@
       "network": null,
       "owners": [
         "S4C Authority"
+      ]
+    },
+    {
+      "id": "SATV.bd",
+      "name": "SA TV",
+      "logo": null,
+      "url": "https://tvsen6.aynaott.com/satv/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SA Group"
       ]
     },
     {
@@ -115896,7 +115497,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Mrs. Sherry Singh"
+      ]
     },
     {
       "id": "SanktPeterburg.ru",
@@ -119861,28 +119464,6 @@
       "owners": []
     },
     {
-      "id": "SkyA.jp",
-      "name": "Sky A",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "スカイＡ"
-      ],
-      "network": null,
-      "owners": [
-        "skyA Inc"
-      ]
-    },
-    {
       "id": "SkyFolkTV.mk",
       "name": "Sky Folk TV",
       "logo": null,
@@ -121845,28 +121426,6 @@
       ]
     },
     {
-      "id": "SpaceShowerTV.jp",
-      "name": "Space Shower TV",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "スペースシャワーＴＶ"
-      ],
-      "network": null,
-      "owners": [
-        "Space Shower Networks Inc."
-      ]
-    },
-    {
       "id": "SpaceTV.az",
       "name": "Space TV",
       "logo": null,
@@ -122816,52 +122375,6 @@
       "network": null,
       "owners": [
         "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "StarChannel2.jp",
-      "name": "Star Channel 2",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "スターチャンネル2",
-        "Star Channel Plus"
-      ],
-      "network": null,
-      "owners": [
-        "Tohokushinsha Film Itochu"
-      ]
-    },
-    {
-      "id": "StarChannel3.jp",
-      "name": "Star Channel 3",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "スターチャンネル3",
-        "Star Channel Classic"
-      ],
-      "network": null,
-      "owners": [
-        "Tohokushinsha Film Itochu"
       ]
     },
     {
@@ -125176,28 +124689,6 @@
       "owners": []
     },
     {
-      "id": "SuperExpressTV.pl",
-      "name": "Super Express TV",
-      "logo": null,
-      "url": "https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "SE TV"
-      ],
-      "network": "mediateka",
-      "owners": [
-        "ZPR Media"
-      ]
-    },
-    {
       "id": "SuperJTVTeramo.it",
       "name": "Super J TV Teramo",
       "logo": null,
@@ -125380,6 +124871,27 @@
       "network": null,
       "owners": [
         "Paramount Global"
+      ]
+    },
+    {
+      "id": "SuperPlus.ua",
+      "name": "Super+",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch382/tracks-v1a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=365ec247746bd22d&uid=9szoe89y&cs_track=false&e=1783162263&st=9GLxg7DNUXR_MCB9X30Qew",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General",
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Starlight Media Group"
       ]
     },
     {
@@ -125878,6 +125390,104 @@
         "12 канал",
         "Львов",
         "UΛ: Львов"
+      ],
+      "network": null,
+      "owners": [
+        "National Public Television and Radio Company of Ukraine"
+      ]
+    },
+    {
+      "id": "SuspilneMykolaiv.ua",
+      "name": "Suspilne. Mykolaiv",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch211/tracks-v1a1/mono.m3u8?live=1&ip=5.63.189.224&id=921239&secret=f8z1l7gk&21yo=0&e=1783194414&st=Lz1QtjfblUmkawUbk1Mx6w",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Суспільне. Миколаїв",
+        "7 канал",
+        "Николаев"
+      ],
+      "network": null,
+      "owners": [
+        "National Public Television and Radio Company of Ukraine"
+      ]
+    },
+    {
+      "id": "SuspilneRivne.ua",
+      "name": "Suspilne. Rivne",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch229/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=f8z1l7gk&e=1783195240&st=4RqJ6hzZ9REJQe0f8U3fTw",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Суспільне. Рівне",
+        "РДТ",
+        "РТБ",
+        "UΛ: Ровно"
+      ],
+      "network": null,
+      "owners": [
+        "National Public Television and Radio Company of Ukraine"
+      ]
+    },
+    {
+      "id": "SuspilneSport.ua",
+      "name": "Suspilne. Sport",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch112/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247457&st=jPS6nYqNZLDECF8uSDa74g",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Суспільне. Спорт",
+        "Social. Sport",
+        "UΛ: Спорт"
+      ],
+      "network": null,
+      "owners": [
+        "National Public Television and Radio Company of Ukraine"
+      ]
+    },
+    {
+      "id": "SuspilneVinnytsia.ua",
+      "name": "Suspilne. Vinnytsia",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch188/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247585&st=u4uN-dkUOQb4cDe7lNCaeg",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Суспільне. Вінниця",
+        "ВДТ-6",
+        "Винтера",
+        "UΛ: Винница"
       ],
       "network": null,
       "owners": [
@@ -127002,7 +126612,7 @@
       "id": "TSports.bd",
       "name": "T Sports",
       "logo": null,
-      "url": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8",
+      "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8",
       "country": "Bangladesh",
       "countryCode": "BD",
       "language_primary": null,
@@ -127376,24 +126986,6 @@
       "owners": [
         "Ministry of Culture of Taiwan"
       ]
-    },
-    {
-      "id": "TAKARAZUKASKYSTAGE.jp",
-      "name": "TAKARAZUKA SKY STAGE",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "TalTV.ne",
@@ -128361,27 +127953,6 @@
         "General"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TBSNewsCS.jp",
-      "name": "TBS News CS",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "ティービーエス ニュース",
-        "TBS NEWS (CS放送)"
-      ],
       "network": null,
       "owners": []
     },
@@ -135993,28 +135564,6 @@
       "network": null,
       "owners": [
         "Zylo"
-      ]
-    },
-    {
-      "id": "ToeiChannel.jp",
-      "name": "Toei Channel",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "東映チャンネル"
-      ],
-      "network": null,
-      "owners": [
-        "Toei Satellite TV Company Ltd"
       ]
     },
     {
@@ -145113,6 +144662,27 @@
       "owners": []
     },
     {
+      "id": "TV8.md",
+      "name": "TV8",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8",
+      "country": "Moldova",
+      "countryCode": "MD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias",
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Asociaţia Obştească"
+      ]
+    },
+    {
       "id": "TV8.mn",
       "name": "TV8",
       "logo": null,
@@ -149110,6 +148680,26 @@
       ]
     },
     {
+      "id": "UAMusic.ua",
+      "name": "UA Music",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch133/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=222194235acf2898&uid=9szoe89y&cs_track=false&e=1783247230&st=uVQZwetlK44ZjJhTBpFGiQ",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Rudolf Kirnos"
+      ]
+    },
+    {
       "id": "UACJTV.mx",
       "name": "UACJ-TV",
       "logo": null,
@@ -149683,6 +149273,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "UNIANTV.ua",
+      "name": "UNIAN TV",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/id22/index.m3u8?secret=f8z1l7gk&21yo=",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "УНІАН ТБ"
+      ],
+      "network": null,
+      "owners": [
+        "1+1 Media Group"
+      ]
     },
     {
       "id": "UNIANDESTV.ec",
@@ -156533,7 +156145,7 @@
       "id": "WillowSports.us",
       "name": "Willow Sports",
       "logo": null,
-      "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+      "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -157871,72 +157483,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "WOWOWCinema.jp",
-      "name": "WOWOW Cinema",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "WOWOWシネマ"
-      ],
-      "network": null,
-      "owners": [
-        "WOWOW INC"
-      ]
-    },
-    {
-      "id": "WOWOWLive.jp",
-      "name": "WOWOW Live",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WOWOWライブ"
-      ],
-      "network": null,
-      "owners": [
-        "WOWOW INC"
-      ]
-    },
-    {
-      "id": "WOWOWPrime.jp",
-      "name": "WOWOW Prime",
-      "logo": null,
-      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WOWOWプライム"
-      ],
-      "network": null,
-      "owners": [
-        "WOWOW INC"
-      ]
     },
     {
       "id": "WPDETV151.us",
@@ -159360,28 +158906,10 @@
       "owners": []
     },
     {
-      "id": "XinjiangTV12.cn",
-      "name": "Xinjiang TV 12",
-      "logo": null,
-      "url": "http://49.113.179.174:4022/udp/238.125.3.185:5140",
-      "country": "China",
-      "countryCode": "CN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "XinjiangTV2.cn",
       "name": "Xinjiang TV 2",
       "logo": null,
-      "url": "http://49.113.179.174:4022/udp/238.125.3.175:5140",
+      "url": "http://110.153.180.106:55555/out_3/index.m3u8",
       "country": "China",
       "countryCode": "CN",
       "language_primary": null,
@@ -159399,7 +158927,7 @@
       "id": "XinjiangTV3.cn",
       "name": "Xinjiang TV 3",
       "logo": null,
-      "url": "http://49.113.179.174:4022/udp/238.125.7.147:5140",
+      "url": "http://110.153.180.106:55555/out_2/index.m3u8",
       "country": "China",
       "countryCode": "CN",
       "language_primary": null,
@@ -159417,7 +158945,7 @@
       "id": "XinjiangTV5.cn",
       "name": "Xinjiang TV 5",
       "logo": null,
-      "url": "http://49.113.179.174:4022/udp/238.125.7.149:5140",
+      "url": "http://106.124.91.222:9901/tsfile/live/21216_1.m3u8?authid=0&key=txiptv&playlive=0",
       "country": "China",
       "countryCode": "CN",
       "language_primary": null,
@@ -159435,25 +158963,7 @@
       "id": "XinjiangTV8.cn",
       "name": "Xinjiang TV 8",
       "logo": null,
-      "url": "http://49.113.179.174:4022/udp/238.125.3.181:5140",
-      "country": "China",
-      "countryCode": "CN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "XinjiangTV9.cn",
-      "name": "Xinjiang TV 9",
-      "logo": null,
-      "url": "http://49.113.179.174:4022/udp/238.125.7.153:5140",
+      "url": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1",
       "country": "China",
       "countryCode": "CN",
       "language_primary": null,
@@ -160188,24 +159698,6 @@
       "owners": [
         "Public Service Media"
       ]
-    },
-    {
-      "id": "YicaiTV.cn",
-      "name": "Yicai TV",
-      "logo": null,
-      "url": "http://49.113.179.174:4022/udp/238.125.0.165:5140",
-      "country": "China",
-      "countryCode": "CN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "YleTeemaFem.fi",
@@ -164059,7 +163551,7 @@
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 312
+      "count": 309
     },
     {
       "id": "series",
@@ -164069,30 +163561,30 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 222
+      "count": 221
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1449
+      "count": 1450
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5884
+      "count": 5862
     }
   ],
   "stats": {
-    "total": 39706,
-    "withStreams": 8357,
-    "spanish": 1549,
+    "total": 39714,
+    "withStreams": 8332,
+    "spanish": 1550,
     "adult": 78,
     "bySection": {
-      "general": 5884,
-      "español": 1449,
-      "infantil": 222,
+      "general": 5862,
+      "español": 1450,
+      "infantil": 221,
       "series": 115,
-      "peliculas": 312,
+      "peliculas": 309,
       "deportes": 297
     },
     "topCountries": [
@@ -164108,12 +163600,12 @@
       },
       {
         "code": "RU",
-        "count": 321,
+        "count": 323,
         "name": "Russia"
       },
       {
         "code": "ES",
-        "count": 267,
+        "count": 268,
         "name": "Spain"
       },
       {
@@ -164137,17 +163629,17 @@
         "name": "Brazil"
       },
       {
-        "code": "UK",
-        "count": 186,
-        "name": "United Kingdom"
-      },
-      {
         "code": "DE",
         "count": 185,
         "name": "Germany"
+      },
+      {
+        "code": "UK",
+        "count": 181,
+        "name": "United Kingdom"
       }
     ]
   },
-  "lastUpdated": "2026-06-05T01:56:53.138Z",
+  "lastUpdated": "2026-06-06T01:48:45.082Z",
   "source": "orion-stream"
 }
