@@ -177,6 +177,28 @@
       "owners": []
     },
     {
+      "id": "1Plus1International.ua",
+      "name": "1+1 International",
+      "logo": null,
+      "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "1+1 Інтернешнл"
+      ],
+      "network": null,
+      "owners": [
+        "1+1 Media Group"
+      ]
+    },
+    {
       "id": "10Bold.au",
       "name": "10 Bold",
       "logo": null,
@@ -760,6 +782,28 @@
       ]
     },
     {
+      "id": "2Plus2.ua",
+      "name": "2+2",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "два плюс два"
+      ],
+      "network": null,
+      "owners": [
+        "1+1 Media Group"
+      ]
+    },
+    {
       "id": "20.it",
       "name": "20",
       "logo": null,
@@ -823,7 +867,7 @@
       "id": "24Horas.es",
       "name": "24 Horas",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8",
+      "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
       "country": "Spain",
       "countryCode": "ES",
       "language_primary": "Español",
@@ -1972,7 +2016,7 @@
       "id": "3sat.de",
       "name": "3sat",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8",
+      "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -2125,6 +2169,26 @@
       "network": null,
       "owners": [
         "RADIO TV STATION GREEK ORTHODOX ECCLESIASTICAL INFORMATIVE BROADCAST S.A."
+      ]
+    },
+    {
+      "id": "4everCinema.ua",
+      "name": "4ever Cinema",
+      "logo": null,
+      "url": "https://iptv.prosto.tv/ch42/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783523108&st=Asr1KmKTqcqldcTO-GvddA",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Music Television of Ukraine"
       ]
     },
     {
@@ -2339,26 +2403,6 @@
       "network": null,
       "owners": [
         "Nine Entertainment"
-      ]
-    },
-    {
-      "id": "6ter.fr",
-      "name": "6ter",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Groupe M6"
       ]
     },
     {
@@ -3441,46 +3485,6 @@
       "network": null,
       "owners": [
         "Lyca Media"
-      ]
-    },
-    {
-      "id": "AB1.fr",
-      "name": "AB1",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Mediawan Thematics"
-      ]
-    },
-    {
-      "id": "AB3.be",
-      "name": "AB3",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8",
-      "country": "Belgium",
-      "countryCode": "BE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Mediawan Thematics"
       ]
     },
     {
@@ -6809,28 +6813,6 @@
       "owners": []
     },
     {
-      "id": "AlMaghribia.ma",
-      "name": "Al Maghribia",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-dash/almaghribia.mpd",
-      "country": "Morocco",
-      "countryCode": "MA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "المغربية"
-      ],
-      "network": null,
-      "owners": [
-        "SNRT"
-      ]
-    },
-    {
       "id": "AlMasarTV.ly",
       "name": "Al Masar TV",
       "logo": null,
@@ -6891,27 +6873,6 @@
       "owners": [
         "Ansarullah Movement"
       ]
-    },
-    {
-      "id": "AlMasriyah.eg",
-      "name": "Al Masriyah",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8",
-      "country": "Egypt",
-      "countryCode": "EG",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Masriya",
-        "المصرية"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "AlMayadeenTV.lb",
@@ -9384,6 +9345,26 @@
       ]
     },
     {
+      "id": "AMCEurope.uk",
+      "name": "AMC Europe",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6949/index.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "AMC Networks International UK",
+      "owners": [
+        "AMC Networks Inc."
+      ]
+    },
+    {
       "id": "Ame47.do",
       "name": "Ame 47",
       "logo": null,
@@ -10393,26 +10374,6 @@
       "network": null,
       "owners": [
         "Streaming Ink Media"
-      ]
-    },
-    {
-      "id": "Animaux.fr",
-      "name": "Animaux",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "AB Sat"
       ]
     },
     {
@@ -11657,29 +11618,6 @@
       ]
     },
     {
-      "id": "AragonTV.es",
-      "name": "Aragon TV",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General",
-        "Public"
-      ],
-      "altNames": [
-        "Aragón TV"
-      ],
-      "network": null,
-      "owners": [
-        "CARTV−Televisión Autonómica de Aragón S.A."
-      ]
-    },
-    {
       "id": "AragonTVInternacional.es",
       "name": "Aragon TV Internacional",
       "logo": null,
@@ -11826,7 +11764,7 @@
       "id": "ARDalpha.de",
       "name": "ARD-alpha",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8",
+      "url": "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -12458,7 +12396,7 @@
       "id": "arte.fr",
       "name": "arte",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8",
+      "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -14034,28 +13972,6 @@
       ]
     },
     {
-      "id": "ATV2.at",
-      "name": "ATV2",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd",
-      "country": "Austria",
-      "countryCode": "AT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ATV II"
-      ],
-      "network": null,
-      "owners": [
-        "ProSiebenSat.1 PULS 4"
-      ]
-    },
-    {
       "id": "ATVSat.us",
       "name": "ATVSat",
       "logo": null,
@@ -14363,7 +14279,7 @@
       "id": "AutoPlus.ru",
       "name": "Auto Plus",
       "logo": null,
-      "url": "http://31.148.48.15/Avto_Plus/index.m3u8",
+      "url": "https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -14755,6 +14671,66 @@
       "owners": [
         "KC Global Media Singapore Pte. Ltd.",
         "KC Global Media Entertainment LLC"
+      ]
+    },
+    {
+      "id": "AXNBlack.us",
+      "name": "AXN Black",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Sony Pictures Television"
+      ]
+    },
+    {
+      "id": "AXNCEE.es",
+      "name": "AXN CEE",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Sony Pictures Television"
+      ]
+    },
+    {
+      "id": "AXNWhite.us",
+      "name": "AXN White",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Sony Pictures Television"
       ]
     },
     {
@@ -16389,28 +16365,6 @@
       ]
     },
     {
-      "id": "BBCFourCBeebies.uk",
-      "name": "BBC Four/CBeebies",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil",
-        "General",
-        "Animación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "BBC"
-      ]
-    },
-    {
       "id": "BBCHomeGarden.us",
       "name": "BBC Home & Garden",
       "logo": null,
@@ -17089,28 +17043,6 @@
       "section": "general",
       "categories": [
         "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "BBC"
-      ]
-    },
-    {
-      "id": "BBCThreeCBBC.uk",
-      "name": "BBC Three/CBBC",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Familia",
-        "Infantil",
-        "Animación"
       ],
       "altNames": [],
       "network": null,
@@ -18246,7 +18178,7 @@
       "id": "BFMBusiness.fr",
       "name": "BFM Business",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8",
+      "url": "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -18451,7 +18383,7 @@
       "id": "BFMTV.fr",
       "name": "BFM TV",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8",
+      "url": "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -19485,24 +19417,6 @@
       ]
     },
     {
-      "id": "BlueZoomF.ch",
-      "name": "Blue Zoom F",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "BMCHDTV.us",
       "name": "BMC-HD TV",
       "logo": null,
@@ -19596,26 +19510,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "BNT4.bg",
-      "name": "BNT 4",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8",
-      "country": "Bulgaria",
-      "countryCode": "BG",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "BNT"
-      ]
     },
     {
       "id": "BoasNovas.br",
@@ -21486,26 +21380,6 @@
       "owners": []
     },
     {
-      "id": "BVN.nl",
-      "name": "BVN",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "NPO"
-      ]
-    },
-    {
       "id": "BXArts.us",
       "name": "BX Arts",
       "logo": null,
@@ -21652,26 +21526,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "CStar.fr",
-      "name": "C Star",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Groupe Canal Plus"
-      ]
     },
     {
       "id": "C1.mn",
@@ -22977,7 +22831,7 @@
       "altNames": [],
       "network": null,
       "owners": [
-        "Albavisión M��xico"
+        "Albavisión México"
       ]
     },
     {
@@ -23035,28 +22889,6 @@
         "General"
       ],
       "altNames": [],
-      "network": null,
-      "owners": [
-        "Albavisión México"
-      ]
-    },
-    {
-      "id": "Canal13Yucatan.mx",
-      "name": "Canal 13 Yucatan",
-      "logo": null,
-      "url": "https://stream-207963.castr.net/65313d270e749722b6474684/live_4d3635d0dfbf11eeaae187cc1ffaf09b/index.fmp4.m3u8",
-      "country": "Mexico",
-      "countryCode": "MX",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Canal 13 Yucatán"
-      ],
       "network": null,
       "owners": [
         "Albavisión México"
@@ -24003,6 +23835,24 @@
       ],
       "altNames": [],
       "network": null,
+      "owners": []
+    },
+    {
+      "id": "Canal5.mx",
+      "name": "Canal 5",
+      "logo": null,
+      "url": "http://45.5.119.43:4000/play/a05o/index.m3u8",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Televisa",
       "owners": []
     },
     {
@@ -25267,26 +25117,6 @@
       ]
     },
     {
-      "id": "CanalJ.fr",
-      "name": "Canal J",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Groupe M6"
-      ]
-    },
-    {
       "id": "CanalLibras.br",
       "name": "Canal Libras",
       "logo": null,
@@ -26132,26 +25962,6 @@
       "owners": []
     },
     {
-      "id": "CanalPlus.fr",
-      "name": "Canal+",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Vivendi"
-      ]
-    },
-    {
       "id": "CanalPlusFoot.fr",
       "name": "Canal+ Foot",
       "logo": null,
@@ -26269,7 +26079,7 @@
       "id": "Canale5.it",
       "name": "Canale 5",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd",
+      "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -26710,26 +26520,6 @@
       "name": "Carac 4",
       "logo": null,
       "url": "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Media One Group"
-      ]
-    },
-    {
-      "id": "Carac5.ch",
-      "name": "Carac 5",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8",
       "country": "Switzerland",
       "countryCode": "CH",
       "language_primary": null,
@@ -30391,7 +30181,7 @@
       "id": "Channel5.uk",
       "name": "Channel 5",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8",
+      "url": "https://x.canlitvapp.com/u-channel-5/index.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -31279,24 +31069,6 @@
       "section": "general",
       "categories": [
         "Cocina"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "ChekadTV.af",
-      "name": "Chekad TV",
-      "logo": null,
-      "url": "https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8",
-      "country": "Afghanistan",
-      "countryCode": "AF",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -33172,7 +32944,7 @@
         "Compras"
       ],
       "altNames": [
-        "CJ온스타일+"
+        "CJ온���타일+"
       ],
       "network": null,
       "owners": [
@@ -34058,26 +33830,6 @@
       ]
     },
     {
-      "id": "CNBCEurope.uk",
-      "name": "CNBC Europe",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Negocios"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Comcast"
-      ]
-    },
-    {
       "id": "CNBCIndonesia.id",
       "name": "CNBC Indonesia",
       "logo": null,
@@ -34364,7 +34116,7 @@
       "id": "CNews.fr",
       "name": "CNews",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8",
+      "url": "https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -35001,7 +34753,7 @@
       "id": "ComedyCentral.de",
       "name": "Comedy Central",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8",
+      "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31302/index.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -35017,6 +34769,26 @@
       "network": null,
       "owners": [
         "Paramount Networks EMEAA"
+      ]
+    },
+    {
+      "id": "ComedyCentral.ro",
+      "name": "Comedy Central",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7025/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Comedia"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Paramount Networks UK & Australia"
       ]
     },
     {
@@ -39360,7 +39132,7 @@
       "id": "DeluxeMusic.de",
       "name": "Deluxe Music",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8",
+      "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -40539,26 +40311,6 @@
       ]
     },
     {
-      "id": "DisneyChannel.de",
-      "name": "Disney Channel",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Disney Entertainment"
-      ]
-    },
-    {
       "id": "DisneyChannel.pt",
       "name": "Disney Channel",
       "logo": null,
@@ -41307,24 +41059,6 @@
       ]
     },
     {
-      "id": "DMSat.rs",
-      "name": "DM Sat",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "DMTVMalang.id",
       "name": "DM TV Malang",
       "logo": null,
@@ -41503,6 +41237,26 @@
       "owners": []
     },
     {
+      "id": "DocuBox.nl",
+      "name": "DocuBox",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International"
+      ]
+    },
+    {
       "id": "DocumentaryHumanitiesChannel.cn",
       "name": "Documentary Humanities Channel",
       "logo": null,
@@ -41642,7 +41396,7 @@
       "id": "Domkino.ru",
       "name": "Dom kino",
       "logo": null,
-      "url": "https://streaming.thestream.cyou/live/44.m3u8",
+      "url": "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -42704,7 +42458,7 @@
       "id": "Duna.hu",
       "name": "Duna",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd",
+      "url": "http://146.59.85.40:89/dunahd/index.m3u8",
       "country": "Hungary",
       "countryCode": "HU",
       "language_primary": null,
@@ -42902,6 +42656,24 @@
       "url": "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8",
       "country": "Uzbekistan",
       "countryCode": "UZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Duo6.lv",
+      "name": "Duo 6",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/18018/index.m3u8",
+      "country": "Latvia",
+      "countryCode": "LV",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -45815,6 +45587,26 @@
       ]
     },
     {
+      "id": "EpicDrama.uk",
+      "name": "Epic Drama",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/1048/index.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "ViaSat"
+      ]
+    },
+    {
       "id": "EpicMusic.in",
       "name": "Epic Music",
       "logo": null,
@@ -46300,6 +46092,69 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "EskaRockTV.pl",
+      "name": "Eska Rock TV",
+      "logo": null,
+      "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19172/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": "Cyfrowy Polsat",
+      "owners": [
+        "Telewizja Polsat",
+        "Cyfrowy Polsat"
+      ]
+    },
+    {
+      "id": "EskaTV.pl",
+      "name": "Eska TV",
+      "logo": null,
+      "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19174/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": "Cyfrowy Polsat",
+      "owners": [
+        "Telewizja Polsat",
+        "Cyfrowy Polsat"
+      ]
+    },
+    {
+      "id": "EskaTVExtra.pl",
+      "name": "Eska TV Extra",
+      "logo": null,
+      "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19173/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": "Cyfrowy Polsat",
+      "owners": [
+        "Telewizja Polsat",
+        "Cyfrowy Polsat"
+      ]
     },
     {
       "id": "EslahTV.af",
@@ -47257,7 +47112,7 @@
       "id": "EuroD.tr",
       "name": "Euro D",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd",
+      "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -47411,7 +47266,7 @@
       "id": "EuronewsFrench.fr",
       "name": "Euronews French",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8",
+      "url": "https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -49272,7 +49127,7 @@
       "id": "Film4.uk",
       "name": "Film4",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8",
+      "url": "http://80.194.62.172:50002/stream/channelid/1764271106",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -49349,6 +49204,86 @@
       "name": "FilmBox Baltics",
       "logo": null,
       "url": "https://iptv.prosto.tv/ch64/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783193705&st=MZPvPD4AwsRPTggeYFQLrA",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International Inc."
+      ]
+    },
+    {
+      "id": "FilmBoxExtra.nl",
+      "name": "FilmBox Extra",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6996/index.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International Inc."
+      ]
+    },
+    {
+      "id": "FilmBoxFamily.nl",
+      "name": "FilmBox Family",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7044/index.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International Inc."
+      ]
+    },
+    {
+      "id": "FilmBoxPremium.nl",
+      "name": "FilmBox Premium",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7043/index.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International Inc."
+      ]
+    },
+    {
+      "id": "FilmBoxStars.nl",
+      "name": "FilmBox Stars",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/7045/index.m3u8",
       "country": "Netherlands",
       "countryCode": "NL",
       "language_primary": null,
@@ -50197,24 +50132,6 @@
       "owners": []
     },
     {
-      "id": "Foro.mx",
-      "name": "Foro",
-      "logo": null,
-      "url": "https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8",
-      "country": "Mexico",
-      "countryCode": "MX",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": "Televisa",
-      "owners": []
-    },
-    {
       "id": "FORTTV.ug",
       "name": "FORT TV",
       "logo": null,
@@ -50307,6 +50224,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Fox.pl",
+      "name": "Fox",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6108/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Fox Networks Group Polska Sp.  zo.o"
+      ]
     },
     {
       "id": "FoxDeportes.us",
@@ -50434,7 +50371,7 @@
       "id": "France2.fr",
       "name": "France 2",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd",
+      "url": "http://69.64.57.208/france2/mono.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -50471,50 +50408,10 @@
       ]
     },
     {
-      "id": "France3.fr",
-      "name": "France 3",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "France Télévisions"
-      ]
-    },
-    {
-      "id": "France4.fr",
-      "name": "France 4",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "France Télévisions"
-      ]
-    },
-    {
       "id": "France5.fr",
       "name": "France 5",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd",
+      "url": "http://69.64.57.208/france5/mono.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -50554,7 +50451,7 @@
       "id": "Franceinfo.fr",
       "name": "Franceinfo",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8",
+      "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -51162,6 +51059,26 @@
       ]
     },
     {
+      "id": "FX.ee",
+      "name": "FX",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19216/index.m3u8",
+      "country": "Estonia",
+      "countryCode": "EE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "The Walt Disney Corporation"
+      ]
+    },
+    {
       "id": "FX.tr",
       "name": "FX",
       "logo": null,
@@ -51219,6 +51136,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "FXLife.ee",
+      "name": "FX Life",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/9232/index.m3u8",
+      "country": "Estonia",
+      "countryCode": "EE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Disney International Operations"
+      ]
     },
     {
       "id": "G10TV.us",
@@ -54097,7 +54034,7 @@
         "General"
       ],
       "altNames": [
-        "Grande Televisión",
+        "Grande Televisi��n",
         "GRANDEFMTV"
       ],
       "network": null,
@@ -54982,7 +54919,7 @@
       "id": "Gulli.fr",
       "name": "Gulli",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd",
+      "url": "https://test.946985.filegear-sg.me/proxy/7e0a9ae6a27eee96",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -59810,6 +59747,26 @@
       ]
     },
     {
+      "id": "ICTV2.ua",
+      "name": "ICTV2",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/15235/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Starlight Media Group"
+      ]
+    },
+    {
       "id": "IdeaalTV.nl",
       "name": "Ideaal TV",
       "logo": null,
@@ -60789,6 +60746,29 @@
       "owners": []
     },
     {
+      "id": "IndiyskoyeKino.ru",
+      "name": "Indiyskoye Kino",
+      "logo": null,
+      "url": "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Индийское кино",
+        "Indijskoe Kino"
+      ],
+      "network": null,
+      "owners": [
+        "Gazprom Media"
+      ]
+    },
+    {
       "id": "IndonesianaTV.id",
       "name": "Indonesiana.TV",
       "logo": null,
@@ -61071,6 +61051,26 @@
       "network": null,
       "owners": [
         "Diócesis de Choluteca"
+      ]
+    },
+    {
+      "id": "InRatingTV.ua",
+      "name": "InRating TV",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/16020/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Andrey Chebanov"
       ]
     },
     {
@@ -62286,7 +62286,7 @@
       "id": "Italia1.it",
       "name": "Italia 1",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd",
+      "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -62645,47 +62645,7 @@
       "id": "ITV2.uk",
       "name": "ITV2",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ITV",
-      "owners": [
-        "ITV plc"
-      ]
-    },
-    {
-      "id": "ITV3.uk",
-      "name": "ITV3",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "ITV",
-      "owners": [
-        "ITV plc"
-      ]
-    },
-    {
-      "id": "ITV4.uk",
-      "name": "ITV4",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8",
+      "url": "http://80.194.62.172:50002/stream/channelid/404728797",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -65807,6 +65767,29 @@
       "owners": []
     },
     {
+      "id": "Kanal7.ee",
+      "name": "Kanal 7",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/20079/index.m3u8",
+      "country": "Estonia",
+      "countryCode": "EE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Канал 7",
+        "Duo 7"
+      ],
+      "network": null,
+      "owners": [
+        "Duo Media Networks"
+      ]
+    },
+    {
       "id": "Kanal7.tr",
       "name": "Kanal 7",
       "logo": null,
@@ -67801,7 +67784,7 @@
       "id": "KiKA.de",
       "name": "KiKA",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8",
+      "url": "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -68006,10 +67989,32 @@
       ]
     },
     {
+      "id": "KinoHit.ru",
+      "name": "KinoHit",
+      "logo": null,
+      "url": "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Кинохит"
+      ],
+      "network": null,
+      "owners": [
+        "Gazprom Media"
+      ]
+    },
+    {
       "id": "Kinopokaz.ru",
       "name": "Kinopokaz",
       "logo": null,
-      "url": "http://31.148.48.15/Kinopokaz/index.m3u8",
+      "url": "https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -68044,6 +68049,28 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Kinosvidanie.ru",
+      "name": "Kinosvidanie",
+      "logo": null,
+      "url": "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Киносвидание"
+      ],
+      "network": null,
+      "owners": [
+        "Gazprom Media"
+      ]
     },
     {
       "id": "Kinoteatr.uz",
@@ -69976,7 +70003,7 @@
       "id": "KTO.fr",
       "name": "KTO",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/kto/browser-dash/kto.mpd",
+      "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -71079,7 +71106,7 @@
       "id": "LEquipe.fr",
       "name": "L'Equipe",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8",
+      "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -71980,46 +72007,6 @@
       "owners": [
         "MFE - MediaForEurope"
       ]
-    },
-    {
-      "id": "LA7.it",
-      "name": "LA7",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd",
-      "country": "Italy",
-      "countryCode": "IT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Telemontecarlo"
-      ],
-      "network": null,
-      "owners": [
-        "Cairo Communication"
-      ]
-    },
-    {
-      "id": "La7Cinema.it",
-      "name": "La7 Cinema",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd",
-      "country": "Italy",
-      "countryCode": "IT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "LA7d.it",
@@ -72983,26 +72970,6 @@
       "owners": []
     },
     {
-      "id": "LCI.fr",
-      "name": "LCI",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "TF1 Group"
-      ]
-    },
-    {
       "id": "LCN.ca",
       "name": "LCN",
       "logo": null,
@@ -73023,28 +72990,6 @@
       "owners": [
         "Groupe TVA"
       ]
-    },
-    {
-      "id": "LCP.fr",
-      "name": "LCP",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Legislativo"
-      ],
-      "altNames": [
-        "La Chaîne parlementaire",
-        "Canal Assemblées",
-        "Canal Assemblée nationale"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "LDPRTV.ru",
@@ -75837,28 +75782,6 @@
       "network": null,
       "owners": [
         "Duna Médiaszolgáltató Nonprofit Zrt."
-      ]
-    },
-    {
-      "id": "M6.fr",
-      "name": "M6",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "RTL6"
-      ],
-      "network": null,
-      "owners": [
-        "Groupe M6"
       ]
     },
     {
@@ -80402,7 +80325,7 @@
       "id": "Mezzo.fr",
       "name": "Mezzo",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8",
+      "url": "http://tmptv.sunduk.tv/CH97/index.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -82644,26 +82567,6 @@
       ]
     },
     {
-      "id": "More4.uk",
-      "name": "More4",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "HM Government"
-      ]
-    },
-    {
       "id": "MorningCloudTV.ke",
       "name": "Morning Cloud TV",
       "logo": null,
@@ -83750,12 +83653,12 @@
       "owners": []
     },
     {
-      "id": "MTV.fr",
+      "id": "MTV.de",
       "name": "MTV",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8",
-      "country": "France",
-      "countryCode": "FR",
+      "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31344/index.m3u8",
+      "country": "Germany",
+      "countryCode": "DE",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -83763,7 +83666,10 @@
       "categories": [
         "Entretenimiento"
       ],
-      "altNames": [],
+      "altNames": [
+        "MTV Germany",
+        "MTV DE"
+      ],
       "network": null,
       "owners": [
         "Paramount Networks EMEAA"
@@ -83789,6 +83695,28 @@
         "JioStar India Pvt. Ltd.",
         "Reliance Industries(RIL)",
         "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "MTV.pl",
+      "name": "MTV",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7294/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "MTV Polska"
+      ],
+      "network": null,
+      "owners": [
+        "Paramount Networks EMEAA"
       ]
     },
     {
@@ -84636,7 +84564,7 @@
       "id": "MuzTV.ru",
       "name": "Muz-TV",
       "logo": null,
-      "url": "https://streaming.televizor-24-tochka.ru/live/20.m3u8",
+      "url": "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -84764,7 +84692,7 @@
       "id": "MuzykaPervogo.ru",
       "name": "Muzyka Pervogo",
       "logo": null,
-      "url": "http://31.148.48.15/Muzika_Pervogo/index.m3u8",
+      "url": "https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -85700,6 +85628,51 @@
       "network": null,
       "owners": [
         "Lionsgate Studios Corp."
+      ]
+    },
+    {
+      "id": "NASHEMusic.ua",
+      "name": "NASHE Music",
+      "logo": null,
+      "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "НАШЕ Music",
+        "Our music"
+      ],
+      "network": null,
+      "owners": [
+        "MYSTO-TV"
+      ]
+    },
+    {
+      "id": "NasheNovoeKino.ru",
+      "name": "Nashe Novoe Kino",
+      "logo": null,
+      "url": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Наше новое кино"
+      ],
+      "network": null,
+      "owners": [
+        "Gazprom Media"
       ]
     },
     {
@@ -86654,7 +86627,7 @@
       "id": "NDRFernsehen.de",
       "name": "NDR Fernsehen",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8",
+      "url": "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -88596,28 +88569,6 @@
       "owners": []
     },
     {
-      "id": "NHKKishouSaigai.jp",
-      "name": "NHK Kishou-Saigai",
-      "logo": null,
-      "url": "https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Clima"
-      ],
-      "altNames": [
-        "NHK気象・災害"
-      ],
-      "network": "NHK",
-      "owners": [
-        "Citizens of Japan"
-      ]
-    },
-    {
       "id": "NHKWorldPremium.jp",
       "name": "NHK World Premium",
       "logo": null,
@@ -88643,7 +88594,7 @@
       "id": "NHKWorldJapan.jp",
       "name": "NHK World-Japan",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8",
+      "url": "https://nhk.lls.pbs.org/index.m3u8",
       "country": "Japan",
       "countryCode": "JP",
       "language_primary": null,
@@ -88756,30 +88707,6 @@
         "JioStar India Pvt. Ltd.",
         "Reliance Industries(RIL)",
         "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "NickComedyCentralPlus1.de",
-      "name": "Nick/Comedy Central +1",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Comedia",
-        "Infantil"
-      ],
-      "altNames": [
-        "Nickelodeon",
-        "Comedy Central +1"
-      ],
-      "network": null,
-      "owners": [
-        "Paramount Networks EMEAA"
       ]
     },
     {
@@ -89022,6 +88949,26 @@
       "network": null,
       "owners": [
         "x1co"
+      ]
+    },
+    {
+      "id": "Nicktoons.ru",
+      "name": "Nicktoons",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/849/index.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Paramount Media Networks",
+      "owners": [
+        "Paramount Global"
       ]
     },
     {
@@ -89379,28 +89326,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "Nitro.de",
-      "name": "Nitro",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "RTL Nitro"
-      ],
-      "network": null,
-      "owners": [
-        "RTL Group"
-      ]
     },
     {
       "id": "NizhniyNovgorod24.ru",
@@ -90314,26 +90239,6 @@
       "owners": []
     },
     {
-      "id": "NOVO19.fr",
-      "name": "NOVO19",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Ouest-France",
-      "owners": [
-        "Groupe SIPA Ouest-France"
-      ]
-    },
-    {
       "id": "Novocomedy.fr",
       "name": "Novocomedy",
       "logo": null,
@@ -90782,24 +90687,6 @@
       "owners": [
         "Nalia Media Corporation"
       ]
-    },
-    {
-      "id": "NRTV.ch",
-      "name": "NRTV",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "NRWision.de",
@@ -93021,6 +92908,29 @@
       ]
     },
     {
+      "id": "Okhotairybalka.ru",
+      "name": "Okhota i rybalka",
+      "logo": null,
+      "url": "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Aire Libre"
+      ],
+      "altNames": [
+        "Охота и рыбалка"
+      ],
+      "network": null,
+      "owners": [
+        "Content Union",
+        "Stream"
+      ]
+    },
+    {
       "id": "Okto.at",
       "name": "Okto",
       "logo": null,
@@ -94085,29 +93995,6 @@
       "owners": []
     },
     {
-      "id": "One.de",
-      "name": "One",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Einsfestival",
-        "EinsFestival"
-      ],
-      "network": "ARD",
-      "owners": [
-        "West German Radio Cologne"
-      ]
-    },
-    {
       "id": "One.mt",
       "name": "One",
       "logo": null,
@@ -94753,26 +94640,6 @@
       ]
     },
     {
-      "id": "ORF2Tirol.at",
-      "name": "ORF 2 Tirol",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd",
-      "country": "Austria",
-      "countryCode": "AT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ORF",
-      "owners": [
-        "ORF"
-      ]
-    },
-    {
       "id": "ORF2Wien.at",
       "name": "ORF 2 Wien",
       "logo": null,
@@ -95131,6 +94998,27 @@
       "network": null,
       "owners": [
         "KIPCO"
+      ]
+    },
+    {
+      "id": "OstWest.de",
+      "name": "Ost West",
+      "logo": null,
+      "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14021/index.m3u8",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias",
+        "Cultura"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RTV Broadcast & Content Mangement GmbH"
       ]
     },
     {
@@ -96096,6 +95984,27 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ParamountNetwork.nl",
+      "name": "Paramount Network",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Series",
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Paramount Global"
+      ]
     },
     {
       "id": "ParasGold.in",
@@ -98006,7 +97915,7 @@
       "id": "phoenix.de",
       "name": "phoenix",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd",
+      "url": "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -98422,28 +98331,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "PlanetePlus.fr",
-      "name": "Planete+",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Planète+"
-      ],
-      "network": null,
-      "owners": [
-        "Canal+ Group"
-      ]
     },
     {
       "id": "PlatziTV.es",
@@ -100432,6 +100319,24 @@
       "owners": [
         "FTV Prima"
       ]
+    },
+    {
+      "id": "PrimaStar.cz",
+      "name": "Prima Star",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "PrimaTV.it",
@@ -105233,7 +105138,7 @@
       "id": "Rai1.it",
       "name": "Rai 1",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd",
+      "url": "https://srv1.adriatelekom.com/Rai1/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -105259,7 +105164,7 @@
       "id": "Rai2.it",
       "name": "Rai 2",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
+      "url": "https://srv1.adriatelekom.com/Rai2/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -105281,7 +105186,7 @@
       "id": "Rai3.it",
       "name": "Rai 3",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd",
+      "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -105345,7 +105250,27 @@
       "id": "RaiGulp.it",
       "name": "Rai Gulp",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd",
+      "url": "https://srv1.adriatelekom.com/RaiGulp/index.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Rai"
+      ]
+    },
+    {
+      "id": "RaiItalia.it",
+      "name": "Rai Italia",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -105388,7 +105313,7 @@
       "id": "RaiNews24.it",
       "name": "Rai News 24",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd",
+      "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -105433,7 +105358,7 @@
       "id": "RaiScuola.it",
       "name": "Rai Scuola",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd",
+      "url": "https://srv1.adriatelekom.com/RaiScuola/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -105453,7 +105378,7 @@
       "id": "RaiSport.it",
       "name": "Rai Sport",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
+      "url": "https://srv1.adriatelekom.com/RaiSport/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -105478,7 +105403,7 @@
       "id": "RaiStoria.it",
       "name": "Rai Storia",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd",
+      "url": "https://srv1.adriatelekom.com/RaiStoria/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -108172,7 +108097,7 @@
       "id": "Rete4.it",
       "name": "Rete 4",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd",
+      "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -108313,6 +108238,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Retro.ru",
+      "name": "Retro",
+      "logo": null,
+      "url": "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Clásico"
+      ],
+      "altNames": [
+        "Ретро"
+      ],
+      "network": null,
+      "owners": [
+        "Stream"
+      ]
     },
     {
       "id": "RetroMusicTV.cz",
@@ -108578,6 +108525,24 @@
       "owners": []
     },
     {
+      "id": "RFMTV.fr",
+      "name": "RFM TV",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8",
+      "country": "France",
+      "countryCode": "FR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "RFO.de",
       "name": "RFO",
       "logo": null,
@@ -108721,7 +108686,7 @@
       "id": "RiC.de",
       "name": "RiC",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8",
+      "url": "https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -108988,73 +108953,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "RMCDecouverte.fr",
-      "name": "RMC Decouverte",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "RMC Découverte"
-      ],
-      "network": null,
-      "owners": [
-        "NextRadioTV"
-      ]
-    },
-    {
-      "id": "RMCLife.fr",
-      "name": "RMC Life",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento",
-        "Interactive"
-      ],
-      "altNames": [
-        "Chérie 25"
-      ],
-      "network": "Radio Monte Carlo",
-      "owners": [
-        "CMA Media File"
-      ]
-    },
-    {
-      "id": "RMCStory.fr",
-      "name": "RMC Story",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Numéro 23"
-      ],
-      "network": null,
-      "owners": [
-        "NextRadioTV"
-      ]
     },
     {
       "id": "RMTV.bg",
@@ -109360,7 +109258,7 @@
       "id": "RodnoeKino.ru",
       "name": "Rodnoe Kino",
       "logo": null,
-      "url": "http://31.148.48.15/Rodnoe_kino/index.m3u8",
+      "url": "https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -110155,46 +110053,6 @@
       "owners": []
     },
     {
-      "id": "RSILa1.ch",
-      "name": "RSI La 1",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Radiotelevisione Svizzera di lingua Italiana"
-      ]
-    },
-    {
-      "id": "RSILa2.ch",
-      "name": "RSI La 2",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Radiotelevisione Svizzera di lingua Italiana"
-      ]
-    },
-    {
       "id": "RSVHonduras.hn",
       "name": "RSV Honduras",
       "logo": null,
@@ -110793,26 +110651,6 @@
       ]
     },
     {
-      "id": "RTK1.xk",
-      "name": "RTK 1",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd",
-      "country": "Kosovo",
-      "countryCode": "XK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "RTK"
-      ]
-    },
-    {
       "id": "RTK3.xk",
       "name": "RTK 3",
       "logo": null,
@@ -110830,30 +110668,6 @@
       "network": null,
       "owners": [
         "RTK"
-      ]
-    },
-    {
-      "id": "RTL.de",
-      "name": "RTL",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "RTL Television",
-        "RTL Plus",
-        "RTL Plus Television"
-      ],
-      "network": null,
-      "owners": [
-        "RTL Group S.A."
       ]
     },
     {
@@ -111249,26 +111063,6 @@
       ]
     },
     {
-      "id": "RTLZwei.de",
-      "name": "RTL Zwei",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "RTL Group S.A."
-      ]
-    },
-    {
       "id": "RTLTVI.be",
       "name": "RTL-TVI",
       "logo": null,
@@ -111306,26 +111100,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "RTL9.lu",
-      "name": "RTL9",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd",
-      "country": "Luxembourg",
-      "countryCode": "LU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Mediawan Thematics"
-      ]
     },
     {
       "id": "RTMASEAN.my",
@@ -111639,7 +111413,7 @@
       "id": "RTPMundo.pt",
       "name": "RTP Mundo",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8",
+      "url": "https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8",
       "country": "Portugal",
       "countryCode": "PT",
       "language_primary": null,
@@ -111811,26 +111585,6 @@
       ]
     },
     {
-      "id": "RTS1.ch",
-      "name": "RTS 1",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "RTS UN"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "RTS1.rs",
       "name": "RTS 1",
       "logo": null,
@@ -111871,26 +111625,6 @@
       "owners": [
         "Radiodiffusion télévision sénégalaise"
       ]
-    },
-    {
-      "id": "RTS2.ch",
-      "name": "RTS 2",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "RTS Deux"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "RTS2.rs",
@@ -111950,32 +111684,6 @@
       ],
       "altNames": [
         "РТС 3"
-      ],
-      "network": null,
-      "owners": [
-        "Radio Televizija Srbije"
-      ]
-    },
-    {
-      "id": "RTSSvet.rs",
-      "name": "RTS Svet",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "РТС Свет",
-        "RTS Satelit",
-        "RTS Sat",
-        "RTS BSatelit",
-        "TVB Satelit"
       ],
       "network": null,
       "owners": [
@@ -121773,64 +121481,6 @@
       "owners": []
     },
     {
-      "id": "SRF1.ch",
-      "name": "SRF 1",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Schweizer Radio und Fernsehen"
-      ]
-    },
-    {
-      "id": "SRFinfo.ch",
-      "name": "SRF info",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Schweizer Radio und Fernsehen"
-      ]
-    },
-    {
-      "id": "SRFzwei.ch",
-      "name": "SRF zwei",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "SriwijayaTV.id",
       "name": "Sriwijaya TV",
       "logo": null,
@@ -122456,24 +122106,6 @@
       "owners": []
     },
     {
-      "id": "StarTV.ch",
-      "name": "Star TV",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "StarTV.mn",
       "name": "Star TV",
       "logo": null,
@@ -122592,7 +122224,7 @@
       "id": "StarPlus.in",
       "name": "StarPlus",
       "logo": null,
-      "url": "http://103.253.18.58:8000/play/a00l",
+      "url": "http://149.71.34.166:8000/play/a01h/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -126072,7 +125704,7 @@
       "id": "SWRFernsehenBadenWurttemberg.de",
       "name": "SWR Fernsehen Baden-Wurttemberg",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8",
+      "url": "https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -126365,7 +125997,7 @@
       "id": "T18.fr",
       "name": "T18",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8",
+      "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -126416,6 +126048,31 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "T24.ru",
+      "name": "T24",
+      "logo": null,
+      "url": "https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Т24",
+        "Техно 24",
+        "Tekhno 24",
+        "24 Tekhno"
+      ],
+      "network": null,
+      "owners": [
+        "VGTRK"
+      ]
     },
     {
       "id": "T7.xk",
@@ -127163,6 +126820,24 @@
       "owners": [
         "Odisha Television Ltd."
       ]
+    },
+    {
+      "id": "TaraqqiyotTV.uz",
+      "name": "Taraqqiyot TV",
+      "logo": null,
+      "url": "https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8",
+      "country": "Uzbekistan",
+      "countryCode": "UZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "TarihTV.tr",
@@ -128055,6 +127730,24 @@
       ],
       "altNames": [],
       "network": null,
+      "owners": []
+    },
+    {
+      "id": "TeenNick.il",
+      "name": "TeenNick",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
       "owners": []
     },
     {
@@ -129077,26 +128770,6 @@
       ]
     },
     {
-      "id": "TeleBarn.ch",
-      "name": "TeleBarn",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-dash/telebaern.mpd",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TeleBärn"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TeleBendicion.do",
       "name": "TeleBendicion",
       "logo": null,
@@ -129116,26 +128789,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "TeleBielingue.ch",
-      "name": "TeleBielingue",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-dash/telebielingue.mpd",
-      "country": "Switzerland",
-      "countryCode": "CH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Bureau Cortesi Editions W. Gassmann"
-      ]
     },
     {
       "id": "TeleBilbao.es",
@@ -132568,6 +132221,26 @@
       ]
     },
     {
+      "id": "TET.ua",
+      "name": "TET",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "1+1 Media Group"
+      ]
+    },
+    {
       "id": "TeveVidaNetwork.us",
       "name": "Teve Vida Network",
       "logo": null,
@@ -132643,7 +132316,7 @@
       "id": "TF1.fr",
       "name": "TF1",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd",
+      "url": "https://test.946985.filegear-sg.me/proxy/71eb898aa398f1b9",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -132658,28 +132331,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "TF1SeriesFilms.fr",
-      "name": "TF1 Series Films",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "TF1 Séries Films"
-      ],
-      "network": null,
-      "owners": [
-        "TF1 Group"
-      ]
     },
     {
       "id": "TFM.sn",
@@ -132700,24 +132351,6 @@
       "owners": [
         "Groupe Futurs Médias"
       ]
-    },
-    {
-      "id": "TFX.fr",
-      "name": "TFX",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "TGJunior.us",
@@ -135187,7 +134820,7 @@
       "id": "TNVPlanet.ru",
       "name": "TNV-Planet",
       "logo": null,
-      "url": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
+      "url": "https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -136511,26 +136144,6 @@
       ]
     },
     {
-      "id": "Trek.fr",
-      "name": "Trek",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Escales"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TrendTV.hr",
       "name": "Trend TV",
       "logo": null,
@@ -137254,7 +136867,7 @@
       "id": "TRTTurk.tr",
       "name": "TRT Turk",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd",
+      "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -138097,24 +137710,6 @@
       "url": "https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8",
       "country": "Cyprus",
       "countryCode": "CY",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TV24.ch",
-      "name": "TV 24",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8",
-      "country": "Switzerland",
-      "countryCode": "CH",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -143587,6 +143182,24 @@
       ]
     },
     {
+      "id": "TV1000.ro",
+      "name": "TV1000",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6944/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Viasat",
+      "owners": []
+    },
+    {
       "id": "TV13Gujarati.in",
       "name": "TV13 Gujarati",
       "logo": null,
@@ -143666,29 +143279,6 @@
       "network": null,
       "owners": [
         "Demirören Group"
-      ]
-    },
-    {
-      "id": "TV2.dz",
-      "name": "TV2",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd",
-      "country": "Algeria",
-      "countryCode": "DZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Canal Algérie",
-        "الجزائر تي في"
-      ],
-      "network": null,
-      "owners": [
-        "EPTV"
       ]
     },
     {
@@ -144101,7 +143691,7 @@
       "id": "TV5MondeFranceBelgiumSwitzerlandMonaco.fr",
       "name": "TV5Monde France Belgium Switzerland Monaco",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8",
+      "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -144822,7 +144412,7 @@
       "id": "TVCNews.ng",
       "name": "TVC News",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-dash/tvcnews.mpd",
+      "url": "http://69.64.57.208/tvcnews/playlist.m3u8",
       "country": "Nigeria",
       "countryCode": "NG",
       "language_primary": null,
@@ -145046,7 +144636,7 @@
       "id": "TVCGMNE.me",
       "name": "TVCG MNE",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-dash/rtcg.mpd",
+      "url": "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8",
       "country": "Montenegro",
       "countryCode": "ME",
       "language_primary": null,
@@ -145164,7 +144754,7 @@
       "id": "TVEInternacionalEurope.es",
       "name": "TVE Internacional Europe",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8",
+      "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
       "country": "Spain",
       "countryCode": "ES",
       "language_primary": "Español",
@@ -146425,7 +146015,7 @@
       "id": "TVPPolonia.pl",
       "name": "TVP Polonia",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd",
+      "url": "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -146805,7 +146395,7 @@
       "id": "TVRInternational.ro",
       "name": "TVR International",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd",
+      "url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -149080,7 +148670,7 @@
       "id": "Unikum.ru",
       "name": "Unikum",
       "logo": null,
-      "url": "http://31.148.48.15/Detskiy/index.m3u8",
+      "url": "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -150001,6 +149591,24 @@
       "section": "español",
       "categories": [
         "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "VSportGolf.se",
+      "name": "V Sport Golf",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8",
+      "country": "Sweden",
+      "countryCode": "SE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
       ],
       "altNames": [],
       "network": null,
@@ -151605,6 +151213,26 @@
       ]
     },
     {
+      "id": "ViasatExplore.se",
+      "name": "Viasat Explore",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8",
+      "country": "Sweden",
+      "countryCode": "SE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Viasat World LTD"
+      ]
+    },
+    {
       "id": "ViasatExplore.tr",
       "name": "Viasat Explore",
       "logo": null,
@@ -151641,6 +151269,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ViasatHistory.se",
+      "name": "Viasat History",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8",
+      "country": "Sweden",
+      "countryCode": "SE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Viasat World LTD"
+      ]
     },
     {
       "id": "ViasatKino.ua",
@@ -151684,6 +151332,92 @@
       "network": null,
       "owners": [
         "Viasat Ukraine"
+      ]
+    },
+    {
+      "id": "ViasatKinoComedy.ua",
+      "name": "Viasat Kino Comedy",
+      "logo": null,
+      "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas",
+        "Comedia"
+      ],
+      "altNames": [
+        "ViP Comedy East"
+      ],
+      "network": null,
+      "owners": [
+        "Viasat Ukraine"
+      ]
+    },
+    {
+      "id": "ViasatKinoWorld.ua",
+      "name": "Viasat Kino World",
+      "logo": null,
+      "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31448/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "TV1000 World Kino"
+      ],
+      "network": null,
+      "owners": [
+        "Viasat Ukraine"
+      ]
+    },
+    {
+      "id": "ViasatNature.se",
+      "name": "Viasat Nature",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8",
+      "country": "Sweden",
+      "countryCode": "SE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Viasat World LTD"
+      ]
+    },
+    {
+      "id": "ViasatSerial.ua",
+      "name": "Viasat Serial",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/17056/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas",
+        "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Viasat World"
       ]
     },
     {
@@ -151962,7 +151696,7 @@
       "id": "vijuTV1000russkoe.ru",
       "name": "viju TV1000 russkoe",
       "logo": null,
-      "url": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8",
+      "url": "https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -152910,26 +152644,6 @@
       "owners": []
     },
     {
-      "id": "VOX.de",
-      "name": "VOX",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Vox Television GmbH"
-      ]
-    },
-    {
       "id": "VOX1.ir",
       "name": "VOX1",
       "logo": null,
@@ -153665,26 +153379,6 @@
       "network": null,
       "owners": [
         "WH Media GmbH"
-      ]
-    },
-    {
-      "id": "W9.fr",
-      "name": "W9",
-      "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Bertelsmann"
       ]
     },
     {
@@ -154951,7 +154645,7 @@
       "id": "WELT.de",
       "name": "WELT",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8",
+      "url": "https://s6.hopslan.com/n24X/index.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -159196,6 +158890,26 @@
       "owners": []
     },
     {
+      "id": "YemenTV.ye",
+      "name": "Yemen TV",
+      "logo": null,
+      "url": "https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8",
+      "country": "Yemen",
+      "countryCode": "YE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "اليمن تي في"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "YES.mv",
       "name": "YES",
       "logo": null,
@@ -159675,6 +159389,26 @@
       "owners": []
     },
     {
+      "id": "ZagorodnayaZhizn.ru",
+      "name": "Zagorodnaya Zhizn",
+      "logo": null,
+      "url": "https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Загородная жизнь"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ZagrosTV.iq",
       "name": "Zagros TV",
       "logo": null,
@@ -159946,7 +159680,7 @@
       "id": "ZDF.de",
       "name": "ZDF",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd",
+      "url": "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -159964,7 +159698,7 @@
       "id": "ZDFinfo.de",
       "name": "ZDFinfo",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd",
+      "url": "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -159986,7 +159720,7 @@
       "id": "ZDFneo.de",
       "name": "ZDFneo",
       "logo": null,
-      "url": "https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd",
+      "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -163044,51 +162778,51 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 282
+      "count": 283
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 305
+      "count": 321
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 114
+      "count": 115
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 224
+      "count": 220
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1453
+      "count": 1451
     },
     {
       "id": "general",
       "name": "General",
-      "count": 5852
+      "count": 5827
     }
   ],
   "stats": {
     "total": 39729,
-    "withStreams": 8308,
-    "spanish": 1553,
+    "withStreams": 8295,
+    "spanish": 1552,
     "adult": 78,
     "bySection": {
-      "general": 5852,
-      "español": 1453,
-      "infantil": 224,
-      "series": 114,
-      "peliculas": 305,
-      "deportes": 282
+      "general": 5827,
+      "español": 1451,
+      "infantil": 220,
+      "series": 115,
+      "peliculas": 321,
+      "deportes": 283
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1156,
+        "count": 1158,
         "name": "United States"
       },
       {
@@ -163098,7 +162832,7 @@
       },
       {
         "code": "RU",
-        "count": 324,
+        "count": 333,
         "name": "Russia"
       },
       {
@@ -163108,7 +162842,7 @@
       },
       {
         "code": "IT",
-        "count": 251,
+        "count": 250,
         "name": "Italy"
       },
       {
@@ -163128,16 +162862,16 @@
       },
       {
         "code": "DE",
-        "count": 185,
+        "count": 180,
         "name": "Germany"
       },
       {
         "code": "UK",
-        "count": 182,
+        "count": 178,
         "name": "United Kingdom"
       }
     ]
   },
-  "lastUpdated": "2026-06-09T01:45:18.003Z",
+  "lastUpdated": "2026-06-10T01:55:34.263Z",
   "source": "orion-stream"
 }
