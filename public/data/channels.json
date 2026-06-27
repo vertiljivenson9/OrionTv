@@ -6676,6 +6676,24 @@
       ]
     },
     {
+      "id": "AGRFMTV.py",
+      "name": "AGR FM TV",
+      "logo": null,
+      "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "AgroTV.bg",
       "name": "Agro TV",
       "logo": null,
@@ -10005,6 +10023,24 @@
         "Alsat-M",
         "Алсат-М"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "AltMediaTV.py",
+      "name": "Alt Media TV",
+      "logo": null,
+      "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -13384,6 +13420,28 @@
       ]
     },
     {
+      "id": "ArenaSport1.si",
+      "name": "Arena Sport 1",
+      "logo": null,
+      "url": "https://lb.dstvmultimedia.com/AS1SLOHD/index.m3u8",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Arena Sport 1 Slovenija"
+      ],
+      "network": null,
+      "owners": [
+        "Telekom Srbjia"
+      ]
+    },
+    {
       "id": "ArenaSport1.sk",
       "name": "Arena Sport 1",
       "logo": null,
@@ -13470,6 +13528,28 @@
       ]
     },
     {
+      "id": "ArenaSport1x2.rs",
+      "name": "Arena Sport 1x2",
+      "logo": null,
+      "url": "http://xplatinmedia.com:8080/Elko/mhj8LHTJJC/53449",
+      "country": "Serbia",
+      "countryCode": "RS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Arena Sport 1x2 Srbija"
+      ],
+      "network": null,
+      "owners": [
+        "Telekom Srbjia"
+      ]
+    },
+    {
       "id": "ArenaSport2.ba",
       "name": "Arena Sport 2",
       "logo": null,
@@ -13529,6 +13609,28 @@
       ],
       "altNames": [
         "Arena Sport 2 Srbija"
+      ],
+      "network": null,
+      "owners": [
+        "Telekom Srbjia"
+      ]
+    },
+    {
+      "id": "ArenaSport2.si",
+      "name": "Arena Sport 2",
+      "logo": null,
+      "url": "https://lb.dstvmultimedia.com/AS2SLOHD/index.m3u8",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Arena Sport 2 Slovenija"
       ],
       "network": null,
       "owners": [
@@ -13637,6 +13739,28 @@
       ],
       "altNames": [
         "Arena Sport 3 Srbija"
+      ],
+      "network": null,
+      "owners": [
+        "Telekom Srbjia"
+      ]
+    },
+    {
+      "id": "ArenaSport3.si",
+      "name": "Arena Sport 3",
+      "logo": null,
+      "url": "http://143.244.62.109:80/as3slo/index.m3u8",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Arena Sport 3 Slovenija"
       ],
       "network": null,
       "owners": [
@@ -15329,7 +15453,7 @@
         "Noticias"
       ],
       "altNames": [
-        "ഏഷ്യാ��െറ്റ് ന്യൂസ്‌"
+        "ഏഷ്യാനെറ്റ് ന്യൂസ്‌"
       ],
       "network": "Asianet News",
       "owners": [
@@ -17248,6 +17372,26 @@
       ]
     },
     {
+      "id": "AXNBlack.de",
+      "name": "AXN Black",
+      "logo": null,
+      "url": "http://xplatinmedia.com:8080/Elko/mhj8LHTJJC/79440",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Sony Pictures Television"
+      ]
+    },
+    {
       "id": "AXNBlack.pl",
       "name": "AXN Black",
       "logo": null,
@@ -17393,7 +17537,7 @@
       "id": "AXNSpin.hu",
       "name": "AXN Spin",
       "logo": null,
-      "url": "https://dokagents.site/live/axns/mono.m3u8",
+      "url": "https://lb.dstvmultimedia.com/AXNSpin/index.m3u8",
       "country": "Hungary",
       "countryCode": "HU",
       "language_primary": null,
@@ -25631,6 +25775,24 @@
       "owners": []
     },
     {
+      "id": "CADTV.py",
+      "name": "CAD TV",
+      "logo": null,
+      "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "CadenaA.bo",
       "name": "Cadena A",
       "logo": null,
@@ -28070,6 +28232,28 @@
       "altNames": [],
       "network": "Televisa",
       "owners": []
+    },
+    {
+      "id": "Canal5.uy",
+      "name": "Canal 5",
+      "logo": null,
+      "url": "https://tinyurl.com/canal5uy",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Televisión Nacional Uruguay"
+      ],
+      "network": null,
+      "owners": [
+        "Servicio de Comunicación Audiovisual Nacional"
+      ]
     },
     {
       "id": "Canal5DelPueblo.ar",
@@ -33143,6 +33327,24 @@
       "owners": []
     },
     {
+      "id": "CCIChannel.hn",
+      "name": "CCI Channel",
+      "logo": null,
+      "url": "https://livestream.mediacci.com/ccitv/index.m3u8",
+      "country": "Honduras",
+      "countryCode": "HN",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "CCPVTelevision.cd",
       "name": "CCPV Television",
       "logo": null,
@@ -35424,6 +35626,29 @@
       "owners": []
     },
     {
+      "id": "Channel8.ru",
+      "name": "Channel 8",
+      "logo": null,
+      "url": "http://45.11.139.43:8555/8kanal/index.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "8 канал",
+        "Восьмой канал"
+      ],
+      "network": null,
+      "owners": [
+        "Prime Cinema-TV"
+      ]
+    },
+    {
       "id": "Channel8.sg",
       "name": "Channel 8",
       "logo": null,
@@ -35534,7 +35759,7 @@
       "id": "Channel9.il",
       "name": "Channel 9",
       "logo": null,
-      "url": "http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad",
+      "url": "http://ott.watch/XE5QWWBZ87/20/tracks-v1a1/mono.ts.m3u8?sid=6a3725e1-2094-4453-9252-c089475ef330",
       "country": "Israel",
       "countryCode": "IL",
       "language_primary": null,
@@ -36242,6 +36467,24 @@
       "section": "general",
       "categories": [
         "Cocina"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "CheksizTV.uz",
+      "name": "Cheksiz TV",
+      "logo": null,
+      "url": "https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8",
+      "country": "Uzbekistan",
+      "countryCode": "UZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
       ],
       "altNames": [],
       "network": null,
@@ -41227,6 +41470,26 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ConexionPositivaTelevision.cr",
+      "name": "Conexion Positiva Television",
+      "logo": null,
+      "url": "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8",
+      "country": "Costa Rica",
+      "countryCode": "CR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Conexion Positiva Medios"
+      ]
     },
     {
       "id": "CongoPlanetTelevision.cd",
@@ -46300,6 +46563,24 @@
       ]
     },
     {
+      "id": "DesheBidesheTV.ca",
+      "name": "DesheBideshe TV",
+      "logo": null,
+      "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8",
+      "country": "Canada",
+      "countryCode": "CA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "DeshiTV.ca",
       "name": "Deshi TV",
       "logo": null,
@@ -48169,6 +48450,26 @@
       "network": null,
       "owners": [
         "NBCUniversal International Networks"
+      ]
+    },
+    {
+      "id": "DivaAdria.us",
+      "name": "Diva Adria",
+      "logo": null,
+      "url": "https://lb.dstvmultimedia.com/Diva/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Estilo de Vida"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "NBC Universal Global Networks Deutschland GmbH"
       ]
     },
     {
@@ -50978,6 +51279,29 @@
       ]
     },
     {
+      "id": "EEurope.nl",
+      "name": "E! Europe",
+      "logo": null,
+      "url": "https://lb.dstvmultimedia.com/E!/index.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Entertainment"
+      ],
+      "network": "NBCUniversal International Networks",
+      "owners": [
+        "NBCUniversal",
+        "Sky Group"
+      ]
+    },
+    {
       "id": "EKeepingUp.us",
       "name": "E! Keeping Up",
       "logo": null,
@@ -53488,6 +53812,24 @@
       "owners": [
         "Enlace Internacional"
       ]
+    },
+    {
+      "id": "EnlaceJuvenil.cr",
+      "name": "Enlace Juvenil",
+      "logo": null,
+      "url": "https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8",
+      "country": "Costa Rica",
+      "countryCode": "CR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "Enntivision.do",
@@ -56086,6 +56428,26 @@
       ]
     },
     {
+      "id": "EWTNBonumTV.hu",
+      "name": "EWTN/Bonum TV",
+      "logo": null,
+      "url": "https://dash2.antik.sk/live/ewtn_bonum/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": "EWTN",
+      "owners": [
+        "Eternal Word Television Network"
+      ]
+    },
+    {
       "id": "ExOnTheBeach.us",
       "name": "Ex On The Beach",
       "logo": null,
@@ -57886,10 +58248,30 @@
       ]
     },
     {
+      "id": "FilmBoxAction.nl",
+      "name": "FilmBox Action",
+      "logo": null,
+      "url": "http://xplatinmedia.com:8080/@mouilha20/IfXR3J0mu6kes9eunQPVa7kl8YO8iw/52521",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International Inc."
+      ]
+    },
+    {
       "id": "FilmBoxArthouse.nl",
       "name": "FilmBox Arthouse",
       "logo": null,
-      "url": "https://iptv.prosto.tv/ch63/index.m3u8",
+      "url": "http://xplatinmedia.com:8080/@mouilha20/IfXR3J0mu6kes9eunQPVa7kl8YO8iw/52523",
       "country": "Netherlands",
       "countryCode": "NL",
       "language_primary": null,
@@ -58796,7 +59178,7 @@
       "id": "FonMusic.ru",
       "name": "Fon Music",
       "logo": null,
-      "url": "https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8",
+      "url": "http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -63204,6 +63586,24 @@
       ]
     },
     {
+      "id": "GolfChannel.cz",
+      "name": "Golf Channel",
+      "logo": null,
+      "url": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "GolfChannelLatinAmerica.us",
       "name": "Golf Channel Latin America",
       "logo": null,
@@ -64949,6 +65349,24 @@
       "owners": [
         "A&E Networks EMEA"
       ]
+    },
+    {
+      "id": "H2HD.si",
+      "name": "H2 HD",
+      "logo": null,
+      "url": "https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "HaTinhTV.vn",
@@ -66997,7 +67415,7 @@
       "id": "History.si",
       "name": "History",
       "logo": null,
-      "url": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+      "url": "https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8",
       "country": "Slovenia",
       "countryCode": "SI",
       "language_primary": null,
@@ -72985,7 +73403,7 @@
       "id": "Istoriya.ru",
       "name": "Istoriya",
       "logo": null,
-      "url": "http://31.148.48.15/Istoriya/index.m3u8",
+      "url": "http://hls127.freeott.top:8080/Istoriya/video.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -81954,7 +82372,7 @@
       "id": "KukhnyaTV.ru",
       "name": "Kukhnya TV",
       "logo": null,
-      "url": "http://31.148.48.15/Kuhnya_TV/index.m3u8",
+      "url": "http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -86853,6 +87271,26 @@
       "owners": []
     },
     {
+      "id": "LosAngelesTVRadio.py",
+      "name": "Los Angeles TV Radio",
+      "logo": null,
+      "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "Los Ángeles TV Radio"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "LosarchivosdelFBI.us",
       "name": "Los archivos del FBI",
       "logo": null,
@@ -87715,6 +88153,24 @@
       "url": "https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "LuzNacienteTV.cr",
+      "name": "Luz Naciente TV",
+      "logo": null,
+      "url": "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
+      "country": "Costa Rica",
+      "countryCode": "CR",
       "language_primary": "Español",
       "is_spanish": true,
       "is_adult": false,
@@ -88840,6 +89296,26 @@
       "owners": [
         "Sri Adhikari Brothers Television Network Ltd"
       ]
+    },
+    {
+      "id": "Maidan.ru",
+      "name": "Maidan",
+      "logo": null,
+      "url": "http://hls127.freeott.top:8080/Maydan/video.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "Майдан"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "MaimonTVCanal3.do",
@@ -90858,6 +91334,26 @@
         "Películas"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "MaximaTV.ve",
+      "name": "Maxima TV",
+      "logo": null,
+      "url": "https://maximatv.net/hls/stream.m3u8",
+      "country": "Venezuela",
+      "countryCode": "VE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Máxima TV"
+      ],
       "network": null,
       "owners": []
     },
@@ -95403,6 +95899,26 @@
       "owners": []
     },
     {
+      "id": "MonterricoTV.pe",
+      "name": "Monterrico TV",
+      "logo": null,
+      "url": "https://h.jcp.live.opencaster.com/play_src/index.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Jockey Club del Peru"
+      ]
+    },
+    {
       "id": "MontgomeryChannel.us",
       "name": "Montgomery Channel",
       "logo": null,
@@ -97759,7 +98275,7 @@
       "id": "Multimuzyka.ru",
       "name": "Mult i muzyka",
       "logo": null,
-      "url": "http://31.148.48.15/Multimuzika/index.m3u8",
+      "url": "http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -99765,6 +100281,30 @@
       "owners": []
     },
     {
+      "id": "NasheLubimoeKino.ru",
+      "name": "Nashe Lubimoe Kino",
+      "logo": null,
+      "url": "http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Наше Любимое Кино",
+        "Любимое Кино",
+        "Наше Кино"
+      ],
+      "network": null,
+      "owners": [
+        "Media Markt Russia"
+      ]
+    },
+    {
       "id": "NASHEMusic.ua",
       "name": "NASHE Music",
       "logo": null,
@@ -100176,7 +100716,7 @@
       "id": "NationalGeographic.us",
       "name": "National Geographic",
       "logo": null,
-      "url": "http://198.58.104.90:8989/natgeo/index.m3u8",
+      "url": "http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -103127,6 +103667,26 @@
       ]
     },
     {
+      "id": "NHLNetwork.us",
+      "name": "NHL Network",
+      "logo": null,
+      "url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "National Hockey League"
+      ]
+    },
+    {
       "id": "NHRATV.us",
       "name": "NHRA TV",
       "logo": null,
@@ -104735,7 +105295,7 @@
       "id": "Nostalgia.ru",
       "name": "Nostalgia",
       "logo": null,
-      "url": "http://31.148.48.15/Nostalgiya/index.m3u8",
+      "url": "http://hls127.freeott.top:8080/Nostalgiya/video.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -106426,7 +106986,7 @@
       "id": "NTVLaw.ru",
       "name": "NTV Law",
       "logo": null,
-      "url": "https://cdn.ntv.ru/th_pravo/playlist.m3u8",
+      "url": "http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -106493,7 +107053,7 @@
       "id": "NTVStyle.ru",
       "name": "NTV Style",
       "logo": null,
-      "url": "https://cdn.ntv.ru/th_style/playlist.m3u8",
+      "url": "http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -107537,6 +108097,24 @@
       "owners": []
     },
     {
+      "id": "OceanTV.ru",
+      "name": "Ocean-TV",
+      "logo": null,
+      "url": "http://hls127.freeott.top:8080/Ocean_TV/video.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Ocko.cz",
       "name": "Ocko",
       "logo": null,
@@ -107552,6 +108130,28 @@
       ],
       "altNames": [
         "Óčko"
+      ],
+      "network": null,
+      "owners": [
+        "Stanice O a s"
+      ]
+    },
+    {
+      "id": "OckoBlack.cz",
+      "name": "Ocko Black",
+      "logo": null,
+      "url": "https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "Óčko Black"
       ],
       "network": null,
       "owners": [
@@ -107596,6 +108196,28 @@
       ],
       "altNames": [
         "Óčko Gold"
+      ],
+      "network": null,
+      "owners": [
+        "Stanice O a s"
+      ]
+    },
+    {
+      "id": "OckoStar.cz",
+      "name": "Ocko Star",
+      "logo": null,
+      "url": "https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "Óčko Star"
       ],
       "network": null,
       "owners": [
@@ -121859,6 +122481,26 @@
       "owners": []
     },
     {
+      "id": "PolarTV.cl",
+      "name": "Polar TV",
+      "logo": null,
+      "url": "https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8",
+      "country": "Chile",
+      "countryCode": "CL",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Polar Comunicaciones"
+      ]
+    },
+    {
       "id": "PolarTV.cz",
       "name": "Polar TV",
       "logo": null,
@@ -123916,6 +124558,24 @@
       "is_spanish": false,
       "is_adult": false,
       "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Primavera15.pe",
+      "name": "Primavera 15",
+      "logo": null,
+      "url": "https://mc.servidor.stream:19360/8244/8244.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
       "categories": [
         "General"
       ],
@@ -127417,6 +128077,24 @@
       "owners": []
     },
     {
+      "id": "RadioChalaca.pe",
+      "name": "Radio Chalaca",
+      "logo": null,
+      "url": "https://servilive.com:3414/hybrid/play.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "RadioCiudad989FMTV.py",
       "name": "Radio Ciudad 98.9 FM TV",
       "logo": null,
@@ -127451,6 +128129,24 @@
       "altNames": [
         "Radio Coatán Canal 21"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "RadioColmenar925FM.py",
+      "name": "Radio Colmenar 92.5 FM",
+      "logo": null,
+      "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -127619,6 +128315,26 @@
         "Música"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "RadioGuairaTV.py",
+      "name": "Radio Guaira TV",
+      "logo": null,
+      "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Radio Guairá TV"
+      ],
       "network": null,
       "owners": []
     },
@@ -128003,6 +128719,26 @@
       "owners": []
     },
     {
+      "id": "RadioOndaDigital.pe",
+      "name": "Radio Onda Digital",
+      "logo": null,
+      "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Grupo Onda Radio"
+      ]
+    },
+    {
       "id": "RadioPiterPanTV.it",
       "name": "Radio Piter Pan TV",
       "logo": null,
@@ -128133,6 +128869,24 @@
       "name": "Radio Rumba TV",
       "logo": null,
       "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "RadioSanBorjaTV.pe",
+      "name": "Radio San Borja TV",
+      "logo": null,
+      "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
       "country": "Peru",
       "countryCode": "PE",
       "language_primary": "Español",
@@ -134495,7 +135249,7 @@
       "id": "RTenEspanol.ru",
       "name": "RT en Espanol",
       "logo": null,
-      "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+      "url": "https://streaming.thestream.cyou/live/46.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -137965,6 +138719,26 @@
       ]
     },
     {
+      "id": "Rybolov.ru",
+      "name": "Rybolov",
+      "logo": null,
+      "url": "https://adpnetworkhd-cmd.github.io/iptv/Rybolov.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Aire Libre"
+      ],
+      "altNames": [
+        "Рыболов"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Ryzhiy.ru",
       "name": "Ryzhiy",
       "logo": null,
@@ -140595,6 +141369,28 @@
       "owners": [
         "Charles Schwab Media Productions Company (CSMPC)",
         "The Charles Schwab Corporation"
+      ]
+    },
+    {
+      "id": "SciFi.rs",
+      "name": "Sci Fi",
+      "logo": null,
+      "url": "https://lb.dstvmultimedia.com/SciFiHD/index.m3u8",
+      "country": "Serbia",
+      "countryCode": "RS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Scifi Србија"
+      ],
+      "network": null,
+      "owners": [
+        "NBC Universal Global Networks Deutschland GmbH"
       ]
     },
     {
@@ -143651,6 +144447,24 @@
       "owners": []
     },
     {
+      "id": "SiscomTV.pe",
+      "name": "Siscom TV",
+      "logo": null,
+      "url": "https://video2.lhdserver.es/siscomtv/live.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SistemaMichoacanodeTV.mx",
       "name": "Sistema Michoacano de TV",
       "logo": null,
@@ -145845,6 +146659,24 @@
       "owners": [
         "Radoica Milosavljević"
       ]
+    },
+    {
+      "id": "SOUTV.br",
+      "name": "SOU TV",
+      "logo": null,
+      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "SoundViewCommunityMedia.us",
@@ -150676,7 +151508,7 @@
         "General"
       ],
       "altNames": [
-        "Суспільне. Луцьк",
+        "Суспіл��не. Луцьк",
         "UΛ: Волинь"
       ],
       "network": null,
@@ -153866,7 +154698,7 @@
       "id": "Teatr.ru",
       "name": "Teatr",
       "logo": null,
-      "url": "http://31.148.48.15/Sochi_HD/index.m3u8",
+      "url": "http://hls127.freeott.top:8080/Teatr/video.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -159010,6 +159842,24 @@
       ]
     },
     {
+      "id": "ThaiChaiyo.th",
+      "name": "Thai Chaiyo",
+      "logo": null,
+      "url": "https://live.thaichaiyo.tv/tcy/live-transmux.m3u8",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ThaiNguyenTV.vn",
       "name": "Thai Nguyen TV",
       "logo": null,
@@ -162203,6 +163053,28 @@
       "owners": []
     },
     {
+      "id": "TopSecret.ru",
+      "name": "Top Secret",
+      "logo": null,
+      "url": "http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [
+        "Совершенно секретно"
+      ],
+      "network": null,
+      "owners": [
+        "Sovershenno sekretno"
+      ]
+    },
+    {
       "id": "TopStoriesbyNewsy.us",
       "name": "Top Stories by Newsy",
       "logo": null,
@@ -164507,6 +165379,26 @@
       "owners": []
     },
     {
+      "id": "TuTV.ve",
+      "name": "Tu TV",
+      "logo": null,
+      "url": "https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8",
+      "country": "Venezuela",
+      "countryCode": "VE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Cablexpress TV C.A."
+      ]
+    },
+    {
       "id": "TuUniversoTV.co",
       "name": "Tu Universo TV",
       "logo": null,
@@ -165623,6 +166515,26 @@
         "Infantil"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TVBellaAsuncion.pe",
+      "name": "TV Bella Asuncion",
+      "logo": null,
+      "url": "https://s2.tvdatta.com:3687/hybrid/play.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "TV Bella Asunción"
+      ],
       "network": null,
       "owners": []
     },
@@ -167552,6 +168464,24 @@
       "owners": []
     },
     {
+      "id": "TVKaliente.pe",
+      "name": "TV Kaliente",
+      "logo": null,
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TVKanalM.rs",
       "name": "TV Kanal M",
       "logo": null,
@@ -168732,7 +169662,7 @@
       "id": "TVOasisMonay.ve",
       "name": "TV Oasis Monay",
       "logo": null,
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8",
+      "url": "https://servilive.com:3562/live/vav4c8z38live.m3u8",
       "country": "Venezuela",
       "countryCode": "VE",
       "language_primary": "Español",
@@ -169084,6 +170014,26 @@
       "owners": [
         "Gobierno Del Perú"
       ]
+    },
+    {
+      "id": "TVPeruanisima.pe",
+      "name": "TV Peruanisima",
+      "logo": null,
+      "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "TV Peruanísima"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "TVPiKanal.rs",
@@ -170945,6 +171895,24 @@
       "owners": []
     },
     {
+      "id": "TV1000.si",
+      "name": "TV1000",
+      "logo": null,
+      "url": "https://lb.dstvmultimedia.com/NovaMax/index.m3u8",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Viasat",
+      "owners": []
+    },
+    {
       "id": "TV1000RussianKinoGlobal.ru",
       "name": "TV1000 Russian Kino Global",
       "logo": null,
@@ -171771,6 +172739,24 @@
       "is_spanish": false,
       "is_adult": false,
       "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TV8.cr",
+      "name": "TV8",
+      "logo": null,
+      "url": "https://k20.usastreams.com:8081/tv8/index.m3u8",
+      "country": "Costa Rica",
+      "countryCode": "CR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
       "categories": [
         "General"
       ],
@@ -172749,6 +173735,24 @@
       "owners": [
         "RTVE"
       ]
+    },
+    {
+      "id": "TVenLinea.pe",
+      "name": "TVenLinea",
+      "logo": null,
+      "url": "https://srt.tvdatta.com/tvenlinea/index.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "TVG2.es",
@@ -179935,6 +180939,24 @@
       ]
     },
     {
+      "id": "ViasatExplore.si",
+      "name": "Viasat Explore",
+      "logo": null,
+      "url": "https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ViasatExplore.tr",
       "name": "Viasat Explore",
       "logo": null,
@@ -180035,6 +181057,24 @@
       "owners": [
         "Viasat World LTD"
       ]
+    },
+    {
+      "id": "ViasatHistory.si",
+      "name": "Viasat History",
+      "logo": null,
+      "url": "https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "ViasatKino.ua",
@@ -180164,6 +181204,24 @@
       "owners": [
         "Viasat World LTD"
       ]
+    },
+    {
+      "id": "ViasatNature.si",
+      "name": "Viasat Nature",
+      "logo": null,
+      "url": "https://lb.dstvmultimedia.com/ViasatNature/index.m3u8",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "ViasatSerial.ua",
@@ -180782,6 +181840,26 @@
       "owners": [
         "Virgin Media Ireland"
       ]
+    },
+    {
+      "id": "Vision.pe",
+      "name": "Vision",
+      "logo": null,
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [
+        "Visión"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "Vision3000.do",
@@ -189497,6 +190575,26 @@
       ]
     },
     {
+      "id": "ZeeBanglaSonar.in",
+      "name": "Zee Bangla Sonar",
+      "logo": null,
+      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
       "id": "ZeeBharat.in",
       "name": "Zee Bharat",
       "logo": null,
@@ -190370,7 +191468,7 @@
       "id": "Zhara.ru",
       "name": "Zhara",
       "logo": null,
-      "url": "http://31.148.48.15/Zhara/index.m3u8",
+      "url": "http://hls127.freeott.top:8080/Zhara/video.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -192551,12 +193649,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 384
+      "count": 391
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 536
+      "count": 540
     },
     {
       "id": "series",
@@ -192571,46 +193669,46 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1754
+      "count": 1779
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6400
+      "count": 6420
     }
   ],
   "stats": {
     "total": 40032,
-    "withStreams": 9786,
-    "spanish": 1874,
+    "withStreams": 9842,
+    "spanish": 1900,
     "adult": 78,
     "bySection": {
-      "general": 6400,
-      "español": 1754,
+      "general": 6420,
+      "español": 1779,
       "infantil": 353,
       "series": 281,
-      "peliculas": 536,
-      "deportes": 384
+      "peliculas": 540,
+      "deportes": 391
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1614,
+        "count": 1616,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 720,
+        "count": 721,
         "name": "India"
       },
       {
         "code": "RU",
-        "count": 393,
+        "count": 399,
         "name": "Russia"
       },
       {
         "code": "DE",
-        "count": 349,
+        "count": 350,
         "name": "Germany"
       },
       {
@@ -192630,7 +193728,7 @@
       },
       {
         "code": "BR",
-        "count": 234,
+        "count": 235,
         "name": "Brazil"
       },
       {
@@ -192645,6 +193743,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-26T01:55:40.906Z",
+  "lastUpdated": "2026-06-27T01:48:48.903Z",
   "source": "orion-stream"
 }
