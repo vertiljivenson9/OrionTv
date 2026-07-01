@@ -41,50 +41,10 @@
       ]
     },
     {
-      "id": "VivaLatino.ua",
-      "name": "¡Viva Latino!",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch138/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Music Television of Ukraine"
-      ]
-    },
-    {
-      "id": "black.ru",
-      "name": ".black",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Black.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Sony Turbo"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "red.ru",
       "name": ".red",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/RedHD.m3u8",
+      "url": "http://5.188.159.128:8070/RED/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -746,28 +706,6 @@
       ]
     },
     {
-      "id": "13thStreetUniversal.de",
-      "name": "13th Street Universal",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "13th Street"
-      ],
-      "network": null,
-      "owners": [
-        "NBCUniversal"
-      ]
-    },
-    {
       "id": "151BPB.cl",
       "name": "15.1 BPB",
       "logo": null,
@@ -963,28 +901,6 @@
       "network": null,
       "owners": [
         "Kibar Khalvashi"
-      ]
-    },
-    {
-      "id": "2Plus2.ua",
-      "name": "2+2",
-      "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "два плюс два"
-      ],
-      "network": null,
-      "owners": [
-        "1+1 Media Group"
       ]
     },
     {
@@ -1856,7 +1772,7 @@
       "id": "360TuneBox.nl",
       "name": "360TuneBox",
       "logo": null,
-      "url": "https://iptv.prosto.tv/ch141/index.m3u8",
+      "url": "https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8",
       "country": "Netherlands",
       "countryCode": "NL",
       "language_primary": null,
@@ -2457,88 +2373,6 @@
       ]
     },
     {
-      "id": "4everCinema.ua",
-      "name": "4ever Cinema",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch42/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Music Television of Ukraine"
-      ]
-    },
-    {
-      "id": "4everDrama.ua",
-      "name": "4ever Drama",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch49/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Music Television of Ukraine"
-      ]
-    },
-    {
-      "id": "4everMusic.ua",
-      "name": "4ever Music",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch132/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "UA Music"
-      ],
-      "network": null,
-      "owners": [
-        "Music Television of Ukraine"
-      ]
-    },
-    {
-      "id": "4everTheater.ua",
-      "name": "4ever Theater",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?21yo=0&e=1783680395&id=922996&ip=178.136.40.86&live=1&secret=yamxdzwl&st=OWDBi-vxSZADl0oF8lHHxw",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Music Television of Ukraine"
-      ]
-    },
-    {
       "id": "4Kurd.fr",
       "name": "4Kurd",
       "logo": null,
@@ -2556,26 +2390,6 @@
       "network": null,
       "owners": [
         "Persiana Media Group"
-      ]
-    },
-    {
-      "id": "4seven.uk",
-      "name": "4seven",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "HM Government"
       ]
     },
     {
@@ -2713,46 +2527,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "5SELECT.uk",
-      "name": "5SELECT",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Paramount Networks UK & Australia"
-      ]
-    },
-    {
-      "id": "5STAR.uk",
-      "name": "5STAR",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Paramount Global"
-      ]
     },
     {
       "id": "5tv.ar",
@@ -6781,6 +6555,26 @@
       "owners": []
     },
     {
+      "id": "AgrigentoTV.it",
+      "name": "Agrigento TV",
+      "logo": null,
+      "url": "https://media2021.rtvweb.com/tva/live/playlist.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Agrigento tivu"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "AgroTV.bg",
       "name": "Agro TV",
       "logo": null,
@@ -6837,6 +6631,24 @@
       "owners": [
         "Agro TV Network SRL"
       ]
+    },
+    {
+      "id": "AgroTVMoldova.md",
+      "name": "Agro TV Moldova",
+      "logo": null,
+      "url": "https://ii.nfthost.net/static/streaming-playlists/hls/cd915b56-317a-415b-8556-871ee8a49d7c/master.m3u8",
+      "country": "Moldova",
+      "countryCode": "MD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Aire Libre"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "AgroBrasilTV.br",
@@ -11897,7 +11709,7 @@
         "Animación"
       ],
       "altNames": [
-        "アニマックス"
+        "アニマッ��ス"
       ],
       "network": "Animax",
       "owners": [
@@ -12313,30 +12125,6 @@
       "network": null,
       "owners": [
         "Albavisión"
-      ]
-    },
-    {
-      "id": "Antena3.es",
-      "name": "Antena 3",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Antena Tres",
-        "A3",
-        "Antena 3 HD"
-      ],
-      "network": null,
-      "owners": [
-        "Atresmedia Corporación de Medios de Comunicación SA"
       ]
     },
     {
@@ -14910,28 +14698,6 @@
       ]
     },
     {
-      "id": "Arsenal.ru",
-      "name": "Arsenal",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/ArsenalHD.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [
-        "Арсенал"
-      ],
-      "network": null,
-      "owners": [
-        "First TVCH"
-      ]
-    },
-    {
       "id": "ART.gr",
       "name": "ART",
       "logo": null,
@@ -16451,24 +16217,6 @@
       "owners": []
     },
     {
-      "id": "Atreseries.es",
-      "name": "Atreseries",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "AtrinaTV.ir",
       "name": "Atrina TV",
       "logo": null,
@@ -17407,48 +17155,6 @@
       "owners": [
         "Kamran Hamid Raja"
       ]
-    },
-    {
-      "id": "Avto24.ru",
-      "name": "Avto24",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Avto24.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Automovilismo"
-      ],
-      "altNames": [
-        "Авто24"
-      ],
-      "network": null,
-      "owners": [
-        "Stream"
-      ]
-    },
-    {
-      "id": "AvtoradioUkraine.ua",
-      "name": "Avtoradio Ukraine",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch392/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Automovilismo"
-      ],
-      "altNames": [
-        "Авторадіо Украина"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "AwaazIndiaTV.in",
@@ -20420,7 +20126,7 @@
       "id": "BBCScotland.uk",
       "name": "BBC Scotland",
       "logo": null,
-      "url": "http://92.114.85.72:8000/play/a0mf",
+      "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -20440,7 +20146,7 @@
       "id": "BBCThree.uk",
       "name": "BBC Three",
       "logo": null,
-      "url": "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -20500,7 +20206,7 @@
       "id": "BBCTwo.uk",
       "name": "BBC Two",
       "logo": null,
-      "url": "https://x.canlitvapp.com/u-bbc2/index.m3u8",
+      "url": "http://193.46.58.239:8080/BBCTwoHD/index.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -20669,26 +20375,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "BeMad.es",
-      "name": "Be Mad",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/BeMad.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Mediaset Espana"
-      ]
     },
     {
       "id": "BeachTVFloridaAlabama.us",
@@ -21124,7 +20810,7 @@
       "id": "Belarus1.by",
       "name": "Belarus-1",
       "logo": null,
-      "url": "https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1701491008_b5160000_sleng.m3u8",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8",
       "country": "Belarus",
       "countryCode": "BY",
       "language_primary": null,
@@ -21168,7 +20854,7 @@
       "id": "Belarus24.by",
       "name": "Belarus-24",
       "logo": null,
-      "url": "http://178.124.179.122:8080/Belarus24/index.m3u8",
+      "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
       "country": "Belarus",
       "countryCode": "BY",
       "language_primary": null,
@@ -21212,7 +20898,7 @@
       "id": "Belarus4.by",
       "name": "Belarus-4",
       "logo": null,
-      "url": "http://46.56.85.151:8080/0.m3u8",
+      "url": "https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8",
       "country": "Belarus",
       "countryCode": "BY",
       "language_primary": null,
@@ -21234,7 +20920,7 @@
       "id": "Belarus5.by",
       "name": "Belarus-5",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Belarus5.m3u8",
+      "url": "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
       "country": "Belarus",
       "countryCode": "BY",
       "language_primary": null,
@@ -23093,29 +22779,6 @@
       "owners": []
     },
     {
-      "id": "Bigudi.ua",
-      "name": "Bigudi",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Bigudi.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Бігуді",
-        "Bihudi"
-      ],
-      "network": null,
-      "owners": [
-        "1+1 Media Group"
-      ]
-    },
-    {
       "id": "BijoyTV.bd",
       "name": "Bijoy TV",
       "logo": null,
@@ -24432,27 +24095,6 @@
       "network": null,
       "owners": [
         "Star Media"
-      ]
-    },
-    {
-      "id": "Bolt.ua",
-      "name": "Bolt",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas",
-        "Series"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "FILM.UA Group"
       ]
     },
     {
@@ -27167,27 +26809,6 @@
       "owners": [
         "CMC Broadcasting Company Incorporated"
       ]
-    },
-    {
-      "id": "Calle13Universal.es",
-      "name": "Calle 13 Universal",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Calle 13",
-        "13th Street Spain"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "CalvaryTV.in",
@@ -33092,24 +32713,6 @@
       ]
     },
     {
-      "id": "CarsStarsTV.uk",
-      "name": "Cars & Stars TV",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch111/index.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Automovilismo"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "CartagoMediosTV.cr",
       "name": "Cartago Medios TV",
       "logo": null,
@@ -33428,24 +33031,6 @@
       "owners": []
     },
     {
-      "id": "CazayPesca.es",
-      "name": "Caza y Pesca",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "CazadordeHomicidas.us",
       "name": "Cazador de Homicidas",
       "logo": null,
@@ -33714,7 +33299,7 @@
       "id": "CBeebies.uk",
       "name": "CBeebies",
       "logo": null,
-      "url": "https://x.canlitvapp.com/u-cbeebies/index.m3u8",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -36358,26 +35943,6 @@
       "owners": []
     },
     {
-      "id": "Challenge.uk",
-      "name": "Challenge",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/ChallengeUK.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Sky Group"
-      ]
-    },
-    {
       "id": "ChamameTV.ar",
       "name": "Chamame TV",
       "logo": null,
@@ -37733,7 +37298,7 @@
       "id": "Che.ru",
       "name": "Che!",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Che_Moskva.m3u8",
+      "url": "http://31.148.48.15/Che/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -41951,26 +41516,6 @@
       "owners": []
     },
     {
-      "id": "CocukSmart.tr",
-      "name": "Cocuk Smart",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/CocukSmart.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Çocuk Smart"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "CodigoTV.do",
       "name": "Codigo TV",
       "logo": null,
@@ -42479,7 +42024,7 @@
       "id": "ColumnaTV.ro",
       "name": "Columna TV",
       "logo": null,
-      "url": "https://cdn.streamnet.pro/columnatv/live//chunklist_w944163831.m3u8",
+      "url": "https://cdn.streamnet.pro/columnatv/live/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -42551,48 +42096,6 @@
       ]
     },
     {
-      "id": "ComedyCentral.de",
-      "name": "Comedy Central",
-      "logo": null,
-      "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31302/index.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Comedia"
-      ],
-      "altNames": [
-        "Comedy Central Deutschland"
-      ],
-      "network": null,
-      "owners": [
-        "Paramount Networks EMEAA"
-      ]
-    },
-    {
-      "id": "ComedyCentral.es",
-      "name": "Comedy Central",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Comedia"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Paramount Neworks EMEAA"
-      ]
-    },
-    {
       "id": "ComedyCentral.nl",
       "name": "Comedy Central",
       "logo": null,
@@ -42616,7 +42119,7 @@
       "id": "ComedyCentral.ro",
       "name": "Comedy Central",
       "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7025/index.m3u8",
+      "url": "http://82.78.243.219:45739/play/a00f/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -43659,27 +43162,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "COSMO.es",
-      "name": "COSMO",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "A&E Networks",
-        "Hearst Entertaiment"
-      ]
     },
     {
       "id": "CosmosTv.ar",
@@ -45126,26 +44608,6 @@
       ]
     },
     {
-      "id": "Cuatro.es",
-      "name": "Cuatro",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Cuatro.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Mediaset Espana"
-      ]
-    },
-    {
       "id": "Cubavision.cu",
       "name": "Cubavision",
       "logo": null,
@@ -45364,24 +44826,6 @@
         "Beta Film GmbH",
         "Curiosity Stream Inc."
       ]
-    },
-    {
-      "id": "CuriosityStream.ru",
-      "name": "CuriosityStream",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/CuriosityStream.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "CuriquingueTV.ec",
@@ -45824,24 +45268,6 @@
       "url": "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8",
       "country": "Russia",
       "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "DaVinciAsia.de",
-      "name": "Da Vinci Asia",
-      "logo": null,
-      "url": "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -49139,28 +48565,6 @@
       ]
     },
     {
-      "id": "Dialogiorybalke.ru",
-      "name": "Dialogi o rybalke",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/DialogiORybalke.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Aire Libre"
-      ],
-      "altNames": [
-        "Диалоги о рыбалке"
-      ],
-      "network": null,
-      "owners": [
-        "Dialogi o rybalke"
-      ]
-    },
-    {
       "id": "Diaspora24.sn",
       "name": "Diaspora 24",
       "logo": null,
@@ -49495,7 +48899,7 @@
       "id": "DigiSport4.ro",
       "name": "Digi Sport 4",
       "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/2538/index.m3u8",
+      "url": "http://82.78.243.219:45739/play/a00v/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -49944,46 +49348,6 @@
       ]
     },
     {
-      "id": "DisneyChannel.de",
-      "name": "Disney Channel",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelDeutschland.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Disney Entertainment"
-      ]
-    },
-    {
-      "id": "DisneyChannel.es",
-      "name": "Disney Channel",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Disney Entertainment"
-      ]
-    },
-    {
       "id": "DisneyChannel.il",
       "name": "Disney Channel",
       "logo": null,
@@ -50069,7 +49433,7 @@
       "id": "DisneyChannel.ro",
       "name": "Disney Channel",
       "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6965/index.m3u8",
+      "url": "http://82.78.243.219:45739/play/a00y/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -51234,26 +50598,6 @@
       "owners": []
     },
     {
-      "id": "DocuBox.nl",
-      "name": "DocuBox",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch93/index.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "SPI International"
-      ]
-    },
-    {
       "id": "DocumentaryHumanitiesChannel.cn",
       "name": "Documentary Humanities Channel",
       "logo": null,
@@ -51415,7 +50759,7 @@
       "id": "DomkinoPremium.ru",
       "name": "Dom kino Premium",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/DomKinoPremiumHD.m3u8",
+      "url": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -51437,7 +50781,7 @@
       "id": "Domashniy.ru",
       "name": "Domashniy",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/DomashniyHD.m3u8",
+      "url": "http://94.230.129.31:8080/Domashnii/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -51538,26 +50882,6 @@
       ],
       "altNames": [
         "Донбас Онлайн"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "DonechchynaTV.ua",
-      "name": "Donechchyna TV",
-      "logo": null,
-      "url": "https://lowa8026-cmyk.github.io/Ukraine/DonechchynaTV.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Донеччина TV"
       ],
       "network": null,
       "owners": []
@@ -52812,46 +52136,6 @@
       "owners": []
     },
     {
-      "id": "Duo3.ee",
-      "name": "Duo 3",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Duo3.m3u8",
-      "country": "Estonia",
-      "countryCode": "EE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Duo Media Networks"
-      ]
-    },
-    {
-      "id": "Duo6.ee",
-      "name": "Duo 6",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Duo6.m3u8",
-      "country": "Estonia",
-      "countryCode": "EE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Duo Media Networks"
-      ]
-    },
-    {
       "id": "Duo6.lv",
       "name": "Duo 6",
       "logo": null,
@@ -52950,26 +52234,6 @@
       "owners": []
     },
     {
-      "id": "Dushevnoe.ru",
-      "name": "Dushevnoe",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/DushevnoeHD.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Душевное"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "DUST.us",
       "name": "DUST",
       "logo": null,
@@ -53034,7 +52298,7 @@
       "id": "Dvojka.sk",
       "name": "Dvojka",
       "logo": null,
-      "url": "https://n5.stv.livebox.sk/stv-tv/addfd31846e34200883cc2b4e9e6c855/stv2.smil/playlist.m3u8",
+      "url": "http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8",
       "country": "Slovakia",
       "countryCode": "SK",
       "language_primary": null,
@@ -54226,28 +53490,6 @@
       "network": null,
       "owners": [
         "Grupo Alvarado Roca"
-      ]
-    },
-    {
-      "id": "Eda.ru",
-      "name": "Eda",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Eda.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Cocina"
-      ],
-      "altNames": [
-        "Еда"
-      ],
-      "network": null,
-      "owners": [
-        "First TVCH"
       ]
     },
     {
@@ -55886,26 +55128,6 @@
       ]
     },
     {
-      "id": "Energy.es",
-      "name": "Energy",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Mediaset Espana"
-      ]
-    },
-    {
       "id": "Energy.ir",
       "name": "Energy",
       "logo": null,
@@ -55945,7 +55167,7 @@
       "id": "EnglishClass.ru",
       "name": "English Class",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/EnglishClass.m3u8",
+      "url": "http://31.148.48.15/English_club_TV_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -56130,28 +55352,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "EnterFilm.ua",
-      "name": "Enter-Film",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Enterfilm.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Enter-фільм"
-      ],
-      "network": null,
-      "owners": [
-        "Inter Media Group"
-      ]
     },
     {
       "id": "EnterateRD.do",
@@ -56393,26 +55593,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "Equalympic.ua",
-      "name": "Equalympic",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch215/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "E-lympic"
-      ]
     },
     {
       "id": "Equidia.fr",
@@ -57852,28 +57032,6 @@
       ]
     },
     {
-      "id": "EUMusic.ua",
-      "name": "EU Music",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&cs_track=false&e=1782900912&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&ses=ca0cfbf5db9d8003&st=j-Ja2visdxrjH_8haQZjNg&uid=vu2y5m72",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "RU Music"
-      ],
-      "network": null,
-      "owners": [
-        "Music Television of Ukraine"
-      ]
-    },
-    {
       "id": "Eurasia.ru",
       "name": "Eurasia",
       "logo": null,
@@ -58214,26 +57372,6 @@
         "Euronews Português",
         "Euronews PT"
       ],
-      "network": "Euronews",
-      "owners": [
-        "Euronews SA"
-      ]
-    },
-    {
-      "id": "EuronewsRomania.ro",
-      "name": "Euronews Romania",
-      "logo": null,
-      "url": "https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
       "network": "Euronews",
       "owners": [
         "Euronews SA"
@@ -58711,24 +57849,6 @@
       "section": "general",
       "categories": [
         "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "ExclusivTV.ro",
-      "name": "Exclusiv TV",
-      "logo": null,
-      "url": "https://ythls.armelin.one/channel/UCXxTnMoETkhNTmsqZc0JMhQ.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
       ],
       "altNames": [],
       "network": null,
@@ -59628,28 +58748,6 @@
       "owners": []
     },
     {
-      "id": "FashionTV.ua",
-      "name": "Fashion TV",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Estilo de Vida"
-      ],
-      "altNames": [
-        "FashionTV UA"
-      ],
-      "network": null,
-      "owners": [
-        "Michel Adam Lisowski"
-      ]
-    },
-    {
       "id": "FashionLifeStyle.ru",
       "name": "Fashion&LifeStyle",
       "logo": null,
@@ -59673,7 +58771,7 @@
       "id": "FashionBox.nl",
       "name": "FashionBox",
       "logo": null,
-      "url": "https://iptv.prosto.tv/ch369/index.m3u8",
+      "url": "https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8",
       "country": "Netherlands",
       "countryCode": "NL",
       "language_primary": null,
@@ -59770,26 +58868,6 @@
       "owners": [
         "The Hearst Corporation",
         " MotorTrend"
-      ]
-    },
-    {
-      "id": "FastFunBox.ru",
-      "name": "Fast&FunBox",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch120/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "SPI"
       ]
     },
     {
@@ -60113,7 +59191,7 @@
       "id": "FeniksplusKino.ru",
       "name": "Feniks plus Kino",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/FeniksPlusKino.m3u8",
+      "url": "http://31.148.48.15/Feniks_plus_kino/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -60364,7 +59442,7 @@
       "id": "FightBox.nl",
       "name": "FightBox",
       "logo": null,
-      "url": "https://iptv.prosto.tv/ch118/index.m3u8",
+      "url": "http://91.146.94.234:10001/play/a085",
       "country": "Netherlands",
       "countryCode": "NL",
       "language_primary": null,
@@ -60537,46 +59615,6 @@
       ]
     },
     {
-      "id": "FilmBoxArthouse.nl",
-      "name": "FilmBox Arthouse",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch63/index.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "SPI International Inc."
-      ]
-    },
-    {
-      "id": "FilmBoxBaltics.nl",
-      "name": "FilmBox Baltics",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch64/index.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "SPI International Inc."
-      ]
-    },
-    {
       "id": "FilmBoxExtra.nl",
       "name": "FilmBox Extra",
       "logo": null,
@@ -60600,7 +59638,7 @@
       "id": "FilmBoxFamily.nl",
       "name": "FilmBox Family",
       "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7044/index.m3u8",
+      "url": "http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8",
       "country": "Netherlands",
       "countryCode": "NL",
       "language_primary": null,
@@ -60886,26 +59924,6 @@
         "Música"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "FirstBusiness.ua",
-      "name": "First Business",
-      "logo": null,
-      "url": "https://lowa8026-cmyk.github.io/Ukraine/FirstBussines.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Negocios"
-      ],
-      "altNames": [
-        "Перший Діловий"
-      ],
       "network": null,
       "owners": []
     },
@@ -61515,7 +60533,7 @@
       "id": "FoodTime.ru",
       "name": "FoodTime",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/FoodTimeHD.m3u8",
+      "url": "http://31.148.48.15/Eda_Premium_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -63041,26 +62059,6 @@
       ]
     },
     {
-      "id": "FX.ee",
-      "name": "FX",
-      "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19216/index.m3u8",
-      "country": "Estonia",
-      "countryCode": "EE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "The Walt Disney Corporation"
-      ]
-    },
-    {
       "id": "FX.tr",
       "name": "FX",
       "logo": null,
@@ -63158,26 +62156,6 @@
       "network": "FX Channels",
       "owners": [
         "The Walt Disney Company Latin America"
-      ]
-    },
-    {
-      "id": "FXLife.ee",
-      "name": "FX Life",
-      "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/9232/index.m3u8",
-      "country": "Estonia",
-      "countryCode": "EE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Disney International Operations"
       ]
     },
     {
@@ -63464,28 +62442,6 @@
       "network": null,
       "owners": [
         "Fantasy Sports Media Group Inc."
-      ]
-    },
-    {
-      "id": "Gametoon.nl",
-      "name": "Gametoon",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch256/index.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "MadScreenBox"
-      ],
-      "network": null,
-      "owners": [
-        "SPI International Inc."
       ]
     },
     {
@@ -65896,7 +64852,7 @@
       "id": "Gol.es",
       "name": "Gol",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8",
+      "url": "http://23.237.104.106:8080/USA_GOLTV/index.m3u8",
       "country": "Spain",
       "countryCode": "ES",
       "language_primary": "Español",
@@ -66708,31 +65664,6 @@
       ]
     },
     {
-      "id": "GREATaction.uk",
-      "name": "GREAT! action",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/GreatAction.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "GREAT! movies action",
-        "Sony Movies Action",
-        "Movies4Men",
-        "Matinee Movies"
-      ],
-      "network": null,
-      "owners": [
-        "Narrative Entertainment UK Ltd"
-      ]
-    },
-    {
       "id": "GREATmovies.uk",
       "name": "GREAT! movies",
       "logo": null,
@@ -66759,24 +65690,6 @@
       ]
     },
     {
-      "id": "GREATmystery.uk",
-      "name": "GREAT! mystery",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/GreatMystery.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "GREATromance.uk",
       "name": "GREAT! romance",
       "logo": null,
@@ -66799,31 +65712,6 @@
         "True Movies",
         "True Movies 1",
         "Movies 333"
-      ],
-      "network": null,
-      "owners": [
-        "Narrative Entertainment UK Ltd"
-      ]
-    },
-    {
-      "id": "GREATtv.uk",
-      "name": "GREAT! tv",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/GreatTV.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Sony Channel",
-        "True Entertainment",
-        "Showcase TV",
-        "Anime Central"
       ],
       "network": null,
       "owners": [
@@ -68445,26 +67333,6 @@
       "network": null,
       "owners": [
         "Hanoi People's Committee"
-      ]
-    },
-    {
-      "id": "HappyChannel.ro",
-      "name": "Happy Channel",
-      "logo": null,
-      "url": "https://hls.rundletv.eu.org/LIVE$HappyChannel/6.m3u8/Level/300720051?end=END&start=LIVE",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Antena TV Group"
       ]
     },
     {
@@ -70172,6 +69040,24 @@
       "altNames": [
         "Хит"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "HitFM.md",
+      "name": "Hit FM",
+      "logo": null,
+      "url": "https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8",
+      "country": "Moldova",
+      "countryCode": "MD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -73365,27 +72251,7 @@
       "id": "ICTV.ua",
       "name": "ICTV",
       "logo": null,
-      "url": "https://iptv.prosto.tv/ch2/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Starlight Media Group"
-      ]
-    },
-    {
-      "id": "ICTV2.ua",
-      "name": "ICTV2",
-      "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/15235/index.m3u8",
+      "url": "http://15.204.53.12:80/ictv/index.m3u8",
       "country": "Ukraine",
       "countryCode": "UA",
       "language_primary": null,
@@ -74728,26 +73594,6 @@
       "owners": []
     },
     {
-      "id": "InfoTVRomania.ro",
-      "name": "Info TV Romania",
-      "logo": null,
-      "url": "https://euw32.playlist.ttvnw.net/v1/playlist/CtMEHCWSOLVBIjzQRcYCDzxENBPC6QqL19TpF5ZzroQT-yNzbMsnZXDlRrM1BO_2b6B7tSj4UoyGleh1IEErCJvZXm2eKnttsjBlm1UWcu9ScTtqCCA0AQTpiAl701WUV4dCdtucbddiDtMpNARcl1umUiox9zdJ7saZS-007zh-cbMCfmc8wVX53DJqfivrOcg6ftsD8p4-z0lF7zimP_IOuZeLag9CNrrY7vRkQfYIKZcFsQza5myUR5Rat5Mo7BIdvsuOnFbULzL83qRdTOXOBEzKx73HrEXXRatJtHFxITl_m-4LzU44DCGHnrr1DwsSA5exWtvNvvcbdTx0MsmP-mBfLl__P3EVC4monCpTfMJAFwxnFf9AReWkPrvK4NTasVMnoXQ2Whzm4BmM9JwcyJPdWADFXvizZzYu-9beVSvbZxFJ1iIKI-2F-oThl8QfH9s6T6EVEu3-Q27YrZhjwdJoqyHjvL-4vn0RC6REzM4XSkfEmJEu91-9Zw9nVhvWTFxoh2exnuCWGdXhMKjfhpTGH4WquIZBQvscG_0bh7BxYkUu1GGDo5OIP17dNEx6j410QancOzFxe5ORNJ5q0zCQdZ1QAvO3qO00mXjNwhG6S7A30bUzqcH5hhzOxsFQZFgOgoLtDJH5YLggf4McxMRgIIWbRyTkcYonUjjP_CeEgg8jV3hIRE1FZWV6gOlhQoAxPr3rK91hKaM40y_6UYCdgUGsI6s1-wQvI6vGpKrwzTkxdNqFQHddjqKb2r6GBsEqEtGZPSP1T9ZhRH6iPz2u2BoM-X76Wi1YVfDbFLhBIAEqCWV1LXdlc3QtMjD3DA.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Info TV România"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "InformatiaTV.ro",
       "name": "Informatia TV",
       "logo": null,
@@ -74937,26 +73783,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "InRatingTV.ua",
-      "name": "InRating TV",
-      "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/16020/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Andrey Chebanov"
-      ]
     },
     {
       "id": "InsaytTV.ru",
@@ -79592,26 +78418,6 @@
       "owners": []
     },
     {
-      "id": "K1.ua",
-      "name": "K1",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/K1.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Inter Media Group"
-      ]
-    },
-    {
       "id": "K19.at",
       "name": "K19",
       "logo": null,
@@ -79629,26 +78435,6 @@
       "network": null,
       "owners": [
         "StudioK19 Gmbh"
-      ]
-    },
-    {
-      "id": "K2.ua",
-      "name": "K2",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/K2.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Inter Media Group"
       ]
     },
     {
@@ -79748,26 +78534,6 @@
       "network": null,
       "owners": [
         "ProSiebenSat.1 Media SE"
-      ]
-    },
-    {
-      "id": "kabeleinsDoku.de",
-      "name": "kabel eins Doku",
-      "logo": null,
-      "url": "http://79.232.88.203:9981/stream/channelid/81078517",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Seven.One Entertainment Group"
       ]
     },
     {
@@ -80085,26 +78851,6 @@
       "owners": [
         "Kalu Telecomunicaciones"
       ]
-    },
-    {
-      "id": "Kamedi.ru",
-      "name": "Kamedi",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Kamedi.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Comedia"
-      ],
-      "altNames": [
-        "Камеди"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "Kan11.il",
@@ -80452,29 +79198,6 @@
       "owners": []
     },
     {
-      "id": "Kanal7.ee",
-      "name": "Kanal 7",
-      "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/20079/index.m3u8",
-      "country": "Estonia",
-      "countryCode": "EE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Канал 7",
-        "Duo 7"
-      ],
-      "network": null,
-      "owners": [
-        "Duo Media Networks"
-      ]
-    },
-    {
       "id": "Kanal7.tr",
       "name": "Kanal 7",
       "logo": null,
@@ -80650,7 +79373,7 @@
       "id": "KanalD2.ro",
       "name": "Kanal D2",
       "logo": null,
-      "url": "https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8",
+      "url": "https://stream2.kanald.ro/iphone/knd2-live.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -80949,26 +79672,6 @@
       "owners": [
         "Alternativ TV LLC"
       ]
-    },
-    {
-      "id": "KapitanFantastika.ru",
-      "name": "Kapitan Fantastika",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/KapitanFantastikaHD.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Капитан Фантастика"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "KaposTV.hu",
@@ -82721,7 +81424,7 @@
       "id": "Kineko.ru",
       "name": "Kineko",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Kineko.m3u8",
+      "url": "http://31.148.48.15/Kineko_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -82988,28 +81691,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "Kinosemja.ru",
-      "name": "Kinosemja",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Kinosemya.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Киносемья"
-      ],
-      "network": null,
-      "owners": [
-        "Gazprom Media"
-      ]
     },
     {
       "id": "Kinoseriya.ru",
@@ -84077,26 +82758,6 @@
       "altNames": [
         "Komáromi Televízió",
         "KTV"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "Komediynoe.ru",
-      "name": "Komediynoe",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/KomediynoeHD.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Comedia"
-      ],
-      "altNames": [
-        "Комедийное"
       ],
       "network": null,
       "owners": []
@@ -87391,29 +86052,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "Lale.ua",
-      "name": "Lale",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch77/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Lâle",
-        "Ляле"
-      ],
-      "network": null,
-      "owners": [
-        "Atlant-SV"
-      ]
     },
     {
       "id": "LalegulTV.tr",
@@ -91373,26 +90011,6 @@
       "owners": []
     },
     {
-      "id": "Lyubimoe.ru",
-      "name": "Lyubimoe",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/LubimoeHD.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Любимое"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "LyubimoeTV.ru",
       "name": "Lyubimoe.TV",
       "logo": null,
@@ -91658,7 +90276,7 @@
       "id": "M1.ua",
       "name": "M1",
       "logo": null,
-      "url": "https://iptv.prosto.tv/ch122/index.m3u8",
+      "url": "http://158.101.222.193:88/georgia_play.php?id=m1",
       "country": "Ukraine",
       "countryCode": "UA",
       "language_primary": null,
@@ -91698,7 +90316,7 @@
       "id": "M2.ua",
       "name": "M2",
       "logo": null,
-      "url": "https://iptv.prosto.tv/ch123/index.m3u8",
+      "url": "https://live.m2.tv/hls3/stream.m3u8",
       "country": "Ukraine",
       "countryCode": "UA",
       "language_primary": null,
@@ -95615,28 +94233,6 @@
       ]
     },
     {
-      "id": "MCMTop.ru",
-      "name": "MCM Top",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch137/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "MCM Top"
-      ],
-      "network": null,
-      "owners": [
-        "Groupe M6"
-      ]
-    },
-    {
       "id": "MCNTelevision.gt",
       "name": "MCN Television",
       "logo": null,
@@ -96407,26 +95003,6 @@
       "owners": []
     },
     {
-      "id": "MEGOGOSport.ua",
-      "name": "MEGOGO Sport",
-      "logo": null,
-      "url": "http://471ccec7.tvclub.xyz/iptv/BUYS9YTNABMC25/31612/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "МЕГОГО Спорт"
-      ],
-      "network": "MEGOGO",
-      "owners": []
-    },
-    {
       "id": "MehranTV.pk",
       "name": "Mehran TV",
       "logo": null,
@@ -96631,6 +95207,26 @@
         "Religioso"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "MercyTV.sl",
+      "name": "Mercy TV",
+      "logo": null,
+      "url": "https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8",
+      "country": "Sierra Leone",
+      "countryCode": "SL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [
+        "Channel 29"
+      ],
       "network": null,
       "owners": []
     },
@@ -97995,28 +96591,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "Mirvokrug.ru",
-      "name": "Mir vokrug",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Mirvokrug.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Мир вокруг"
-      ],
-      "network": null,
-      "owners": [
-        "First TVCh"
-      ]
     },
     {
       "id": "MiracleChannel.se",
@@ -99490,7 +98064,7 @@
       "id": "MoonbugKids.uk",
       "name": "Moonbug Kids",
       "logo": null,
-      "url": "https://trs1.aynaott.com/MoonbugKids/index.m3u8",
+      "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -99749,26 +98323,6 @@
       "owners": [
         "Pluto Inc.",
         "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "More4.uk",
-      "name": "More4",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/More4.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "HM Government"
       ]
     },
     {
@@ -100354,29 +98908,6 @@
       "owners": [
         "VGTRK"
       ]
-    },
-    {
-      "id": "Moyastikhiya.ru",
-      "name": "Moya stikhiya",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Moyastikhiya.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Viajes"
-      ],
-      "altNames": [
-        "Моя стихия",
-        "Moya stihiya",
-        "Морской",
-        "Nautical Channel"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "MPTV.us",
@@ -101120,51 +99651,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "MTV.de",
-      "name": "MTV",
-      "logo": null,
-      "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31344/index.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "MTV Germany",
-        "MTV DE"
-      ],
-      "network": null,
-      "owners": [
-        "Paramount Networks EMEAA"
-      ]
-    },
-    {
-      "id": "MTV.es",
-      "name": "MTV",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "MTV España"
-      ],
-      "network": null,
-      "owners": [
-        "Paramount Networks EMEAA"
-      ]
     },
     {
       "id": "MTV.fr",
@@ -102417,7 +100903,7 @@
       "id": "Mult.ru",
       "name": "Mult",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Mult.m3u8",
+      "url": "http://31.148.48.15/Mult_HD/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -103250,28 +101736,6 @@
       "network": null,
       "owners": [
         "Media Muzangala"
-      ]
-    },
-    {
-      "id": "Muzhskoy.ru",
-      "name": "Muzhskoy",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/MuzhskoyHD.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Мужской"
-      ],
-      "network": null,
-      "owners": [
-        "Gazprom Media"
       ]
     },
     {
@@ -104424,27 +102888,6 @@
       "owners": []
     },
     {
-      "id": "Nashe.ru",
-      "name": "Nashe",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/NasheHD.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas",
-        "Series"
-      ],
-      "altNames": [
-        "Наше"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "NasheLubimoeKino.ru",
       "name": "Nashe Lubimoe Kino",
       "logo": null,
@@ -104839,26 +103282,6 @@
       ]
     },
     {
-      "id": "NationalGeographic.ro",
-      "name": "National Geographic",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/NatGeoRomania.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [
-        "National Geographic România"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "NationalGeographic.tr",
       "name": "National Geographic",
       "logo": null,
@@ -104998,26 +103421,6 @@
         "JioStar India Pvt. Ltd.",
         "Reliance Industries(RIL)",
         "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "NationalGeographicWild.ro",
-      "name": "National Geographic Wild",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/NatGeoWildRomania.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "National Geographic Society"
       ]
     },
     {
@@ -106358,29 +104761,6 @@
       "owners": []
     },
     {
-      "id": "Neox.es",
-      "name": "Neox",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Neox 8",
-        "Antena.Neox"
-      ],
-      "network": null,
-      "owners": [
-        "Atresmedia"
-      ]
-    },
-    {
       "id": "Nepal1.in",
       "name": "Nepal 1",
       "logo": null,
@@ -106963,7 +105343,7 @@
         "Noticias"
       ],
       "altNames": [
-        "ന്യൂസ് മല���ാളം 24x7",
+        "ന്യൂസ് മലയാളം 24x7",
         "News മലയാളം 24x7"
       ],
       "network": "MSO – Thamizhaga Cable TV Communication Limited (TCCL) Group",
@@ -108154,24 +106534,6 @@
       ]
     },
     {
-      "id": "NickJr.es",
-      "name": "Nick Jr.",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": "Nickelodeon",
-      "owners": []
-    },
-    {
       "id": "NickJr.il",
       "name": "Nick Jr.",
       "logo": null,
@@ -108190,24 +106552,6 @@
       "owners": [
         "Ananey Communications"
       ]
-    },
-    {
-      "id": "NickJr.ru",
-      "name": "Nick Jr.",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/NickJrRussia.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": "Nickelodeon",
-      "owners": []
     },
     {
       "id": "NickJr.us",
@@ -108362,49 +106706,6 @@
       ]
     },
     {
-      "id": "Nickelodeon.ee",
-      "name": "Nickelodeon",
-      "logo": null,
-      "url": "http://195.64.140.147:10121/121",
-      "country": "Estonia",
-      "countryCode": "EE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Infantil"
-      ],
-      "altNames": [
-        "Nickelodeon Global"
-      ],
-      "network": null,
-      "owners": [
-        "Paramount Networks EEMEA"
-      ]
-    },
-    {
-      "id": "Nickelodeon.es",
-      "name": "Nickelodeon",
-      "logo": null,
-      "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": "Nickelodeon",
-      "owners": [
-        "Paramount Networks EMEAA"
-      ]
-    },
-    {
       "id": "Nickelodeon.fr",
       "name": "Nickelodeon",
       "logo": null,
@@ -108494,7 +106795,7 @@
       "id": "Nickelodeon.ro",
       "name": "Nickelodeon",
       "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/6972/index.m3u8",
+      "url": "http://82.78.243.219:45739/play/a00o/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -108510,48 +106811,6 @@
       "network": "Nickelodeon",
       "owners": [
         "Paramount Networks EMEAA"
-      ]
-    },
-    {
-      "id": "Nickelodeon.ru",
-      "name": "Nickelodeon",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/NickelodeonRussia.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Nickelodeon Россия"
-      ],
-      "network": "Nickelodeon",
-      "owners": [
-        "Paramount Networks EMEAA"
-      ]
-    },
-    {
-      "id": "Nickelodeon.uk",
-      "name": "Nickelodeon",
-      "logo": null,
-      "url": "https://trs1.aynaott.com/nicklodean/index.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": "Nickelodeon",
-      "owners": [
-        "Nickelodeon UK Ltd"
       ]
     },
     {
@@ -108889,26 +107148,6 @@
       ]
     },
     {
-      "id": "Nicktoons.ru",
-      "name": "Nicktoons",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/NicktoonsRussia.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": "Paramount Media Networks",
-      "owners": [
-        "Paramount Global"
-      ]
-    },
-    {
       "id": "Nicktoons.us",
       "name": "Nicktoons",
       "logo": null,
@@ -109151,48 +107390,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "NikiJunior.ua",
-      "name": "Niki Junior",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch72/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Rudolph Kirnos",
-        "Karina Torres"
-      ]
-    },
-    {
-      "id": "NikiKids.ua",
-      "name": "Niki Kids",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch71/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Rudolph Kirnos",
-        "Karina Torres"
-      ]
     },
     {
       "id": "NimTV.gt",
@@ -110187,26 +108384,6 @@
       ]
     },
     {
-      "id": "Nova.es",
-      "name": "Nova",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Estilo de Vida"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Atresmedia"
-      ]
-    },
-    {
       "id": "Nova.rs",
       "name": "Nova",
       "logo": null,
@@ -110461,29 +108638,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "NovyiChannel.ua",
-      "name": "Novyi Channel",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/NoviyKanal.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Новий канал",
-        "New Channel"
-      ],
-      "network": null,
-      "owners": [
-        "Starlight Media Group"
-      ]
     },
     {
       "id": "NovyiRusskii.ru",
@@ -111526,7 +109680,7 @@
       "id": "NTVMir.ru",
       "name": "NTV Mir",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/NTVMir.m3u8",
+      "url": "http://5.188.159.128:8070/ntvmir_TV/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -112600,29 +110754,6 @@
       "network": null,
       "owners": [
         "Media Sakhli Obieqtivi Ltd"
-      ]
-    },
-    {
-      "id": "ObozrevatelTV.ua",
-      "name": "Obozrevatel TV",
-      "logo": null,
-      "url": "https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Oboz TV",
-        "Observer TV"
-      ],
-      "network": null,
-      "owners": [
-        "Golden Middle"
       ]
     },
     {
@@ -115607,28 +113738,6 @@
       "owners": []
     },
     {
-      "id": "Oruzhie.ru",
-      "name": "Oruzhie",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Oruzhie.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Оружие"
-      ],
-      "network": null,
-      "owners": [
-        "Feniks-Tver"
-      ]
-    },
-    {
       "id": "OSBCTV.ng",
       "name": "OSBC TV",
       "logo": null,
@@ -115773,7 +113882,7 @@
       "id": "OstWest.de",
       "name": "Ost West",
       "logo": null,
-      "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14021/index.m3u8",
+      "url": "http://hls127.freeott.top:8080/OstWest/video.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -115789,45 +113898,6 @@
       "owners": [
         "RTV Broadcast & Content Mangement GmbH"
       ]
-    },
-    {
-      "id": "OstWest24.de",
-      "name": "Ost West 24",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch237/index.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Cultura",
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "Ostrosyuzhetnoye.ru",
-      "name": "Ostrosyuzhetnoye",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/OstrosyuzhetnoyeHD.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Остросюжетное"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "OtkritiymirZdorove.ru",
@@ -115871,28 +113941,6 @@
       "network": null,
       "owners": [
         "Government of the Russian Federation"
-      ]
-    },
-    {
-      "id": "OTSE.ua",
-      "name": "OTSE",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/OtseHD.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "ОЦЕ"
-      ],
-      "network": null,
-      "owners": [
-        "Khmarochos Holdings"
       ]
     },
     {
@@ -117023,27 +115071,6 @@
       "owners": [
         "Paramount Network Broadcasting Ltd",
         "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "ParamountNetwork.nl",
-      "name": "Paramount Network",
-      "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Series",
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Paramount Global"
       ]
     },
     {
@@ -118546,7 +116573,7 @@
       "id": "Pershyi.ua",
       "name": "Pershyi",
       "logo": null,
-      "url": "https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8",
+      "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8",
       "country": "Ukraine",
       "countryCode": "UA",
       "language_primary": null,
@@ -118574,51 +116601,6 @@
       "network": null,
       "owners": [
         "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "Pershyiavtomobilnyi.ua",
-      "name": "Pershyi avtomobilnyi",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Pershyiavtomobilnyi.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Automovilismo"
-      ],
-      "altNames": [
-        "Перший автомобільний",
-        "First automotive"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "PershyiZahidnyi.ua",
-      "name": "Pershyi Zahidnyi",
-      "logo": null,
-      "url": "https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Legislativo"
-      ],
-      "altNames": [
-        "Перший Західний",
-        "First Western",
-        "Львов-ТВ"
-      ],
-      "network": null,
-      "owners": [
-        "Lviv Regional Council"
       ]
     },
     {
@@ -119067,28 +117049,6 @@
       "owners": []
     },
     {
-      "id": "PervyyKosmicheskiy.ru",
-      "name": "Pervyy Kosmicheskiy",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/PervyyKosmicheskiy.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Ciencia"
-      ],
-      "altNames": [
-        "Первый Космический"
-      ],
-      "network": null,
-      "owners": [
-        "CJSC"
-      ]
-    },
-    {
       "id": "PervyyRespublikanskiy.ru",
       "name": "Pervyy Respublikanskiy",
       "logo": null,
@@ -119508,28 +117468,6 @@
       "owners": []
     },
     {
-      "id": "Pingvin.ru",
-      "name": "Pingvin",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Pingvin.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Infantil"
-      ],
-      "altNames": [
-        "Пингвин",
-        "Пингвин ЛоЛо"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "PingxiangTVNewsChannel.cn",
       "name": "Pingxiang TV News Channel",
       "logo": null,
@@ -119640,28 +117578,6 @@
       "network": null,
       "owners": [
         "MWE Networks"
-      ]
-    },
-    {
-      "id": "PixelTV.ua",
-      "name": "Pixel TV",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/PikselTV.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Піксель TV"
-      ],
-      "network": null,
-      "owners": [
-        "Inter Media Group"
       ]
     },
     {
@@ -120113,28 +118029,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "PLUSPLUS.ua",
-      "name": "PLUSPLUS",
-      "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6379/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "ПЛЮСПЛЮС"
-      ],
-      "network": null,
-      "owners": [
-        "1+1 Media Group"
-      ]
     },
     {
       "id": "PlusTV.bz",
@@ -128730,7 +126624,7 @@
       "id": "PowerHitRadio.lt",
       "name": "Power Hit Radio",
       "logo": null,
-      "url": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g",
+      "url": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8",
       "country": "Lithuania",
       "countryCode": "LT",
       "language_primary": null,
@@ -129186,49 +127080,6 @@
       ]
     },
     {
-      "id": "PravdaTUTLviv.ua",
-      "name": "PravdaTUT Lviv",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&e=1782901327&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&st=bflIqYjnSIr75ACfgV-mug",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ПравдаТУТ Львів",
-        "Truth is HERE Lviv"
-      ],
-      "network": null,
-      "owners": [
-        "Telekanal PravdaTUT Lviv Media Group"
-      ]
-    },
-    {
-      "id": "Premialnoe.ru",
-      "name": "Premialnoe",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/PremialnoeHD.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Премиальное"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "PremierSports.ph",
       "name": "Premier Sports",
       "logo": null,
@@ -129511,30 +127362,6 @@
       "owners": []
     },
     {
-      "id": "Priamyi.ua",
-      "name": "Priamyi",
-      "logo": null,
-      "url": "https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Прямий",
-        "Pryamyy",
-        "Direct"
-      ],
-      "network": null,
-      "owners": [
-        "Free Media Holding"
-      ]
-    },
-    {
       "id": "PRIDEtvLATAM.cl",
       "name": "PRIDEtv LATAM",
       "logo": null,
@@ -129552,26 +127379,6 @@
       ],
       "altNames": [],
       "network": "OUTtv",
-      "owners": []
-    },
-    {
-      "id": "Priklyucheniya.ru",
-      "name": "Priklyucheniya",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/AdventuresHD.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Приключения"
-      ],
-      "network": null,
       "owners": []
     },
     {
@@ -130009,26 +127816,6 @@
         "Deportes"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "PROTV.ro",
-      "name": "PRO TV",
-      "logo": null,
-      "url": "https://hls.rundletv.eu.org/LIVE$ProTV/Level/300720051?end=END&start=LIVE",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Canal 31"
-      ],
       "network": null,
       "owners": []
     },
@@ -130535,27 +128322,6 @@
         "Educación"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "Psikhologiya.ru",
-      "name": "Psikhologiya",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Psikhologiya21.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Психология",
-        "Психология 21"
-      ],
       "network": null,
       "owners": []
     },
@@ -136971,24 +134737,6 @@
       "owners": []
     },
     {
-      "id": "Really.uk",
-      "name": "Really",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Really.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Record.br",
       "name": "Record",
       "logo": null,
@@ -138131,7 +135879,7 @@
       "id": "RENTV.ru",
       "name": "REN TV",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/RENTVHD_Moskva.m3u8",
+      "url": "http://94.230.128.107:8080/PEH_TB/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -138694,7 +136442,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Get After It Media"
+      ]
     },
     {
       "id": "RetroCrush.us",
@@ -139322,7 +137072,7 @@
       "id": "Riigikogu.ee",
       "name": "Riigikogu",
       "logo": null,
-      "url": "https://le02.euddn.net/6487956abb8faf0706d8c4c2465f54cb3625b812fec8e13d11668907ff00f44b004ea22691a9216c71ebda22b7e6e57c8b923aeee9e1e6aa447947c014b7a3babd73ab865562f4ae463ce0c617da65805296ed52a0af64d7d881781d282ea970de7a1ab524c1ea73e271a8df71d43212f4850e2d81241308886184db1abf516f2d6d0b9965402fc7c960e27fa968eabb077474e7493c278ebae58d614923fb2f5c76c2865cb681763ffd765a39a629ce/smil:rk_live_1.smil/playlist.m3u8",
+      "url": "https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005",
       "country": "Estonia",
       "countryCode": "EE",
       "language_primary": null,
@@ -141608,26 +139358,6 @@
       ]
     },
     {
-      "id": "RTLCrime.de",
-      "name": "RTL Crime",
-      "logo": null,
-      "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "RTL Group S.A."
-      ]
-    },
-    {
       "id": "RTLGold.hu",
       "name": "RTL Gold",
       "logo": null,
@@ -141715,26 +139445,6 @@
       "network": null,
       "owners": [
         "CLT-UFA SA"
-      ]
-    },
-    {
-      "id": "RTLPassion.de",
-      "name": "RTL Passion",
-      "logo": null,
-      "url": "http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "RTL Group S.A."
       ]
     },
     {
@@ -144109,7 +141819,7 @@
       "id": "RusskiyIllusion.ru",
       "name": "Russkiy Illusion",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/RusskiyIllusion.m3u8",
+      "url": "http://31.148.48.15/Russkiy_illusion/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -144377,7 +142087,7 @@
       "id": "Rybalka.ua",
       "name": "Rybalka",
       "logo": null,
-      "url": "https://iptv.prosto.tv/ch88/index.m3u8",
+      "url": "https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8",
       "country": "Ukraine",
       "countryCode": "UA",
       "language_primary": null,
@@ -144395,26 +142105,6 @@
       "owners": [
         "National Television Council"
       ]
-    },
-    {
-      "id": "Rybolov.ru",
-      "name": "Rybolov",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Rybolov.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Aire Libre"
-      ],
-      "altNames": [
-        "Рыболов"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "Ryzhiy.ru",
@@ -150638,24 +148328,6 @@
       ]
     },
     {
-      "id": "SkyNature.uk",
-      "name": "Sky Nature",
-      "logo": null,
-      "url": "https://trs1.aynaott.com/skynature/index.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "SkyNews.ie",
       "name": "Sky News",
       "logo": null,
@@ -151937,24 +149609,6 @@
       "section": "general",
       "categories": [
         "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "SonataTV.ua",
-      "name": "Sonata TV",
-      "logo": null,
-      "url": "https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
       ],
       "altNames": [],
       "network": null,
@@ -154090,26 +151744,6 @@
       "network": null,
       "owners": [
         "AMC Networks Central Europe Kft."
-      ]
-    },
-    {
-      "id": "Sport1Baltic.ua",
-      "name": "Sport 1 Baltic",
-      "logo": null,
-      "url": "http://ott.watch/XE5QWWBZ87/461/tracks-v2a1/mono.ts.m3u8?sid=c3f03b2b-bf32-49e2-8675-d1a321912ce8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Surface TV"
       ]
     },
     {
@@ -158127,27 +155761,6 @@
       "owners": []
     },
     {
-      "id": "SuperPlus.ua",
-      "name": "Super+",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch382/tracks-v1a1/1.m3u8?cs_track=false&e=1783162263&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&ses=365ec247746bd22d&st=9GLxg7DNUXR_MCB9X30Qew&uid=9szoe89y",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General",
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Starlight Media Group"
-      ]
-    },
-    {
       "id": "Super7FM.do",
       "name": "Super7FM",
       "logo": null,
@@ -158607,105 +156220,10 @@
       "owners": []
     },
     {
-      "id": "SuspilneDonbas.ua",
-      "name": "Suspilne. Donbas",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch191/tracks-v1a1/mono.m3u8?21yo=1&e=1783350581&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=FOBLjQZsAj97omf627Quzg",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Суспільне. Донбас",
-        "UΛ: Донбасс"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "SuspilneIvanoFrankivsk.ua",
-      "name": "Suspilne. Ivano-Frankivsk",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch96/tracks-v1a1/mono.m3u8?21yo=0&e=1783094347&id=921239&ip=5.63.189.224&live=1&secret=z6vxuhnm&st=kGRjEFP8_5qe3vEINbXwBQ",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Суспільне. Івано-Франківськ",
-        "UΛ: Карпати"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "SuspilneKrym.ua",
-      "name": "Suspilne. Krym",
-      "logo": null,
-      "url": "https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Суспільне. Крим",
-        "UΛ: Крым",
-        "ТРК"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "SuspilneKultura.ua",
-      "name": "Suspilne. Kultura",
-      "logo": null,
-      "url": "https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Cultura"
-      ],
-      "altNames": [
-        "Суспільне. Культура",
-        "Society Culture",
-        "UΛ: Культура",
-        "Культура"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
       "id": "SuspilneKyiv.ua",
       "name": "Suspilne. Kyiv",
       "logo": null,
-      "url": "https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8",
+      "url": "https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8",
       "country": "Ukraine",
       "countryCode": "UA",
       "language_primary": null,
@@ -158720,199 +156238,6 @@
         "UΛ: Киев",
         "КДРТРК",
         "Центральный Канал"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "SuspilneLutsk.ua",
-      "name": "Suspilne. Lutsk",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch222/tracks-v1a1/mono.m3u8?21yo=0&e=1783108254&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&st=xvdqQHExhHEv8FDqvbjDbg",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Суспільне. Луцьк",
-        "UΛ: Волинь"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "SuspilneLviv.ua",
-      "name": "Suspilne. Lviv",
-      "logo": null,
-      "url": "http://91.146.94.234:10001/play/a00l",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Суспільне. Львів",
-        "12 канал",
-        "Львов",
-        "UΛ: Львов"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "SuspilneMykolaiv.ua",
-      "name": "Suspilne. Mykolaiv",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch211/tracks-v1a1/mono.m3u8?21yo=0&e=1783194414&id=921239&ip=5.63.189.224&live=1&secret=f8z1l7gk&st=Lz1QtjfblUmkawUbk1Mx6w",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Суспільне. Миколаїв",
-        "7 канал",
-        "Николаев"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "SuspilneRivne.ua",
-      "name": "Suspilne. Rivne",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch229/tracks-v1a1/mono.m3u8?21yo=1&e=1783195240&id=921239&ip=5.63.189.224&live=1&secret=f8z1l7gk&st=4RqJ6hzZ9REJQe0f8U3fTw",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Суспільне. Рівне",
-        "РДТ",
-        "РТБ",
-        "UΛ: Ровно"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "SuspilneSport.ua",
-      "name": "Suspilne. Sport",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch112/tracks-v2a1/mono.m3u8?21yo=0&e=1783247457&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&st=jPS6nYqNZLDECF8uSDa74g",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Суспільне. Спорт",
-        "Social. Sport",
-        "UΛ: Спорт"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "SuspilneVinnytsia.ua",
-      "name": "Suspilne. Vinnytsia",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch188/tracks-v1a1/mono.m3u8?21yo=0&e=1783247585&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&st=u4uN-dkUOQb4cDe7lNCaeg",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Суспільне. Вінниця",
-        "ВДТ-6",
-        "Винтера",
-        "UΛ: Винница"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "SuspilneZaporizhzhya.ua",
-      "name": "Suspilne. Zaporizhzhya",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch187/tracks-v1a1/mono.m3u8?21yo=1&e=1783094937&id=921239&ip=5.63.189.224&live=1&secret=z6vxuhnm&st=EzFtzQG2T03aIIo4Sdn-OQ",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Суспільне. Запоріжжя",
-        "UΛ: Запорожье"
-      ],
-      "network": null,
-      "owners": [
-        "National Public Television and Radio Company of Ukraine"
-      ]
-    },
-    {
-      "id": "SuspilneZhytomyr.ua",
-      "name": "Suspilne. Zhytomyr",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch183/tracks-v1a1/mono.m3u8?21yo=1&e=1783094567&id=921239&ip=5.63.189.224&live=1&secret=z6vxuhnm&st=eSKzulrNBzvGLO-irrW1Fg",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Суспільне. Житомир",
-        "Житомир",
-        "UΛ: Житомир"
       ],
       "network": null,
       "owners": [
@@ -159061,30 +156386,6 @@
         "Viaplay Group AB (publ)",
         "VIMN Nordic AB",
         "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "Svarozhychy.ua",
-      "name": "Svarozhychy",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch168/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Сварожичи",
-        "Горизонт ТВ"
-      ],
-      "network": null,
-      "owners": [
-        "Unika-TV",
-        "Planeta"
       ]
     },
     {
@@ -171898,7 +169199,7 @@
       "id": "TraceUrban.fr",
       "name": "Trace Urban",
       "logo": null,
-      "url": "https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8",
+      "url": "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -173310,6 +170611,26 @@
         "General"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TSV.md",
+      "name": "TSV",
+      "logo": null,
+      "url": "https://tsv.md/stream/hls/tsv-online/index.m3u8",
+      "country": "Moldova",
+      "countryCode": "MD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "ТСВ"
+      ],
       "network": null,
       "owners": []
     },
@@ -179846,7 +177167,7 @@
       "id": "TV1000.ro",
       "name": "TV1000",
       "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6944/index.m3u8",
+      "url": "http://82.78.243.219:45739/play/a01b/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -183334,7 +180655,7 @@
       "id": "TVR1.ro",
       "name": "TVR 1",
       "logo": null,
-      "url": "https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8",
+      "url": "https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -183359,7 +180680,7 @@
       "id": "TVR2.ro",
       "name": "TVR 2",
       "logo": null,
-      "url": "https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8",
+      "url": "https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -183381,7 +180702,7 @@
       "id": "TVR3.ro",
       "name": "TVR 3",
       "logo": null,
-      "url": "https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8",
+      "url": "https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -183401,7 +180722,7 @@
       "id": "TVRCluj.ro",
       "name": "TVR Cluj",
       "logo": null,
-      "url": "https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist_b5160000.m3u8",
+      "url": "https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -183421,7 +180742,7 @@
       "id": "TVRCraiova.ro",
       "name": "TVR Craiova",
       "logo": null,
-      "url": "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8",
+      "url": "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -183441,7 +180762,7 @@
       "id": "TVRCultural.ro",
       "name": "TVR Cultural",
       "logo": null,
-      "url": "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8",
+      "url": "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -183500,7 +180821,7 @@
       "id": "TVRInfo.ro",
       "name": "TVR Info",
       "logo": null,
-      "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8",
+      "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -183520,7 +180841,7 @@
       "id": "TVRInternational.ro",
       "name": "TVR International",
       "logo": null,
-      "url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8",
+      "url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -183578,7 +180899,7 @@
       "id": "TVRSport.ro",
       "name": "TVR Sport",
       "logo": null,
-      "url": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8",
+      "url": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -183617,7 +180938,7 @@
       "id": "TVRTimisoara.ro",
       "name": "TVR Timisoara",
       "logo": null,
-      "url": "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8",
+      "url": "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -185073,46 +182394,6 @@
       "owners": []
     },
     {
-      "id": "UAFashionTV.ua",
-      "name": "UA Fashion TV",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch216/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Estilo de Vida"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Michel Adam Lisowski"
-      ]
-    },
-    {
-      "id": "UAMusic.ua",
-      "name": "UA Music",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/ch133/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Rudolf Kirnos"
-      ]
-    },
-    {
       "id": "UACJTV.mx",
       "name": "UACJ-TV",
       "logo": null,
@@ -185805,28 +183086,6 @@
         "Viaplay Group AB (publ)",
         "VIMN Nordic AB",
         "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "UNIANTV.ua",
-      "name": "UNIAN TV",
-      "logo": null,
-      "url": "https://iptv.prosto.tv/id22/index.m3u8?21yo=&secret=f8z1l7gk",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "УНІАН ТБ"
-      ],
-      "network": null,
-      "owners": [
-        "1+1 Media Group"
       ]
     },
     {
@@ -187171,26 +184430,6 @@
       "owners": []
     },
     {
-      "id": "Vmirezhivotnykh.ru",
-      "name": "V mire zhivotnykh",
-      "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/AnimalFamilyHD.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "В мире животных"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "VSportGolf.se",
       "name": "V Sport Golf",
       "logo": null,
@@ -187800,7 +185039,7 @@
       "id": "VantageClassic.ee",
       "name": "Vantage Classic",
       "logo": null,
-      "url": "https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8",
+      "url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
       "country": "Estonia",
       "countryCode": "EE",
       "language_primary": null,
@@ -189209,54 +186448,10 @@
       "owners": []
     },
     {
-      "id": "ViasatKino.ua",
-      "name": "Viasat Kino",
-      "logo": null,
-      "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31765/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "TV1000 East"
-      ],
-      "network": null,
-      "owners": [
-        "Viasat Ukraine"
-      ]
-    },
-    {
-      "id": "ViasatKinoAction.ua",
-      "name": "Viasat Kino Action",
-      "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12024/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "TV1000 Action East"
-      ],
-      "network": null,
-      "owners": [
-        "Viasat Ukraine"
-      ]
-    },
-    {
       "id": "ViasatKinoComedy.ua",
       "name": "Viasat Kino Comedy",
       "logo": null,
-      "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8",
+      "url": "http://ukr.ukrainske.tv/493/keytvainua/video.m3u8",
       "country": "Ukraine",
       "countryCode": "UA",
       "language_primary": null,
@@ -189269,28 +186464,6 @@
       ],
       "altNames": [
         "ViP Comedy East"
-      ],
-      "network": null,
-      "owners": [
-        "Viasat Ukraine"
-      ]
-    },
-    {
-      "id": "ViasatKinoWorld.ua",
-      "name": "Viasat Kino World",
-      "logo": null,
-      "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31448/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "TV1000 World Kino"
       ],
       "network": null,
       "owners": [
@@ -189354,27 +186527,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "ViasatSerial.ua",
-      "name": "Viasat Serial",
-      "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/17056/index.m3u8",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas",
-        "Series"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Viasat World"
-      ]
     },
     {
       "id": "Viasat2.hu",
@@ -193097,26 +190249,6 @@
       "network": null,
       "owners": [
         "Welat TV"
-      ]
-    },
-    {
-      "id": "WELT.de",
-      "name": "WELT",
-      "logo": null,
-      "url": "https://s6.hopslan.com/n24X/index.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "WeltN24 GmbH"
       ]
     },
     {
@@ -197243,24 +194375,6 @@
       "owners": []
     },
     {
-      "id": "YabanTV.tr",
-      "name": "Yaban TV",
-      "logo": null,
-      "url": "http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6868/index.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "YachtingTV.cz",
       "name": "Yachting TV",
       "logo": null,
@@ -200032,28 +197146,6 @@
       "owners": []
     },
     {
-      "id": "ZUTV.ro",
-      "name": "ZU TV",
-      "logo": null,
-      "url": "https://hls.rundletv.eu.org/LIVE$RadioZU/6.m3u8/Level/300720051?end=END&start=LIVE",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "ZU Channel",
-        "GSP TV",
-        "Arenna TV"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "ZugloTV.hu",
       "name": "Zuglo TV",
       "logo": null,
@@ -201583,46 +198675,46 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 391
+      "count": 386
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 572
+      "count": 554
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 349
+      "count": 346
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 417
+      "count": 400
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1799
+      "count": 1788
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6554
+      "count": 6470
     }
   ],
   "stats": {
-    "total": 40412,
-    "withStreams": 10160,
-    "spanish": 1916,
+    "total": 40421,
+    "withStreams": 10022,
+    "spanish": 1901,
     "adult": 78,
     "bySection": {
-      "peliculas": 572,
-      "general": 6554,
-      "español": 1799,
-      "infantil": 417,
-      "series": 349,
-      "deportes": 391
+      "peliculas": 554,
+      "general": 6470,
+      "español": 1788,
+      "infantil": 400,
+      "series": 346,
+      "deportes": 386
     },
     "topCountries": [
       {
@@ -201637,22 +198729,22 @@
       },
       {
         "code": "DE",
-        "count": 448,
+        "count": 438,
         "name": "Germany"
       },
       {
         "code": "RU",
-        "count": 401,
+        "count": 371,
         "name": "Russia"
       },
       {
         "code": "ES",
-        "count": 276,
+        "count": 261,
         "name": "Spain"
       },
       {
         "code": "IT",
-        "count": 252,
+        "count": 253,
         "name": "Italy"
       },
       {
@@ -201667,7 +198759,7 @@
       },
       {
         "code": "TR",
-        "count": 229,
+        "count": 227,
         "name": "Turkiye"
       },
       {
@@ -201677,6 +198769,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-30T01:54:09.288Z",
+  "lastUpdated": "2026-07-01T01:59:36.026Z",
   "source": "orion-stream"
 }
