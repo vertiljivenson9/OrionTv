@@ -2565,6 +2565,24 @@
       "owners": []
     },
     {
+      "id": "5Plus.mm",
+      "name": "5 Plus",
+      "logo": null,
+      "url": "https://mmtvs.exliatycl.online/5plus/stream.m3u8",
+      "country": "Myanmar",
+      "countryCode": "MM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "50Canale.it",
       "name": "50 Canale",
       "logo": null,
@@ -2665,6 +2683,28 @@
       "owners": []
     },
     {
+      "id": "5Sport.il",
+      "name": "5Sport",
+      "logo": null,
+      "url": "http://stream.mcquack.net/41/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "ספורט 5"
+      ],
+      "network": null,
+      "owners": [
+        "RGE Group"
+      ]
+    },
+    {
       "id": "5tv.ar",
       "name": "5tv",
       "logo": null,
@@ -2681,6 +2721,29 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "6sotok.ua",
+      "name": "6 sotok",
+      "logo": null,
+      "url": "http://stream.mcquack.net/405/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "6 соток",
+        "6 acres"
+      ],
+      "network": null,
+      "owners": [
+        "Inter Media Group"
+      ]
     },
     {
       "id": "6TVTelugu.in",
@@ -13914,26 +13977,6 @@
       ]
     },
     {
-      "id": "ArenaEsport.rs",
-      "name": "Arena Esport",
-      "logo": null,
-      "url": "https://webtvstream.bhtelecom.ba/arena_esport.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Arena Esport Srbija"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "ArenaFight.rs",
       "name": "Arena Fight",
       "logo": null,
@@ -15152,6 +15195,44 @@
       "network": null,
       "owners": [
         "Prometevs"
+      ]
+    },
+    {
+      "id": "ArmeniaPremium.am",
+      "name": "Armenia Premium",
+      "logo": null,
+      "url": "http://stream.mcquack.net/123/index.m3u8",
+      "country": "Armenia",
+      "countryCode": "AM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "ArmeniaTV.am",
+      "name": "Armenia TV",
+      "logo": null,
+      "url": "http://stream.mcquack.net/175/index.m3u8",
+      "country": "Armenia",
+      "countryCode": "AM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Panarmenian Media Group"
       ]
     },
     {
@@ -16912,6 +16993,28 @@
       "owners": []
     },
     {
+      "id": "ATV.am",
+      "name": "ATV",
+      "logo": null,
+      "url": "http://stream.mcquack.net/36/index.m3u8",
+      "country": "Armenia",
+      "countryCode": "AM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "ԱԹԻՎԻ"
+      ],
+      "network": null,
+      "owners": [
+        "Panarmenian Media Group"
+      ]
+    },
+    {
       "id": "ATV.at",
       "name": "ATV",
       "logo": null,
@@ -18606,6 +18709,26 @@
       ]
     },
     {
+      "id": "AztecaDeportesNetwork.mx",
+      "name": "Azteca Deportes Network",
+      "logo": null,
+      "url": "http://38.194.226.190:8000/play/a02r/index.m3u8",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "Televisión Azteca",
+      "owners": [
+        "TV Azteca"
+      ]
+    },
+    {
       "id": "AztecaHonduras.hn",
       "name": "Azteca Honduras",
       "logo": null,
@@ -19487,6 +19610,24 @@
       "url": "http://77.89.199.174:8000/play/1024/index.m3u8",
       "country": "Moldova",
       "countryCode": "MD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "BalticumTV.lt",
+      "name": "Balticum TV",
+      "logo": null,
+      "url": "http://stream.mcquack.net/376/index.m3u8",
+      "country": "Lithuania",
+      "countryCode": "LT",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -26201,60 +26342,6 @@
       ]
     },
     {
-      "id": "BRT1.cy",
-      "name": "BRT 1",
-      "logo": null,
-      "url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8",
-      "country": "Cyprus",
-      "countryCode": "CY",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BRT2.cy",
-      "name": "BRT 2",
-      "logo": null,
-      "url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8",
-      "country": "Cyprus",
-      "countryCode": "CY",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BRT3.cy",
-      "name": "BRT 3",
-      "logo": null,
-      "url": "http://185.234.111.229:8000/play/a07e",
-      "country": "Cyprus",
-      "countryCode": "CY",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "BRTV.id",
       "name": "BRTV",
       "logo": null,
@@ -26697,6 +26784,29 @@
       "network": null,
       "owners": [
         "B Universe"
+      ]
+    },
+    {
+      "id": "BTV.lt",
+      "name": "BTV",
+      "logo": null,
+      "url": "http://stream.mcquack.net/35/index.m3u8",
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "TV4",
+        "Baltijos Televizija"
+      ],
+      "network": null,
+      "owners": [
+        "Laisvas ir nepriklausomas kanalas UAB"
       ]
     },
     {
@@ -37558,6 +37668,28 @@
       ]
     },
     {
+      "id": "Channel24.il",
+      "name": "Channel 24",
+      "logo": null,
+      "url": "http://stream.mcquack.net/42/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Keshet 12"
+      ],
+      "network": null,
+      "owners": [
+        "Keshet Media Group"
+      ]
+    },
+    {
       "id": "Channel24.ua",
       "name": "Channel 24",
       "logo": null,
@@ -37780,7 +37912,7 @@
       "id": "Channel7Kazakhstan.kz",
       "name": "Channel 7 Kazakhstan",
       "logo": null,
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/7_kanal_Kazakhstan.m3u8",
+      "url": "http://stream.mcquack.net/27/index.m3u8",
       "country": "Kazakhstan",
       "countryCode": "KZ",
       "language_primary": null,
@@ -37983,6 +38115,26 @@
       "network": null,
       "owners": [
         "Alexander Levin"
+      ]
+    },
+    {
+      "id": "Channel9.mm",
+      "name": "Channel 9",
+      "logo": null,
+      "url": "https://mmtvs.exliatycl.online/channel9/stream.m3u8",
+      "country": "Myanmar",
+      "countryCode": "MM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Shwe Thanlwin Media"
       ]
     },
     {
@@ -42943,24 +43095,6 @@
       ]
     },
     {
-      "id": "CNC.kh",
-      "name": "CNC",
-      "logo": null,
-      "url": "http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8",
-      "country": "Cambodia",
-      "countryCode": "KH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "CNCBugavision.co",
       "name": "CNC Bugavision",
       "logo": null,
@@ -44594,6 +44728,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ContinentE.ua",
+      "name": "Continent E",
+      "logo": null,
+      "url": "http://stream.mcquack.net/449/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Континент Е"
+      ],
+      "network": null,
+      "owners": [
+        "Viasat Ukraine"
+      ]
     },
     {
       "id": "Contivision.cl",
@@ -46287,24 +46443,6 @@
       "owners": [
         "China Times Media Group"
       ]
-    },
-    {
-      "id": "CTN.kh",
-      "name": "CTN",
-      "logo": null,
-      "url": "http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8",
-      "country": "Cambodia",
-      "countryCode": "KH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "CTN.us",
@@ -52194,7 +52332,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึกษา���างไกลผ่านดาวเทียม"
+        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -52986,6 +53124,29 @@
       "owners": [
         "Pluto Inc.",
         "Paramount Skydance Corporation"
+      ]
+    },
+    {
+      "id": "Dorama.ru",
+      "name": "Dorama",
+      "logo": null,
+      "url": "http://stream.mcquack.net/412/index.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Дорама"
+      ],
+      "network": null,
+      "owners": [
+        "Time Media Group",
+        "Red Media"
       ]
     },
     {
@@ -54508,6 +54669,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "DynamoKyivTV.ua",
+      "name": "Dynamo Kyiv TV",
+      "logo": null,
+      "url": "http://stream.mcquack.net/396/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Динамо Киев ТВ"
+      ],
+      "network": null,
+      "owners": [
+        "FC Dynamo Kyiv"
+      ]
     },
     {
       "id": "Dynasty.de",
@@ -57891,6 +58074,26 @@
       "owners": []
     },
     {
+      "id": "Equalympic.ua",
+      "name": "Equalympic",
+      "logo": null,
+      "url": "http://stream.mcquack.net/485/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "E-lympic"
+      ]
+    },
+    {
       "id": "Equidia.fr",
       "name": "Equidia",
       "logo": null,
@@ -60870,6 +61073,26 @@
       ]
     },
     {
+      "id": "FamilyJr.ca",
+      "name": "Family Jr",
+      "logo": null,
+      "url": "http://tvsen5.aynascope.net/familyjr/index.m3u8",
+      "country": "Canada",
+      "countryCode": "CA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Familia"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "WildBrain"
+      ]
+    },
+    {
       "id": "FamilyTies.se",
       "name": "Family Ties",
       "logo": null,
@@ -60936,7 +61159,7 @@
       "id": "FAN.ru",
       "name": "FAN",
       "logo": null,
-      "url": "http://31.148.48.15/Fan/index.m3u8",
+      "url": "http://stream.mcquack.net/420/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -61262,7 +61485,7 @@
       "id": "FashionBox.nl",
       "name": "FashionBox",
       "logo": null,
-      "url": "https://webtvstream.bhtelecom.ba/hls6/fashion_box.m3u8",
+      "url": "https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8",
       "country": "Netherlands",
       "countryCode": "NL",
       "language_primary": null,
@@ -61416,6 +61639,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Fauna.ua",
+      "name": "Fauna",
+      "logo": null,
+      "url": "http://stream.mcquack.net/401/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Educación"
+      ],
+      "altNames": [
+        "Фауна"
+      ],
+      "network": null,
+      "owners": [
+        "Film.UA Group"
+      ]
     },
     {
       "id": "FazalTV.pk",
@@ -62108,6 +62353,86 @@
       "network": null,
       "owners": [
         "AMC Networks Central Europe Kft."
+      ]
+    },
+    {
+      "id": "Film1Action.nl",
+      "name": "Film1 Action",
+      "logo": null,
+      "url": "http://86.87.15.10:8008/play/a01l/index.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International"
+      ]
+    },
+    {
+      "id": "Film1Drama.nl",
+      "name": "Film1 Drama",
+      "logo": null,
+      "url": "http://86.87.15.10:8008/play/a01k/index.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International"
+      ]
+    },
+    {
+      "id": "Film1Family.nl",
+      "name": "Film1 Family",
+      "logo": null,
+      "url": "http://86.87.15.10:8008/play/a01m/index.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International"
+      ]
+    },
+    {
+      "id": "Film1Premiere.nl",
+      "name": "Film1 Premiere",
+      "logo": null,
+      "url": "http://86.87.15.10:8008/play/a01n/index.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International"
       ]
     },
     {
@@ -63488,6 +63813,24 @@
       "owners": []
     },
     {
+      "id": "FortisTV.ng",
+      "name": "Fortis TV",
+      "logo": null,
+      "url": "https://stream.fortistv.com/hls/fortis-news/index.m3u8",
+      "country": "Nigeria",
+      "countryCode": "NG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "FortunaTV.tr",
       "name": "Fortuna TV",
       "logo": null,
@@ -63607,7 +63950,7 @@
       "id": "Fox.us",
       "name": "Fox",
       "logo": null,
-      "url": "http://stream.cammonitorplus.net/1799/index.m3u8",
+      "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -67698,6 +68041,30 @@
       "owners": []
     },
     {
+      "id": "Go3Sport1.ee",
+      "name": "Go3 Sport 1",
+      "logo": null,
+      "url": "http://stream.mcquack.net/416/index.m3u8",
+      "country": "Estonia",
+      "countryCode": "EE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "TV3 Sport",
+        "TVPlay Sports",
+        "Viasat Sport Baltic"
+      ],
+      "network": null,
+      "owners": [
+        "TV3 Group"
+      ]
+    },
+    {
       "id": "Goa365.in",
       "name": "Goa365",
       "logo": null,
@@ -70425,7 +70792,7 @@
         "General"
       ],
       "altNames": [
-        "شبک�� همدان"
+        "شبکه همدان"
       ],
       "network": null,
       "owners": []
@@ -73903,7 +74270,7 @@
       "id": "HOTDrama.il",
       "name": "HOT Drama",
       "logo": null,
-      "url": "http://stream.mcquack.net/379/index.m3u8",
+      "url": "http://stream.mcquack.net/381/index.m3u8",
       "country": "Israel",
       "countryCode": "IL",
       "language_primary": null,
@@ -73921,7 +74288,7 @@
       "id": "HOTZone.il",
       "name": "HOT Zone",
       "logo": null,
-      "url": "http://stream.mcquack.net/381/index.m3u8",
+      "url": "http://stream.mcquack.net/379/index.m3u8",
       "country": "Israel",
       "countryCode": "IL",
       "language_primary": null,
@@ -83203,6 +83570,26 @@
       ]
     },
     {
+      "id": "KapatidTV5.ph",
+      "name": "Kapatid TV 5",
+      "logo": null,
+      "url": "https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "TV5"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "KapazTV.az",
       "name": "Kapaz TV",
       "logo": null,
@@ -84157,6 +84544,28 @@
       "owners": []
     },
     {
+      "id": "KentronTV.am",
+      "name": "Kentron TV",
+      "logo": null,
+      "url": "http://stream.mcquack.net/39/index.m3u8",
+      "country": "Armenia",
+      "countryCode": "AM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Կենտրոն հեռուստատեսություն"
+      ],
+      "network": null,
+      "owners": [
+        "Multimedia Kentron PBY"
+      ]
+    },
+    {
       "id": "KermanTV.ir",
       "name": "Kerman TV",
       "logo": null,
@@ -84234,6 +84643,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Keshet12.il",
+      "name": "Keshet 12",
+      "logo": null,
+      "url": "http://stream.mcquack.net/294/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "קשת 12"
+      ],
+      "network": null,
+      "owners": [
+        "Keshet Media Group"
+      ]
     },
     {
       "id": "KetchupTV.us",
@@ -85037,6 +85468,26 @@
       "owners": []
     },
     {
+      "id": "Kino1.ua",
+      "name": "Kino 1",
+      "logo": null,
+      "url": "http://stream.mcquack.net/395/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Surface TV"
+      ]
+    },
+    {
       "id": "Kino24.ru",
       "name": "Kino 24",
       "logo": null,
@@ -85163,6 +85614,26 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Kinoliving.ua",
+      "name": "Kinoliving",
+      "logo": null,
+      "url": "http://stream.mcquack.net/445/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Viasat Ukraine"
+      ]
     },
     {
       "id": "Kinomix.ru",
@@ -85313,6 +85784,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Kinowood.ua",
+      "name": "Kinowood",
+      "logo": null,
+      "url": "http://stream.mcquack.net/446/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Viasat Ukraine"
+      ]
     },
     {
       "id": "KIROTV71.us",
@@ -90814,6 +91305,26 @@
       "owners": []
     },
     {
+      "id": "LawTV.ru",
+      "name": "Law TV",
+      "logo": null,
+      "url": "http://stream.mcquack.net/406/index.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Закон ТБ"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "LaXitosaPanama.pa",
       "name": "LaXitosa Panama",
       "logo": null,
@@ -92791,6 +93302,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "LNK.lt",
+      "name": "LNK",
+      "logo": null,
+      "url": "http://stream.mcquack.net/30/index.m3u8",
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "MG group"
+      ]
     },
     {
       "id": "Loading.br",
@@ -96816,6 +97347,26 @@
         "Música"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "MasonTV.ua",
+      "name": "Mason TV",
+      "logo": null,
+      "url": "http://stream.mcquack.net/346/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Масон ТБ"
+      ],
       "network": null,
       "owners": []
     },
@@ -106337,24 +106888,6 @@
       ]
     },
     {
-      "id": "MyTV.kh",
-      "name": "My TV",
-      "logo": null,
-      "url": "http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8",
-      "country": "Cambodia",
-      "countryCode": "KH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "MyTVChannel.cm",
       "name": "My TV Channel",
       "logo": null,
@@ -106371,6 +106904,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "MyUkrainaPlus.ua",
+      "name": "My Ukraina+",
+      "logo": null,
+      "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Ми — Україна+"
+      ],
+      "network": null,
+      "owners": [
+        "Igor Petrenko"
+      ]
     },
     {
       "id": "MyUkrainaTV.ua",
@@ -108067,6 +108622,29 @@
       "network": null,
       "owners": [
         "VGTRK"
+      ]
+    },
+    {
+      "id": "Nauka.ua",
+      "name": "Nauka",
+      "logo": null,
+      "url": "http://stream.mcquack.net/403/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Ciencia"
+      ],
+      "altNames": [
+        "Наука",
+        "Science"
+      ],
+      "network": null,
+      "owners": [
+        "Film.UA Group"
       ]
     },
     {
@@ -110978,6 +111556,29 @@
       "owners": []
     },
     {
+      "id": "NHKGeneralTV.jp",
+      "name": "NHK General TV",
+      "logo": null,
+      "url": "https://nhk4.mov3.co/hls/nhk.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "NHK G",
+        "NHK総合テレビジョン"
+      ],
+      "network": null,
+      "owners": [
+        "Citizens of Japan"
+      ]
+    },
+    {
       "id": "NHKWorldJapan.jp",
       "name": "NHK World-Japan",
       "logo": null,
@@ -111450,6 +112051,26 @@
       "network": "Nickelodeon",
       "owners": [
         "Paramount Networks EMEAA"
+      ]
+    },
+    {
+      "id": "Nickelodeon.uk",
+      "name": "Nickelodeon",
+      "logo": null,
+      "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
+      "owners": [
+        "Nickelodeon UK Ltd"
       ]
     },
     {
@@ -121666,6 +122287,27 @@
       ]
     },
     {
+      "id": "Pershyiavtomobilnyi.ua",
+      "name": "Pershyi avtomobilnyi",
+      "logo": null,
+      "url": "http://stream.mcquack.net/404/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Automovilismo"
+      ],
+      "altNames": [
+        "Перший автомобільний",
+        "First automotive"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "PershyiZahidnyi.ua",
       "name": "Pershyi Zahidnyi",
       "logo": null,
@@ -131166,6 +131808,24 @@
       "owners": []
     },
     {
+      "id": "PolsatSportFight.pl",
+      "name": "Polsat Sport Fight",
+      "logo": null,
+      "url": "http://91.146.94.234:10001/play/a070",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "PolsatSportPremium1.pl",
       "name": "Polsat Sport Premium 1",
       "logo": null,
@@ -132850,6 +133510,26 @@
       "owners": [
         "PRO Digital SRL"
       ]
+    },
+    {
+      "id": "PROTVInternational.ro",
+      "name": "PRO TV International",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/protvint/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "PRO TV Internațional"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "Pro100TV.ru",
@@ -154666,6 +155346,26 @@
       "owners": []
     },
     {
+      "id": "SkyShowtime1.fi",
+      "name": "SkyShowtime 1",
+      "logo": null,
+      "url": "http://91.146.94.234:10001/play/a0bg",
+      "country": "Finland",
+      "countryCode": "FI",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "SkyShowtime 1 HD"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SL1.ir",
       "name": "SL 1",
       "logo": null,
@@ -158011,6 +158711,28 @@
       ]
     },
     {
+      "id": "Sport1.ua",
+      "name": "Sport 1",
+      "logo": null,
+      "url": "http://stream.mcquack.net/391/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Спорт 1"
+      ],
+      "network": null,
+      "owners": [
+        "Surface TV"
+      ]
+    },
+    {
       "id": "Sport1Baltic.ua",
       "name": "Sport 1 Baltic",
       "logo": null,
@@ -158048,6 +158770,72 @@
       "network": null,
       "owners": [
         "AMC Networks Central Europe Kft."
+      ]
+    },
+    {
+      "id": "Sport2.ua",
+      "name": "Sport 2",
+      "logo": null,
+      "url": "http://stream.mcquack.net/392/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Спорт 2"
+      ],
+      "network": null,
+      "owners": [
+        "Surface TV"
+      ]
+    },
+    {
+      "id": "Sport3.ua",
+      "name": "Sport 3",
+      "logo": null,
+      "url": "http://stream.mcquack.net/393/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Спорт 3"
+      ],
+      "network": null,
+      "owners": [
+        "Surface TV"
+      ]
+    },
+    {
+      "id": "Sport4.ua",
+      "name": "Sport 4",
+      "logo": null,
+      "url": "http://stream.mcquack.net/394/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Спорт 4"
+      ],
+      "network": null,
+      "owners": [
+        "Surface TV"
       ]
     },
     {
@@ -162913,6 +163701,31 @@
       ]
     },
     {
+      "id": "SuspilneKultura.ua",
+      "name": "Suspilne. Kultura",
+      "logo": null,
+      "url": "http://stream.mcquack.net/435/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Cultura"
+      ],
+      "altNames": [
+        "Суспільне. Культура",
+        "Society Culture",
+        "UΛ: Культура",
+        "Культура"
+      ],
+      "network": null,
+      "owners": [
+        "National Public Television and Radio Company of Ukraine"
+      ]
+    },
+    {
       "id": "SuspilneKyiv.ua",
       "name": "Suspilne. Kyiv",
       "logo": null,
@@ -162931,6 +163744,30 @@
         "UΛ: Киев",
         "КДРТРК",
         "Центральный Канал"
+      ],
+      "network": null,
+      "owners": [
+        "National Public Television and Radio Company of Ukraine"
+      ]
+    },
+    {
+      "id": "SuspilneSport.ua",
+      "name": "Suspilne. Sport",
+      "logo": null,
+      "url": "http://stream.mcquack.net/444/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Суспільне. Спорт",
+        "Social. Sport",
+        "UΛ: Спорт"
       ],
       "network": null,
       "owners": [
@@ -163261,6 +164098,28 @@
       "network": null,
       "owners": [
         "St. Vincent and The Grenadines Broadcasting Corporation Ltd."
+      ]
+    },
+    {
+      "id": "SvitPlus.ua",
+      "name": "Svit+",
+      "logo": null,
+      "url": "http://stream.mcquack.net/358/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Світ+"
+      ],
+      "network": null,
+      "owners": [
+        "1+1 Media Group"
       ]
     },
     {
@@ -171278,6 +172137,28 @@
       ]
     },
     {
+      "id": "Terra.ua",
+      "name": "Terra",
+      "logo": null,
+      "url": "http://stream.mcquack.net/402/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Терра"
+      ],
+      "network": null,
+      "owners": [
+        "Film.UA Group"
+      ]
+    },
+    {
       "id": "TERRA.ru",
       "name": "TERRA",
       "logo": null,
@@ -173757,6 +174638,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "TimelessDiziChannel.ro",
+      "name": "Timeless Dizi Channel",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/dizi/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International"
+      ]
     },
     {
       "id": "TimelessTV.us",
@@ -177021,6 +177922,31 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Trofei.ua",
+      "name": "Trofei",
+      "logo": null,
+      "url": "http://stream.mcquack.net/357/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Aire Libre"
+      ],
+      "altNames": [
+        "Трофей",
+        "Trophy"
+      ],
+      "network": null,
+      "owners": [
+        "Salnik Vladimir Anatolyevich",
+        "Medved Andrey Alexandrovich",
+        "Salnik Maxim Anatolyevich"
+      ]
     },
     {
       "id": "TropiQ997FM.pa",
@@ -185343,6 +186269,24 @@
       ]
     },
     {
+      "id": "TV3.lt",
+      "name": "TV3",
+      "logo": null,
+      "url": "http://stream.mcquack.net/29/index.m3u8",
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TV3.my",
       "name": "TV3",
       "logo": null,
@@ -185393,6 +186337,25 @@
       "section": "español",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TV3Life.lv",
+      "name": "TV3 Life",
+      "logo": null,
+      "url": "http://stream.mcquack.net/373/index.m3u8",
+      "country": "Latvia",
+      "countryCode": "LV",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Estilo de Vida",
+        "Entretenimiento"
       ],
       "altNames": [],
       "network": null,
@@ -185808,6 +186771,24 @@
       "owners": []
     },
     {
+      "id": "TV6.lt",
+      "name": "TV6",
+      "logo": null,
+      "url": "http://stream.mcquack.net/375/index.m3u8",
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TV6.my",
       "name": "TV6",
       "logo": null,
@@ -185957,6 +186938,24 @@
       "owners": [
         "Sky Italia"
       ]
+    },
+    {
+      "id": "TV8.lt",
+      "name": "TV8",
+      "logo": null,
+      "url": "http://stream.mcquack.net/374/index.m3u8",
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "TV8.md",
@@ -187123,6 +188122,28 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Tviyserial.ua",
+      "name": "Tviy serial",
+      "logo": null,
+      "url": "http://stream.mcquack.net/466/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
+      ],
+      "altNames": [
+        "Твій серіал"
+      ],
+      "network": null,
+      "owners": [
+        "Starlight Media Group"
+      ]
     },
     {
       "id": "TVJ.jm",
@@ -205368,6 +206389,24 @@
       "owners": []
     },
     {
+      "id": "Zoom.il",
+      "name": "Zoom",
+      "logo": null,
+      "url": "http://stream.mcquack.net/377/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Zoom.in",
       "name": "Zoom",
       "logo": null,
@@ -207053,22 +208092,22 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 440
+      "count": 450
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 591
+      "count": 600
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 355
+      "count": 356
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 409
+      "count": 411
     },
     {
       "id": "español",
@@ -207078,21 +208117,21 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6641
+      "count": 6668
     }
   ],
   "stats": {
     "total": 40853,
-    "withStreams": 10443,
-    "spanish": 2057,
+    "withStreams": 10492,
+    "spanish": 2058,
     "adult": 78,
     "bySection": {
-      "peliculas": 591,
-      "general": 6641,
+      "peliculas": 600,
+      "general": 6668,
       "español": 1929,
-      "infantil": 409,
-      "series": 355,
-      "deportes": 440
+      "infantil": 411,
+      "series": 356,
+      "deportes": 450
     },
     "topCountries": [
       {
@@ -207112,7 +208151,7 @@
       },
       {
         "code": "RU",
-        "count": 405,
+        "count": 407,
         "name": "Russia"
       },
       {
@@ -207147,6 +208186,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-18T01:08:14.216Z",
+  "lastUpdated": "2026-07-19T01:12:52.303Z",
   "source": "orion-stream"
 }
