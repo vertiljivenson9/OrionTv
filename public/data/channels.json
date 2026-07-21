@@ -5231,6 +5231,55 @@
       ]
     },
     {
+      "id": "Acasa.ro",
+      "name": "Acasa",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/acasa/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Acasă",
+        "Pro 2",
+        "Acasă TV"
+      ],
+      "network": null,
+      "owners": [
+        "Central European Media Enterprises"
+      ]
+    },
+    {
+      "id": "AcasaGold.ro",
+      "name": "Acasa Gold",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/acasagold/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Acasă Gold",
+        "Pro Gold",
+        "Acasă Clasic",
+        "Acasă 2"
+      ],
+      "network": null,
+      "owners": [
+        "Central European Media Enterprises"
+      ]
+    },
+    {
       "id": "ACCDigitalNetwork.us",
       "name": "ACC Digital Network",
       "logo": null,
@@ -5417,6 +5466,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "AccuWeatherNetwork.us",
+      "name": "AccuWeather Network",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/AccuWeather/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Clima"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "AccuWeather Inc."
+      ]
     },
     {
       "id": "AccuWeatherNOW.us",
@@ -9605,6 +9674,28 @@
       "owners": []
     },
     {
+      "id": "AlikhbariaSyria.sy",
+      "name": "Alikhbaria Syria",
+      "logo": null,
+      "url": "http://185.9.2.18/chid_423/index.m3u8",
+      "country": "Syria",
+      "countryCode": "SY",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "الإخبارية السورية"
+      ],
+      "network": null,
+      "owners": [
+        "RTV Syria"
+      ]
+    },
+    {
       "id": "AlistiqamaTV.om",
       "name": "Alistiqama TV",
       "logo": null,
@@ -11109,6 +11200,26 @@
       ],
       "altNames": [],
       "network": null,
+      "owners": [
+        "AMC Global Media"
+      ]
+    },
+    {
+      "id": "AMCPlus.us",
+      "name": "AMC+",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "AMC",
       "owners": [
         "AMC Global Media"
       ]
@@ -12768,6 +12879,26 @@
       ]
     },
     {
+      "id": "Antena1.ro",
+      "name": "Antena 1",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/antena1/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Antena Group",
+      "owners": [
+        "Intact Media Group"
+      ]
+    },
+    {
       "id": "Antena21.do",
       "name": "Antena 21",
       "logo": null,
@@ -12828,6 +12959,26 @@
       ]
     },
     {
+      "id": "AntenaInternational.ro",
+      "name": "Antena International",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/antenaint/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Antena Group",
+      "owners": [
+        "Intact Media Group"
+      ]
+    },
+    {
       "id": "AntenaMonden.ro",
       "name": "Antena Monden",
       "logo": null,
@@ -12864,6 +13015,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "AntenaStars.ro",
+      "name": "Antena Stars",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/antenastars/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Antena 2"
+      ],
+      "network": "Antena Group",
+      "owners": [
+        "Antena TV Group"
+      ]
     },
     {
       "id": "AntenaSUR.pe",
@@ -12918,6 +13091,26 @@
       "altNames": [],
       "network": "Antena Uno",
       "owners": []
+    },
+    {
+      "id": "AntenaSport.ro",
+      "name": "AntenaSport",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/antneassport/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "Antena Group",
+      "owners": [
+        "Antena TV Group S.A"
+      ]
     },
     {
       "id": "Antenna2TV.it",
@@ -12992,6 +13185,26 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "AntennaTV.us",
+      "name": "Antenna TV",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/ANTENNA_TV/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Nexstar Media Group"
+      ]
     },
     {
       "id": "AntenneA.cd",
@@ -18820,6 +19033,26 @@
       "network": null,
       "owners": [
         "Big Television Network"
+      ]
+    },
+    {
+      "id": "B1.ro",
+      "name": "B1",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/b1/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "B1 TV Channel SRL"
       ]
     },
     {
@@ -25215,7 +25448,7 @@
       "id": "BollywoodClassic.ro",
       "name": "Bollywood Classic",
       "logo": null,
-      "url": "https://dokagents.site/live/bollyc/mono.m3u8",
+      "url": "https://aes.m3u8simplu.workers.dev/bollywood/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -27547,6 +27780,46 @@
       "network": null,
       "owners": [
         "Groupe Canal Plus"
+      ]
+    },
+    {
+      "id": "CSPAN.us",
+      "name": "C-SPAN",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/C-SPAN_HD/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Legislativo"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "National Cable Satellite Corporation"
+      ]
+    },
+    {
+      "id": "CSPAN2.us",
+      "name": "C-SPAN 2",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/C-SPAN_2/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Legislativo"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "National Cable Satellite Corporation"
       ]
     },
     {
@@ -35444,6 +35717,27 @@
       ]
     },
     {
+      "id": "CBSSportsNetworkUSA.us",
+      "name": "CBS Sports Network USA",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "CBS Sports",
+      "owners": [
+        "CBS Broadcasting Inc.",
+        "Paramount Skydance Corporation"
+      ]
+    },
+    {
       "id": "CBUFTDT.ca",
       "name": "CBUFT-DT",
       "logo": null,
@@ -37989,6 +38283,26 @@
       "owners": []
     },
     {
+      "id": "Channel8Krasnoyarsk.ru",
+      "name": "Channel 8 Krasnoyarsk",
+      "logo": null,
+      "url": "https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "8 канал Красноярск"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Channel8Novosibirsk.ru",
       "name": "Channel 8 Novosibirsk",
       "logo": null,
@@ -38194,7 +38508,7 @@
       "id": "ChannelK.mm",
       "name": "Channel K",
       "logo": null,
-      "url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8",
+      "url": "https://mmtvs.exliatycl.online/channelk/stream.m3u8",
       "country": "Myanmar",
       "countryCode": "MM",
       "language_primary": null,
@@ -38780,6 +39094,24 @@
       "owners": [
         "STS Media"
       ]
+    },
+    {
+      "id": "CheddarBusiness.us",
+      "name": "Cheddar Business",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Negocios"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "CheddarNews.us",
@@ -40436,6 +40768,44 @@
       ]
     },
     {
+      "id": "CineMaraton.ro",
+      "name": "CineMaraton",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/cinemaraton/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "CinemaratonMoldova.md",
+      "name": "Cinemaraton Moldova",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/cinemaratonmoldova/index.m3u8",
+      "country": "Moldova",
+      "countryCode": "MD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Clever Group"
+      ]
+    },
+    {
       "id": "CinePride.us",
       "name": "CinePride",
       "logo": null,
@@ -41630,7 +42000,7 @@
         "Compras"
       ],
       "altNames": [
-        "CJ온스타일+"
+        "CJ온���타일+"
       ],
       "network": null,
       "owners": [
@@ -43437,7 +43807,7 @@
       "id": "Colors.in",
       "name": "Colors",
       "logo": null,
-      "url": "https://trs1.aynaott.com/colorshd/index.m3u8",
+      "url": "http://103.72.101.252:8080/live/1368.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -43863,7 +44233,7 @@
       "id": "ComedyCentral.ro",
       "name": "Comedy Central",
       "logo": null,
-      "url": "http://82.78.243.219:45739/play/a00f/index.m3u8",
+      "url": "https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -44101,12 +44471,12 @@
       "owners": []
     },
     {
-      "id": "ComedyPlay.ro",
-      "name": "Comedy Play",
+      "id": "ComedyTV.ge",
+      "name": "Comedy TV",
       "logo": null,
-      "url": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
+      "url": "http://31.146.5.178:8087/play/a00b/index.m3u8",
+      "country": "Georgia",
+      "countryCode": "GE",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -44119,12 +44489,12 @@
       "owners": []
     },
     {
-      "id": "ComedyTV.ge",
+      "id": "ComedyTV.us",
       "name": "Comedy TV",
       "logo": null,
-      "url": "http://31.146.5.178:8087/play/a00b/index.m3u8",
-      "country": "Georgia",
-      "countryCode": "GE",
+      "url": "https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -46474,6 +46844,26 @@
       ]
     },
     {
+      "id": "CTVSpeedChannel.ca",
+      "name": "CTV Speed Channel",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8",
+      "country": "Canada",
+      "countryCode": "CA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Automovilismo"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Bell Media"
+      ]
+    },
+    {
       "id": "CTV19.gy",
       "name": "CTV19",
       "logo": null,
@@ -47111,6 +47501,26 @@
       "owners": []
     },
     {
+      "id": "CW.us",
+      "name": "CW",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/CW/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "CW",
+      "owners": [
+        "Nexstar Media Group"
+      ]
+    },
+    {
       "id": "CWBTV.br",
       "name": "CWB TV",
       "logo": null,
@@ -47146,6 +47556,46 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "CytavisionSports1.cy",
+      "name": "Cytavision Sports 1",
+      "logo": null,
+      "url": "http://185.102.171.218/Cytavisionsports1/index.m3u8",
+      "country": "Cyprus",
+      "countryCode": "CY",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Cyta"
+      ]
+    },
+    {
+      "id": "CytavisionSports2.cy",
+      "name": "Cytavision Sports 2",
+      "logo": null,
+      "url": "http://185.102.171.218/Cytavisionsports2/index.m3u8",
+      "country": "Cyprus",
+      "countryCode": "CY",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Cyta"
+      ]
     },
     {
       "id": "CytavisionSports3.cy",
@@ -50845,6 +51295,46 @@
       ]
     },
     {
+      "id": "DigiAnimalWorld.ro",
+      "name": "Digi Animal World",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/digianimalworld/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Aire Libre"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RCS & RDS"
+      ]
+    },
+    {
+      "id": "DigiLife.ro",
+      "name": "Digi Life",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/digilife/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RCS & RDS"
+      ]
+    },
+    {
       "id": "DigiShala.in",
       "name": "Digi Shala",
       "logo": null,
@@ -50908,7 +51398,7 @@
       "id": "DigiSport3.ro",
       "name": "Digi Sport 3",
       "logo": null,
-      "url": "http://82.78.243.219:45739/play/a01m/index.m3u8",
+      "url": "https://aes.m3u8simplu.workers.dev/digi3/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -50928,7 +51418,7 @@
       "id": "DigiSport4.ro",
       "name": "Digi Sport 4",
       "logo": null,
-      "url": "http://82.78.243.219:45739/play/a00v/index.m3u8",
+      "url": "https://aes.m3u8simplu.workers.dev/digi4/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -50937,6 +51427,26 @@
       "section": "deportes",
       "categories": [
         "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RCS & RDS"
+      ]
+    },
+    {
+      "id": "DigiWorld.ro",
+      "name": "Digi World",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/digiworld/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -51285,6 +51795,26 @@
       ]
     },
     {
+      "id": "DiscoveryTurbo.us",
+      "name": "Discovery Turbo",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Automovilismo"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Warner Bros. Discovery Inc."
+      ]
+    },
+    {
       "id": "DishBuzz.in",
       "name": "Dish Buzz",
       "logo": null,
@@ -51448,7 +51978,7 @@
       "id": "DisneyChannel.ro",
       "name": "Disney Channel",
       "logo": null,
-      "url": "http://82.78.243.219:45739/play/a00y/index.m3u8",
+      "url": "https://aes.m3u8simplu.workers.dev/disneychannel/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -51679,6 +52209,26 @@
       ]
     },
     {
+      "id": "DisneyJunior.ro",
+      "name": "Disney Junior",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/disneyjunior/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "DisneyJunior.us",
       "name": "Disney Junior",
       "logo": null,
@@ -51813,6 +52363,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Diva.ro",
+      "name": "Diva",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/diva/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Diva România"
+      ],
+      "network": null,
+      "owners": [
+        "NBCUniversal International Networks"
+      ]
     },
     {
       "id": "DivaAdria.us",
@@ -53615,6 +54187,26 @@
       "network": null,
       "owners": [
         "DR"
+      ]
+    },
+    {
+      "id": "DRTVInternational.cg",
+      "name": "DRTV International",
+      "logo": null,
+      "url": "https://vps122407.serveur-vps.net/hls/drtv.m3u8",
+      "country": "Republic of the Congo",
+      "countryCode": "CG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Norbert Dabira"
       ]
     },
     {
@@ -57197,6 +57789,27 @@
       "owners": []
     },
     {
+      "id": "EMITV.ro",
+      "name": "EMI TV",
+      "logo": null,
+      "url": "https://astra.emitv.ro/hls/emi/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "N Sat TV Regional",
+        "N Sat TV"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "EmisoraComunitaria1041FM.co",
       "name": "Emisora Comunitaria 104.1 FM",
       "logo": null,
@@ -59941,6 +60554,26 @@
       ]
     },
     {
+      "id": "EuronewsRomania.ro",
+      "name": "Euronews Romania",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/euronews/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": "Euronews",
+      "owners": [
+        "Euronews SA"
+      ]
+    },
+    {
       "id": "EuronewsRussian.fr",
       "name": "Euronews Russian",
       "logo": null,
@@ -62289,6 +62922,26 @@
       ]
     },
     {
+      "id": "FilmNow.ro",
+      "name": "Film Now",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/filmnow/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RCS & RDS"
+      ]
+    },
+    {
       "id": "Film1Action.nl",
       "name": "Film1 Action",
       "logo": null,
@@ -62470,7 +63123,7 @@
       "id": "FILMBOXPlusFestival.pl",
       "name": "FILMBOX+ Festival",
       "logo": null,
-      "url": "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
+      "url": "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -63053,6 +63706,27 @@
       "network": "Pluto TV",
       "owners": [
         "Pluto Inc.",
+        "Paramount Skydance Corporation"
+      ]
+    },
+    {
+      "id": "Flix.us",
+      "name": "Flix",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/FLIX/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Paramount+ with SHOWTIME",
+      "owners": [
+        "Showtime Networks Inc.",
         "Paramount Skydance Corporation"
       ]
     },
@@ -63960,6 +64634,26 @@
       ]
     },
     {
+      "id": "FoxNewsInternational.us",
+      "name": "Fox News International",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/FOX/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Fox Corporation"
+      ]
+    },
+    {
       "id": "FoxNewsRadio.us",
       "name": "Fox News Radio",
       "logo": null,
@@ -63977,6 +64671,26 @@
       "network": null,
       "owners": [
         "Fox Corporation"
+      ]
+    },
+    {
+      "id": "FoxSoccerPlus.us",
+      "name": "Fox Soccer Plus",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Fox Sports Media Group"
       ]
     },
     {
@@ -65158,46 +65872,23 @@
       ]
     },
     {
-      "id": "FX.cl",
+      "id": "FX.gr",
       "name": "FX",
       "logo": null,
-      "url": "http://138.121.15.230:9002/FX/index.m3u8",
-      "country": "Chile",
-      "countryCode": "CL",
-      "language_primary": "Español",
-      "is_spanish": true,
+      "url": "http://185.102.171.218/FOX/index.m3u8",
+      "country": "Greece",
+      "countryCode": "GR",
+      "language_primary": null,
+      "is_spanish": false,
       "is_adult": false,
-      "section": "español",
+      "section": "general",
       "categories": [
         "Entretenimiento"
       ],
       "altNames": [],
       "network": null,
       "owners": [
-        "The Walt Disney Company Latin America"
-      ]
-    },
-    {
-      "id": "FX.tr",
-      "name": "FX",
-      "logo": null,
-      "url": "https://saran-live.ercdn.net/fx/index.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "FX Türkiye"
-      ],
-      "network": null,
-      "owners": [
-        "The Walt Disney Company",
-        "FX Medya Hizmetleri A.Ş."
+        "The Walt Disney Company Greece"
       ]
     },
     {
@@ -65275,6 +65966,68 @@
       "network": "FX Channels",
       "owners": [
         "The Walt Disney Company Latin America"
+      ]
+    },
+    {
+      "id": "FXLife.gr",
+      "name": "FX Life",
+      "logo": null,
+      "url": "http://185.102.171.218/FOX_Life/index.m3u8",
+      "country": "Greece",
+      "countryCode": "GR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "The Walt Disney Company Greece"
+      ]
+    },
+    {
+      "id": "FXMovieChannel.us",
+      "name": "FX Movie Channel",
+      "logo": null,
+      "url": "https://starlite.best/api/stream/hurt/hurt/livetv.epg/fx.movie.channel.us.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "FX Channels",
+      "owners": [
+        "FX Networks LLC",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "FXM.us",
+      "name": "FXM",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/FXM/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "FX Channels",
+      "owners": [
+        "FX Networks LLC",
+        "The Walt Disney Company"
       ]
     },
     {
@@ -70865,6 +71618,26 @@
       ]
     },
     {
+      "id": "HappyChannel.ro",
+      "name": "Happy Channel",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/happy/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Antena TV Group"
+      ]
+    },
+    {
       "id": "HappyDays.se",
       "name": "Happy Days",
       "logo": null,
@@ -72412,7 +73185,7 @@
       "id": "History.ro",
       "name": "History",
       "logo": null,
-      "url": "http://82.78.243.219:45739/play/a01f/index.m3u8",
+      "url": "https://aes.m3u8simplu.workers.dev/history/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -80939,6 +81712,26 @@
       "owners": []
     },
     {
+      "id": "JimJam.ro",
+      "name": "JimJam",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/jimjam/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "AMC Networks Inc."
+      ]
+    },
+    {
       "id": "JimJamEurope.uk",
       "name": "JimJam Europe",
       "logo": null,
@@ -84413,6 +85206,26 @@
       ]
     },
     {
+      "id": "Keedoo.gr",
+      "name": "Keedoo",
+      "logo": null,
+      "url": "http://185.102.171.218/Nickelodeon/index.m3u8",
+      "country": "Greece",
+      "countryCode": "GR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Tilekinisi S.M.S.A."
+      ]
+    },
+    {
       "id": "KemetTV.cm",
       "name": "Kemet TV",
       "logo": null,
@@ -86401,6 +87214,27 @@
       "network": "Tourist Info",
       "owners": [
         "Beach TV Properties Inc."
+      ]
+    },
+    {
+      "id": "KnowledgeChannel.ph",
+      "name": "Knowledge Channel",
+      "logo": null,
+      "url": "https://thinkkast.dpdns.org/tkk-ph/i7/knowledge_channel/knowledge-channel.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Educación"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "ABS-CBN Corporation",
+        "Knowledge Channel Foundation Inc"
       ]
     },
     {
@@ -91315,7 +92149,7 @@
       "id": "LBC.sa",
       "name": "LBC",
       "logo": null,
-      "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
+      "url": "http://185.9.2.18/chid_327/index.m3u8",
       "country": "Saudi Arabia",
       "countryCode": "SA",
       "language_primary": null,
@@ -91337,7 +92171,7 @@
       "id": "LBCInternational.lb",
       "name": "LBC International",
       "logo": null,
-      "url": "http://185.9.2.18/chid_327/index.m3u8",
+      "url": "http://185.9.2.18/chid_521/index.m3u8",
       "country": "Lebanon",
       "countryCode": "LB",
       "language_primary": null,
@@ -94717,6 +95551,26 @@
       ]
     },
     {
+      "id": "MEntertainmentChannel.mm",
+      "name": "M Entertainment Channel",
+      "logo": null,
+      "url": "https://mmtvs.exliatycl.online/mchannel/stream.m3u8",
+      "country": "Myanmar",
+      "countryCode": "MM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Media N Group"
+      ]
+    },
+    {
       "id": "MSignMedia.in",
       "name": "M Sign Media",
       "logo": null,
@@ -97000,6 +97854,26 @@
       "owners": []
     },
     {
+      "id": "MarqueeSportsNetwork.us",
+      "name": "Marquee Sports Network",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/MARQUEE_SPORTS_NETWORK/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Sinclair Broadcast Group Chicago Cubs"
+      ]
+    },
+    {
       "id": "MarriedwithChildren.us",
       "name": "Married with Children",
       "logo": null,
@@ -98130,6 +99004,28 @@
       ]
     },
     {
+      "id": "Mazzika.eg",
+      "name": "Mazzika",
+      "logo": null,
+      "url": "http://149.100.11.235:8080/Mazzika/index.m3u8",
+      "country": "Egypt",
+      "countryCode": "EG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "مزيكا"
+      ],
+      "network": null,
+      "owners": [
+        "Mazzika Group"
+      ]
+    },
+    {
       "id": "MBC.uk",
       "name": "MBC",
       "logo": null,
@@ -99213,24 +100109,6 @@
       "owners": []
     },
     {
-      "id": "MediaTV.th",
-      "name": "Media TV",
-      "logo": null,
-      "url": "http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8",
-      "country": "Thailand",
-      "countryCode": "TH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "MediasetExtra.it",
       "name": "Mediaset Extra",
       "logo": null,
@@ -99294,7 +100172,7 @@
       "id": "MediCOOLTV.ro",
       "name": "MediCOOL TV",
       "logo": null,
-      "url": "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8",
+      "url": "https://dai.google.com/linear/hls/pa/event/dpT7XJvhSzm5-pQkjgqRtg/stream/851625d8-0bfe-4ea1-a924-ddb3ff4d1e53:GRQ/master.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -99449,6 +100327,29 @@
       "network": null,
       "owners": [
         "GDF Media Limited"
+      ]
+    },
+    {
+      "id": "MegaChannel.gr",
+      "name": "Mega Channel",
+      "logo": null,
+      "url": "http://185.102.171.218/MegaHD/index.m3u8",
+      "country": "Greece",
+      "countryCode": "GR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "MEGA TV",
+        "MEGA"
+      ],
+      "network": null,
+      "owners": [
+        "Alter Ego Mass Media Co. S.A."
       ]
     },
     {
@@ -100472,7 +101373,7 @@
       "id": "MGMPlus.us",
       "name": "MGM+",
       "logo": null,
-      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23073",
+      "url": "https://gpuserver3.tier1streams.com/EPIX/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -100484,6 +101385,29 @@
       ],
       "altNames": [
         "Epix East"
+      ],
+      "network": null,
+      "owners": [
+        "Metro-Goldwyn-Mayer"
+      ]
+    },
+    {
+      "id": "MGMPlusDriveIn.us",
+      "name": "MGM+ Drive-In",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Epix Drive-In",
+        "The 3 from Epix"
       ],
       "network": null,
       "owners": [
@@ -101937,26 +102861,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "MNTV.mm",
-      "name": "MN TV",
-      "logo": null,
-      "url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
-      "country": "Myanmar",
-      "countryCode": "MM",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Shwe Thanlwin"
-      ]
     },
     {
       "id": "MNPlus.mn",
@@ -103970,6 +104874,26 @@
       "name": "MSG 2",
       "logo": null,
       "url": "http://40.160.24.52/MSG_2/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "MSG Networks Inc"
+      ]
+    },
+    {
+      "id": "MSGPlus.us",
+      "name": "MSG Plus",
+      "logo": null,
+      "url": "https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -106333,6 +107257,26 @@
       "owners": []
     },
     {
+      "id": "MusicChannel.ro",
+      "name": "Music Channel",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/musicchannel/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RCS and RDS"
+      ]
+    },
+    {
       "id": "MusicIndia.in",
       "name": "Music India",
       "logo": null,
@@ -106405,6 +107349,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "MuslimNetworkTV.us",
+      "name": "Muslim Network TV",
+      "logo": null,
+      "url": "https://afghantv.app/hls2/muslimnetwork/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Sound Vision Foundation"
+      ]
     },
     {
       "id": "MUTV.uk",
@@ -108173,6 +109137,26 @@
       ]
     },
     {
+      "id": "NationalGeographic.ro",
+      "name": "National Geographic",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [
+        "National Geographic România"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "NationalGeographic.ru",
       "name": "National Geographic",
       "logo": null,
@@ -108332,6 +109316,26 @@
         "JioStar India Pvt. Ltd.",
         "Reliance Industries(RIL)",
         "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "NationalGeographicWild.ro",
+      "name": "National Geographic Wild",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "National Geographic Society"
       ]
     },
     {
@@ -111687,6 +112691,26 @@
       ]
     },
     {
+      "id": "NickJr.ro",
+      "name": "Nick Jr.",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/nickjr/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "Nick Jr România"
+      ],
+      "network": "Nickelodeon",
+      "owners": []
+    },
+    {
       "id": "NickJr.ru",
       "name": "Nick Jr.",
       "logo": null,
@@ -111962,7 +112986,7 @@
       "id": "Nickelodeon.ro",
       "name": "Nickelodeon",
       "logo": null,
-      "url": "http://82.78.243.219:45739/play/a00o/index.m3u8",
+      "url": "https://aes.m3u8simplu.workers.dev/nickelodeon/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -112391,6 +113415,28 @@
         "Infantil"
       ],
       "altNames": [],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Global"
+      ]
+    },
+    {
+      "id": "Nicktoons.ro",
+      "name": "Nicktoons",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/nicktoons/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "Nicktoons România"
+      ],
       "network": "Nickelodeon",
       "owners": [
         "Paramount Global"
@@ -133008,6 +134054,29 @@
       "owners": []
     },
     {
+      "id": "Prima4K.ro",
+      "name": "Prima 4K",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/prima4kk/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Look 4K",
+        "LookSport 1"
+      ],
+      "network": null,
+      "owners": [
+        "Clever Group"
+      ]
+    },
+    {
       "id": "PrimaCool.cz",
       "name": "Prima Cool",
       "logo": null,
@@ -133086,6 +134155,26 @@
       ]
     },
     {
+      "id": "PrimaNews.ro",
+      "name": "Prima News",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/primanews/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Clever Group"
+      ]
+    },
+    {
       "id": "PrimaShow.cz",
       "name": "Prima Show",
       "logo": null,
@@ -133103,6 +134192,26 @@
       "network": null,
       "owners": [
         "FTV Prima"
+      ]
+    },
+    {
+      "id": "PrimaSport5.ro",
+      "name": "Prima Sport 5",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/primasp5/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Clever Group"
       ]
     },
     {
@@ -133140,6 +134249,48 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "PrimaTV.ro",
+      "name": "Prima TV",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/primatv/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Canal 38 Amerom Bucureşti"
+      ],
+      "network": null,
+      "owners": [
+        "Clever Group"
+      ]
+    },
+    {
+      "id": "PrimaTVMoldova.md",
+      "name": "Prima TV Moldova",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/primatvmd/index.m3u8",
+      "country": "Moldova",
+      "countryCode": "MD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Clever Group"
+      ]
     },
     {
       "id": "PrimaZoom.cz",
@@ -133193,6 +134344,27 @@
       ],
       "altNames": [],
       "network": null,
+      "owners": []
+    },
+    {
+      "id": "Prime.sy",
+      "name": "Prime",
+      "logo": null,
+      "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8",
+      "country": "Syria",
+      "countryCode": "SY",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "General",
+        "Deportes"
+      ],
+      "altNames": [
+        "برايم"
+      ],
+      "network": "Prime",
       "owners": []
     },
     {
@@ -133358,6 +134530,30 @@
       "owners": []
     },
     {
+      "id": "ProArena.ro",
+      "name": "Pro Arena",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/proarena/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Pro X",
+        "Sport.ro",
+        "TV Sport"
+      ],
+      "network": "Pro TV",
+      "owners": [
+        "Pro TV SRL"
+      ]
+    },
+    {
       "id": "ProBusiness.ru",
       "name": "Pro Business",
       "logo": null,
@@ -133376,6 +134572,26 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ProCinema.ro",
+      "name": "Pro Cinema",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/procinema/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Pro TV",
+      "owners": [
+        "Pro TV SRL"
+      ]
     },
     {
       "id": "ProLyubov.ru",
@@ -133412,6 +134628,26 @@
         "Deportes"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PROTV.ro",
+      "name": "PRO TV",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/protv/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Canal 31"
+      ],
       "network": null,
       "owners": []
     },
@@ -134632,6 +135868,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "PunjabiShorts.in",
+      "name": "Punjabi Shorts",
+      "logo": null,
+      "url": "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Galactic Television & Communications Pvt Ltd."
+      ]
     },
     {
       "id": "PunjabiZindabadTV.in",
@@ -140890,7 +142146,7 @@
       "id": "RealitateaPlus.ro",
       "name": "Realitatea Plus",
       "logo": null,
-      "url": "https://dokagents.site/live/realitateatv/mono.m3u8",
+      "url": "https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -144315,7 +145571,7 @@
       "id": "RomaniaTV.ro",
       "name": "Romania TV",
       "logo": null,
-      "url": "https://dokagents.site/live/romaniatv/mono.m3u8",
+      "url": "https://aes.m3u8simplu.workers.dev/romaniatv/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -151492,6 +152748,30 @@
       ]
     },
     {
+      "id": "SciFi.fr",
+      "name": "SciFi",
+      "logo": null,
+      "url": "http://41.205.93.154/SYFY/index.m3u8",
+      "country": "France",
+      "countryCode": "FR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "SyFy",
+        "SF"
+      ],
+      "network": "NBCUniversal",
+      "owners": [
+        "NBC UNIVERSAL GLOBAL NETWORKS ESPANA S.L.U.",
+        "Comcast Corporation"
+      ]
+    },
+    {
       "id": "SCMTVHD321.bo",
       "name": "SCM TV HD 32.1",
       "logo": null,
@@ -152291,6 +153571,24 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SerajTV.ps",
+      "name": "Seraj TV",
+      "logo": null,
+      "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
+      "country": "Palestine",
+      "countryCode": "PS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
       ],
       "altNames": [],
       "network": null,
@@ -153889,6 +155187,48 @@
       ]
     },
     {
+      "id": "Showtime2.us",
+      "name": "Showtime 2",
+      "logo": null,
+      "url": "http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.2.eastern.us.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Paramount+ with SHOWTIME",
+      "owners": [
+        "Showtime Networks Inc.",
+        "Paramount Skydance Corporation"
+      ]
+    },
+    {
+      "id": "ShowtimeExtreme.us",
+      "name": "Showtime Extreme",
+      "logo": null,
+      "url": "http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.extreme.eastern.us.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Paramount+ with SHOWTIME",
+      "owners": [
+        "Showtime Networks Inc.",
+        "Paramount Skydance Corporation"
+      ]
+    },
+    {
       "id": "ShowtimeFamilyZone.us",
       "name": "Showtime Family Zone",
       "logo": null,
@@ -154654,6 +155994,24 @@
       "name": "Siri Kannada",
       "logo": null,
       "url": "https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SiriKannadaAllTime.in",
+      "name": "Siri Kannada All Time",
+      "logo": null,
+      "url": "https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -156943,6 +158301,29 @@
       ]
     },
     {
+      "id": "SonySAB.in",
+      "name": "Sony SAB",
+      "logo": null,
+      "url": "http://202.70.146.135:8000/play/a025/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "SAB TV"
+      ],
+      "network": "Sony Pictures Networks",
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
+    },
+    {
       "id": "SonySportsTen3Hindi.in",
       "name": "Sony Sports Ten 3 Hindi",
       "logo": null,
@@ -158843,6 +160224,26 @@
       ]
     },
     {
+      "id": "SportExtra.ro",
+      "name": "Sport Extra",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/sportextra/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Mooz TV SRL"
+      ]
+    },
+    {
       "id": "SportKlub.pl",
       "name": "Sport Klub",
       "logo": null,
@@ -159960,6 +161361,28 @@
       "owners": [
         "Star Media",
         "Media Telecom"
+      ]
+    },
+    {
+      "id": "StarGold.in",
+      "name": "Star Gold",
+      "logo": null,
+      "url": "http://103.253.18.58:8000/play/a00q",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
       ]
     },
     {
@@ -169010,6 +170433,26 @@
       "name": "Telefe Buenos Aires",
       "logo": null,
       "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Grupo Televisión Litoral"
+      ]
+    },
+    {
+      "id": "TelefeInterior.ar",
+      "name": "Telefe Interior",
+      "logo": null,
+      "url": "http://200.91.32.158:8080/telefehdvalle/index.m3u8",
       "country": "Argentina",
       "countryCode": "AR",
       "language_primary": "Español",
@@ -185979,7 +187422,7 @@
       "id": "TV1000.ro",
       "name": "TV1000",
       "logo": null,
-      "url": "http://82.78.243.219:45739/play/a01b/index.m3u8",
+      "url": "https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -189064,6 +190507,24 @@
       "owners": []
     },
     {
+      "id": "TvOro.ec",
+      "name": "TvOro",
+      "logo": null,
+      "url": "http://45.187.0.19:9090/tvusa/index.m3u8",
+      "country": "Ecuador",
+      "countryCode": "EC",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TvoyeTVYumor.ru",
       "name": "Tvoye TV Yumor",
       "logo": null,
@@ -189786,7 +191247,7 @@
       "id": "TVRISport.id",
       "name": "TVRI Sport",
       "logo": null,
-      "url": "http://157.15.187.3:25092/hls/49/49.m3u8",
+      "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -192326,6 +193787,46 @@
       "owners": []
     },
     {
+      "id": "Unite8Sports1.in",
+      "name": "Unite8 Sports 1",
+      "logo": null,
+      "url": "http://59.103.38.46:8000/play/a125/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "Unite8 Sports",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
+      "id": "Unite8Sports2.in",
+      "name": "Unite8 Sports 2",
+      "logo": null,
+      "url": "http://59.103.38.46:8000/play/a126/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "Unite8 Sports",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
       "id": "UnitedTV.gh",
       "name": "United TV",
       "logo": null,
@@ -193227,6 +194728,24 @@
       "url": "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8",
       "country": "Kenya",
       "countryCode": "KE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "UTV.ro",
+      "name": "UTV",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/utv/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -197787,7 +199306,7 @@
       "id": "WNetwork.ca",
       "name": "W Network",
       "logo": null,
-      "url": "http://40.160.24.55/W_NETWORK/index.m3u8",
+      "url": "https://starlite.best/api/stream/hurt/hurt/livetv.epg/w.wtn.east.ca.m3u8",
       "country": "Canada",
       "countryCode": "CA",
       "language_primary": null,
@@ -206540,6 +208059,28 @@
       "owners": []
     },
     {
+      "id": "ZUTV.ro",
+      "name": "ZU TV",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/chefi/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "ZU Channel",
+        "GSP TV",
+        "Arenna TV"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ZugloTV.hu",
       "name": "Zuglo TV",
       "logo": null,
@@ -208069,56 +209610,56 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 453
+      "count": 466
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 595
+      "count": 605
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 356
+      "count": 357
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 409
+      "count": 414
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1928
+      "count": 1929
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6673
+      "count": 6718
     }
   ],
   "stats": {
-    "total": 40860,
-    "withStreams": 10492,
-    "spanish": 2057,
+    "total": 40861,
+    "withStreams": 10567,
+    "spanish": 2058,
     "adult": 78,
     "bySection": {
-      "peliculas": 595,
-      "general": 6673,
-      "español": 1928,
-      "infantil": 409,
-      "series": 356,
-      "deportes": 453
+      "peliculas": 605,
+      "general": 6718,
+      "español": 1929,
+      "infantil": 414,
+      "series": 357,
+      "deportes": 466
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1785,
+        "count": 1806,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 657,
+        "count": 663,
         "name": "India"
       },
       {
@@ -208128,7 +209669,7 @@
       },
       {
         "code": "RU",
-        "count": 407,
+        "count": 408,
         "name": "Russia"
       },
       {
@@ -208153,16 +209694,16 @@
       },
       {
         "code": "CL",
-        "count": 248,
+        "count": 247,
         "name": "Chile"
       },
       {
         "code": "TR",
-        "count": 233,
+        "count": 232,
         "name": "Turkiye"
       }
     ]
   },
-  "lastUpdated": "2026-07-20T01:16:35.667Z",
+  "lastUpdated": "2026-07-21T01:13:25.377Z",
   "source": "orion-stream"
 }
