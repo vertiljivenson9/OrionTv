@@ -15361,7 +15361,7 @@
         "General"
       ],
       "altNames": [
-        "Հայկական ե��կրորդ հեռուստաալիք"
+        "Հայկական երկրորդ հեռուստաալիք"
       ],
       "network": null,
       "owners": [
@@ -15385,26 +15385,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "ArmeniaTV.am",
-      "name": "Armenia TV",
-      "logo": null,
-      "url": "http://stream.mcquack.net/175/index.m3u8",
-      "country": "Armenia",
-      "countryCode": "AM",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Panarmenian Media Group"
-      ]
     },
     {
       "id": "ArmyTV.ua",
@@ -21910,6 +21890,28 @@
       "owners": []
     },
     {
+      "id": "beINSportsenEspanol.qa",
+      "name": "beIN Sports en Espanol",
+      "logo": null,
+      "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/69.m3u8",
+      "country": "Qatar",
+      "countryCode": "QA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "beIN Sports en Español"
+      ],
+      "network": null,
+      "owners": [
+        "beIN Media Group"
+      ]
+    },
+    {
       "id": "beINSportsHaber.tr",
       "name": "beIN Sports Haber",
       "logo": null,
@@ -25417,6 +25419,30 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "BoliviaTV.bo",
+      "name": "Bolivia TV",
+      "logo": null,
+      "url": "http://15.204.246.24:8080/BoliviaTvHD/index.m3u8",
+      "country": "Bolivia",
+      "countryCode": "BO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Bolivia TV",
+        "BTV",
+        "Bolivia Televisión"
+      ],
+      "network": null,
+      "owners": [
+        "Empresa Nacional de Televisión de Bolivia"
+      ]
     },
     {
       "id": "Bolivision.bo",
@@ -37741,6 +37767,24 @@
       ]
     },
     {
+      "id": "ChampionTV.ci",
+      "name": "Champion TV",
+      "logo": null,
+      "url": "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8",
+      "country": "Ivory Coast",
+      "countryCode": "CI",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Negocios"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ChandelTV.tg",
       "name": "Chandel TV",
       "logo": null,
@@ -40866,6 +40910,24 @@
       "owners": [
         "Clever Group"
       ]
+    },
+    {
+      "id": "CinemaWorld.my",
+      "name": "CinemaWorld",
+      "logo": null,
+      "url": "https://cdn.qd.je/163189/cinemaworld",
+      "country": "Malaysia",
+      "countryCode": "MY",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "CinePride.us",
@@ -47411,6 +47473,29 @@
       ]
     },
     {
+      "id": "CVC.bo",
+      "name": "CVC",
+      "logo": null,
+      "url": "http://15.204.246.24:8080/CVCHD/index.m3u8",
+      "country": "Bolivia",
+      "countryCode": "BO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [
+        "CVC",
+        "Canal Virgen de Copacabana"
+      ],
+      "network": null,
+      "owners": [
+        "Red de Canal Virgen de Copacabana"
+      ]
+    },
+    {
       "id": "CVCEducation.us",
       "name": "CVC Education",
       "logo": null,
@@ -51977,6 +52062,26 @@
       "url": "http://88.212.15.19/live/test_disney/playlist.m3u8",
       "country": "Czech Republic",
       "countryCode": "CZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Disney Entertainment"
+      ]
+    },
+    {
+      "id": "DisneyChannel.hu",
+      "name": "Disney Channel",
+      "logo": null,
+      "url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -60777,6 +60882,24 @@
       "owners": []
     },
     {
+      "id": "EvandisGospelTV.fr",
+      "name": "Evandis Gospel TV",
+      "logo": null,
+      "url": "https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8",
+      "country": "France",
+      "countryCode": "FR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "EvasionTV.gn",
       "name": "Evasion TV",
       "logo": null,
@@ -61318,6 +61441,24 @@
       "section": "general",
       "categories": [
         "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "ExtraTV42.cr",
+      "name": "Extra TV 42",
+      "logo": null,
+      "url": "https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8",
+      "country": "Costa Rica",
+      "countryCode": "CR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -62958,28 +63099,6 @@
       ]
     },
     {
-      "id": "FilmMania.hu",
-      "name": "Film Mania",
-      "logo": null,
-      "url": "http://46.149.191.217:9015/play/a00v",
-      "country": "Hungary",
-      "countryCode": "HU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Film Mánia"
-      ],
-      "network": null,
-      "owners": [
-        "AMC Networks Central Europe Kft."
-      ]
-    },
-    {
       "id": "FilmNow.ro",
       "name": "Film Now",
       "logo": null,
@@ -62997,6 +63116,26 @@
       "network": null,
       "owners": [
         "RCS & RDS"
+      ]
+    },
+    {
+      "id": "FilmPlus.cz",
+      "name": "Film+",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "AMC Networks Inc."
       ]
     },
     {
@@ -64775,7 +64914,7 @@
       "id": "FoxSports.ar",
       "name": "Fox Sports",
       "logo": null,
-      "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
+      "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8",
       "country": "Argentina",
       "countryCode": "AR",
       "language_primary": "Español",
@@ -65686,7 +65825,7 @@
         "Entretenimiento"
       ],
       "altNames": [
-        "ال��جيرة"
+        "الفجيرة"
       ],
       "network": null,
       "owners": []
@@ -66070,7 +66209,7 @@
       "id": "FXMovieChannel.us",
       "name": "FX Movie Channel",
       "logo": null,
-      "url": "https://starlite.best/api/stream/hurt/hurt/livetv.epg/fx.movie.channel.us.m3u8",
+      "url": "http://40.160.24.52/FXM/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -73276,6 +73415,29 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "History.hu",
+      "name": "History",
+      "logo": null,
+      "url": "http://88.212.15.19/live/history_hun/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [
+        "History TV Magyarország",
+        "History Channel"
+      ],
+      "network": null,
+      "owners": [
+        "AETN UK"
+      ]
     },
     {
       "id": "History.ro",
@@ -86069,6 +86231,27 @@
       "owners": []
     },
     {
+      "id": "KidOO.us",
+      "name": "KidOO",
+      "logo": null,
+      "url": "http://15.204.246.24:8080/KidooHD/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "2BeNamed"
+      ]
+    },
+    {
       "id": "KidoodleTV.ca",
       "name": "Kidoodle.TV",
       "logo": null,
@@ -92005,7 +92188,7 @@
       "id": "Latina.pe",
       "name": "Latina",
       "logo": null,
-      "url": "http://45.171.108.253:8888/LATINA/index.m3u8",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/playlist.m3u8",
       "country": "Peru",
       "countryCode": "PE",
       "language_primary": "Español",
@@ -92025,7 +92208,7 @@
       "id": "LatinaClasicos.pe",
       "name": "Latina Clasicos",
       "logo": null,
-      "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
+      "url": "http://45.171.108.253:8888/LATINA/index.m3u8",
       "country": "Peru",
       "countryCode": "PE",
       "language_primary": "Español",
@@ -92065,7 +92248,7 @@
       "id": "LatinaNoticias247.pe",
       "name": "Latina Noticias 24/7",
       "logo": null,
-      "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8",
+      "url": "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
       "country": "Peru",
       "countryCode": "PE",
       "language_primary": "Español",
@@ -95909,28 +96092,6 @@
       ]
     },
     {
-      "id": "M2Petofi.hu",
-      "name": "M2 Petofi",
-      "logo": null,
-      "url": "http://46.149.191.217:9005/play/a016",
-      "country": "Hungary",
-      "countryCode": "HU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "M2 Petőfi"
-      ],
-      "network": null,
-      "owners": [
-        "Duna Médiaszolgáltató Nonprofit Zrt."
-      ]
-    },
-    {
       "id": "m2oTV.it",
       "name": "m2o TV",
       "logo": null,
@@ -95955,26 +96116,6 @@
       "name": "M4 Sport",
       "logo": null,
       "url": "http://88.212.15.19/live/m4_hun/index.m3u8",
-      "country": "Hungary",
-      "countryCode": "HU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Duna Médiaszolgáltató Nonprofit Zrt."
-      ]
-    },
-    {
-      "id": "M4SportPlus.hu",
-      "name": "M4 Sport+",
-      "logo": null,
-      "url": "http://46.149.191.217:9007/play/a02q",
       "country": "Hungary",
       "countryCode": "HU",
       "language_primary": null,
@@ -102186,26 +102327,6 @@
       "owners": []
     },
     {
-      "id": "Minimax.hu",
-      "name": "Minimax",
-      "logo": null,
-      "url": "http://46.149.191.217:9002/play/a01y",
-      "country": "Hungary",
-      "countryCode": "HU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "AMC Networks Inc."
-      ]
-    },
-    {
       "id": "Minimax.pk",
       "name": "Minimax",
       "logo": null,
@@ -103874,6 +103995,26 @@
       ]
     },
     {
+      "id": "MoozDance.ro",
+      "name": "Mooz Dance",
+      "logo": null,
+      "url": "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Cristinal Popa and Ionut Samoila"
+      ]
+    },
+    {
       "id": "MoraNetTV.hu",
       "name": "Mora-Net TV",
       "logo": null,
@@ -104670,6 +104811,46 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "MoziPlus.hu",
+      "name": "Mozi+",
+      "logo": null,
+      "url": "http://88.212.15.19/live/mozi_plusz/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "TV2 Média Csoport Kft"
+      ]
+    },
+    {
+      "id": "Moziverzum.hu",
+      "name": "Moziverzum",
+      "logo": null,
+      "url": "http://88.212.15.19/live/moziverzum/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "TV2 Média Csoport Kft."
+      ]
     },
     {
       "id": "MPTV.us",
@@ -109137,6 +109318,30 @@
       ]
     },
     {
+      "id": "National24Plus.ro",
+      "name": "National 24 Plus",
+      "logo": null,
+      "url": "https://aes.m3u8simplu.workers.dev/nationalplus/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Național 24 Plus",
+        "N24 Plus",
+        "N24"
+      ],
+      "network": null,
+      "owners": [
+        "Centrul Național Media"
+      ]
+    },
+    {
       "id": "NationalAssemblyTV.kr",
       "name": "National Assembly TV",
       "logo": null,
@@ -109236,6 +109441,26 @@
       "network": null,
       "owners": [
         "The Walt Disney Company Greece"
+      ]
+    },
+    {
+      "id": "NationalGeographic.hu",
+      "name": "National Geographic",
+      "logo": null,
+      "url": "http://88.212.15.19/live/ngc_hun/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "FOX Networks Group"
       ]
     },
     {
@@ -109456,6 +109681,26 @@
       "network": null,
       "owners": [
         "National Geographic Society"
+      ]
+    },
+    {
+      "id": "NationalGeographicWild.hu",
+      "name": "National Geographic Wild",
+      "logo": null,
+      "url": "http://88.212.15.19/live/ngw_hun/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "FOX Networks Group"
       ]
     },
     {
@@ -113363,29 +113608,6 @@
         "Viacom International Inc.",
         "Pluto Inc.",
         "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "NickelodeonGlobal.uk",
-      "name": "Nickelodeon Global",
-      "logo": null,
-      "url": "http://46.149.191.217:9011/play/a018",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Nickelodeon CEE",
-        "Nickelodeon Europe"
-      ],
-      "network": "Nickelodeon",
-      "owners": [
-        "Paramount Networks EMEAA"
       ]
     },
     {
@@ -117498,7 +117720,7 @@
         "Noticias"
       ],
       "altNames": [
-        "Общественное Независимое Т��левидение",
+        "Общественное Независимое Телевидение",
         "ОНТ"
       ],
       "network": null,
@@ -124982,6 +125204,24 @@
       "name": "PLUS Television",
       "logo": null,
       "url": "https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8",
+      "country": "Bolivia",
+      "countryCode": "BO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PlusTLT.bo",
+      "name": "Plus TLT",
+      "logo": null,
+      "url": "http://15.204.246.24:8080/PlusTLTHD/index.m3u8",
       "country": "Bolivia",
       "countryCode": "BO",
       "language_primary": "Español",
@@ -134299,12 +134539,12 @@
       "owners": []
     },
     {
-      "id": "PrimaLove.cz",
-      "name": "Prima Love",
+      "id": "PrimaKrimiSK.sk",
+      "name": "Prima Krimi SK",
       "logo": null,
-      "url": "http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8",
-      "country": "Czech Republic",
-      "countryCode": "CZ",
+      "url": "http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8",
+      "country": "Slovakia",
+      "countryCode": "SK",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -134314,9 +134554,7 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": [
-        "FTV Prima"
-      ]
+      "owners": []
     },
     {
       "id": "PrimaNews.ro",
@@ -147097,7 +147335,7 @@
       "id": "RTL.hu",
       "name": "RTL",
       "logo": null,
-      "url": "http://46.149.191.217:9005/play/a018",
+      "url": "http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8",
       "country": "Hungary",
       "countryCode": "HU",
       "language_primary": null,
@@ -147317,7 +147555,7 @@
       "id": "RTLHarom.hu",
       "name": "RTL Harom",
       "logo": null,
-      "url": "http://46.149.191.217:9005/play/a01t",
+      "url": "http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8",
       "country": "Hungary",
       "countryCode": "HU",
       "language_primary": null,
@@ -147342,7 +147580,7 @@
       "id": "RTLKetto.hu",
       "name": "RTL Ketto",
       "logo": null,
-      "url": "http://46.149.191.217:9005/play/a01r",
+      "url": "http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8",
       "country": "Hungary",
       "countryCode": "HU",
       "language_primary": null,
@@ -149917,7 +150155,7 @@
         "Películas"
       ],
       "altNames": [
-        "Русск��й Иллюзион"
+        "Русский Иллюзион"
       ],
       "network": null,
       "owners": [
@@ -155497,6 +155735,27 @@
       ]
     },
     {
+      "id": "ShowtimeNext.us",
+      "name": "Showtime Next",
+      "logo": null,
+      "url": "http://40.160.24.55/SHOWTIME_NEXT/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Paramount+ with SHOWTIME",
+      "owners": [
+        "Showtime Networks Inc.",
+        "Paramount Skydance Corporation"
+      ]
+    },
+    {
       "id": "ShowVenTV.ve",
       "name": "ShowVen TV",
       "logo": null,
@@ -158342,6 +158601,27 @@
       ]
     },
     {
+      "id": "SonyMax1.in",
+      "name": "Sony Max 1",
+      "logo": null,
+      "url": "http://103.159.180.34:5001/live/3418.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
+    },
+    {
       "id": "SonyMax2.in",
       "name": "Sony Max 2",
       "logo": null,
@@ -160068,6 +160348,26 @@
       ]
     },
     {
+      "id": "Spektrum.hu",
+      "name": "Spektrum",
+      "logo": null,
+      "url": "http://88.212.15.19/live/spektrum_hun/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "AMC Networks Central Europe Kft."
+      ]
+    },
+    {
       "id": "SpektrumHome.cz",
       "name": "Spektrum Home",
       "logo": null,
@@ -160085,6 +160385,26 @@
       "network": null,
       "owners": [
         "AMC Networks Inc."
+      ]
+    },
+    {
+      "id": "SpektrumHome.hu",
+      "name": "Spektrum Home",
+      "logo": null,
+      "url": "http://88.212.15.19/live/spektrum_home_hun/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "AMC Networks Central Europe Kft."
       ]
     },
     {
@@ -160300,26 +160620,6 @@
       "owners": []
     },
     {
-      "id": "Sport1.hu",
-      "name": "Sport 1",
-      "logo": null,
-      "url": "http://46.149.191.217:9005/play/a017",
-      "country": "Hungary",
-      "countryCode": "HU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "AMC Networks Central Europe Kft."
-      ]
-    },
-    {
       "id": "Sport1.ua",
       "name": "Sport 1",
       "logo": null,
@@ -160359,26 +160659,6 @@
       "network": null,
       "owners": [
         "Surface TV"
-      ]
-    },
-    {
-      "id": "Sport2.hu",
-      "name": "Sport 2",
-      "logo": null,
-      "url": "http://46.149.191.217:9018/play/a01e",
-      "country": "Hungary",
-      "countryCode": "HU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "AMC Networks Central Europe Kft."
       ]
     },
     {
@@ -162700,6 +162980,46 @@
       ],
       "altNames": [],
       "network": "STARZ",
+      "owners": [
+        "Starz Entertainment Corp."
+      ]
+    },
+    {
+      "id": "StarzEdge.us",
+      "name": "Starz Edge",
+      "logo": null,
+      "url": "http://40.160.24.55/STARZ_EDGE/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "STARZ",
+      "owners": [
+        "Starz Entertainment Corp."
+      ]
+    },
+    {
+      "id": "StarzEncore.us",
+      "name": "Starz Encore",
+      "logo": null,
+      "url": "http://40.160.24.55/STARZ_ENCORE/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "STARZ Encore",
       "owners": [
         "Starz Entertainment Corp."
       ]
@@ -181865,6 +182185,24 @@
       "owners": []
     },
     {
+      "id": "TVBarrandov.cz",
+      "name": "TV Barrandov",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_barrandov/playlist.m3u8",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TVBellaAsuncion.pe",
       "name": "TV Bella Asuncion",
       "logo": null,
@@ -185471,7 +185809,7 @@
         "Jedinstvo mađarske manjine",
         "Kulturni savez Vojvođanskih mađara",
         "Subotička biskupija",
-        "Evangelistička hrišćanska crkva a.v. u Srbiji",
+        "Evangelisti��ka hrišćanska crkva a.v. u Srbiji",
         "Fondacija Laslo Sekereš",
         "Iren Gabrić Molnar",
         "Tamaš Korhec",
@@ -187837,26 +188175,6 @@
       "network": null,
       "owners": [
         "EPTV"
-      ]
-    },
-    {
-      "id": "TV2.hu",
-      "name": "TV2",
-      "logo": null,
-      "url": "http://46.149.191.217:9005/play/a01q",
-      "country": "Hungary",
-      "countryCode": "HU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "TV2 Média Csoport Kft."
       ]
     },
     {
@@ -196977,6 +197295,46 @@
       ]
     },
     {
+      "id": "Viasat3.hu",
+      "name": "Viasat 3",
+      "logo": null,
+      "url": "http://88.212.15.19/live/viasat3/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "AXN Europe Limited"
+      ]
+    },
+    {
+      "id": "Viasat6.hu",
+      "name": "Viasat 6",
+      "logo": null,
+      "url": "http://88.212.15.19/live/viasat6/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "AXN Europe Limited"
+      ]
+    },
+    {
       "id": "ViasatExplore.bg",
       "name": "Viasat Explore",
       "logo": null,
@@ -197094,7 +197452,7 @@
       "id": "ViasatFilm.hu",
       "name": "Viasat Film",
       "logo": null,
-      "url": "http://46.149.191.217:9009/play/a028",
+      "url": "http://88.212.15.19/live/viasat_film/index.m3u8",
       "country": "Hungary",
       "countryCode": "HU",
       "language_primary": null,
@@ -197270,7 +197628,7 @@
       "id": "Viasat2.hu",
       "name": "Viasat2",
       "logo": null,
-      "url": "http://46.149.191.217:9009/play/a023",
+      "url": "http://88.212.15.19/live/viasat2/index.m3u8",
       "country": "Hungary",
       "countryCode": "HU",
       "language_primary": null,
@@ -207487,6 +207845,26 @@
       "owners": []
     },
     {
+      "id": "Zenebutik.hu",
+      "name": "Zenebutik",
+      "logo": null,
+      "url": "http://88.212.15.19/live/zenebutik/index.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "TV2 Média Csoport Kft."
+      ]
+    },
+    {
       "id": "zenith.fr",
       "name": "zenith",
       "logo": null,
@@ -209828,12 +210206,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 467
+      "count": 465
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 606
+      "count": 610
     },
     {
       "id": "series",
@@ -209843,41 +210221,41 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 413
+      "count": 412
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1933
+      "count": 1937
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6725
+      "count": 6739
     }
   ],
   "stats": {
-    "total": 40869,
-    "withStreams": 10579,
-    "spanish": 2062,
+    "total": 40874,
+    "withStreams": 10598,
+    "spanish": 2066,
     "adult": 78,
     "bySection": {
-      "peliculas": 606,
-      "general": 6725,
-      "español": 1933,
-      "infantil": 413,
+      "peliculas": 610,
+      "general": 6739,
+      "español": 1937,
+      "infantil": 412,
       "series": 357,
-      "deportes": 467
+      "deportes": 465
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1806,
+        "count": 1810,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 656,
+        "count": 657,
         "name": "India"
       },
       {
@@ -209922,6 +210300,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-22T01:11:32.546Z",
+  "lastUpdated": "2026-07-23T01:19:16.596Z",
   "source": "orion-stream"
 }
