@@ -6924,7 +6924,7 @@
       "is_adult": false,
       "section": "español",
       "categories": [
-        "General"
+        "Religioso"
       ],
       "altNames": [
         "Canal 8"
@@ -38377,7 +38377,7 @@
         "CH7 HD",
         "Channel 7 HD",
         "Bangkok Broadcasting & Television Company Limited Channel 7",
-        "สถานีโทรทัศน์ช่อง 7 เอชดี"
+        "สถานีโทรทัศน์ช���อง 7 เอชดี"
       ],
       "network": null,
       "owners": [
@@ -51052,7 +51052,7 @@
       ],
       "altNames": [
         "Детский мир",
-        "НТВ-Плюс Детский мир"
+        "Н��В-Плюс Детский мир"
       ],
       "network": null,
       "owners": [
@@ -53071,7 +53071,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่า���ดาวเทียม"
+        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -63599,28 +63599,6 @@
       "owners": []
     },
     {
-      "id": "FilmBox.nl",
-      "name": "FilmBox",
-      "logo": null,
-      "url": "http://de.seetv.cc/play/8041/1966B8DE7EC6FEE/video.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "FilmBox"
-      ],
-      "network": null,
-      "owners": [
-        "SPI International Inc."
-      ]
-    },
-    {
       "id": "FILMBOXPlusComedy.pl",
       "name": "FILMBOX+ Comedy",
       "logo": null,
@@ -73681,7 +73659,7 @@
       "id": "Historia.es",
       "name": "Historia",
       "logo": null,
-      "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
+      "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8",
       "country": "Spain",
       "countryCode": "ES",
       "language_primary": "Español",
@@ -92192,32 +92170,6 @@
       "owners": []
     },
     {
-      "id": "LaLigaHypermotion.es",
-      "name": "LaLiga Hypermotion",
-      "logo": null,
-      "url": "http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "LaLiga SmartBank",
-        "LaLiga 1|2|3",
-        "LaLiga2",
-        "Liga Adelante",
-        "Liga BBVA"
-      ],
-      "network": null,
-      "owners": [
-        "Telefonica S A"
-      ]
-    },
-    {
       "id": "LamDongTV.vn",
       "name": "Lam Dong TV",
       "logo": null,
@@ -96770,6 +96722,26 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "MaanTV.ps",
+      "name": "Ma'an TV",
+      "logo": null,
+      "url": "https://htvmada.mada.ps:4443/maannews/index.m3u8",
+      "country": "Palestine",
+      "countryCode": "PS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Raed Othman"
+      ]
     },
     {
       "id": "MaahTV.my",
@@ -102298,10 +102270,32 @@
       ]
     },
     {
+      "id": "MGMPlusHits.us",
+      "name": "MGM+ Hits",
+      "logo": null,
+      "url": "https://sra72yz.s.gy/MGM_PLUS_HITS_HD",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Epix 2 East"
+      ],
+      "network": null,
+      "owners": [
+        "Metro-Goldwyn-Mayer"
+      ]
+    },
+    {
       "id": "MGMPlusMarquee.us",
       "name": "MGM+ Marquee",
       "logo": null,
-      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23075",
+      "url": "https://sra72yz.s.gy/MGM_PLUS_MARQUEE_SD",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -108385,6 +108379,24 @@
       "altNames": [
         "Муз Союз"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "MuzTVUzbekistan.uz",
+      "name": "Muz TV Uzbekistan",
+      "logo": null,
+      "url": "https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8",
+      "country": "Uzbekistan",
+      "countryCode": "UZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -121724,7 +121736,7 @@
       "id": "OTV.ua",
       "name": "OTV",
       "logo": null,
-      "url": "http://91.193.128.233:1935/live/otv.stream/playlist.m3u8",
+      "url": "https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8",
       "country": "Ukraine",
       "countryCode": "UA",
       "language_primary": null,
@@ -142101,31 +142113,6 @@
       ]
     },
     {
-      "id": "RaiSport.it",
-      "name": "Rai Sport",
-      "logo": null,
-      "url": "http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19106/index.m3u8",
-      "country": "Italy",
-      "countryCode": "IT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Rai Sport 1",
-        "Rai Sport +",
-        "Rai Sport Più",
-        "Rai Sport Satellite"
-      ],
-      "network": null,
-      "owners": [
-        "Rai"
-      ]
-    },
-    {
       "id": "RaiStoria.it",
       "name": "Rai Storia",
       "logo": null,
@@ -156798,6 +156785,27 @@
       ]
     },
     {
+      "id": "ShowtimeShowcase.us",
+      "name": "Showtime Showcase",
+      "logo": null,
+      "url": "https://sra72yz.s.gy/SHOWTIME_SHOWCASE_EAST_US",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Paramount+ with SHOWTIME",
+      "owners": [
+        "Showtime Networks Inc.",
+        "Paramount Skydance Corporation"
+      ]
+    },
+    {
       "id": "ShowVenTV.ve",
       "name": "ShowVen TV",
       "logo": null,
@@ -164227,6 +164235,26 @@
       ]
     },
     {
+      "id": "StarzEncoreAction.us",
+      "name": "Starz Encore Action",
+      "logo": null,
+      "url": "https://sra72yz.s.gy/STARZ_ENCORE_ACTION_EAST_HD",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "STARZ Encore",
+      "owners": [
+        "Starz Entertainment Corp."
+      ]
+    },
+    {
       "id": "StarzEncoreClassic.us",
       "name": "Starz Encore Classic",
       "logo": null,
@@ -164242,6 +164270,88 @@
       ],
       "altNames": [],
       "network": "STARZ Encore",
+      "owners": [
+        "Starz Entertainment Corp."
+      ]
+    },
+    {
+      "id": "StarzEncoreSpanish.us",
+      "name": "Starz Encore Spanish",
+      "logo": null,
+      "url": "https://sra72yz.s.gy/STARZ_ENCORE_ESPANOL_EAST_HD",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Starz Encore Español"
+      ],
+      "network": "STARZ Encore",
+      "owners": [
+        "Starz Entertainment Corp."
+      ]
+    },
+    {
+      "id": "StarzEncoreSuspense.us",
+      "name": "Starz Encore Suspense",
+      "logo": null,
+      "url": "https://sra72yz.s.gy/STARZ_ENCORE_SUSPENSE_EAST_HD",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "STARZ Encore",
+      "owners": [
+        "Starz Entertainment Corp."
+      ]
+    },
+    {
+      "id": "StarzEncoreWesterns.us",
+      "name": "Starz Encore Westerns",
+      "logo": null,
+      "url": "https://sra72yz.s.gy/STARZ_ENCORE_WESTER_EAST_US",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "STARZ Encore",
+      "owners": [
+        "Starz Entertainment Corp."
+      ]
+    },
+    {
+      "id": "StarzInBlack.us",
+      "name": "Starz In Black",
+      "logo": null,
+      "url": "https://sra72yz.s.gy/STARZ_IN_BLACK_EAST_US",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "STARZ",
       "owners": [
         "Starz Entertainment Corp."
       ]
@@ -182718,8 +182828,8 @@
       "owners": []
     },
     {
-      "id": "TV21.ru",
-      "name": "TV 21",
+      "id": "TV21International.ru",
+      "name": "TV 21 International",
       "logo": null,
       "url": "http://stream.mcquack.net/152/index.m3u8",
       "country": "Russia",
@@ -182731,14 +182841,9 @@
       "categories": [
         "Películas"
       ],
-      "altNames": [
-        "ТВ 21",
-        "TV XXI"
-      ],
+      "altNames": [],
       "network": null,
-      "owners": [
-        "Media Telecom"
-      ]
+      "owners": []
     },
     {
       "id": "TV24.mk",
@@ -202148,6 +202253,24 @@
       ]
     },
     {
+      "id": "WattanTV.ps",
+      "name": "Wattan TV",
+      "logo": null,
+      "url": "https://htvmada.mada.ps:4443/wattan/index.m3u8",
+      "country": "Palestine",
+      "countryCode": "PS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "WAVETV.bz",
       "name": "WAVE TV",
       "logo": null,
@@ -211891,12 +212014,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 478
+      "count": 476
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 625
+      "count": 626
     },
     {
       "id": "series",
@@ -211916,26 +212039,26 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6801
+      "count": 6809
     }
   ],
   "stats": {
-    "total": 40908,
-    "withStreams": 10680,
-    "spanish": 2053,
+    "total": 40925,
+    "withStreams": 10687,
+    "spanish": 2052,
     "adult": 78,
     "bySection": {
-      "peliculas": 625,
-      "general": 6801,
+      "peliculas": 626,
+      "general": 6809,
       "español": 1926,
       "infantil": 412,
       "series": 360,
-      "deportes": 478
+      "deportes": 476
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1812,
+        "count": 1819,
         "name": "United States"
       },
       {
@@ -211960,12 +212083,12 @@
       },
       {
         "code": "ES",
-        "count": 263,
+        "count": 262,
         "name": "Spain"
       },
       {
         "code": "IT",
-        "count": 259,
+        "count": 258,
         "name": "Italy"
       },
       {
@@ -211985,6 +212108,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-26T01:18:54.119Z",
+  "lastUpdated": "2026-07-27T01:23:21.276Z",
   "source": "orion-stream"
 }
