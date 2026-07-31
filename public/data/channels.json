@@ -5677,24 +5677,6 @@
       ]
     },
     {
-      "id": "Action.fr",
-      "name": "Action",
-      "logo": null,
-      "url": "http://rezofoot.tv/Action/index.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Action24.gr",
       "name": "Action 24",
       "logo": null,
@@ -11193,26 +11175,6 @@
       ],
       "altNames": [],
       "network": "AMC",
-      "owners": [
-        "AMC Global Media"
-      ]
-    },
-    {
-      "id": "AMCSeriesLatinAmerica.us",
-      "name": "AMC Series Latin America",
-      "logo": null,
-      "url": "http://177.245.131.133:8080/AMCSERIES/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": null,
       "owners": [
         "AMC Global Media"
       ]
@@ -31611,7 +31573,7 @@
       "id": "CanaldelCongreso451.mx",
       "name": "Canal del Congreso 45.1",
       "logo": null,
-      "url": "http://177.245.131.133:8080/CONGRESO/index.m3u8",
+      "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8",
       "country": "Mexico",
       "countryCode": "MX",
       "language_primary": "Español",
@@ -40383,24 +40345,6 @@
       ]
     },
     {
-      "id": "CineAr.ar",
-      "name": "Cine.Ar",
-      "logo": null,
-      "url": "http://200.91.32.158:8080/cinear/index.m3u8",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "cinebox.bg",
       "name": "cine.box",
       "logo": null,
@@ -40532,7 +40476,7 @@
       "id": "Cinecanal.us",
       "name": "Cinecanal",
       "logo": null,
-      "url": "http://177.245.131.133:8080/CINECANAL/index.m3u8",
+      "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -42568,28 +42512,6 @@
       "network": null,
       "owners": [
         "Universal Music Group N.V."
-      ]
-    },
-    {
-      "id": "CMElCanaldelaMusica.ar",
-      "name": "CM El Canal de la Musica",
-      "logo": null,
-      "url": "http://200.91.32.158:8080/cm/index.m3u8",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "CM El Canal de la Música"
-      ],
-      "network": null,
-      "owners": [
-        "Grupo Olmos"
       ]
     },
     {
@@ -50735,7 +50657,7 @@
       "id": "DHE.us",
       "name": "DHE",
       "logo": null,
-      "url": "http://177.245.131.133:8080/DHE/index.m3u8",
+      "url": "http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -59942,24 +59864,6 @@
       "owners": []
     },
     {
-      "id": "Eurochannel.uk",
-      "name": "Eurochannel",
-      "logo": null,
-      "url": "http://177.245.131.133:8080/EUROCHANNEL/index.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Eurocom.bg",
       "name": "Eurocom",
       "logo": null,
@@ -60260,7 +60164,7 @@
       "id": "EuropaEuropa.ar",
       "name": "Europa Europa",
       "logo": null,
-      "url": "http://200.91.32.158:8080/europa/index.m3u8",
+      "url": "http://181.119.93.83:8000/play/a1sr/index.m3u8",
       "country": "Argentina",
       "countryCode": "AR",
       "language_primary": "Español",
@@ -62575,7 +62479,7 @@
       "id": "FilmArts.ar",
       "name": "Film & Arts",
       "logo": null,
-      "url": "http://200.91.32.158:8080/filmarts/index.m3u8",
+      "url": "http://15.204.246.24:8080/FilmArtsHD/index.m3u8",
       "country": "Argentina",
       "countryCode": "AR",
       "language_primary": "Español",
@@ -64472,23 +64376,23 @@
       ]
     },
     {
-      "id": "FoxSportsPremium.mx",
-      "name": "Fox Sports Premium",
+      "id": "FoxSports2.us",
+      "name": "Fox Sports 2",
       "logo": null,
-      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23054",
-      "country": "Mexico",
-      "countryCode": "MX",
-      "language_primary": "Español",
-      "is_spanish": true,
+      "url": "https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
       "is_adult": false,
       "section": "deportes",
       "categories": [
         "Deportes"
       ],
       "altNames": [
-        "Fox Sports Premium México"
+        "FS2"
       ],
-      "network": "Fox Sports International",
+      "network": "Fox Sports",
       "owners": [
         "Fox Sports Media Group"
       ]
@@ -64557,7 +64461,7 @@
       "id": "France3.fr",
       "name": "France 3",
       "logo": null,
-      "url": "http://85.14.32.26:8800/udp/239.100.10.144:5000",
+      "url": "http://89.187.185.76:8080/France3/index.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -73425,7 +73329,7 @@
       "altNames": [
         "Daegu MBC TV",
         "대구문화방송",
-        "��邱文化放送"
+        "大邱文化放送"
       ],
       "network": "MBC",
       "owners": [
@@ -90527,7 +90431,7 @@
       "id": "LaNacionPlus.ar",
       "name": "La Nacion +",
       "logo": null,
-      "url": "http://200.91.32.158:8080/lnmas/index.m3u8",
+      "url": "http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8",
       "country": "Argentina",
       "countryCode": "AR",
       "language_primary": "Español",
@@ -92603,7 +92507,7 @@
         "General"
       ],
       "altNames": [
-        "ЛенТВ24"
+        "Лен��В24"
       ],
       "network": null,
       "owners": []
@@ -96742,7 +96646,7 @@
         "General"
       ],
       "altNames": [
-        "Majestad Televisión"
+        "Majestad Televisi��n"
       ],
       "network": null,
       "owners": []
@@ -99710,26 +99614,6 @@
       "altNames": [
         "MCM2"
       ],
-      "network": null,
-      "owners": [
-        "Groupe M6"
-      ]
-    },
-    {
-      "id": "MCMTop.fr",
-      "name": "MCM Top",
-      "logo": null,
-      "url": "http://rezofoot.tv/MCM/index.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
       "network": null,
       "owners": [
         "Groupe M6"
@@ -102793,7 +102677,7 @@
       "id": "MLBNetwork.us",
       "name": "MLB Network",
       "logo": null,
-      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23103",
+      "url": "https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -115007,7 +114891,7 @@
         "General"
       ],
       "altNames": [
-        "Новгородское областное телевидение",
+        "Новгородское областное те��евидение",
         "НовгорОблТв"
       ],
       "network": null,
@@ -121940,28 +121824,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "ParisPremiere.fr",
-      "name": "Paris Premiere",
-      "logo": null,
-      "url": "http://cdn.haititivi.com/PARIS-PREMIERE/index.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Paris Première"
-      ],
-      "network": null,
-      "owners": [
-        "Groupe M6"
-      ]
     },
     {
       "id": "ParlamentodeAndalucia.es",
@@ -136495,7 +136357,7 @@
         "General"
       ],
       "altNames": [
-        "شبکه قزوی��"
+        "شبکه قزوین"
       ],
       "network": null,
       "owners": []
@@ -145535,24 +145397,6 @@
       "owners": []
     },
     {
-      "id": "ROCKEntertainment.sg",
-      "name": "ROCK Entertainment",
-      "logo": null,
-      "url": "http://45.144.165.187:8080/live/playidlive/12345/81.m3u8",
-      "country": "Singapore",
-      "countryCode": "SG",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "RockTV.mk",
       "name": "Rock TV",
       "logo": null,
@@ -147413,7 +147257,7 @@
       "id": "RTL9.lu",
       "name": "RTL9",
       "logo": null,
-      "url": "http://cdn.haititivi.com/rtl-9/index.m3u8",
+      "url": "http://145.239.5.177/308/index.m3u8",
       "country": "Luxembourg",
       "countryCode": "LU",
       "language_primary": null,
@@ -155428,6 +155272,27 @@
       ]
     },
     {
+      "id": "ShowtimeWomen.us",
+      "name": "Showtime Women",
+      "logo": null,
+      "url": "https://messi.damitv.st/papi/ts/showtimewomen-usa/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Paramount+ with SHOWTIME",
+      "owners": [
+        "Showtime Networks Inc.",
+        "Paramount Skydance Corporation"
+      ]
+    },
+    {
       "id": "ShowVenTV.ve",
       "name": "ShowVen TV",
       "logo": null,
@@ -158221,24 +158086,6 @@
       "is_spanish": false,
       "is_adult": false,
       "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "SonyChannel.mx",
-      "name": "Sony Channel",
-      "logo": null,
-      "url": "http://177.245.131.133:8080/SONY/index.m3u8",
-      "country": "Mexico",
-      "countryCode": "MX",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
       "categories": [
         "General"
       ],
@@ -163854,6 +163701,24 @@
       ]
     },
     {
+      "id": "StudioPlusTV.ec",
+      "name": "Studio + TV",
+      "logo": null,
+      "url": "https://cloudvideo.servers10.com:8081/8184/index.m3u8",
+      "country": "Ecuador",
+      "countryCode": "EC",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Studio47.de",
       "name": "Studio 47",
       "logo": null,
@@ -166610,24 +166475,6 @@
       "owners": [
         "NBCUniversal"
       ]
-    },
-    {
-      "id": "SYFY.de",
-      "name": "SYFY",
-      "logo": null,
-      "url": "http://rezofoot.tv/SYFY-HD/index.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "SYFY.us",
@@ -172652,28 +172499,6 @@
       ]
     },
     {
-      "id": "TeletoonPlus.fr",
-      "name": "Teletoon+",
-      "logo": null,
-      "url": "http://cdn.haititivi.com/TELETOON-HD/index.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Infantil"
-      ],
-      "altNames": [
-        "Télétoon+",
-        "Télétoon"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TeletrakTV.cl",
       "name": "Teletrak TV",
       "logo": null,
@@ -176639,6 +176464,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "TjilTV.na",
+      "name": "Tjil TV",
+      "logo": null,
+      "url": "https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6EWJb/rewind-3600.m3u8",
+      "country": "Namibia",
+      "countryCode": "NA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Namibia Media Holdings"
+      ]
     },
     {
       "id": "TJKTV.tr",
@@ -180770,7 +180615,7 @@
         "Noticias"
       ],
       "altNames": [
-        "TürkHaber TV",
+        "T��rkHaber TV",
         "TH Türk Haber"
       ],
       "network": null,
@@ -187063,24 +186908,6 @@
       "section": "español",
       "categories": [
         "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TVUNAM.mx",
-      "name": "TV UNAM",
-      "logo": null,
-      "url": "http://177.245.131.133:8080/UNAM/index.m3u8",
-      "country": "Mexico",
-      "countryCode": "MX",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
       ],
       "altNames": [],
       "network": null,
@@ -194402,7 +194229,7 @@
       "id": "UniversalTVLatinAmerica.us",
       "name": "Universal TV Latin America",
       "logo": null,
-      "url": "http://177.245.131.133:8080/UNIVERSAL/index.m3u8",
+      "url": "http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -210237,46 +210064,46 @@
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 609
+      "count": 607
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 359
+      "count": 358
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 410
+      "count": 409
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1930
+      "count": 1928
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6760
+      "count": 6757
     }
   ],
   "stats": {
-    "total": 40937,
-    "withStreams": 10601,
-    "spanish": 2053,
+    "total": 40941,
+    "withStreams": 10592,
+    "spanish": 2049,
     "adult": 78,
     "bySection": {
-      "peliculas": 609,
-      "general": 6760,
-      "español": 1930,
-      "infantil": 410,
-      "series": 359,
+      "peliculas": 607,
+      "general": 6757,
+      "español": 1928,
+      "infantil": 409,
+      "series": 358,
       "deportes": 455
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1806,
+        "count": 1807,
         "name": "United States"
       },
       {
@@ -210286,7 +210113,7 @@
       },
       {
         "code": "DE",
-        "count": 439,
+        "count": 438,
         "name": "Germany"
       },
       {
@@ -210326,6 +210153,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-30T01:06:47.230Z",
+  "lastUpdated": "2026-07-31T01:19:21.377Z",
   "source": "orion-stream"
 }
