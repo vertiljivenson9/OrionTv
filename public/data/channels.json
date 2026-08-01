@@ -15340,6 +15340,28 @@
       "owners": []
     },
     {
+      "id": "Arryadia.ma",
+      "name": "Arryadia",
+      "logo": null,
+      "url": "http://149.100.11.252:8000/play/a065/index.m3u8",
+      "country": "Morocco",
+      "countryCode": "MA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "قناة الرياضية"
+      ],
+      "network": null,
+      "owners": [
+        "SNRT"
+      ]
+    },
+    {
       "id": "ART.gr",
       "name": "ART",
       "logo": null,
@@ -15580,6 +15602,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ArubaTVPlus.aw",
+      "name": "ArubaTV +",
+      "logo": null,
+      "url": "https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8",
+      "country": "Aruba",
+      "countryCode": "AW",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "ArubaTV Plus"
+      ],
+      "network": null,
+      "owners": [
+        "VOA MEDIA"
+      ]
     },
     {
       "id": "ArvanTV.ir",
@@ -17368,7 +17412,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "a.tv"
+      ],
       "network": null,
       "owners": []
     },
@@ -24363,7 +24409,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "BLK TV"
+      ],
       "network": null,
       "owners": []
     },
@@ -27380,6 +27428,24 @@
       ]
     },
     {
+      "id": "BVC.ar",
+      "name": "BVC",
+      "logo": null,
+      "url": "https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "BXArts.us",
       "name": "BX Arts",
       "logo": null,
@@ -30152,6 +30218,24 @@
       "owners": [
         "Grup4"
       ]
+    },
+    {
+      "id": "Canal4Esquel.ar",
+      "name": "Canal 4 Esquel",
+      "logo": null,
+      "url": "https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "Canal4Jujuy.ar",
@@ -45144,7 +45228,7 @@
       "id": "CosmosTv.ar",
       "name": "Cosmos Tv",
       "logo": null,
-      "url": "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
+      "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
       "country": "Argentina",
       "countryCode": "AR",
       "language_primary": "Español",
@@ -57505,7 +57589,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "ems TV"
+      ],
       "network": null,
       "owners": [
         "ev1.tv GmbH"
@@ -58914,7 +59000,8 @@
         "Noticias"
       ],
       "altNames": [
-        "Еспресо TV"
+        "Еспресо TV",
+        "Espreso"
       ],
       "network": null,
       "owners": [
@@ -60130,7 +60217,8 @@
         "Noticias"
       ],
       "altNames": [
-        "Euronews по-русски"
+        "Euronews по-русски",
+        "Euronews Russki"
       ],
       "network": "Euronews",
       "owners": [
@@ -61677,7 +61765,9 @@
       "categories": [
         "Estilo de Vida"
       ],
-      "altNames": [],
+      "altNames": [
+        "Fashion TV"
+      ],
       "network": null,
       "owners": [
         "Michel Adam Lisowski"
@@ -71763,6 +71853,24 @@
       "owners": []
     },
     {
+      "id": "HeartRadioAruba.aw",
+      "name": "Heart Radio Aruba",
+      "logo": null,
+      "url": "https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8",
+      "country": "Aruba",
+      "countryCode": "AW",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Heartland.us",
       "name": "Heartland",
       "logo": null,
@@ -74216,7 +74324,8 @@
         "Religioso"
       ],
       "altNames": [
-        "Hope TV Deutsch"
+        "Hope TV Deutsch",
+        "Hope TV"
       ],
       "network": null,
       "owners": [
@@ -74939,7 +75048,9 @@
       "categories": [
         "Deportes"
       ],
-      "altNames": [],
+      "altNames": [
+        "HT SPOR"
+      ],
       "network": null,
       "owners": []
     },
@@ -79257,7 +79368,7 @@
       "id": "ItsSupernaturalNetwork.us",
       "name": "It's Supernatural! Network",
       "logo": null,
-      "url": "https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8",
+      "url": "https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -82251,6 +82362,27 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "JTBSClassic.in",
+      "name": "JTBS Classic",
+      "logo": null,
+      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso",
+        "Cultura"
+      ],
+      "altNames": [],
+      "network": "Jishu Television's Broadcasting Services",
+      "owners": [
+        "Joel Sohan Gomes"
+      ]
     },
     {
       "id": "JTV.id",
@@ -92507,7 +92639,7 @@
         "General"
       ],
       "altNames": [
-        "Лен��В24"
+        "ЛенТВ24"
       ],
       "network": null,
       "owners": []
@@ -94287,6 +94419,24 @@
       "section": "general",
       "categories": [
         "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "LombardiaTV.it",
+      "name": "Lombardia TV",
+      "logo": null,
+      "url": "https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -96646,7 +96796,7 @@
         "General"
       ],
       "altNames": [
-        "Majestad Televisi��n"
+        "Majestad Televisión"
       ],
       "network": null,
       "owners": []
@@ -109917,6 +110067,27 @@
       ]
     },
     {
+      "id": "NBCSportsBayArea.us",
+      "name": "NBC Sports Bay Area",
+      "logo": null,
+      "url": "https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "NBC Sports Regional Networks",
+      "owners": [
+        "NBCUniversal",
+        "Comcast Corporation"
+      ]
+    },
+    {
       "id": "NBCSportsChicago.us",
       "name": "NBC Sports Chicago",
       "logo": null,
@@ -109955,6 +110126,27 @@
         "NBC Sports"
       ],
       "network": "NBC",
+      "owners": [
+        "NBCUniversal",
+        "Comcast Corporation"
+      ]
+    },
+    {
+      "id": "NBCSportsPhiladelphia.us",
+      "name": "NBC Sports Philadelphia",
+      "logo": null,
+      "url": "https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "NBC Sports Regional Networks",
       "owners": [
         "NBCUniversal",
         "Comcast Corporation"
@@ -114891,7 +115083,7 @@
         "General"
       ],
       "altNames": [
-        "Новгородское областное те��евидение",
+        "Новгородское областное телевидение",
         "НовгорОблТв"
       ],
       "network": null,
@@ -118021,7 +118213,9 @@
         "General"
       ],
       "altNames": [
-        "OK Weinstraße Neustadt"
+        "OK Weinstraße Neustadt",
+        "OK Weinstrasse",
+        "OK Weinstraße"
       ],
       "network": null,
       "owners": []
@@ -118498,6 +118692,26 @@
       "network": null,
       "owners": [
         "PART"
+      ]
+    },
+    {
+      "id": "Omega.is",
+      "name": "Omega",
+      "logo": null,
+      "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8",
+      "country": "Iceland",
+      "countryCode": "IS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Eirkur Sigurbjornsson"
       ]
     },
     {
@@ -137992,7 +138206,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "Radio Bremen TV"
+      ],
       "network": null,
       "owners": []
     },
@@ -144398,7 +144614,8 @@
         "General"
       ],
       "altNames": [
-        "Regionalfernsehen Harz"
+        "Regionalfernsehen Harz",
+        "RFH Regionalfernsehen Harz"
       ],
       "network": null,
       "owners": []
@@ -150403,7 +150620,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "Chemnitz Fernsehen"
+      ],
       "network": null,
       "owners": []
     },
@@ -150421,7 +150640,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "Dresden Fernsehen"
+      ],
       "network": null,
       "owners": []
     },
@@ -150439,7 +150660,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "Leipzig Fernsehen"
+      ],
       "network": null,
       "owners": []
     },
@@ -162852,7 +163075,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Stingray Group Inc."
+      ]
     },
     {
       "id": "StingrayCozyCafe.ca",
@@ -166404,7 +166629,8 @@
         "General"
       ],
       "altNames": [
-        "SWR Fernsehen Baden-Württemberg"
+        "SWR Fernsehen Baden-Württemberg",
+        "SWR Fernsehen BW"
       ],
       "network": null,
       "owners": [
@@ -166425,7 +166651,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "SWR Fernsehen RP"
+      ],
       "network": null,
       "owners": [
         "Südwestrundfunk"
@@ -167111,6 +167339,24 @@
       "owners": [
         "Ministry of Culture of Taiwan"
       ]
+    },
+    {
+      "id": "TakbeerTV.uk",
+      "name": "Takbeer TV",
+      "logo": null,
+      "url": "https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "TakeshisCastle.de",
@@ -180615,7 +180861,7 @@
         "Noticias"
       ],
       "altNames": [
-        "T��rkHaber TV",
+        "TürkHaber TV",
         "TH Türk Haber"
       ],
       "network": null,
@@ -188829,7 +189075,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "TVA Ostbayern"
+      ],
       "network": null,
       "owners": []
     },
@@ -205733,7 +205981,7 @@
       "id": "YazdTV.ir",
       "name": "Yazd TV",
       "logo": null,
-      "url": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8",
+      "url": "http://89.45.60.82/0.ts",
       "country": "Iran",
       "countryCode": "IR",
       "language_primary": null,
@@ -210059,7 +210307,7 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 455
+      "count": 458
     },
     {
       "id": "peliculas",
@@ -210079,36 +210327,36 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1928
+      "count": 1930
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6757
+      "count": 6763
     }
   ],
   "stats": {
-    "total": 40941,
-    "withStreams": 10592,
-    "spanish": 2049,
+    "total": 40999,
+    "withStreams": 10603,
+    "spanish": 2051,
     "adult": 78,
     "bySection": {
       "peliculas": 607,
-      "general": 6757,
-      "español": 1928,
+      "general": 6763,
+      "español": 1930,
       "infantil": 409,
       "series": 358,
-      "deportes": 455
+      "deportes": 458
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1807,
+        "count": 1809,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 655,
+        "count": 656,
         "name": "India"
       },
       {
@@ -210133,7 +210381,7 @@
       },
       {
         "code": "IT",
-        "count": 258,
+        "count": 259,
         "name": "Italy"
       },
       {
@@ -210153,6 +210401,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-31T01:19:21.377Z",
+  "lastUpdated": "2026-08-01T01:22:19.196Z",
   "source": "orion-stream"
 }
