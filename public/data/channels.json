@@ -1230,7 +1230,7 @@
       "id": "24TV.tr",
       "name": "24 TV",
       "logo": null,
-      "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
+      "url": "https://tv.ensonhaber.com/tv24/tv24.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -1387,7 +1387,7 @@
       "id": "2MMonde.ma",
       "name": "2M Monde",
       "logo": null,
-      "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
+      "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
       "country": "Morocco",
       "countryCode": "MA",
       "language_primary": null,
@@ -3562,26 +3562,6 @@
       "owners": [
         "Turkuvaz Medya"
       ]
-    },
-    {
-      "id": "ATurk.tr",
-      "name": "A Turk",
-      "logo": null,
-      "url": "https://vdo.digitalbox.xyz:3807/stream/play.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "A Türk"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "APlusTV.pk",
@@ -7519,24 +7499,6 @@
       ]
     },
     {
-      "id": "AkitTV.tr",
-      "name": "Akit TV",
-      "logo": null,
-      "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "AksuTV.tr",
       "name": "Aksu TV",
       "logo": null,
@@ -7615,28 +7577,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "AlAoula.ma",
-      "name": "Al Aoula",
-      "logo": null,
-      "url": "https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8",
-      "country": "Morocco",
-      "countryCode": "MA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "قناة الأولى"
-      ],
-      "network": null,
-      "owners": [
-        "SNRT"
-      ]
     },
     {
       "id": "AlArabiyaBusiness.ae",
@@ -10866,6 +10806,24 @@
       "owners": []
     },
     {
+      "id": "AlwesamTV.sa",
+      "name": "Alwesam TV",
+      "logo": null,
+      "url": "https://stream.addresses-sat.com/Alwesam/index.m3u8",
+      "country": "Saudi Arabia",
+      "countryCode": "SA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ALWifakNewsTV.lb",
       "name": "ALWifak News TV",
       "logo": null,
@@ -11986,26 +11944,6 @@
       ],
       "altNames": [],
       "network": "Pluto TV",
-      "owners": []
-    },
-    {
-      "id": "AnadoluAgency.tr",
-      "name": "Anadolu Agency",
-      "logo": null,
-      "url": "https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Anadolu Ajansı"
-      ],
-      "network": null,
       "owners": []
     },
     {
@@ -17130,24 +17068,6 @@
       "owners": []
     },
     {
-      "id": "ATVAvrupa.tr",
-      "name": "ATV Avrupa",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/ATV/index.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "ATVSpirit.hu",
       "name": "ATV Spirit",
       "logo": null,
@@ -17632,28 +17552,6 @@
       "network": null,
       "owners": [
         "Red Media"
-      ]
-    },
-    {
-      "id": "Automotolachaine.fr",
-      "name": "Automoto la chaine",
-      "logo": null,
-      "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/23.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Automovilismo"
-      ],
-      "altNames": [
-        "Automoto la chaîne"
-      ],
-      "network": null,
-      "owners": [
-        "AB Sat"
       ]
     },
     {
@@ -21604,6 +21502,26 @@
       ]
     },
     {
+      "id": "BebetoTV.do",
+      "name": "Bebeto TV",
+      "logo": null,
+      "url": "https://edge.essastream.com/bebetotelevision/index.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "El 75 TV"
+      ],
+      "network": "Canal del Sol",
+      "owners": []
+    },
+    {
       "id": "Becker.de",
       "name": "Becker",
       "logo": null,
@@ -22210,24 +22128,6 @@
       "altNames": [
         "Bénin Web TV"
       ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BeratTV.tr",
-      "name": "Berat TV",
-      "logo": null,
-      "url": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -22985,7 +22885,7 @@
       "id": "BeyazTV.tr",
       "name": "Beyaz TV",
       "logo": null,
-      "url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
+      "url": "https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -24055,24 +23955,6 @@
       "owners": []
     },
     {
-      "id": "BirTV.tr",
-      "name": "Bir TV",
-      "logo": null,
-      "url": "https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "bitMe.mx",
       "name": "bitMe",
       "logo": null,
@@ -24177,24 +24059,6 @@
       "section": "general",
       "categories": [
         "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BizimevTV.tr",
-      "name": "Bizimev TV",
-      "logo": null,
-      "url": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
       ],
       "altNames": [],
       "network": null,
@@ -27280,7 +27144,7 @@
       "id": "BursaTV.tr",
       "name": "Bursa TV",
       "logo": null,
-      "url": "https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8",
+      "url": "https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -28413,7 +28277,7 @@
       "id": "CanTV.tr",
       "name": "Can TV",
       "logo": null,
-      "url": "http://canbroadcast.com:7000/canlican/tv.m3u8",
+      "url": "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -36738,7 +36602,7 @@
       "id": "CekmekoyTV.tr",
       "name": "Cekmekoy TV",
       "logo": null,
-      "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
+      "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -37294,24 +37158,6 @@
       "owners": [
         "China Media Group"
       ]
-    },
-    {
-      "id": "CGTNDocumentary.tr",
-      "name": "CGTN Documentary",
-      "logo": null,
-      "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "CGTNFrench.cn",
@@ -39745,7 +39591,7 @@
       "id": "CiftciTV.tr",
       "name": "Ciftci TV",
       "logo": null,
-      "url": "http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8",
+      "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -39803,24 +39649,6 @@
       "owners": [
         "DMD"
       ]
-    },
-    {
-      "id": "Cine1.tr",
-      "name": "Cine 1",
-      "logo": null,
-      "url": "https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "Cine666byPlutoTV.de",
@@ -46613,6 +46441,26 @@
       ]
     },
     {
+      "id": "CTTCanal49.do",
+      "name": "CTT Canal 49",
+      "logo": null,
+      "url": "https://cdnfox.hostlagarto.com/cct49/index.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Grupo Rizek"
+      ]
+    },
+    {
       "id": "CTV.bo",
       "name": "CTV",
       "logo": null,
@@ -49670,24 +49518,6 @@
       "owners": []
     },
     {
-      "id": "DehaTV.tr",
-      "name": "Deha TV",
-      "logo": null,
-      "url": "https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "DejTV.ir",
       "name": "Dej TV",
       "logo": null,
@@ -51384,24 +51214,6 @@
       "owners": [
         "MPIU"
       ]
-    },
-    {
-      "id": "DimTV.tr",
-      "name": "Dim TV",
-      "logo": null,
-      "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "DionTV.gr",
@@ -54943,6 +54755,26 @@
       "network": null,
       "owners": [
         "BAG Films & Media"
+      ]
+    },
+    {
+      "id": "EInternational.id",
+      "name": "E International",
+      "logo": null,
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Edge Group"
       ]
     },
     {
@@ -60289,28 +60121,6 @@
       ]
     },
     {
-      "id": "EuroStar.tr",
-      "name": "EuroStar",
-      "logo": null,
-      "url": "https://canlitvulusal.xyz/live/eurostar/index.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Star Avrupa Radyo ve Televizyon"
-      ],
-      "network": null,
-      "owners": [
-        "Dogus Yayin Grubu"
-      ]
-    },
-    {
       "id": "EUTV.br",
       "name": "EUTV",
       "logo": null,
@@ -60865,6 +60675,24 @@
       "section": "general",
       "categories": [
         "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Extra86TV.do",
+      "name": "Extra 86 TV",
+      "logo": null,
+      "url": "https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -63129,7 +62957,7 @@
       "id": "FinansTurkTV.tr",
       "name": "Finans Turk TV",
       "logo": null,
-      "url": "https://trs1.aynaott.com/Finans/index.m3u8",
+      "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -63380,24 +63208,6 @@
       "section": "general",
       "categories": [
         "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "FlashTV.tr",
-      "name": "Flash TV",
-      "logo": null,
-      "url": "https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
       ],
       "altNames": [],
       "network": null,
@@ -65506,6 +65316,24 @@
       "url": "https://live.teleradiocom.tj/8/3m.m3u8",
       "country": "Tajikistan",
       "countryCode": "TJ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "FutbolTV.uz",
+      "name": "Futbol TV",
+      "logo": null,
+      "url": "http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8",
+      "country": "Uzbekistan",
+      "countryCode": "UZ",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -69702,24 +69530,6 @@
       "owners": []
     },
     {
-      "id": "GRT.tr",
-      "name": "GRT",
-      "logo": null,
-      "url": "https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "GSMyShop.kr",
       "name": "GS My Shop",
       "logo": null,
@@ -70784,7 +70594,7 @@
       "id": "HaberturkTV.tr",
       "name": "Haberturk TV",
       "logo": null,
-      "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
+      "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -75776,24 +75586,6 @@
       "owners": []
     },
     {
-      "id": "IBBTV.tr",
-      "name": "IBB TV",
-      "logo": null,
-      "url": "https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "IBC13.ph",
       "name": "IBC 13",
       "logo": null,
@@ -76086,7 +75878,7 @@
       "id": "IcelTV.tr",
       "name": "Icel TV",
       "logo": null,
-      "url": "http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8",
+      "url": "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -79756,24 +79548,6 @@
       "altNames": [
         "آی تی وی موزیک"
       ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "iTVTurkishMusic.ca",
-      "name": "iTV Turkish Music",
-      "logo": null,
-      "url": "https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -83523,7 +83297,7 @@
       "id": "Kanal33.tr",
       "name": "Kanal 33",
       "logo": null,
-      "url": "http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8",
+      "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -83576,24 +83350,6 @@
       "owners": []
     },
     {
-      "id": "Kanal38.tr",
-      "name": "Kanal 38",
-      "logo": null,
-      "url": "http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Kanal5.mk",
       "name": "Kanal 5",
       "logo": null,
@@ -83619,7 +83375,7 @@
       "id": "Kanal58.tr",
       "name": "Kanal 58",
       "logo": null,
-      "url": "https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8",
+      "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -83649,24 +83405,6 @@
       ],
       "altNames": [],
       "network": "TNT Group",
-      "owners": []
-    },
-    {
-      "id": "Kanal68.tr",
-      "name": "Kanal 68",
-      "logo": null,
-      "url": "https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
       "owners": []
     },
     {
@@ -83746,42 +83484,6 @@
       ]
     },
     {
-      "id": "KanalAvrupa.tr",
-      "name": "Kanal Avrupa",
-      "logo": null,
-      "url": "http://51.15.2.151/hls/kanalavrupa.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "KanalB.tr",
-      "name": "Kanal B",
-      "logo": null,
-      "url": "http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "KanalD.ro",
       "name": "Kanal D",
       "logo": null,
@@ -83827,7 +83529,7 @@
       "id": "KanalDDrama.tr",
       "name": "Kanal D Drama",
       "logo": null,
-      "url": "https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8",
+      "url": "http://8.243.126.131:8000/play/a0mn/index.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -83952,24 +83654,6 @@
       "owners": []
     },
     {
-      "id": "KanalSim.cy",
-      "name": "Kanal Sim",
-      "logo": null,
-      "url": "https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8",
-      "country": "Cyprus",
-      "countryCode": "CY",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "KanalV.tr",
       "name": "Kanal V",
       "logo": null,
@@ -83984,26 +83668,6 @@
         "General"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "KanalZ.tr",
-      "name": "Kanal Z",
-      "logo": null,
-      "url": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Kanal 67"
-      ],
       "network": null,
       "owners": []
     },
@@ -84530,7 +84194,7 @@
       "id": "KayTV.tr",
       "name": "Kay TV",
       "logo": null,
-      "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8",
+      "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -85731,62 +85395,6 @@
       "owners": [
         "Manoranjan TV Group Limited"
       ]
-    },
-    {
-      "id": "KibrisGencTV.cy",
-      "name": "Kibris Genc TV",
-      "logo": null,
-      "url": "https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8",
-      "country": "Cyprus",
-      "countryCode": "CY",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Kibris Genç TV"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "KibrisKanalT.cy",
-      "name": "Kibris Kanal T",
-      "logo": null,
-      "url": "https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8",
-      "country": "Cyprus",
-      "countryCode": "CY",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "KibrisTV.cy",
-      "name": "Kibris TV",
-      "logo": null,
-      "url": "https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8",
-      "country": "Cyprus",
-      "countryCode": "CY",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "KidOO.us",
@@ -89247,26 +88855,6 @@
       ],
       "altNames": [
         "Кубань 24"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "KudusTV.tr",
-      "name": "Kudus TV",
-      "logo": null,
-      "url": "https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Kudüs TV"
       ],
       "network": null,
       "owners": []
@@ -96762,6 +96350,42 @@
       "owners": []
     },
     {
+      "id": "MaincastCybersport.ua",
+      "name": "Maincast Cybersport",
+      "logo": null,
+      "url": "http://stream.mcquack.net/487/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "Maincast",
+      "owners": []
+    },
+    {
+      "id": "MaincastSport.ua",
+      "name": "Maincast Sport",
+      "logo": null,
+      "url": "http://stream.mcquack.net/490/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "Maincast",
+      "owners": []
+    },
+    {
       "id": "MaisonTravauxTV.fr",
       "name": "Maison & Travaux TV",
       "logo": null,
@@ -101978,24 +101602,6 @@
       "section": "general",
       "categories": [
         "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "MilyonTV.tr",
-      "name": "Milyon TV",
-      "logo": null,
-      "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
       ],
       "altNames": [],
       "network": null,
@@ -116205,7 +115811,7 @@
       "id": "NTV.tr",
       "name": "NTV",
       "logo": null,
-      "url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+      "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -116760,26 +116366,6 @@
         "Música"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "Number1Turk.tr",
-      "name": "Number 1 Turk",
-      "logo": null,
-      "url": "https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "Number 1 Türk"
-      ],
       "network": null,
       "owners": []
     },
@@ -119142,24 +118728,6 @@
       ]
     },
     {
-      "id": "On6.tr",
-      "name": "On 6",
-      "logo": null,
-      "url": "https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "ONFM.pt",
       "name": "ON FM",
       "logo": null,
@@ -119172,24 +118740,6 @@
       "section": "general",
       "categories": [
         "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "OnMedyaTV.tr",
-      "name": "On Medya TV",
-      "logo": null,
-      "url": "http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -119271,26 +118821,6 @@
       "owners": [
         "National Polytechnic Institute"
       ]
-    },
-    {
-      "id": "OncuTV.tr",
-      "name": "Oncu TV",
-      "logo": null,
-      "url": "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Öncü TV"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "Onda15TV.es",
@@ -132822,6 +132352,27 @@
       ]
     },
     {
+      "id": "Polsat1.pl",
+      "name": "Polsat 1",
+      "logo": null,
+      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Cyfrowy Polsat",
+      "owners": [
+        "Telewizja Polsat",
+        "Cyfrowy Polsat"
+      ]
+    },
+    {
       "id": "PolsatNews.pl",
       "name": "Polsat News",
       "logo": null,
@@ -132882,6 +132433,26 @@
       "owners": [
         "Telewizja Polsat",
         "Cyfrowy Polsat"
+      ]
+    },
+    {
+      "id": "PolsatSeriale.pl",
+      "name": "Polsat Seriale",
+      "logo": null,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Polsat Seriale"
       ]
     },
     {
@@ -141855,6 +141426,24 @@
       "owners": []
     },
     {
+      "id": "RBTV.py",
+      "name": "RB TV",
+      "logo": null,
+      "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "RBATV.br",
       "name": "RBATV",
       "logo": null,
@@ -145780,6 +145369,24 @@
       "owners": []
     },
     {
+      "id": "RomanticaTV.it",
+      "name": "Romantica TV",
+      "logo": null,
+      "url": "https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "RomedyNow.in",
       "name": "Romedy Now",
       "logo": null,
@@ -146684,26 +146291,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "RTBAneka.bn",
-      "name": "RTB Aneka",
-      "logo": null,
-      "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
-      "country": "Brunei",
-      "countryCode": "BN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Radio Television Brunei"
-      ]
     },
     {
       "id": "RTBGo.bn",
@@ -161008,24 +160595,6 @@
       "owners": []
     },
     {
-      "id": "SportsTV.tr",
-      "name": "Sports TV",
-      "logo": null,
-      "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "SportsGrid.us",
       "name": "SportsGrid",
       "logo": null,
@@ -167190,26 +166759,6 @@
       ]
     },
     {
-      "id": "TabiiSpor6.tr",
-      "name": "Tabii Spor 6",
-      "logo": null,
-      "url": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "TRT"
-      ]
-    },
-    {
       "id": "TaevasTV7.fi",
       "name": "Taevas TV7",
       "logo": null,
@@ -167862,42 +167411,6 @@
       "owners": []
     },
     {
-      "id": "TarihTV.tr",
-      "name": "Tarih TV",
-      "logo": null,
-      "url": "https://tv1.arectv30.sbs/live/tarihtv.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TarimTV.tr",
-      "name": "Tarim TV",
-      "logo": null,
-      "url": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Taroteame.es",
       "name": "Taroteame",
       "logo": null,
@@ -167998,24 +167511,6 @@
       "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8",
       "country": "Hungary",
       "countryCode": "HU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TatlisesTV.tr",
-      "name": "Tatlises TV",
-      "logo": null,
-      "url": "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -174223,27 +173718,6 @@
       "owners": []
     },
     {
-      "id": "TGRTEurope.tr",
-      "name": "TGRT Europe",
-      "logo": null,
-      "url": "https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Huzur Radyo TV A.Ş",
-        "İhlas Holding"
-      ]
-    },
-    {
       "id": "TGRTHaber.tr",
       "name": "TGRT Haber",
       "logo": null,
@@ -176674,26 +176148,6 @@
       ]
     },
     {
-      "id": "tiviTURK.de",
-      "name": "tiviTURK",
-      "logo": null,
-      "url": "https://stream.tiviturk.de/live/tiviturk.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "tiviTÜRK"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TJC.uk",
       "name": "TJC",
       "logo": null,
@@ -176978,7 +176432,7 @@
       "id": "TMB.tr",
       "name": "TMB",
       "logo": null,
-      "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8",
+      "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -178066,24 +177520,6 @@
       "owners": []
     },
     {
-      "id": "ToprakTV.tr",
-      "name": "Toprak TV",
-      "logo": null,
-      "url": "https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "ToraCanal69.do",
       "name": "Tora Canal 69",
       "logo": null,
@@ -179064,24 +178500,6 @@
       ]
     },
     {
-      "id": "TrakyaTurk.tr",
-      "name": "Trakya Turk",
-      "logo": null,
-      "url": "https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TransTV.id",
       "name": "Trans TV",
       "logo": null,
@@ -179766,26 +179184,6 @@
       "owners": []
     },
     {
-      "id": "TRT1.tr",
-      "name": "TRT 1",
-      "logo": null,
-      "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Turkish Radio and Television Corporation"
-      ]
-    },
-    {
       "id": "TRT2.tr",
       "name": "TRT 2",
       "logo": null,
@@ -179881,28 +179279,6 @@
       "network": null,
       "owners": [
         "Turkish Radio and Television Corporation"
-      ]
-    },
-    {
-      "id": "TRTCocuk.tr",
-      "name": "TRT Cocuk",
-      "logo": null,
-      "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "TRT Çocuk"
-      ],
-      "network": null,
-      "owners": [
-        "TRT"
       ]
     },
     {
@@ -180047,44 +179423,6 @@
       "owners": [
         "TRT"
       ]
-    },
-    {
-      "id": "TRTSpor.tr",
-      "name": "TRT Spor",
-      "logo": null,
-      "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "TRT"
-      ]
-    },
-    {
-      "id": "TRTSporYildiz.tr",
-      "name": "TRT Spor Yildiz",
-      "logo": null,
-      "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "TRTTurk.tr",
@@ -181111,24 +180449,6 @@
       "owners": []
     },
     {
-      "id": "TV100.tr",
-      "name": "TV 100",
-      "logo": null,
-      "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TV16Toronto.ca",
       "name": "TV 16 Toronto",
       "logo": null,
@@ -181153,24 +180473,6 @@
       "url": "https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8",
       "country": "Denmark",
       "countryCode": "DK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TV2020.cy",
-      "name": "TV 2020",
-      "logo": null,
-      "url": "https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8",
-      "country": "Cyprus",
-      "countryCode": "CY",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -181273,24 +180575,6 @@
       "owners": []
     },
     {
-      "id": "TV38.tr",
-      "name": "TV 38",
-      "logo": null,
-      "url": "https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TV4.mn",
       "name": "TV 4",
       "logo": null,
@@ -181330,7 +180614,7 @@
       "id": "TV41.tr",
       "name": "TV 41",
       "logo": null,
-      "url": "http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8",
+      "url": "http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -181389,7 +180673,7 @@
       "id": "TV52.tr",
       "name": "TV 52",
       "logo": null,
-      "url": "http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8",
+      "url": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -183795,26 +183079,6 @@
       "owners": []
     },
     {
-      "id": "TVGunes.cy",
-      "name": "TV Gunes",
-      "logo": null,
-      "url": "https://sc-kuzeykibrissmarttv.ercdn.net/gunestv/bant1/playlist.m3u8",
-      "country": "Cyprus",
-      "countryCode": "CY",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TV Günes"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TVHigueyDigital.do",
       "name": "TV Higuey Digital",
       "logo": null,
@@ -186104,6 +185368,24 @@
       "owners": []
     },
     {
+      "id": "TVRepublika.pl",
+      "name": "TV Republika",
+      "logo": null,
+      "url": "https://cdn-s-lb2.pluscdn.pl/ch/1454064/17/dash/cc140553/live.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TVRheintal.ch",
       "name": "TV Rheintal",
       "logo": null,
@@ -187825,28 +187107,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "tv2.tr",
-      "name": "tv2",
-      "logo": null,
-      "url": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Teve2"
-      ],
-      "network": null,
-      "owners": [
-        "Demirören Group"
-      ]
     },
     {
       "id": "TV2.dz",
@@ -190531,7 +189791,7 @@
       "id": "TVN24.do",
       "name": "TVN24",
       "logo": null,
-      "url": "https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8",
+      "url": "https://edge.essastream.com/vozzmedia/index.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -192893,29 +192153,6 @@
       "owners": []
     },
     {
-      "id": "TYTTurk.tr",
-      "name": "TYT Turk",
-      "logo": null,
-      "url": "https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TYT Türk",
-        "TYT"
-      ],
-      "network": null,
-      "owners": [
-        "Texs Media"
-      ]
-    },
-    {
       "id": "TZiK.fr",
       "name": "TZiK",
       "logo": null,
@@ -194510,26 +193747,6 @@
       "owners": []
     },
     {
-      "id": "UniversiteTV.tr",
-      "name": "Universite TV",
-      "logo": null,
-      "url": "https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Üniversite TV"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Univision.us",
       "name": "Univision",
       "logo": null,
@@ -195138,26 +194355,6 @@
       "owners": []
     },
     {
-      "id": "UUTV2.tr",
-      "name": "UU TV 2",
-      "logo": null,
-      "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ÜÜ TV 2"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "UvagutTV.ca",
       "name": "Uvagut TV",
       "logo": null,
@@ -195269,24 +194466,6 @@
       "section": "deportes",
       "categories": [
         "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "VTV.tr",
-      "name": "V TV",
-      "logo": null,
-      "url": "https://serdar.tiviplayer.com/player/m3u8/65aae71c9b93f0965aaed3a92660d98b/65aae71c9b93f0965aaed3a92660d98b.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
       ],
       "altNames": [],
       "network": null,
@@ -197231,26 +196410,6 @@
       "owners": []
     },
     {
-      "id": "ViasatExplore.tr",
-      "name": "Viasat Explore",
-      "logo": null,
-      "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Viasat World LTD"
-      ]
-    },
-    {
       "id": "ViasatExploreClassic.pl",
       "name": "Viasat Explore Classic",
       "logo": null,
@@ -198748,24 +197907,6 @@
         "Genc Dulaku",
         "Adrian Dulaku"
       ]
-    },
-    {
-      "id": "Vizyon58TV.tr",
-      "name": "Vizyon 58 TV",
-      "logo": null,
-      "url": "https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "Vkus.ru",
@@ -203542,26 +202683,6 @@
       "owners": [
         "WOAI Licensee LLC"
       ]
-    },
-    {
-      "id": "WomanTV.tr",
-      "name": "Woman TV",
-      "logo": null,
-      "url": "https://embedlp.becdn.net/womantv.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Cultura",
-        "Educación",
-        "Estilo de Vida"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "WomensSportsNetwork.us",
@@ -210307,7 +209428,7 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 458
+      "count": 457
     },
     {
       "id": "peliculas",
@@ -210317,36 +209438,36 @@
     {
       "id": "series",
       "name": "Series",
-      "count": 358
+      "count": 359
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 409
+      "count": 408
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1930
+      "count": 1934
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6763
+      "count": 6714
     }
   ],
   "stats": {
-    "total": 40999,
-    "withStreams": 10603,
-    "spanish": 2051,
+    "total": 41000,
+    "withStreams": 10557,
+    "spanish": 2055,
     "adult": 78,
     "bySection": {
       "peliculas": 607,
-      "general": 6763,
-      "español": 1930,
-      "infantil": 409,
-      "series": 358,
-      "deportes": 458
+      "general": 6714,
+      "español": 1934,
+      "infantil": 408,
+      "series": 359,
+      "deportes": 457
     },
     "topCountries": [
       {
@@ -210361,7 +209482,7 @@
       },
       {
         "code": "DE",
-        "count": 438,
+        "count": 437,
         "name": "Germany"
       },
       {
@@ -210381,7 +209502,7 @@
       },
       {
         "code": "IT",
-        "count": 259,
+        "count": 260,
         "name": "Italy"
       },
       {
@@ -210391,16 +209512,16 @@
       },
       {
         "code": "DO",
-        "count": 238,
+        "count": 241,
         "name": "Dominican Republic"
       },
       {
-        "code": "TR",
-        "count": 232,
-        "name": "Turkiye"
+        "code": "SE",
+        "count": 206,
+        "name": "Sweden"
       }
     ]
   },
-  "lastUpdated": "2026-08-01T01:22:19.196Z",
+  "lastUpdated": "2026-08-02T01:18:10.530Z",
   "source": "orion-stream"
 }
