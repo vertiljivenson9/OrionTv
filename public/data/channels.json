@@ -15276,6 +15276,26 @@
       "owners": []
     },
     {
+      "id": "ArmeniaTV.am",
+      "name": "Armenia TV",
+      "logo": null,
+      "url": "http://starcius-cinema.com/20690/index.m3u8",
+      "country": "Armenia",
+      "countryCode": "AM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Panarmenian Media Group"
+      ]
+    },
+    {
       "id": "ArmeniaTVSatellite.am",
       "name": "Armenia TV Satellite",
       "logo": null,
@@ -21709,7 +21729,7 @@
       "id": "beINSportsUSA.us",
       "name": "beIN Sports USA",
       "logo": null,
-      "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+      "url": "http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -24046,29 +24066,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "BioskopTelkomVision.id",
-      "name": "Bioskop TelkomVision",
-      "logo": null,
-      "url": "https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8",
-      "country": "Indonesia",
-      "countryCode": "ID",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Play International",
-        "MAXStream TV"
-      ],
-      "network": null,
-      "owners": [
-        "Edge Group"
-      ]
     },
     {
       "id": "BirTV.tr",
@@ -43081,7 +43078,7 @@
       "id": "CNBCIndonesia.id",
       "name": "CNBC Indonesia",
       "logo": null,
-      "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
+      "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -54913,7 +54910,7 @@
       "id": "EInternational.id",
       "name": "E International",
       "logo": null,
-      "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8",
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -69538,7 +69535,7 @@
       "id": "GreenGoldTV.np",
       "name": "Green Gold TV",
       "logo": null,
-      "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8",
+      "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8",
       "country": "Nepal",
       "countryCode": "NP",
       "language_primary": null,
@@ -103488,7 +103485,9 @@
       "categories": [
         "Noticias"
       ],
-      "altNames": [],
+      "altNames": [
+        "MNC"
+      ],
       "network": null,
       "owners": []
     },
@@ -106736,7 +106735,7 @@
         "Infantil"
       ],
       "altNames": [
-        "Мультимузы��а",
+        "Мультимузыка",
         "Мульт и музыка"
       ],
       "network": null,
@@ -124239,7 +124238,7 @@
         "General"
       ],
       "altNames": [
-        "鳳凰衛視中文台",
+        "鳳凰衛視���文台",
         "凤凰中文"
       ],
       "network": null,
@@ -170577,7 +170576,7 @@
       "id": "Telecentro.ve",
       "name": "Telecentro",
       "logo": null,
-      "url": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
+      "url": "https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8",
       "country": "Venezuela",
       "countryCode": "VE",
       "language_primary": "Español",
@@ -193399,7 +193398,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "Өлзий ТВ"
+      ],
       "network": null,
       "owners": []
     },
@@ -199783,7 +199784,9 @@
         "VTV5 Tây Nam Bộ"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Vietnam Television"
+      ]
     },
     {
       "id": "VTV5TayNguyen.vn",
@@ -199803,7 +199806,9 @@
         "VTV5 Tây Nguyên"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Vietnam Television"
+      ]
     },
     {
       "id": "VTV6.vn",
@@ -201985,6 +201990,29 @@
       "network": "NBC",
       "owners": [
         "Scripps Broadcasting Holdings LLC"
+      ]
+    },
+    {
+      "id": "WGBODT661.us",
+      "name": "WGBO-DT 66.1",
+      "logo": null,
+      "url": "https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Univision Chicago",
+        "WGBO-DT"
+      ],
+      "network": "Univision",
+      "owners": [
+        "WGBO License Partnership G.P."
       ]
     },
     {
@@ -210339,7 +210367,7 @@
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 615
+      "count": 614
     },
     {
       "id": "series",
@@ -210359,17 +210387,17 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6738
+      "count": 6740
     }
   ],
   "stats": {
-    "total": 41041,
-    "withStreams": 10606,
+    "total": 41056,
+    "withStreams": 10607,
     "spanish": 2061,
     "adult": 78,
     "bySection": {
-      "peliculas": 615,
-      "general": 6738,
+      "peliculas": 614,
+      "general": 6740,
       "español": 1942,
       "infantil": 412,
       "series": 361,
@@ -210378,7 +210406,7 @@
     "topCountries": [
       {
         "code": "US",
-        "count": 1799,
+        "count": 1800,
         "name": "United States"
       },
       {
@@ -210428,6 +210456,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-05T01:11:25.866Z",
+  "lastUpdated": "2026-08-06T01:09:33.067Z",
   "source": "orion-stream"
 }
