@@ -15662,6 +15662,28 @@
       ]
     },
     {
+      "id": "AruljothiTV.in",
+      "name": "Aruljothi TV",
+      "logo": null,
+      "url": "https://jothi.inet.moe/jothitv/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [
+        "அருள்ஜோதி தொலைக்காட்சி"
+      ],
+      "network": null,
+      "owners": [
+        "Aruljothi Sanmarkka Trust"
+      ]
+    },
+    {
       "id": "ArvanTV.ir",
       "name": "Arvan TV",
       "logo": null,
@@ -18229,7 +18251,7 @@
       "id": "AXNAsia.sg",
       "name": "AXN Asia",
       "logo": null,
-      "url": "https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv",
+      "url": "https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8",
       "country": "Singapore",
       "countryCode": "SG",
       "language_primary": null,
@@ -20398,7 +20420,7 @@
       "id": "BBCEarth.uk",
       "name": "BBC Earth",
       "logo": null,
-      "url": "http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8",
+      "url": "https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -20535,7 +20557,7 @@
       "id": "BBCLifestyle.uk",
       "name": "BBC Lifestyle",
       "logo": null,
-      "url": "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8",
+      "url": "https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -26167,6 +26189,24 @@
       "owners": [
         "Bridge Media"
       ]
+    },
+    {
+      "id": "BrioTV.in",
+      "name": "Brio TV",
+      "logo": null,
+      "url": "https://mumt03.tangotv.in/Dsly5z3HBRIOTV/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "BrionnaisTV.fr",
@@ -43977,28 +44017,6 @@
       ]
     },
     {
-      "id": "ColorsTamil.in",
-      "name": "Colors Tamil",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/429.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "Colors",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
       "id": "ColosalTV.cr",
       "name": "Colosal TV",
       "logo": null,
@@ -58385,42 +58403,6 @@
       ]
     },
     {
-      "id": "ErosUniverseBollywoodCinema.np",
-      "name": "Eros Universe Bollywood Cinema",
-      "logo": null,
-      "url": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8",
-      "country": "Nepal",
-      "countryCode": "NP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "ErosUniverseEntertainment.np",
-      "name": "Eros Universe Entertainment",
-      "logo": null,
-      "url": "https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8",
-      "country": "Nepal",
-      "countryCode": "NP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "ERTCosmos.gr",
       "name": "ERT Cosmos",
       "logo": null,
@@ -59547,6 +59529,27 @@
       ]
     },
     {
+      "id": "ETVAbhiruchi.in",
+      "name": "ETV Abhiruchi",
+      "logo": null,
+      "url": "https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Cocina"
+      ],
+      "altNames": [],
+      "network": "ETV",
+      "owners": [
+        "Eenadu Television Private Limited (ETV)",
+        "Ramoji Group"
+      ]
+    },
+    {
       "id": "ETVAndhraPradesh.in",
       "name": "ETV Andhra Pradesh",
       "logo": null,
@@ -59747,6 +59750,27 @@
       "owners": [
         "Eenadu Television Private Limited (ETV)",
         " Ramoji Group"
+      ]
+    },
+    {
+      "id": "ETVPlus.in",
+      "name": "ETV Plus",
+      "logo": null,
+      "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "ETV",
+      "owners": [
+        "Eenadu Television Private Limited (ETV)",
+        "Ramoji Group"
       ]
     },
     {
@@ -64443,7 +64467,7 @@
       "id": "FoxSports2.us",
       "name": "Fox Sports 2",
       "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8",
+      "url": "https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -64459,66 +64483,6 @@
       "network": "Fox Sports",
       "owners": [
         "Fox Sports Media Group"
-      ]
-    },
-    {
-      "id": "FoxSports503.au",
-      "name": "Fox Sports 503",
-      "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/fox-sports-503/playlist.m3u8",
-      "country": "Australia",
-      "countryCode": "AU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": "Fox Sports International",
-      "owners": [
-        "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "FoxSports505.au",
-      "name": "Fox Sports 505",
-      "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/fox-sports-505/playlist.m3u8",
-      "country": "Australia",
-      "countryCode": "AU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": "Fox Sports International",
-      "owners": [
-        "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "FoxSports506.au",
-      "name": "Fox Sports 506",
-      "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/fox-sports-506/playlist.m3u8",
-      "country": "Australia",
-      "countryCode": "AU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": "Fox Sports International",
-      "owners": [
-        "The Walt Disney Company"
       ]
     },
     {
@@ -69529,26 +69493,6 @@
       "network": null,
       "owners": [
         "Narrative Entertainment UK Ltd"
-      ]
-    },
-    {
-      "id": "GreenGoldTV.np",
-      "name": "Green Gold TV",
-      "logo": null,
-      "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8",
-      "country": "Nepal",
-      "countryCode": "NP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Green Gold Animation Pvt Ltd"
       ]
     },
     {
@@ -80474,28 +80418,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "JamunaTV.bd",
-      "name": "Jamuna TV",
-      "logo": null,
-      "url": "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8",
-      "country": "Bangladesh",
-      "countryCode": "BD",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "যমুনা টেলিভিশন"
-      ],
-      "network": null,
-      "owners": [
-        "Jamuna Group"
-      ]
     },
     {
       "id": "JanTV.in",
@@ -93426,24 +93348,6 @@
       "owners": [
         "LINQ Media"
       ]
-    },
-    {
-      "id": "LionsgatePlay.np",
-      "name": "Lionsgate Play",
-      "logo": null,
-      "url": "http://103.159.180.34:5001/live/2327.m3u8",
-      "country": "Nepal",
-      "countryCode": "NP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "LiraTV.it",
@@ -112688,42 +112592,6 @@
       "owners": []
     },
     {
-      "id": "NHBollyFlix.np",
-      "name": "NH BollyFlix",
-      "logo": null,
-      "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8",
-      "country": "Nepal",
-      "countryCode": "NP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "NHBollyRaga.np",
-      "name": "NH BollyRaga",
-      "logo": null,
-      "url": "https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8",
-      "country": "Nepal",
-      "countryCode": "NP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "NHKGeneralTV.jp",
       "name": "NHK General TV",
       "logo": null,
@@ -113162,6 +113030,26 @@
       "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-nickelodeon-il/video.m3u8",
       "country": "Israel",
       "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Networks EMEAA"
+      ]
+    },
+    {
+      "id": "Nickelodeon.ph",
+      "name": "Nickelodeon",
+      "logo": null,
+      "url": "https://thinkkast.dpdns.org/thinkkast/dr_nickelodeon/versiglia/index.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -117448,6 +117336,24 @@
       "owners": [
         "Media Sakhli Obieqtivi Ltd"
       ]
+    },
+    {
+      "id": "ObservatorNews.ro",
+      "name": "Observator News",
+      "logo": null,
+      "url": "https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "ObshchestvennoeNezavisimoeTelevidenie.ua",
@@ -124238,7 +124144,7 @@
         "General"
       ],
       "altNames": [
-        "鳳凰衛視���文台",
+        "鳳凰衛視中文台",
         "凤凰中文"
       ],
       "network": null,
@@ -135550,7 +135456,7 @@
       "id": "PTCPunjabiCanada.ca",
       "name": "PTC Punjabi Canada",
       "logo": null,
-      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ptc-punjabi-canada/index.m3u8?ads.vf=78XheDwhNDq",
+      "url": "https://stream.ottlive.co.in/ptccanada/index.m3u8",
       "country": "Canada",
       "countryCode": "CA",
       "language_primary": null,
@@ -136054,6 +135960,24 @@
       "is_spanish": true,
       "is_adult": false,
       "section": "español",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PulariTV.in",
+      "name": "Pulari TV",
+      "logo": null,
+      "url": "https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
       "categories": [
         "Entretenimiento"
       ],
@@ -141311,7 +141235,7 @@
       "id": "RajTV.in",
       "name": "Raj TV",
       "logo": null,
-      "url": "http://103.72.101.252:8080/live/707.m3u8",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -154256,7 +154180,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "Seven TV"
+      ],
       "network": null,
       "owners": []
     },
@@ -155654,27 +155580,6 @@
       ]
     },
     {
-      "id": "ShowtimeWomen.us",
-      "name": "Showtime Women",
-      "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/showtimewomen-usa/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Paramount+ with SHOWTIME",
-      "owners": [
-        "Showtime Networks Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "ShowVenTV.ve",
       "name": "ShowVen TV",
       "logo": null,
@@ -156306,9 +156211,7 @@
       "categories": [
         "Noticias"
       ],
-      "altNames": [
-        "MNC News"
-      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -158333,7 +158236,7 @@
       "id": "SomoyNewsTV.bd",
       "name": "Somoy News TV",
       "logo": null,
-      "url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
       "country": "Bangladesh",
       "countryCode": "BD",
       "language_primary": null,
@@ -162191,6 +162094,28 @@
       ]
     },
     {
+      "id": "StarMaa.in",
+      "name": "Star Maa",
+      "logo": null,
+      "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "StarMaaMovies.in",
       "name": "Star Maa Movies",
       "logo": null,
@@ -162447,6 +162372,30 @@
       ],
       "altNames": [
         "Sports18 1"
+      ],
+      "network": "Star Sports",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "StarSportsKhel.in",
+      "name": "Star Sports Khel",
+      "logo": null,
+      "url": "http://103.175.73.12:8080/live/151/151_0.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Sports18 Khel"
       ],
       "network": "Star Sports",
       "owners": [
@@ -162814,6 +162763,24 @@
       ],
       "altNames": [],
       "network": "Stara TV",
+      "owners": []
+    },
+    {
+      "id": "StarciusCinemaTV.ru",
+      "name": "Starcius Cinema TV",
+      "logo": null,
+      "url": "http://starcius-cinema.com/12042/index.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
       "owners": []
     },
     {
@@ -167241,7 +167208,7 @@
       ],
       "altNames": [
         "Т24",
-        "Техно 24",
+        "Тех��о 24",
         "Tekhno 24",
         "24 Tekhno"
       ],
@@ -175981,26 +175948,6 @@
       "owners": []
     },
     {
-      "id": "Three.nz",
-      "name": "Three",
-      "logo": null,
-      "url": "https://i.mjh.nz/.r/three-plus1.m3u8",
-      "country": "New Zealand",
-      "countryCode": "NZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Sky Free",
-      "owners": [
-        "Sky Network Television"
-      ]
-    },
-    {
       "id": "ThreesCompany.us",
       "name": "Three's Company",
       "logo": null,
@@ -181200,7 +181147,10 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "MN25",
+        "Channel 25"
+      ],
       "network": null,
       "owners": []
     },
@@ -186992,6 +186942,27 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "TVTodayJanakpur.np",
+      "name": "TV Today Janakpur",
+      "logo": null,
+      "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8",
+      "country": "Nepal",
+      "countryCode": "NP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento",
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Janakpur Today Media Group Pvt. Ltd."
+      ]
     },
     {
       "id": "TVTorun.pl",
@@ -194985,7 +194956,7 @@
       "id": "UtsavBharat.uk",
       "name": "Utsav Bharat",
       "logo": null,
-      "url": "https://mini.allinonereborn.fun/tata.php?id=11779",
+      "url": "https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -194999,6 +194970,28 @@
       "network": null,
       "owners": [
         "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "UtsavPlus.uk",
+      "name": "Utsav Plus",
+      "logo": null,
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavPlus.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Star Plus"
+      ],
+      "network": null,
+      "owners": [
+        "The Walt Disney Company India"
       ]
     },
     {
@@ -198225,6 +198218,24 @@
       ]
     },
     {
+      "id": "Vision.in",
+      "name": "Vision",
+      "logo": null,
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Vision.pe",
       "name": "Vision",
       "logo": null,
@@ -199846,7 +199857,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Vietnam Television"
+      ]
     },
     {
       "id": "VTV8.vn",
@@ -199864,7 +199877,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Vietnam Television"
+      ]
     },
     {
       "id": "VTV9.vn",
@@ -199882,7 +199897,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Vietnam Television"
+      ]
     },
     {
       "id": "VV8TV.br",
@@ -207212,7 +207229,7 @@
       "id": "ZeeAction.in",
       "name": "Zee Action",
       "logo": null,
-      "url": "http://103.72.101.252:8080/live/488.m3u8",
+      "url": "http://103.175.73.12:8080/live/270/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -207359,7 +207376,7 @@
       "id": "ZeeBiskope.in",
       "name": "Zee Biskope",
       "logo": null,
-      "url": "http://103.154.3.101:5001/live/559.m3u8",
+      "url": "http://103.175.73.12:8080/live/347/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -207603,6 +207620,26 @@
         "Z Horror Nights"
       ],
       "network": "ZEE5",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
+      "id": "ZeeKannada.in",
+      "name": "Zee Kannada",
+      "logo": null,
+      "url": "https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Z",
       "owners": [
         "Zee Entertainment Enterprises Limited"
       ]
@@ -207901,6 +207938,24 @@
       "owners": [
         "Zee Entertainment Enterprises Limited"
       ]
+    },
+    {
+      "id": "ZeeTVAsiaPacific.sg",
+      "name": "Zee TV Asia Pacific",
+      "logo": null,
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8",
+      "country": "Singapore",
+      "countryCode": "SG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "ZeeTVCanada.ca",
@@ -210362,12 +210417,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 460
+      "count": 458
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 614
+      "count": 611
     },
     {
       "id": "series",
@@ -210387,36 +210442,36 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6740
+      "count": 6747
     }
   ],
   "stats": {
-    "total": 41056,
-    "withStreams": 10607,
+    "total": 41087,
+    "withStreams": 10609,
     "spanish": 2061,
     "adult": 78,
     "bySection": {
-      "peliculas": 614,
-      "general": 6740,
+      "peliculas": 611,
+      "general": 6747,
       "español": 1942,
       "infantil": 412,
       "series": 361,
-      "deportes": 460
+      "deportes": 458
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1800,
+        "count": 1799,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 655,
+        "count": 663,
         "name": "India"
       },
       {
         "code": "RU",
-        "count": 438,
+        "count": 439,
         "name": "Russia"
       },
       {
@@ -210456,6 +210511,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-06T01:09:33.067Z",
+  "lastUpdated": "2026-08-07T01:53:41.050Z",
   "source": "orion-stream"
 }
