@@ -5311,28 +5311,6 @@
       ]
     },
     {
-      "id": "ACCNetwork.us",
-      "name": "ACC Network",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "ACCN"
-      ],
-      "network": null,
-      "owners": [
-        "ESPN Inc."
-      ]
-    },
-    {
       "id": "Access19.us",
       "name": "Access 19",
       "logo": null,
@@ -5677,24 +5655,6 @@
       "owners": [
         "Radio TV Promotion S.A."
       ]
-    },
-    {
-      "id": "ActionMax.us",
-      "name": "ActionMax",
-      "logo": null,
-      "url": "http://40.160.24.52/ACTIONMAX/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "ActivaTV.es",
@@ -11132,26 +11092,6 @@
       ]
     },
     {
-      "id": "AMCPlus.us",
-      "name": "AMC+",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "AMC",
-      "owners": [
-        "AMC Global Media"
-      ]
-    },
-    {
       "id": "Ame47.do",
       "name": "Ame 47",
       "logo": null,
@@ -12433,6 +12373,30 @@
       ]
     },
     {
+      "id": "Animax.jp",
+      "name": "Animax",
+      "logo": null,
+      "url": "https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación"
+      ],
+      "altNames": [
+        "アニマックス"
+      ],
+      "network": null,
+      "owners": [
+        "Animax Broadcast Japan Inc.",
+        "AK Entertainment Co. Ltd.",
+        "Nojima Corporation"
+      ]
+    },
+    {
       "id": "AnimaxAsia.sg",
       "name": "Animax Asia",
       "logo": null,
@@ -13050,26 +13014,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "AntennaTV.us",
-      "name": "Antenna TV",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/ANTENNA_TV/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Nexstar Media Group"
-      ]
     },
     {
       "id": "AntenneA.cd",
@@ -16258,26 +16202,6 @@
       "owners": []
     },
     {
-      "id": "Aspire.us",
-      "name": "Aspire",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "UP Entertainment"
-      ]
-    },
-    {
       "id": "AssamTalks.in",
       "name": "Assam Talks",
       "logo": null,
@@ -18187,7 +18111,7 @@
       "id": "AXNAsia.sg",
       "name": "AXN Asia",
       "logo": null,
-      "url": "https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8",
+      "url": "https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv",
       "country": "Singapore",
       "countryCode": "SG",
       "language_primary": null,
@@ -20356,7 +20280,7 @@
       "id": "BBCEarth.uk",
       "name": "BBC Earth",
       "logo": null,
-      "url": "https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8",
+      "url": "http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -20488,26 +20412,6 @@
       "altNames": [],
       "network": "Pluto TV",
       "owners": []
-    },
-    {
-      "id": "BBCLifestyle.uk",
-      "name": "BBC Lifestyle",
-      "logo": null,
-      "url": "https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Estilo de Vida"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "BBC Studios"
-      ]
     },
     {
       "id": "BBCNews.uk",
@@ -22573,27 +22477,6 @@
       ]
     },
     {
-      "id": "BET.us",
-      "name": "BET",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Black Entertainment Television LLC",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "BETCinema.us",
       "name": "BET Cinema",
       "logo": null,
@@ -22661,48 +22544,6 @@
       ]
     },
     {
-      "id": "BETHer.us",
-      "name": "BET Her",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/BET_HER/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Black Entertainment Television LLC",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "BETJams.us",
-      "name": "BET Jams",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Black Entertainment Television LLC",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "BETPlutoTV.de",
       "name": "BET Pluto TV",
       "logo": null,
@@ -22739,27 +22580,6 @@
       ],
       "altNames": [],
       "network": "Pluto TV",
-      "owners": [
-        "Black Entertainment Television LLC",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "BETSoul.us",
-      "name": "BET Soul",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
       "owners": [
         "Black Entertainment Television LLC",
         "Paramount Skydance Corporation"
@@ -27548,46 +27368,6 @@
       "network": null,
       "owners": [
         "Groupe Canal Plus"
-      ]
-    },
-    {
-      "id": "CSPAN.us",
-      "name": "C-SPAN",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/C-SPAN_HD/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Legislativo"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "National Cable Satellite Corporation"
-      ]
-    },
-    {
-      "id": "CSPAN2.us",
-      "name": "C-SPAN 2",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/C-SPAN_2/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Legislativo"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "National Cable Satellite Corporation"
       ]
     },
     {
@@ -37165,7 +36945,7 @@
       ],
       "altNames": [
         "CGN韩国",
-        "시지엔티비"
+        "시지엔��비"
       ],
       "network": "CGN",
       "owners": [
@@ -38009,6 +37789,28 @@
       ]
     },
     {
+      "id": "Channel8.sg",
+      "name": "Channel 8",
+      "logo": null,
+      "url": "https://cdn.qd.je/163189/ch8",
+      "country": "Singapore",
+      "countryCode": "SG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "8頻道"
+      ],
+      "network": null,
+      "owners": [
+        "Mediacorp Pte"
+      ]
+    },
+    {
       "id": "Channel8.th",
       "name": "Channel 8",
       "logo": null,
@@ -38399,6 +38201,28 @@
       "network": null,
       "owners": [
         "Chs.Tv Limited"
+      ]
+    },
+    {
+      "id": "ChannelU.sg",
+      "name": "Channel U",
+      "logo": null,
+      "url": "https://cdn.qd.je/163189/chu",
+      "country": "Singapore",
+      "countryCode": "SG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "U頻道"
+      ],
+      "network": null,
+      "owners": [
+        "Mediacorp"
       ]
     },
     {
@@ -40898,7 +40722,7 @@
       ],
       "network": null,
       "owners": [
-        "Сити Эдем Групп"
+        "Сити Эдем Гру��п"
       ]
     },
     {
@@ -42308,26 +42132,6 @@
       "owners": []
     },
     {
-      "id": "CleoTV.us",
-      "name": "Cleo TV",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Estilo de Vida"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Urban One"
-      ]
-    },
-    {
       "id": "ClergyTV.ke",
       "name": "Clergy TV",
       "logo": null,
@@ -42888,26 +42692,6 @@
       "network": null,
       "owners": [
         "Mediacorp"
-      ]
-    },
-    {
-      "id": "CNBC.us",
-      "name": "CNBC",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/CNBC/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Negocios"
-      ],
-      "altNames": [],
-      "network": "CNBC",
-      "owners": [
-        "Versant Media Group Inc."
       ]
     },
     {
@@ -47333,7 +47117,7 @@
       "id": "CW.us",
       "name": "CW",
       "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/CW/index.m3u8",
+      "url": "https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -109888,6 +109672,48 @@
       "owners": []
     },
     {
+      "id": "NBT2HD.th",
+      "name": "NBT 2 HD",
+      "logo": null,
+      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "เอ็นบีที 2 เอชดี"
+      ],
+      "network": null,
+      "owners": [
+        "Public Relations Department of the Office of the Prime Minister"
+      ]
+    },
+    {
+      "id": "NBTWorld.th",
+      "name": "NBT World",
+      "logo": null,
+      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "National News Bureau of Thailand"
+      ]
+    },
+    {
       "id": "NBTV.us",
       "name": "NBTV",
       "logo": null,
@@ -122483,28 +122309,6 @@
       "altNames": [],
       "network": "PBS",
       "owners": []
-    },
-    {
-      "id": "PBSRetro.us",
-      "name": "PBS Retro",
-      "logo": null,
-      "url": "https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil",
-        "Clásico"
-      ],
-      "altNames": [],
-      "network": "PBS",
-      "owners": [
-        "PBS Distribution",
-        "Public Media Distribution LLC"
-      ]
     },
     {
       "id": "PBSTravel.us",
@@ -152839,6 +152643,24 @@
       "owners": []
     },
     {
+      "id": "SCTV5.vn",
+      "name": "SCTV5",
+      "logo": null,
+      "url": "https://liveh34.vtvprime.vn/hls/SCTV5/01.m3u8?note=TheWavesIPTV",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SCTV6.vn",
       "name": "SCTV6",
       "logo": null,
@@ -155156,6 +154978,27 @@
       "name": "Showtime Next",
       "logo": null,
       "url": "http://40.160.24.55/SHOWTIME_NEXT/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Paramount+ with SHOWTIME",
+      "owners": [
+        "Showtime Networks Inc.",
+        "Paramount Skydance Corporation"
+      ]
+    },
+    {
+      "id": "ShowtimeWomen.us",
+      "name": "Showtime Women",
+      "logo": null,
+      "url": "http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -175119,6 +174962,24 @@
       "owners": []
     },
     {
+      "id": "TheRetroChannel.pr",
+      "name": "The Retro Channel",
+      "logo": null,
+      "url": "https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8",
+      "country": "Puerto Rico",
+      "countryCode": "PR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TheRifleman.us",
       "name": "The Rifleman",
       "logo": null,
@@ -187878,6 +187739,24 @@
       "owners": [
         "Le Consortium de télévision Québec Canada"
       ]
+    },
+    {
+      "id": "TV5Unis.ca",
+      "name": "TV5 Unis",
+      "logo": null,
+      "url": "http://23.133.220.149/Unis_TV/index.m3u8",
+      "country": "Canada",
+      "countryCode": "CA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "TV5MondeAfrica.fr",
@@ -205570,7 +205449,7 @@
         "Cultura"
       ],
       "altNames": [
-        "ي��ن شباب"
+        "يمن شباب"
       ],
       "network": null,
       "owners": []
@@ -209901,12 +209780,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 453
+      "count": 452
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 608
+      "count": 607
     },
     {
       "id": "series",
@@ -209921,31 +209800,31 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1940
+      "count": 1941
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6739
+      "count": 6734
     }
   ],
   "stats": {
-    "total": 41098,
-    "withStreams": 10586,
-    "spanish": 2059,
+    "total": 41104,
+    "withStreams": 10580,
+    "spanish": 2060,
     "adult": 78,
     "bySection": {
-      "peliculas": 608,
-      "general": 6739,
-      "español": 1940,
+      "peliculas": 607,
+      "general": 6734,
+      "español": 1941,
       "infantil": 410,
       "series": 358,
-      "deportes": 453
+      "deportes": 452
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1797,
+        "count": 1784,
         "name": "United States"
       },
       {
@@ -209995,6 +209874,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-08T00:35:59.636Z",
+  "lastUpdated": "2026-08-09T00:38:08.057Z",
   "source": "orion-stream"
 }
