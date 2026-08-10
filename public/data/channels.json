@@ -6081,6 +6081,24 @@
       "owners": []
     },
     {
+      "id": "AdriaMusicTelevision.de",
+      "name": "Adria Music Television",
+      "logo": null,
+      "url": "https://adriaapp.b-cdn.net/1080p/index.m3u8",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": "Folx Network",
+      "owners": []
+    },
+    {
       "id": "AdultSwimLatinAmerica.us",
       "name": "Adult Swim Latin America",
       "logo": null,
@@ -14151,6 +14169,28 @@
       ]
     },
     {
+      "id": "ArenaSport1x2.rs",
+      "name": "Arena Sport 1x2",
+      "logo": null,
+      "url": "https://webtvstream.bhtelecom.ba/arena_1x2.m3u8",
+      "country": "Serbia",
+      "countryCode": "RS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Arena Sport 1x2 Srbija"
+      ],
+      "network": null,
+      "owners": [
+        "Telekom Srbjia"
+      ]
+    },
+    {
       "id": "ArenaSport2.ba",
       "name": "Arena Sport 2",
       "logo": null,
@@ -15582,28 +15622,6 @@
       "owners": []
     },
     {
-      "id": "ARYDigital.pk",
-      "name": "ARY Digital",
-      "logo": null,
-      "url": "https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8",
-      "country": "Pakistan",
-      "countryCode": "PK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ڈیجیٹل"
-      ],
-      "network": "ARY Digital Network",
-      "owners": [
-        "ARY Group"
-      ]
-    },
-    {
       "id": "ARYMusik.pk",
       "name": "ARY Musik",
       "logo": null,
@@ -15620,48 +15638,6 @@
       "altNames": [
         "اے آر وائے میوزک"
       ],
-      "network": "ARY Digital Network",
-      "owners": [
-        "ARY Group"
-      ]
-    },
-    {
-      "id": "ARYNews.pk",
-      "name": "ARY News",
-      "logo": null,
-      "url": "http://115.42.65.142:9981/stream/channelid/322092446",
-      "country": "Pakistan",
-      "countryCode": "PK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "ARY نیوز"
-      ],
-      "network": "ARY Digital Network",
-      "owners": [
-        "ARY Group"
-      ]
-    },
-    {
-      "id": "ARYZindagi.pk",
-      "name": "ARY Zindagi",
-      "logo": null,
-      "url": "http://115.42.65.142:9981/stream/channelid/1064070262",
-      "country": "Pakistan",
-      "countryCode": "PK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
       "network": "ARY Digital Network",
       "owners": [
         "ARY Group"
@@ -21671,7 +21647,7 @@
       "id": "BeJoykids.it",
       "name": "BeJoy.kids",
       "logo": null,
-      "url": "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8",
+      "url": "https://stream.paroledivita.org/bejoy.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -24831,24 +24807,6 @@
       "owners": []
     },
     {
-      "id": "BolEntertainment.pk",
-      "name": "Bol Entertainment",
-      "logo": null,
-      "url": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8",
-      "country": "Pakistan",
-      "countryCode": "PK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Bolajon.uz",
       "name": "Bolajon",
       "logo": null,
@@ -25310,6 +25268,26 @@
       "owners": [
         "Pluto Inc.",
         "Paramount Skydance Corporation"
+      ]
+    },
+    {
+      "id": "BoomTV.ro",
+      "name": "Boom TV",
+      "logo": null,
+      "url": "https://tvboom.ro/live-tv/live.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "TVSAT Media Group"
       ]
     },
     {
@@ -36945,7 +36923,7 @@
       ],
       "altNames": [
         "CGN韩国",
-        "시지엔��비"
+        "시지엔티비"
       ],
       "network": "CGN",
       "owners": [
@@ -40722,7 +40700,7 @@
       ],
       "network": null,
       "owners": [
-        "Сити Эдем Гру��п"
+        "Сити Эдем Групп"
       ]
     },
     {
@@ -44987,6 +44965,46 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "CosmoteSport1.gr",
+      "name": "Cosmote Sport 1",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/26/index.m3u8",
+      "country": "Greece",
+      "countryCode": "GR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "OTE"
+      ]
+    },
+    {
+      "id": "CosmoteSport4.gr",
+      "name": "Cosmote Sport 4",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/72/index.m3u8",
+      "country": "Greece",
+      "countryCode": "GR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "OTE"
+      ]
     },
     {
       "id": "Cosmovision.co",
@@ -49919,6 +49937,31 @@
       "owners": []
     },
     {
+      "id": "DeportesporMovistarPlusPlus.es",
+      "name": "Deportes por Movistar Plus+",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Movistar Deportes",
+        "Movistar Deportes 1",
+        "Canal+ Deportes",
+        "Canal+ Deporte 2"
+      ],
+      "network": null,
+      "owners": [
+        "Telefonica"
+      ]
+    },
+    {
       "id": "DeportesTVC.hn",
       "name": "Deportes TVC",
       "logo": null,
@@ -50924,6 +50967,26 @@
       "network": null,
       "owners": [
         "DD Free Dish"
+      ]
+    },
+    {
+      "id": "DigiSport1.ro",
+      "name": "Digi Sport 1",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RCS & RDS"
       ]
     },
     {
@@ -62558,6 +62621,26 @@
       ]
     },
     {
+      "id": "FILMBOXPlusAction.pl",
+      "name": "FILMBOX+ Action",
+      "logo": null,
+      "url": "https://polska.hach.workers.dev/14864.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "FILMBOX+",
+      "owners": [
+        "SPI International"
+      ]
+    },
+    {
       "id": "FILMBOXPlusComedy.pl",
       "name": "FILMBOX+ Comedy",
       "logo": null,
@@ -63442,7 +63525,7 @@
       "id": "FolxMusicTelevision.de",
       "name": "Folx Music Television",
       "logo": null,
-      "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8",
+      "url": "https://folxapp.b-cdn.net/1080p/index.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -63460,7 +63543,7 @@
       "id": "FolxSlovenija.si",
       "name": "Folx Slovenija",
       "logo": null,
-      "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8",
+      "url": "https://folxsloapp.b-cdn.net/1080p/index.m3u8",
       "country": "Slovenia",
       "countryCode": "SI",
       "language_primary": null,
@@ -64055,26 +64138,6 @@
       "name": "Fox News Channel",
       "logo": null,
       "url": "http://45.190.28.50/FOX_NEWS/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Fox Corporation"
-      ]
-    },
-    {
-      "id": "FoxNewsInternational.us",
-      "name": "Fox News International",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/FOX/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -65399,48 +65462,6 @@
       "network": "FX Channels",
       "owners": [
         "The Walt Disney Company Latin America"
-      ]
-    },
-    {
-      "id": "FXMovieChannel.us",
-      "name": "FX Movie Channel",
-      "logo": null,
-      "url": "http://40.160.24.52/FXM/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "FX Channels",
-      "owners": [
-        "FX Networks LLC",
-        "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "FXM.us",
-      "name": "FXM",
-      "logo": null,
-      "url": "https://gpuserver3.tier1streams.com/FXM/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "FX Channels",
-      "owners": [
-        "FX Networks LLC",
-        "The Walt Disney Company"
       ]
     },
     {
@@ -66813,68 +66834,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "GeoKahani.pk",
-      "name": "Geo Kahani",
-      "logo": null,
-      "url": "http://116.90.120.151:8000/play/a023/index.m3u8",
-      "country": "Pakistan",
-      "countryCode": "PK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Jang Media Group"
-      ]
-    },
-    {
-      "id": "GeoNews.pk",
-      "name": "Geo News",
-      "logo": null,
-      "url": "http://116.90.120.151:8000/play/a020/index.m3u8",
-      "country": "Pakistan",
-      "countryCode": "PK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "جیو نیوز"
-      ],
-      "network": null,
-      "owners": [
-        "Jang Media Group"
-      ]
-    },
-    {
-      "id": "GeoTez.pk",
-      "name": "Geo Tez",
-      "logo": null,
-      "url": "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8",
-      "country": "Pakistan",
-      "countryCode": "PK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Jang Media Group"
-      ]
     },
     {
       "id": "GeopolisTV.cd",
@@ -74991,7 +74950,7 @@
       "id": "HumNews.pk",
       "name": "Hum News",
       "logo": null,
-      "url": "http://116.90.120.151:8000/play/a024/index.m3u8",
+      "url": "http://103.86.135.164:9981/stream/channelid/2024790699?ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C&profile=pass",
       "country": "Pakistan",
       "countryCode": "PK",
       "language_primary": null,
@@ -75005,26 +74964,6 @@
       "network": null,
       "owners": [
         "Hum Network Limited"
-      ]
-    },
-    {
-      "id": "HumSitaray.pk",
-      "name": "Hum Sitaray",
-      "logo": null,
-      "url": "http://103.86.135.164:9981/stream/channelid/2007922618?ticket=A568146B33A8AC741F94DA1630EDF7590877F305&profile=pass",
-      "country": "Pakistan",
-      "countryCode": "PK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Duraid Qureshi"
       ]
     },
     {
@@ -92695,6 +92634,28 @@
       "owners": []
     },
     {
+      "id": "LigadeCampeonesporMovistarPlusPlus.es",
+      "name": "Liga de Campeones por Movistar Plus+",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Movistar Liga de Campeones"
+      ],
+      "network": null,
+      "owners": [
+        "Telefonica"
+      ]
+    },
+    {
       "id": "LightChannel.bg",
       "name": "Light Channel",
       "logo": null,
@@ -104947,7 +104908,7 @@
       "id": "MTV.in",
       "name": "MTV",
       "logo": null,
-      "url": "http://149.71.34.166:8000/play/a00p/index.m3u8",
+      "url": "https://maamusic.keralive.workers.dev/v1/master/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -112574,6 +112535,26 @@
       ]
     },
     {
+      "id": "Nickelodeon.hr",
+      "name": "Nickelodeon",
+      "logo": null,
+      "url": "http://176.61.157.250/Nickelodeon/index.m3u8",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Networks EMEAA"
+      ]
+    },
+    {
       "id": "Nickelodeon.hu",
       "name": "Nickelodeon",
       "logo": null,
@@ -113001,6 +112982,27 @@
       "altNames": [
         "Nickelodeon Online"
       ],
+      "network": null,
+      "owners": [
+        "x1co"
+      ]
+    },
+    {
+      "id": "NickOnlineBobEsponja.br",
+      "name": "NickOnline Bob Esponja",
+      "logo": null,
+      "url": "https://bob.x1colegal.com/hls/stream.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
+      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "x1co"
@@ -119059,7 +119061,7 @@
       "id": "OneAdria.de",
       "name": "One Adria",
       "logo": null,
-      "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8",
+      "url": "https://oneadriaapp.b-cdn.net/1080p/index.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -119135,7 +119137,7 @@
       "id": "OneMusicTelevision.de",
       "name": "One Music Television",
       "logo": null,
-      "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8",
+      "url": "https://oneapp.b-cdn.net/1080p/index.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -121707,7 +121709,7 @@
       "id": "ParolediVita.it",
       "name": "Parole di Vita",
       "logo": null,
-      "url": "https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8",
+      "url": "https://stream.paroledivita.org/paroledivita.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -133446,6 +133448,26 @@
       ]
     },
     {
+      "id": "PremierSports2.ie",
+      "name": "Premier Sports 2",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8",
+      "country": "Ireland",
+      "countryCode": "IE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Viaplay Sports 2"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "PremierSports2.ph",
       "name": "Premier Sports 2",
       "logo": null,
@@ -135111,24 +135133,6 @@
         "PTV Córdoba"
       ],
       "network": "PTV",
-      "owners": []
-    },
-    {
-      "id": "PTVGlobal.pk",
-      "name": "PTV Global",
-      "logo": null,
-      "url": "http://103.250.28.74:8000/play/a018/index.m3u8",
-      "country": "Pakistan",
-      "countryCode": "PK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Pakistan Television Corporation",
       "owners": []
     },
     {
@@ -140516,6 +140520,31 @@
       ]
     },
     {
+      "id": "RaiSport.it",
+      "name": "Rai Sport",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Rai Sport 1",
+        "Rai Sport +",
+        "Rai Sport Più",
+        "Rai Sport Satellite"
+      ],
+      "network": null,
+      "owners": [
+        "Rai"
+      ]
+    },
+    {
       "id": "RaiStoria.it",
       "name": "Rai Storia",
       "logo": null,
@@ -145889,6 +145918,26 @@
       "owners": []
     },
     {
+      "id": "RSILa2.ch",
+      "name": "RSI La 2",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Radiotelevisione Svizzera di lingua Italiana"
+      ]
+    },
+    {
       "id": "RSVHonduras.hn",
       "name": "RSV Honduras",
       "logo": null,
@@ -146679,6 +146728,28 @@
       "network": null,
       "owners": [
         "RTL 102.500 Hit Radio S.R.L."
+      ]
+    },
+    {
+      "id": "RTLClub.be",
+      "name": "RTL Club",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Club RTL"
+      ],
+      "network": null,
+      "owners": [
+        "DPG Media"
       ]
     },
     {
@@ -149517,6 +149588,24 @@
       "owners": [
         "Rwanda Broadcasting Agency"
       ]
+    },
+    {
+      "id": "RwenzoriTV.ug",
+      "name": "Rwenzori TV",
+      "logo": null,
+      "url": "https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8",
+      "country": "Uganda",
+      "countryCode": "UG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "RyanandFriends.us",
@@ -152571,6 +152660,78 @@
       "owners": []
     },
     {
+      "id": "SCTV11.vn",
+      "name": "SCTV11",
+      "logo": null,
+      "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SCTV12.vn",
+      "name": "SCTV12",
+      "logo": null,
+      "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SCTV13.vn",
+      "name": "SCTV13",
+      "logo": null,
+      "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SCTV14.vn",
+      "name": "SCTV14",
+      "logo": null,
+      "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SCTV16.vn",
       "name": "SCTV16",
       "logo": null,
@@ -152589,10 +152750,64 @@
       "owners": []
     },
     {
+      "id": "SCTV18.vn",
+      "name": "SCTV18",
+      "logo": null,
+      "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SCTV19.vn",
+      "name": "SCTV19",
+      "logo": null,
+      "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SCTV2.vn",
       "name": "SCTV2",
       "logo": null,
       "url": "https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SCTV20.vn",
+      "name": "SCTV20",
+      "logo": null,
+      "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8",
       "country": "Vietnam",
       "countryCode": "VN",
       "language_primary": null,
@@ -152665,6 +152880,42 @@
       "name": "SCTV6",
       "logo": null,
       "url": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SCTV7.vn",
+      "name": "SCTV7",
+      "logo": null,
+      "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SCTV9.vn",
+      "name": "SCTV9",
+      "logo": null,
+      "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8",
       "country": "Vietnam",
       "countryCode": "VN",
       "language_primary": null,
@@ -156454,6 +156705,49 @@
       "owners": []
     },
     {
+      "id": "SkySportAustria1.at",
+      "name": "Sky Sport Austria 1",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8",
+      "country": "Austria",
+      "countryCode": "AT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Sky Sport Austria",
+        "Premiere Austria"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SkySportBasket.it",
+      "name": "Sky Sport Basket",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Sky Sport NBA"
+      ],
+      "network": null,
+      "owners": [
+        "Sky Group Limited"
+      ]
+    },
+    {
       "id": "SkySportF1.it",
       "name": "Sky Sport F1",
       "logo": null,
@@ -156472,6 +156766,24 @@
       "owners": [
         "Sky Group Limited"
       ]
+    },
+    {
+      "id": "SkySportTopEvent.de",
+      "name": "Sky Sport Top Event",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "SkySportsCricket.uk",
@@ -156560,6 +156872,28 @@
         "Deportes"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SkySportsNFL.uk",
+      "name": "Sky Sports NFL",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/12/index.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Sky Sports Action",
+        "Sky Sports USA",
+        "Sky Sports 3"
+      ],
       "network": null,
       "owners": []
     },
@@ -160464,6 +160798,28 @@
       ]
     },
     {
+      "id": "SportdigitalFUSSBALL.de",
+      "name": "Sportdigital FUSSBALL",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Sportdigital"
+      ],
+      "network": null,
+      "owners": [
+        "Digital Sports"
+      ]
+    },
+    {
       "id": "Sportitalia.it",
       "name": "Sportitalia",
       "logo": null,
@@ -160838,6 +161194,24 @@
       "altNames": [
         "Südthüringen Fernsehen"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SRFzwei.ch",
+      "name": "SRF zwei",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -174975,7 +175349,10 @@
       "categories": [
         "Música"
       ],
-      "altNames": [],
+      "altNames": [
+        "5.4",
+        "Tele5.4"
+      ],
       "network": null,
       "owners": []
     },
@@ -180475,6 +180852,24 @@
       "owners": []
     },
     {
+      "id": "TV100.tr",
+      "name": "TV 100",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TV16Toronto.ca",
       "name": "TV 16 Toronto",
       "logo": null,
@@ -180487,6 +180882,24 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TV2Sport.dk",
+      "name": "TV 2 Sport",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8",
+      "country": "Denmark",
+      "countryCode": "DK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
       ],
       "altNames": [],
       "network": null,
@@ -187491,6 +187904,24 @@
       "owners": []
     },
     {
+      "id": "TV3Plus.dk",
+      "name": "TV3+",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/49/index.m3u8",
+      "country": "Denmark",
+      "countryCode": "DK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TV38SudostNiedersachen.de",
       "name": "TV38 Sudost-Niedersachen",
       "logo": null,
@@ -194242,7 +194673,7 @@
       "id": "USANetworkLatinAmerica.us",
       "name": "USA Network Latin America",
       "logo": null,
-      "url": "http://177.52.24.163/USA-HD/index.m3u8",
+      "url": "http://138.121.15.230:9002/USA/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -194487,6 +194918,24 @@
       "url": "https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestreamUTV/8f263182c36c7e5c56a986bf770091e3.sdp/playlist.m3u8",
       "country": "Nigeria",
       "countryCode": "NG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "UTVPalakkad.in",
+      "name": "UTV Palakkad",
+      "logo": null,
+      "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -207965,6 +208414,24 @@
       "owners": []
     },
     {
+      "id": "ZonaDAZN.it",
+      "name": "Zona DAZN",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ZonaLatina.cl",
       "name": "Zona Latina",
       "logo": null,
@@ -208357,7 +208824,7 @@
       "id": "ZweiMusicTelevision.de",
       "name": "Zwei Music Television",
       "logo": null,
-      "url": "https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8",
+      "url": "https://zweiapp.b-cdn.net/1080p/index.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -209780,12 +210247,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 452
+      "count": 467
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 607
+      "count": 606
     },
     {
       "id": "series",
@@ -209795,7 +210262,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 410
+      "count": 412
     },
     {
       "id": "español",
@@ -209805,32 +210272,37 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6734
+      "count": 6742
     }
   ],
   "stats": {
-    "total": 41104,
-    "withStreams": 10580,
-    "spanish": 2060,
+    "total": 41107,
+    "withStreams": 10604,
+    "spanish": 2062,
     "adult": 78,
     "bySection": {
-      "peliculas": 607,
-      "general": 6734,
+      "peliculas": 606,
+      "general": 6742,
       "español": 1941,
-      "infantil": 410,
+      "infantil": 412,
       "series": 358,
-      "deportes": 452
+      "deportes": 467
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1784,
+        "count": 1781,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 669,
+        "count": 670,
         "name": "India"
+      },
+      {
+        "code": "DE",
+        "count": 440,
+        "name": "Germany"
       },
       {
         "code": "RU",
@@ -209838,23 +210310,18 @@
         "name": "Russia"
       },
       {
-        "code": "DE",
-        "count": 437,
-        "name": "Germany"
-      },
-      {
         "code": "BR",
-        "count": 302,
+        "count": 303,
         "name": "Brazil"
       },
       {
         "code": "IT",
-        "count": 261,
+        "count": 264,
         "name": "Italy"
       },
       {
         "code": "ES",
-        "count": 259,
+        "count": 261,
         "name": "Spain"
       },
       {
@@ -209874,6 +210341,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-09T00:38:08.057Z",
+  "lastUpdated": "2026-08-10T00:39:42.517Z",
   "source": "orion-stream"
 }
