@@ -20294,6 +20294,114 @@
       "owners": []
     },
     {
+      "id": "beINBoxOffice1.tr",
+      "name": "beIN Box Office 1",
+      "logo": null,
+      "url": "https://nord.ayakkabiparti.lol/box1/index.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "beIN Box Office 1 Türkiye"
+      ],
+      "network": null,
+      "owners": [
+        "beIN Media Group"
+      ]
+    },
+    {
+      "id": "beINBoxOffice2.tr",
+      "name": "beIN Box Office 2",
+      "logo": null,
+      "url": "https://nord.ayakkabiparti.lol/box2/index.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "beIN Box Office 2 Türkiye"
+      ],
+      "network": null,
+      "owners": [
+        "beIN Media Group"
+      ]
+    },
+    {
+      "id": "beINBoxOffice3.tr",
+      "name": "beIN Box Office 3",
+      "logo": null,
+      "url": "https://nord.ayakkabiparti.lol/box3/index.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "beIN Box Office 3 Türkiye"
+      ],
+      "network": null,
+      "owners": [
+        "beIN Media Group"
+      ]
+    },
+    {
+      "id": "beINMoviesStars.tr",
+      "name": "beIN Movies Stars",
+      "logo": null,
+      "url": "https://nord.ayakkabiparti.lol/bsaction1/index.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "beIN Media Group"
+      ]
+    },
+    {
+      "id": "beINMoviesTurk.tr",
+      "name": "beIN Movies Turk",
+      "logo": null,
+      "url": "https://nord.ayakkabiparti.lol/bsturk/index.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "beIN Movies Türk"
+      ],
+      "network": null,
+      "owners": [
+        "beIN Media Group"
+      ]
+    },
+    {
       "id": "beINSportsUSA.us",
       "name": "beIN Sports USA",
       "logo": null,
@@ -35857,7 +35965,7 @@
       ],
       "altNames": [
         "8 канал",
-        "��осьмой канал"
+        "Восьмой канал"
       ],
       "network": null,
       "owners": [
@@ -39923,7 +40031,7 @@
       "altNames": [
         "Central Luzon Television"
       ],
-      "network": "Independent",
+      "network": null,
       "owners": [
         "RadioWorld Broadcasting Corporation"
       ]
@@ -53157,6 +53265,26 @@
       "owners": []
     },
     {
+      "id": "ElPinguinoTV.cl",
+      "name": "El Pinguino TV",
+      "logo": null,
+      "url": "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8",
+      "country": "Chile",
+      "countryCode": "CL",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "El Pingüino TV"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ElPitucoTV.do",
       "name": "El Pituco TV",
       "logo": null,
@@ -61170,6 +61298,28 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "FujianComprehensiveChannel.cn",
+      "name": "Fujian Comprehensive Channel",
+      "logo": null,
+      "url": "http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88",
+      "country": "China",
+      "countryCode": "CN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "福建综合频道"
+      ],
+      "network": null,
+      "owners": [
+        "Fujian Media Group"
+      ]
     },
     {
       "id": "FunRoads.us",
@@ -137061,7 +137211,7 @@
         "General"
       ],
       "altNames": [],
-      "network": "TV5 Network Inc",
+      "network": null,
       "owners": [
         "TV5 Network Inc.",
         "Radio Philippines Network"
@@ -146004,6 +146154,26 @@
       "owners": []
     },
     {
+      "id": "SICMulher.pt",
+      "name": "SIC Mulher",
+      "logo": null,
+      "url": "http://zntx.dyndns.org:8085/hls/sicm.m3u8",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Impresa"
+      ]
+    },
+    {
       "id": "SICNoticias.pt",
       "name": "SIC Noticias",
       "logo": null,
@@ -146020,6 +146190,26 @@
       "altNames": [
         "SIC Notícias"
       ],
+      "network": null,
+      "owners": [
+        "Impresa"
+      ]
+    },
+    {
+      "id": "SICRadical.pt",
+      "name": "SIC Radical",
+      "logo": null,
+      "url": "http://znty.dyndns.org:5010/hls/sicr.m3u8",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "Impresa"
@@ -166091,7 +166281,7 @@
       "id": "TN8.ni",
       "name": "TN8",
       "logo": null,
-      "url": "https://streamingcws30.com/tn8/videotn8/chunks.m3u8",
+      "url": "https://streamingcws30.com/tn8/videotn8/playlist.m3u8",
       "country": "Nicaragua",
       "countryCode": "NI",
       "language_primary": "Español",
@@ -168888,6 +169078,26 @@
       "altNames": [
         "TRT Müzik"
       ],
+      "network": null,
+      "owners": [
+        "TRT"
+      ]
+    },
+    {
+      "id": "TRTSpor.tr",
+      "name": "TRT Spor",
+      "logo": null,
+      "url": "https://corestream.siteyaptim.live/trt-spor/index.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "TRT"
@@ -173263,12 +173473,14 @@
       "is_adult": false,
       "section": "general",
       "categories": [
-        "General"
+        "Religioso"
       ],
       "altNames": [],
       "network": null,
       "owners": [
-        "Roman Catholic Archdiocese of Manila Catholic Bishops' Conference of the Philippines TV Maria Foundation Philippines Inc."
+        "Roman Catholic Archdiocese of Manila",
+        "Catholic Bishops' Conference of the Philippines",
+        "TV Maria Foundation Philippines Inc."
       ]
     },
     {
@@ -185329,6 +185541,26 @@
       "owners": []
     },
     {
+      "id": "ViasatHistory.tr",
+      "name": "Viasat History",
+      "logo": null,
+      "url": "https://nord.ayakkabiparti.lol/viasathistory/index.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Viasat World LTD"
+      ]
+    },
+    {
       "id": "ViasatNature.bg",
       "name": "Viasat Nature",
       "logo": null,
@@ -186499,7 +186731,7 @@
       "id": "VivaNicaraguaCanal13.ni",
       "name": "Viva Nicaragua Canal 13",
       "logo": null,
-      "url": "http://45.171.108.253:8888/VIVA/index.m3u8",
+      "url": "https://cdn.vivamediosni.com/viva_720p/index.m3u8",
       "country": "Nicaragua",
       "countryCode": "NI",
       "language_primary": "Español",
@@ -197717,12 +197949,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 408
+      "count": 409
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 581
+      "count": 586
     },
     {
       "id": "series",
@@ -197737,26 +197969,26 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1799
+      "count": 1800
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6372
+      "count": 6376
     }
   ],
   "stats": {
-    "total": 41140,
-    "withStreams": 9960,
-    "spanish": 1908,
+    "total": 41141,
+    "withStreams": 9971,
+    "spanish": 1909,
     "adult": 78,
     "bySection": {
-      "peliculas": 581,
-      "general": 6372,
-      "español": 1799,
+      "peliculas": 586,
+      "general": 6376,
+      "español": 1800,
       "infantil": 378,
       "series": 344,
-      "deportes": 408
+      "deportes": 409
     },
     "topCountries": [
       {
@@ -197801,7 +198033,7 @@
       },
       {
         "code": "CL",
-        "count": 227,
+        "count": 228,
         "name": "Chile"
       },
       {
@@ -197811,6 +198043,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-14T00:46:22.570Z",
+  "lastUpdated": "2026-08-15T00:25:11.503Z",
   "source": "orion-stream"
 }
