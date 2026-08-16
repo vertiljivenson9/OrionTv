@@ -1126,7 +1126,7 @@
       "id": "24HourFreeMovies.us",
       "name": "24 Hour Free Movies",
       "logo": null,
-      "url": "https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi",
+      "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -7990,7 +7990,7 @@
       "id": "AlSaudiya.sa",
       "name": "Al Saudiya",
       "logo": null,
-      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+      "url": "https://streams.comclark.com/pknsd/saudi/playlist.m3u8",
       "country": "Saudi Arabia",
       "countryCode": "SA",
       "language_primary": null,
@@ -24274,6 +24274,27 @@
       "owners": []
     },
     {
+      "id": "BoxMovie1.vn",
+      "name": "Box Movie 1",
+      "logo": null,
+      "url": "https://usatv.dpdns.org/usatv/fpt_box_movie_1/index.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Vietnam Cable Television Corporation Joint Stock Company",
+        " IN THE BOX ASIA LLC"
+      ]
+    },
+    {
       "id": "BOXTV.bg",
       "name": "BOX TV",
       "logo": null,
@@ -25004,6 +25025,26 @@
         "General"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "BSFuji.jp",
+      "name": "BS Fuji",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/fuji/playlist.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "BSフジ"
+      ],
       "network": null,
       "owners": []
     },
@@ -29653,24 +29694,6 @@
       "owners": []
     },
     {
-      "id": "CanalClave.cu",
-      "name": "Canal Clave",
-      "logo": null,
-      "url": "https://tv.picta.cu/clave/clave_0.m3u8",
-      "country": "Cuba",
-      "countryCode": "CU",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": "ICRT",
-      "owners": []
-    },
-    {
       "id": "CanalCoinTV.es",
       "name": "Canal Coin TV",
       "logo": null,
@@ -29997,42 +30020,6 @@
       "owners": []
     },
     {
-      "id": "CanalEducativo.cu",
-      "name": "Canal Educativo",
-      "logo": null,
-      "url": "https://tv.picta.cu/educativo/educativo_0.m3u8",
-      "country": "Cuba",
-      "countryCode": "CU",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": "ICRT",
-      "owners": []
-    },
-    {
-      "id": "CanalEducativo2.cu",
-      "name": "Canal Educativo 2",
-      "logo": null,
-      "url": "https://tv.picta.cu/educativo2/educativo2_0.m3u8",
-      "country": "Cuba",
-      "countryCode": "CU",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": "ICRT",
-      "owners": []
-    },
-    {
       "id": "CanalExtremadura.es",
       "name": "Canal Extremadura",
       "logo": null,
@@ -30112,24 +30099,6 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
-    },
-    {
-      "id": "CanalHabana.cu",
-      "name": "Canal Habana",
-      "logo": null,
-      "url": "https://tv.picta.cu/infantil/infantil_0.m3u8",
-      "country": "Cuba",
-      "countryCode": "CU",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICRT",
       "owners": []
     },
     {
@@ -34735,6 +34704,27 @@
       "owners": []
     },
     {
+      "id": "CelestialClassicMovies.hk",
+      "name": "Celestial Classic Movies",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/celestial/playlist.m3u8",
+      "country": "Hong Kong",
+      "countryCode": "HK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "CCM",
+        "天映經典頻道"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "CelestialMovies.hk",
       "name": "Celestial Movies",
       "logo": null,
@@ -38231,6 +38221,32 @@
       ]
     },
     {
+      "id": "CinemaOne.ph",
+      "name": "Cinema One",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "C1",
+        "C1NEMAONE",
+        "Pinoy Blockbuster Channel",
+        "Sky 1"
+      ],
+      "network": null,
+      "owners": [
+        "ABS-CBN Corporation",
+        "Creative Programs Inc."
+      ]
+    },
+    {
       "id": "CinemaratonMoldova.md",
       "name": "Cinemaraton Moldova",
       "logo": null,
@@ -40419,6 +40435,28 @@
         "Channel NewsAsia"
       ],
       "network": null,
+      "owners": [
+        "Mediacorp"
+      ]
+    },
+    {
+      "id": "CNAInternational.sg",
+      "name": "CNA International",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8",
+      "country": "Singapore",
+      "countryCode": "SG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "Channel NewsAsia International"
+      ],
+      "network": "CNA",
       "owners": [
         "Mediacorp"
       ]
@@ -44183,46 +44221,6 @@
       "owners": [
         "Calcutta Television Network"
       ]
-    },
-    {
-      "id": "Cubavision.cu",
-      "name": "Cubavision",
-      "logo": null,
-      "url": "https://tv.picta.cu/cubavision/cubavision_0.m3u8",
-      "country": "Cuba",
-      "countryCode": "CU",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Cubavisión"
-      ],
-      "network": "ICRT",
-      "owners": []
-    },
-    {
-      "id": "CubavisionInternacional.cu",
-      "name": "Cubavision Internacional",
-      "logo": null,
-      "url": "https://tv.picta.cu/cvi/cvi_0.m3u8",
-      "country": "Cuba",
-      "countryCode": "CU",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Cubavisión Internacional"
-      ],
-      "network": "ICRT",
-      "owners": []
     },
     {
       "id": "Cufo.al",
@@ -52611,6 +52609,26 @@
       "owners": []
     },
     {
+      "id": "EDGEsport.uk",
+      "name": "EDGEsport",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/edgesports/playlist.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "IMG Media Ltd."
+      ]
+    },
+    {
       "id": "EDNTV.hn",
       "name": "EDN TV",
       "logo": null,
@@ -55280,7 +55298,7 @@
       "id": "ESPNDeportes.us",
       "name": "ESPN Deportes",
       "logo": null,
-      "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8",
+      "url": "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -55318,7 +55336,7 @@
       "id": "ESPNU.us",
       "name": "ESPNU",
       "logo": null,
-      "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+      "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -60405,7 +60423,7 @@
       "id": "FoxNewsChannel.us",
       "name": "Fox News Channel",
       "logo": null,
-      "url": "http://40.160.24.56/FOX_NEWS_SD/index.m3u8",
+      "url": "http://45.190.28.50/FOX_NEWS/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -61658,7 +61676,7 @@
       "id": "FXMovieChannel.us",
       "name": "FX Movie Channel",
       "logo": null,
-      "url": "http://40.160.24.56/FXM_SD/index.m3u8",
+      "url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -68490,6 +68508,26 @@
       "owners": []
     },
     {
+      "id": "HITSNOW.sg",
+      "name": "HITS NOW",
+      "logo": null,
+      "url": "https://usatv.dpdns.org/usatv/hitsnow_sd/index.m3u8",
+      "country": "Singapore",
+      "countryCode": "SG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Rewind Networks"
+      ]
+    },
+    {
       "id": "HitzTV.bz",
       "name": "Hitz TV",
       "logo": null,
@@ -69771,6 +69809,27 @@
       "network": null,
       "owners": [
         "Seventh-day Adventist Church"
+      ]
+    },
+    {
+      "id": "HopeChannelPhilippines.ph",
+      "name": "Hope Channel Philippines",
+      "logo": null,
+      "url": "https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Seventh-day Adventist Church",
+        "Gateway UHF Television Broadcasting"
       ]
     },
     {
@@ -78523,6 +78582,26 @@
       "network": null,
       "owners": [
         "Kantipur Television Network Pvt Ltd"
+      ]
+    },
+    {
+      "id": "KapamilyaChannel.ph",
+      "name": "Kapamilya Channel",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "ABS-CBN Corporation"
       ]
     },
     {
@@ -91174,7 +91253,7 @@
       "id": "ManielTV.do",
       "name": "Maniel TV",
       "logo": null,
-      "url": "https://stream.inliveserver.com:19360/8010/8010.m3u8",
+      "url": "https://mp.panelchs.com/hls/8024/8024.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -94735,7 +94814,7 @@
       "id": "Mezzo.fr",
       "name": "Mezzo",
       "logo": null,
-      "url": "https://live-3.otcnet.ru/Mezzo/index.m3u8",
+      "url": "http://158.101.222.193:88/georgia_play.php?id=mezzo",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -96392,7 +96471,7 @@
       "id": "MocaVisionCanal48.do",
       "name": "Moca Vision Canal 48",
       "logo": null,
-      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_2da463407fcc11f19ca8e70e403e6b54/index.fmp4.m3u8",
+      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_aa3888e0926511f1af7f414b985a2475/index.fmp4.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -97412,6 +97491,26 @@
       "network": null,
       "owners": [
         "German Car TV Programm GmbH"
+      ]
+    },
+    {
+      "id": "Motowizja.pl",
+      "name": "Motowizja",
+      "logo": null,
+      "url": "https://polska.hach.workers.dev/14808.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Automovilismo"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Motowizja SP Z O O"
       ]
     },
     {
@@ -99977,26 +100076,6 @@
       ]
     },
     {
-      "id": "Multivision.cu",
-      "name": "Multivision",
-      "logo": null,
-      "url": "https://tv.picta.cu/multivision/multivision_1.m3u8",
-      "country": "Cuba",
-      "countryCode": "CU",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Multivisión"
-      ],
-      "network": "ICRT",
-      "owners": []
-    },
-    {
       "id": "MultivisionCanal3.gt",
       "name": "Multivision Canal 3",
       "logo": null,
@@ -101160,6 +101239,27 @@
       "owners": []
     },
     {
+      "id": "Myx.ph",
+      "name": "Myx",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/myx/playlist.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "ABS-CBN Corporation",
+        "Creative Programs Inc."
+      ]
+    },
+    {
       "id": "MyZenTV.fr",
       "name": "MyZen TV",
       "logo": null,
@@ -102096,7 +102196,7 @@
         "Legislativo"
       ],
       "altNames": [
-        "국회방송"
+        "국회방��"
       ],
       "network": null,
       "owners": [
@@ -105361,6 +105461,26 @@
       "owners": []
     },
     {
+      "id": "NHKBS.jp",
+      "name": "NHK BS",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/nhk_bs1/playlist.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Citizens of Japan"
+      ]
+    },
+    {
       "id": "NHKGeneralTV.jp",
       "name": "NHK General TV",
       "logo": null,
@@ -105567,7 +105687,7 @@
       "id": "NickJrAsia.sg",
       "name": "Nick Jr. Asia",
       "logo": null,
-      "url": "http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8",
+      "url": "https://streams.comclark.com/pknsd/nickjr/playlist.m3u8",
       "country": "Singapore",
       "countryCode": "SG",
       "language_primary": null,
@@ -106449,6 +106569,27 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "NikiJunior.ua",
+      "name": "Niki Junior",
+      "logo": null,
+      "url": "http://158.101.222.193:88/georgia_play.php?id=nikijunior",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Rudolph Kirnos",
+        "Karina Torres"
+      ]
     },
     {
       "id": "NimTV.gt",
@@ -111916,6 +112057,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "OneMediaNetwork.ph",
+      "name": "One Media Network",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/onemedia/playlist.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Global Satellite Technology Services"
+      ]
     },
     {
       "id": "OneMusicTelevision.de",
@@ -125556,6 +125717,24 @@
       "owners": []
     },
     {
+      "id": "PremierFootball.ph",
+      "name": "Premier Football",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknhd/premier_football/playlist.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "PremierSports.ph",
       "name": "Premier Sports",
       "logo": null,
@@ -137192,7 +137371,9 @@
       "categories": [
         "Noticias"
       ],
-      "altNames": [],
+      "altNames": [
+        "RPP"
+      ],
       "network": null,
       "owners": []
     },
@@ -138726,7 +138907,7 @@
         "General"
       ],
       "altNames": [
-        "RTR Televisión"
+        "RTR Televisi��n"
       ],
       "network": null,
       "owners": [
@@ -144565,12 +144746,48 @@
       "owners": []
     },
     {
+      "id": "SetantaSports1.ru",
+      "name": "Setanta Sports 1",
+      "logo": null,
+      "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_georgia",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SetantaSports1Eurasia.ie",
       "name": "Setanta Sports 1 Eurasia",
       "logo": null,
       "url": "http://stream.mcquack.net/234/index.m3u8",
       "country": "Ireland",
       "countryCode": "IE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SetantaSports2.ru",
+      "name": "Setanta Sports 2",
+      "logo": null,
+      "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia",
+      "country": "Russia",
+      "countryCode": "RU",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -151775,6 +151992,30 @@
       ]
     },
     {
+      "id": "StarChannel.jp",
+      "name": "Star Channel",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/starchannel1/playlist.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "スターチャンネル1",
+        "Star Channel",
+        "Star Channel Hi-Vision"
+      ],
+      "network": null,
+      "owners": [
+        "Japanext Broadcasting"
+      ]
+    },
+    {
       "id": "StarChannel.pt",
       "name": "Star Channel",
       "logo": null,
@@ -157575,6 +157816,86 @@
       "owners": []
     },
     {
+      "id": "TAPActionFlix.ph",
+      "name": "TAP Action Flix",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TAPEdge.ph",
+      "name": "TAP Edge",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/tapedge/playlist.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "EDGEsport Philippines"
+      ],
+      "network": null,
+      "owners": [
+        "TAP Digital Media Ventures Corporation"
+      ]
+    },
+    {
+      "id": "TAPMovies.ph",
+      "name": "TAP Movies",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "TAP Digital Media Ventures Corporation"
+      ]
+    },
+    {
+      "id": "TAPTV.ph",
+      "name": "TAP TV",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/taptv/playlist.m3u8",
+      "country": "Philippines",
+      "countryCode": "PH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "TAP Digital Media Ventures Corporation"
+      ]
+    },
+    {
       "id": "TAPTVChannel23.us",
       "name": "TAP TV Channel 23",
       "logo": null,
@@ -158048,6 +158369,24 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TBNAsia.us",
+      "name": "TBN Asia",
+      "logo": null,
+      "url": "https://streams.comclark.com/pknsd/tbn/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
       ],
       "altNames": [],
       "network": null,
@@ -159389,24 +159728,6 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
-    },
-    {
-      "id": "TeleRebelde.cu",
-      "name": "Tele Rebelde",
-      "logo": null,
-      "url": "https://tv.picta.cu/telerebelde/telerebelde_1.m3u8",
-      "country": "Cuba",
-      "countryCode": "CU",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": "ICRT",
       "owners": []
     },
     {
@@ -162403,7 +162724,7 @@
       "id": "TeleviaductoCanal14.do",
       "name": "Televiaducto Canal 14",
       "logo": null,
-      "url": "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_b78ea1b07fcc11f1a8c6adcd20e04bb9/index.fmp4.m3u8",
+      "url": "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_62c23ce08a8b11f1a955e58b585fd65f/index.fmp4.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -162421,7 +162742,7 @@
       "id": "TeleviaductoCanal3.do",
       "name": "Televiaducto Canal 3",
       "logo": null,
-      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_d8372fa07fcb11f18271bf033930834b/index.fmp4.m3u8",
+      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_fcf05c9091cd11f1af7f414b985a2475/index.fmp4.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -166358,7 +166679,7 @@
       "id": "TNECanal58.do",
       "name": "TNE Canal 58",
       "logo": null,
-      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_8361cf307fcb11f18638734c8e2b001b/index.fmp4.m3u8",
+      "url": "https://stream.castr.com/5da89a909db964293ad13301/live_85f2053091cd11f1a5e59d9ec0f6bd3a/index.fmp4.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -176369,7 +176690,7 @@
       "id": "TV2.my",
       "name": "TV2",
       "logo": null,
-      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
+      "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
       "country": "Malaysia",
       "countryCode": "MY",
       "language_primary": null,
@@ -197949,12 +198270,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 409
+      "count": 413
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 586
+      "count": 593
     },
     {
       "id": "series",
@@ -197964,36 +198285,36 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 378
+      "count": 379
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1800
+      "count": 1793
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6376
+      "count": 6386
     }
   ],
   "stats": {
-    "total": 41141,
-    "withStreams": 9971,
-    "spanish": 1909,
+    "total": 41146,
+    "withStreams": 9986,
+    "spanish": 1901,
     "adult": 78,
     "bySection": {
-      "peliculas": 586,
-      "general": 6376,
-      "español": 1800,
-      "infantil": 378,
+      "peliculas": 593,
+      "general": 6386,
+      "español": 1793,
+      "infantil": 379,
       "series": 344,
-      "deportes": 409
+      "deportes": 413
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1727,
+        "count": 1728,
         "name": "United States"
       },
       {
@@ -198003,7 +198324,7 @@
       },
       {
         "code": "RU",
-        "count": 416,
+        "count": 418,
         "name": "Russia"
       },
       {
@@ -198043,6 +198364,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-15T00:25:11.503Z",
+  "lastUpdated": "2026-08-16T00:25:51.803Z",
   "source": "orion-stream"
 }
