@@ -294,7 +294,7 @@
         "General"
       ],
       "altNames": [
-        "1+1 Марафон"
+        "1+1 Марафо��"
       ],
       "network": null,
       "owners": [
@@ -54645,7 +54645,7 @@
       "id": "EpicBharat.in",
       "name": "Epic Bharat",
       "logo": null,
-      "url": "http://103.175.73.12:8080/live/471/master.m3u8",
+      "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -55238,7 +55238,7 @@
         "General"
       ],
       "altNames": [
-        "شبکهٔ اشراق"
+        "شب��هٔ اشراق"
       ],
       "network": null,
       "owners": []
@@ -55410,26 +55410,6 @@
       ]
     },
     {
-      "id": "ESPNUHD.nl",
-      "name": "ESPN UHD",
-      "logo": null,
-      "url": "https://sra72yz.s.gy/ESPN_UHD_NL.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Eredivisie Media & Marketing CV"
-      ]
-    },
-    {
       "id": "ESPN8TheOcho.us",
       "name": "ESPN8: The Ocho",
       "logo": null,
@@ -55446,6 +55426,27 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ESPNews.us",
+      "name": "ESPNews",
+      "logo": null,
+      "url": "http://41.205.93.154/ESPNNEWS/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes",
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "ESPN Inc."
+      ]
     },
     {
       "id": "ESPNU.us",
@@ -57612,12 +57613,68 @@
       ]
     },
     {
+      "id": "FaithAfrica.za",
+      "name": "Faith Africa",
+      "logo": null,
+      "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8",
+      "country": "South Africa",
+      "countryCode": "ZA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Faith Group"
+      ]
+    },
+    {
+      "id": "FaithTV.us",
+      "name": "Faith TV",
+      "logo": null,
+      "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "FaithTV.za",
       "name": "Faith TV",
       "logo": null,
       "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
       "country": "South Africa",
       "countryCode": "ZA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "FaithUK.uk",
+      "name": "Faith UK",
+      "logo": null,
+      "url": "https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -65883,6 +65940,27 @@
       ]
     },
     {
+      "id": "GuangxiVarietyTravelChannel.cn",
+      "name": "Guangxi Variety & Travel Channel",
+      "logo": null,
+      "url": "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "country": "China",
+      "countryCode": "CN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General",
+        "Viajes"
+      ],
+      "altNames": [
+        "综艺旅游频道"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "GuangzhouTV.cn",
       "name": "Guangzhou TV",
       "logo": null,
@@ -70744,26 +70822,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "HubSports1.sg",
-      "name": "Hub Sports 1",
-      "logo": null,
-      "url": "https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8",
-      "country": "Singapore",
-      "countryCode": "SG",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "StarHub"
-      ]
     },
     {
       "id": "HudaTV.eg",
@@ -77300,6 +77358,29 @@
       "owners": []
     },
     {
+      "id": "JOTXDTV.jp",
+      "name": "JOTX-DTV",
+      "logo": null,
+      "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "TV Tokyo",
+        "テレビ東京"
+      ],
+      "network": "TXN Network",
+      "owners": [
+        "TV Tokyo Corporation"
+      ]
+    },
+    {
       "id": "Journy.us",
       "name": "Journy",
       "logo": null,
@@ -78823,6 +78904,26 @@
         "Música"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "KangbaTV.cn",
+      "name": "Kangba TV",
+      "logo": null,
+      "url": "http://110.185.237.164:8888/hls/30/index.m3u8",
+      "country": "China",
+      "countryCode": "CN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "康巴卫视"
+      ],
       "network": null,
       "owners": []
     },
@@ -98603,6 +98704,26 @@
       ]
     },
     {
+      "id": "MRTVSports.mm",
+      "name": "MRTV Sports",
+      "logo": null,
+      "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
+      "country": "Myanmar",
+      "countryCode": "MM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Ministry of Information"
+      ]
+    },
+    {
       "id": "MRVTVChannel44.us",
       "name": "MRVTV Channel 44",
       "logo": null,
@@ -106432,7 +106553,7 @@
       "id": "Nickelodeon.uk",
       "name": "Nickelodeon",
       "logo": null,
-      "url": "https://sra72yz.s.gy/NICKELODEON_UK_PLUS_1.m3u8",
+      "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -144665,6 +144786,26 @@
       "owners": []
     },
     {
+      "id": "SECNetwork.us",
+      "name": "SEC Network",
+      "logo": null,
+      "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "ESPN Inc."
+      ]
+    },
+    {
       "id": "Seenluft24.de",
       "name": "Seenluft24",
       "logo": null,
@@ -149687,28 +149828,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "SonyBBCEarth.in",
-      "name": "Sony BBC Earth",
-      "logo": null,
-      "url": "https://sra72yz.s.gy/SONY_BBC_EARTH_HD.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [],
-      "network": "Sony Pictures Networks",
-      "owners": [
-        "BBC Earth",
-        "Sony Pictures Networks India (SPNI)",
-        "Culver Max Entertainment Private Limited"
-      ]
     },
     {
       "id": "SonyCanalNovelas.us",
@@ -162940,6 +163059,24 @@
       ]
     },
     {
+      "id": "Telesol.ar",
+      "name": "Telesol",
+      "logo": null,
+      "url": "https://cdn1.tvlin.net/open/telesol/playlist.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "San Juan",
+      "owners": []
+    },
+    {
       "id": "Telestar1.ro",
       "name": "Telestar1",
       "logo": null,
@@ -165814,6 +165951,26 @@
       "owners": []
     },
     {
+      "id": "TheWalkTV.us",
+      "name": "The Walk TV",
+      "logo": null,
+      "url": "https://wggstv16.ddns.net:9953/hls/walk1.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "The Walk Television Network LLC"
+      ]
+    },
+    {
       "id": "TheWalkingDeadenEspanol.us",
       "name": "The Walking Dead en Espanol",
       "logo": null,
@@ -166359,7 +166516,7 @@
       "id": "TigoSportsPlus.py",
       "name": "Tigo Sports+",
       "logo": null,
-      "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
       "country": "Paraguay",
       "countryCode": "PY",
       "language_primary": "Español",
@@ -192475,6 +192632,24 @@
       "owners": []
     },
     {
+      "id": "WorldTVGuatemala.gt",
+      "name": "World TV Guatemala",
+      "logo": null,
+      "url": "https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8",
+      "country": "Guatemala",
+      "countryCode": "GT",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "WOS.nl",
       "name": "WOS",
       "logo": null,
@@ -196407,6 +196582,26 @@
       ]
     },
     {
+      "id": "ZeeTamil.in",
+      "name": "Zee Tamil",
+      "logo": null,
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
       "id": "ZeeTamilNews.in",
       "name": "Zee Tamil News",
       "logo": null,
@@ -198884,23 +199079,23 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1803
+      "count": 1805
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6410
+      "count": 6418
     }
   ],
   "stats": {
     "total": 41163,
-    "withStreams": 10020,
-    "spanish": 1917,
+    "withStreams": 10030,
+    "spanish": 1919,
     "adult": 78,
     "bySection": {
       "peliculas": 581,
-      "general": 6410,
-      "español": 1803,
+      "general": 6418,
+      "español": 1805,
       "infantil": 387,
       "series": 347,
       "deportes": 414
@@ -198908,7 +199103,7 @@
     "topCountries": [
       {
         "code": "US",
-        "count": 1705,
+        "count": 1709,
         "name": "United States"
       },
       {
@@ -198958,6 +199153,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-22T00:24:29.136Z",
+  "lastUpdated": "2026-08-23T00:26:26.717Z",
   "source": "orion-stream"
 }
