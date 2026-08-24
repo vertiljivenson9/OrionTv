@@ -294,7 +294,7 @@
         "General"
       ],
       "altNames": [
-        "1+1 Марафо��"
+        "1+1 Марафон"
       ],
       "network": null,
       "owners": [
@@ -17283,6 +17283,26 @@
       "owners": []
     },
     {
+      "id": "AXNSpin.hu",
+      "name": "AXN Spin",
+      "logo": null,
+      "url": "https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Antenna Group"
+      ]
+    },
+    {
       "id": "AXNSpin.pl",
       "name": "AXN Spin",
       "logo": null,
@@ -32234,24 +32254,6 @@
       "section": "español",
       "categories": [
         "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "CartoonChannelPH.ph",
-      "name": "Cartoon Channel PH",
-      "logo": null,
-      "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_cartoonchannelph.flv",
-      "country": "Philippines",
-      "countryCode": "PH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
       ],
       "altNames": [],
       "network": null,
@@ -55238,7 +55240,7 @@
         "General"
       ],
       "altNames": [
-        "شب��هٔ اشراق"
+        "شبکهٔ اشراق"
       ],
       "network": null,
       "owners": []
@@ -57651,24 +57653,6 @@
       "owners": []
     },
     {
-      "id": "FaithTV.za",
-      "name": "Faith TV",
-      "logo": null,
-      "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
-      "country": "South Africa",
-      "countryCode": "ZA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Religioso"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "FaithUK.uk",
       "name": "Faith UK",
       "logo": null,
@@ -58910,7 +58894,7 @@
       "id": "FightBox.nl",
       "name": "FightBox",
       "logo": null,
-      "url": "https://webtvstream.bhtelecom.ba/fightbox.m3u8",
+      "url": "https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8",
       "country": "Netherlands",
       "countryCode": "NL",
       "language_primary": null,
@@ -63896,6 +63880,24 @@
       "section": "español",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "GlobalTrekker.sg",
+      "name": "Global Trekker",
+      "logo": null,
+      "url": "http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8",
+      "country": "Singapore",
+      "countryCode": "SG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Viajes"
       ],
       "altNames": [],
       "network": null,
@@ -73439,6 +73441,28 @@
       "network": null,
       "owners": [
         "Inter Media Group"
+      ]
+    },
+    {
+      "id": "InterTV.it",
+      "name": "Inter TV",
+      "logo": null,
+      "url": "https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Inter Channel"
+      ],
+      "network": null,
+      "owners": [
+        "FC Internazionale Milano"
       ]
     },
     {
@@ -92482,6 +92506,30 @@
       "owners": []
     },
     {
+      "id": "MasterChefsAcademyTV.uk",
+      "name": "Master Chefs Academy TV",
+      "logo": null,
+      "url": "https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Cocina",
+        "Educación"
+      ],
+      "altNames": [
+        "MCA TV",
+        "أكاديمية ماستر شيف TV"
+      ],
+      "network": "IUOAMC",
+      "owners": [
+        "International Union of Arab Master Chefs Ltd"
+      ]
+    },
+    {
       "id": "MasterTV.pe",
       "name": "Master TV",
       "logo": null,
@@ -105635,7 +105683,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Australian News Channel Pty Ltd"
+      ]
     },
     {
       "id": "News9Live.in",
@@ -106116,6 +106166,28 @@
       "network": null,
       "owners": [
         "Citizens of Japan"
+      ]
+    },
+    {
+      "id": "NHKWorldPremium.jp",
+      "name": "NHK World Premium",
+      "logo": null,
+      "url": "https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "NHK WP"
+      ],
+      "network": null,
+      "owners": [
+        "NHK World-Japan"
       ]
     },
     {
@@ -132841,7 +132913,7 @@
       "id": "RaiNews24.it",
       "name": "Rai News 24",
       "logo": null,
-      "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
+      "url": "https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -135183,24 +135255,6 @@
       "owners": [
         "Devaur Menossi"
       ]
-    },
-    {
-      "id": "RedseatTheFirst.us",
-      "name": "Redseat The First",
-      "logo": null,
-      "url": "https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "Reelz.us",
@@ -144255,6 +144309,28 @@
       ]
     },
     {
+      "id": "SciFi.rs",
+      "name": "Sci Fi",
+      "logo": null,
+      "url": "https://webtvstream.bhtelecom.ba/sci-fi.m3u8",
+      "country": "Serbia",
+      "countryCode": "RS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Scifi Србија"
+      ],
+      "network": null,
+      "owners": [
+        "NBC Universal Global Networks Deutschland GmbH"
+      ]
+    },
+    {
       "id": "ScientologyNetwork.us",
       "name": "Scientology Network",
       "logo": null,
@@ -146876,69 +146952,6 @@
       "owners": []
     },
     {
-      "id": "Showtime.us",
-      "name": "Showtime",
-      "logo": null,
-      "url": "https://gpuserver5.tier1streams.com/SHOWTIME/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Paramount+ with SHOWTIME",
-      "owners": [
-        "Showtime Networks Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "Showtime2.us",
-      "name": "Showtime 2",
-      "logo": null,
-      "url": "https://gpuserver5.tier1streams.com/SHOWTIME_2/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Paramount+ with SHOWTIME",
-      "owners": [
-        "Showtime Networks Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "ShowtimeExtreme.us",
-      "name": "Showtime Extreme",
-      "logo": null,
-      "url": "https://gpuserver5.tier1streams.com/SHOWTIME_EXTREME/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Paramount+ with SHOWTIME",
-      "owners": [
-        "Showtime Networks Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "ShowtimeFamilyZone.us",
       "name": "Showtime Family Zone",
       "logo": null,
@@ -146951,27 +146964,6 @@
       "section": "general",
       "categories": [
         "Familia"
-      ],
-      "altNames": [],
-      "network": "Paramount+ with SHOWTIME",
-      "owners": [
-        "Showtime Networks Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "ShowtimeNext.us",
-      "name": "Showtime Next",
-      "logo": null,
-      "url": "https://gpuserver5.tier1streams.com/SHOWTIME_NEXT/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
       ],
       "altNames": [],
       "network": "Paramount+ with SHOWTIME",
@@ -157666,7 +157658,7 @@
       "id": "SYFY.us",
       "name": "SYFY",
       "logo": null,
-      "url": "https://gpuserver5.tier1streams.com/SYFY/index.m3u8",
+      "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -165339,7 +165331,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "The First Digital Inc."
+      ]
     },
     {
       "id": "TheFishingHuntingChannel.hu",
@@ -186546,6 +186540,28 @@
       ]
     },
     {
+      "id": "ViasatKino.ua",
+      "name": "Viasat Kino",
+      "logo": null,
+      "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "TV1000 East"
+      ],
+      "network": null,
+      "owners": [
+        "Viasat Ukraine"
+      ]
+    },
+    {
       "id": "ViasatNature.bg",
       "name": "Viasat Nature",
       "logo": null,
@@ -193106,6 +193122,31 @@
       ]
     },
     {
+      "id": "WTMOCD311.us",
+      "name": "WTMO-CD 31.1",
+      "logo": null,
+      "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "Telemundo 31",
+        "channel 31",
+        "Telemundo Orlando",
+        "WTMO-CD"
+      ],
+      "network": "Telemundo",
+      "owners": [
+        "NBC Telemundo License LLC"
+      ]
+    },
+    {
       "id": "WTNH81.us",
       "name": "WTNH 8.1",
       "logo": null,
@@ -197226,6 +197267,24 @@
       "owners": []
     },
     {
+      "id": "ZodiakTV.in",
+      "name": "Zodiak TV",
+      "logo": null,
+      "url": "https://ranacable.duckdns.org/ZodiakTv/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ZonaDAZN.it",
       "name": "Zona DAZN",
       "logo": null,
@@ -199059,12 +199118,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 414
+      "count": 415
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 581
+      "count": 582
     },
     {
       "id": "series",
@@ -199074,7 +199133,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 387
+      "count": 386
     },
     {
       "id": "español",
@@ -199084,31 +199143,31 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6418
+      "count": 6419
     }
   ],
   "stats": {
-    "total": 41163,
-    "withStreams": 10030,
+    "total": 41185,
+    "withStreams": 10032,
     "spanish": 1919,
     "adult": 78,
     "bySection": {
-      "peliculas": 581,
-      "general": 6418,
+      "peliculas": 582,
+      "general": 6419,
       "español": 1805,
-      "infantil": 387,
+      "infantil": 386,
       "series": 347,
-      "deportes": 414
+      "deportes": 415
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1709,
+        "count": 1705,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 683,
+        "count": 684,
         "name": "India"
       },
       {
@@ -199133,7 +199192,7 @@
       },
       {
         "code": "IT",
-        "count": 247,
+        "count": 248,
         "name": "Italy"
       },
       {
@@ -199153,6 +199212,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-23T00:26:26.717Z",
+  "lastUpdated": "2026-08-24T00:25:56.394Z",
   "source": "orion-stream"
 }
