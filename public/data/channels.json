@@ -1224,6 +1224,24 @@
       "owners": []
     },
     {
+      "id": "247CanaldeNoticias.ar",
+      "name": "24/7 Canal de Noticias",
+      "logo": null,
+      "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "247BoxTV.ir",
       "name": "247 Box TV",
       "logo": null,
@@ -4616,6 +4634,26 @@
       "owners": []
     },
     {
+      "id": "ABHPTV.us",
+      "name": "ABHP TV",
+      "logo": null,
+      "url": "https://vietprocast.app/hls/abhp/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [
+        "An Bình Hạnh Phúc TV"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ABN.kr",
       "name": "ABN",
       "logo": null,
@@ -6812,6 +6850,24 @@
       "owners": []
     },
     {
+      "id": "AikNews.pk",
+      "name": "Aik News",
+      "logo": null,
+      "url": "https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2",
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "AIONTV.do",
       "name": "AION TV",
       "logo": null,
@@ -6889,6 +6945,26 @@
       "network": null,
       "owners": [
         "Al Murad Group"
+      ]
+    },
+    {
+      "id": "AjwaTV.id",
+      "name": "Ajwa TV",
+      "logo": null,
+      "url": "http://ikitv.sqn.at:8000/play/a00j/index.m3u8",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Surya Citra Media"
       ]
     },
     {
@@ -12092,6 +12168,26 @@
       ]
     },
     {
+      "id": "Antena1.ro",
+      "name": "Antena 1",
+      "logo": null,
+      "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Antena Group",
+      "owners": [
+        "Intact Media Group"
+      ]
+    },
+    {
       "id": "Antena21.do",
       "name": "Antena 21",
       "logo": null,
@@ -14755,6 +14851,28 @@
       ],
       "altNames": [
         "اے آر وائے میوزک"
+      ],
+      "network": "ARY Digital Network",
+      "owners": [
+        "ARY Group"
+      ]
+    },
+    {
+      "id": "ARYNews.pk",
+      "name": "ARY News",
+      "logo": null,
+      "url": "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8",
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "ARY نیوز"
       ],
       "network": "ARY Digital Network",
       "owners": [
@@ -24527,24 +24645,6 @@
       "section": "infantil",
       "categories": [
         "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "Bravo.nz",
-      "name": "Bravo",
-      "logo": null,
-      "url": "https://i.mjh.nz/.r/bravo-plus1.m3u8",
-      "country": "New Zealand",
-      "countryCode": "NZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
       ],
       "altNames": [],
       "network": null,
@@ -41575,6 +41675,26 @@
       ]
     },
     {
+      "id": "ComedyCentral.ro",
+      "name": "Comedy Central",
+      "logo": null,
+      "url": "https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Comedia"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Paramount Networks UK & Australia"
+      ]
+    },
+    {
       "id": "ComedyCentral.se",
       "name": "Comedy Central",
       "logo": null,
@@ -48233,6 +48353,66 @@
       ]
     },
     {
+      "id": "DigiSport2.ro",
+      "name": "Digi Sport 2",
+      "logo": null,
+      "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RCS & RDS"
+      ]
+    },
+    {
+      "id": "DigiSport3.ro",
+      "name": "Digi Sport 3",
+      "logo": null,
+      "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RCS & RDS"
+      ]
+    },
+    {
+      "id": "DigiSport4.ro",
+      "name": "Digi Sport 4",
+      "logo": null,
+      "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RCS & RDS"
+      ]
+    },
+    {
       "id": "Digital15.do",
       "name": "Digital 15",
       "logo": null,
@@ -48657,6 +48837,26 @@
       ]
     },
     {
+      "id": "DisneyChannel.ro",
+      "name": "Disney Channel",
+      "logo": null,
+      "url": "https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Disney Entertainment"
+      ]
+    },
+    {
       "id": "DisneyChannel.us",
       "name": "Disney Channel",
       "logo": null,
@@ -48851,6 +49051,26 @@
       ]
     },
     {
+      "id": "DisneyJunior.ro",
+      "name": "Disney Junior",
+      "logo": null,
+      "url": "https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "DisneyJunior.us",
       "name": "Disney Junior",
       "logo": null,
@@ -49023,6 +49243,24 @@
       "owners": []
     },
     {
+      "id": "DiyaTV.us",
+      "name": "Diya TV",
+      "logo": null,
+      "url": "https://stream.diyatvinc.com/diya.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "DiyanetTV.tr",
       "name": "Diyanet TV",
       "logo": null,
@@ -49159,7 +49397,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
+        "สถานีวิทยุโทรทัศน์���ารศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -56711,6 +56949,26 @@
       ]
     },
     {
+      "id": "EuronewsRomania.ro",
+      "name": "Euronews Romania",
+      "logo": null,
+      "url": "https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": "Euronews",
+      "owners": [
+        "Euronews SA"
+      ]
+    },
+    {
       "id": "EuronewsRussian.fr",
       "name": "Euronews Russian",
       "logo": null,
@@ -58993,6 +59251,26 @@
       "network": null,
       "owners": [
         "AMC Networks Central Europe Kft."
+      ]
+    },
+    {
+      "id": "FilmNow.ro",
+      "name": "Film Now",
+      "logo": null,
+      "url": "https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RCS & RDS"
       ]
     },
     {
@@ -75195,24 +75473,6 @@
       ]
     },
     {
-      "id": "IzzahTV.id",
-      "name": "Izzah TV",
-      "logo": null,
-      "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
-      "country": "Indonesia",
-      "countryCode": "ID",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Religioso"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "JMovie.in",
       "name": "J Movie",
       "logo": null,
@@ -77525,7 +77785,7 @@
       "id": "JTV.id",
       "name": "JTV",
       "logo": null,
-      "url": "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
+      "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -77926,6 +78186,26 @@
       "network": null,
       "owners": [
         "Inter Media Group"
+      ]
+    },
+    {
+      "id": "K100.is",
+      "name": "K100",
+      "logo": null,
+      "url": "https://k100streymi.mbl.is/beint/k100/index.m3u8",
+      "country": "Iceland",
+      "countryCode": "IS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Morgunblaðið"
       ]
     },
     {
@@ -81795,26 +82075,6 @@
       ]
     },
     {
-      "id": "KMSPDT1.us",
-      "name": "KMSP-DT1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "FOX",
-      "owners": [
-        "Fox Television Stations"
-      ]
-    },
-    {
       "id": "KMTVTV31.us",
       "name": "KMTV-TV 3.1",
       "logo": null,
@@ -82032,26 +82292,6 @@
       "network": "ABC",
       "owners": [
         "Hearst Properties Inc."
-      ]
-    },
-    {
-      "id": "KOBDT1.us",
-      "name": "KOB-DT1",
-      "logo": null,
-      "url": "https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "NBC",
-      "owners": [
-        "Hubbard Broadcasting"
       ]
     },
     {
@@ -99224,7 +99464,7 @@
         "General"
       ],
       "altNames": [
-        "MTürk TV",
+        "MT��rk TV",
         "Muğlatürk"
       ],
       "network": null,
@@ -101439,6 +101679,26 @@
       ]
     },
     {
+      "id": "MWDMovies.mm",
+      "name": "MWD Movies",
+      "logo": null,
+      "url": "http://203.81.84.130/hls/mwd_movie/index.m3u8",
+      "country": "Myanmar",
+      "countryCode": "MM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Myanmar Armed Forces"
+      ]
+    },
+    {
       "id": "MWDVariety.mm",
       "name": "MWD Variety",
       "logo": null,
@@ -102985,6 +103245,26 @@
       ]
     },
     {
+      "id": "NationalGeographic.ro",
+      "name": "National Geographic",
+      "logo": null,
+      "url": "https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [
+        "National Geographic România"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "NationalGeographic.ru",
       "name": "National Geographic",
       "logo": null,
@@ -103144,6 +103424,26 @@
         "JioStar India Pvt. Ltd.",
         "Reliance Industries(RIL)",
         "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "NationalGeographicWild.ro",
+      "name": "National Geographic Wild",
+      "logo": null,
+      "url": "https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "National Geographic Society"
       ]
     },
     {
@@ -106600,6 +106900,28 @@
       ]
     },
     {
+      "id": "Nickelodeon.ro",
+      "name": "Nickelodeon",
+      "logo": null,
+      "url": "https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "Nickelodeon România"
+      ],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Networks EMEAA"
+      ]
+    },
+    {
       "id": "Nickelodeon.ru",
       "name": "Nickelodeon",
       "logo": null,
@@ -107049,6 +107371,28 @@
       ],
       "altNames": [
         "Nicktoons Polska"
+      ],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Global"
+      ]
+    },
+    {
+      "id": "Nicktoons.ro",
+      "name": "Nicktoons",
+      "logo": null,
+      "url": "https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "Nicktoons România"
       ],
       "network": "Nickelodeon",
       "owners": [
@@ -142366,7 +142710,7 @@
       "id": "SalamTV.id",
       "name": "Salam TV",
       "logo": null,
-      "url": "https://salamtv.siar.us/live/salamtv.m3u8",
+      "url": "https://live.salamtelevisi.com/hls/0/stream.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -144918,6 +145262,24 @@
       "owners": [
         "State Government of Selangor"
       ]
+    },
+    {
+      "id": "SelaparangTV.id",
+      "name": "Selaparang TV",
+      "logo": null,
+      "url": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "SemarangTV.id",
@@ -149646,6 +150008,26 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SomosEntreRios.ar",
+      "name": "Somos Entre Rios",
+      "logo": null,
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General",
+        "Familia",
+        "Cultura"
       ],
       "altNames": [],
       "network": null,
@@ -157529,6 +157911,24 @@
       ]
     },
     {
+      "id": "SwerveCombat.us",
+      "name": "Swerve Combat",
+      "logo": null,
+      "url": "https://a-cdn.klowdtv.com/live3/swervecombat_720p/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SwerveSports.us",
       "name": "Swerve Sports",
       "logo": null,
@@ -165075,6 +165475,24 @@
       "owners": []
     },
     {
+      "id": "TheCabbinFM.ar",
+      "name": "The Cabbin FM",
+      "logo": null,
+      "url": "https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TheCarolBurnettShow.us",
       "name": "The Carol Burnett Show",
       "logo": null,
@@ -166399,6 +166817,26 @@
       ]
     },
     {
+      "id": "tickerNews.au",
+      "name": "ticker News",
+      "logo": null,
+      "url": "https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8",
+      "country": "Australia",
+      "countryCode": "AU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Ticker Media Group"
+      ]
+    },
+    {
       "id": "TideTV.de",
       "name": "Tide TV",
       "logo": null,
@@ -166625,6 +167063,26 @@
         "Viaplay Group AB (publ)",
         "VIMN Nordic AB",
         "Paramount Skydance Corporation"
+      ]
+    },
+    {
+      "id": "TimelessDiziChannel.ro",
+      "name": "Timeless Dizi Channel",
+      "logo": null,
+      "url": "https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SPI International"
       ]
     },
     {
@@ -175328,6 +175786,27 @@
       ]
     },
     {
+      "id": "TVPaprika.ro",
+      "name": "TV Paprika",
+      "logo": null,
+      "url": "https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Estilo de Vida",
+        "Viajes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "AMC Networks Inc."
+      ]
+    },
+    {
       "id": "TVParaense.br",
       "name": "TV Paraense",
       "logo": null,
@@ -177211,6 +177690,26 @@
       "owners": []
     },
     {
+      "id": "TVWEST.ng",
+      "name": "TV-WEST",
+      "logo": null,
+      "url": "https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8",
+      "country": "Nigeria",
+      "countryCode": "NG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Full Media Services"
+      ]
+    },
+    {
       "id": "TVPlus.cl",
       "name": "TV+",
       "logo": null,
@@ -177361,24 +177860,6 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
-    },
-    {
-      "id": "TV1000.si",
-      "name": "TV1000",
-      "logo": null,
-      "url": "http://176.61.157.250/TV1000/index.m3u8",
-      "country": "Slovenia",
-      "countryCode": "SI",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "Viasat",
       "owners": []
     },
     {
@@ -186543,7 +187024,7 @@
       "id": "ViasatKino.ua",
       "name": "Viasat Kino",
       "logo": null,
-      "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
+      "url": "http://176.61.157.250/TV1000/index.m3u8",
       "country": "Ukraine",
       "countryCode": "UA",
       "language_primary": null,
@@ -188647,7 +189128,7 @@
       "id": "VTV.id",
       "name": "VTV",
       "logo": null,
-      "url": "http://103.66.62.83:8000/play/a00c/index.m3u8",
+      "url": "http://ikitv.sqn.at:8000/play/a023/index.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -189902,24 +190383,6 @@
       ]
     },
     {
-      "id": "WCATDT15.us",
-      "name": "WCAT-DT15",
-      "logo": null,
-      "url": "https://frontdoor.wcat-tv.org/live-12/live/live.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "WCAU621.us",
       "name": "WCAU 62.1",
       "logo": null,
@@ -189964,24 +190427,6 @@
       "owners": [
         "WCBI-TV LLC"
       ]
-    },
-    {
-      "id": "WCCADT1.us",
-      "name": "WCCA-DT1",
-      "logo": null,
-      "url": "https://worcester.vod.castus.tv/live/ch1.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "WCETVDigitalChannel318.us",
@@ -190600,24 +191045,6 @@
       ]
     },
     {
-      "id": "WesalTV.id",
-      "name": "Wesal TV",
-      "logo": null,
-      "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
-      "country": "Indonesia",
-      "countryCode": "ID",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "WEST.pe",
       "name": "WEST",
       "logo": null,
@@ -190876,26 +191303,6 @@
       ]
     },
     {
-      "id": "WGALDT3.us",
-      "name": "WGAL-DT3",
-      "logo": null,
-      "url": "https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": "NewsWorld",
-      "owners": [
-        "NBCUniversal"
-      ]
-    },
-    {
       "id": "WGBATV261.us",
       "name": "WGBA-TV 26.1",
       "logo": null,
@@ -190985,24 +191392,6 @@
       "owners": [
         "Carolina Christian Broadcasting Inc."
       ]
-    },
-    {
-      "id": "WGNDT1.us",
-      "name": "WGN-DT1",
-      "logo": null,
-      "url": "http://23.237.104.106:8080/USA_WGN/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "WGTV83.us",
@@ -191248,24 +191637,6 @@
       "owners": [
         "The GodHouse Center"
       ]
-    },
-    {
-      "id": "WHPDT1.us",
-      "name": "WHP-DT1",
-      "logo": null,
-      "url": "https://linear-697.frequency.stream/dist/stirr/697/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBS",
-      "owners": []
     },
     {
       "id": "WHPSCD152.us",
@@ -191984,24 +192355,6 @@
       "owners": [
         "Kentucky Authority for Educational TV"
       ]
-    },
-    {
-      "id": "WKPCDT2.us",
-      "name": "WKPC-DT2",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "PBS Encore",
-      "owners": []
     },
     {
       "id": "WKPCTV153.us",
@@ -192891,24 +193244,6 @@
       ]
     },
     {
-      "id": "WRCDT1.us",
-      "name": "WRC-DT1",
-      "logo": null,
-      "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "NBC",
-      "owners": []
-    },
-    {
       "id": "WRDELD311.us",
       "name": "WRDE-LD 31.1",
       "logo": null,
@@ -192929,44 +193264,6 @@
       "owners": [
         "Wboc Inc."
       ]
-    },
-    {
-      "id": "WRUADT1.pr",
-      "name": "WRUA-DT1",
-      "logo": null,
-      "url": "https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8",
-      "country": "Puerto Rico",
-      "countryCode": "PR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Tiva TV"
-      ],
-      "network": "Tiva TV",
-      "owners": []
-    },
-    {
-      "id": "WSBDT1.us",
-      "name": "WSB-DT1",
-      "logo": null,
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ABC",
-      "owners": []
     },
     {
       "id": "WSBSTV221.us",
@@ -193596,46 +193893,6 @@
       "owners": [
         "FOX Television Stations LLC"
       ]
-    },
-    {
-      "id": "WWXYDT1.pr",
-      "name": "WWXY-DT1",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8",
-      "country": "Puerto Rico",
-      "countryCode": "PR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Boricua TV"
-      ],
-      "network": "Independent",
-      "owners": []
-    },
-    {
-      "id": "WWXYDT3.pr",
-      "name": "WWXY-DT3",
-      "logo": null,
-      "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
-      "country": "Puerto Rico",
-      "countryCode": "PR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Religioso"
-      ],
-      "altNames": [
-        "Maranatha Radio Ministries TV"
-      ],
-      "network": "Maranatha Radio Ministries TV",
-      "owners": []
     },
     {
       "id": "WXIITV201.us",
@@ -199118,12 +199375,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 415
+      "count": 419
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 582
+      "count": 583
     },
     {
       "id": "series",
@@ -199133,7 +199390,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 386
+      "count": 390
     },
     {
       "id": "español",
@@ -199143,26 +199400,26 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6419
+      "count": 6422
     }
   ],
   "stats": {
-    "total": 41185,
-    "withStreams": 10032,
+    "total": 40793,
+    "withStreams": 10044,
     "spanish": 1919,
     "adult": 78,
     "bySection": {
-      "peliculas": 582,
-      "general": 6419,
+      "peliculas": 583,
+      "general": 6422,
       "español": 1805,
-      "infantil": 386,
+      "infantil": 390,
       "series": 347,
-      "deportes": 415
+      "deportes": 419
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1705,
+        "count": 1698,
         "name": "United States"
       },
       {
@@ -199212,6 +199469,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-24T00:25:56.394Z",
+  "lastUpdated": "2026-08-25T00:25:26.619Z",
   "source": "orion-stream"
 }
