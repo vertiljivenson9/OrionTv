@@ -12171,7 +12171,7 @@
       "id": "Antena1.ro",
       "name": "Antena 1",
       "logo": null,
-      "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8",
+      "url": "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -12248,46 +12248,6 @@
       ]
     },
     {
-      "id": "AntenaInternational.ro",
-      "name": "Antena International",
-      "logo": null,
-      "url": "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Antena Group",
-      "owners": [
-        "Intact Media Group"
-      ]
-    },
-    {
-      "id": "AntenaMonden.ro",
-      "name": "Antena Monden",
-      "logo": null,
-      "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Estilo de Vida"
-      ],
-      "altNames": [],
-      "network": "Antena Group",
-      "owners": [
-        "Intact Media Group"
-      ]
-    },
-    {
       "id": "AntenaSeisTV.cr",
       "name": "Antena Seis TV",
       "logo": null,
@@ -12304,6 +12264,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "AntenaStars.ro",
+      "name": "Antena Stars",
+      "logo": null,
+      "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Antena 2"
+      ],
+      "network": "Antena Group",
+      "owners": [
+        "Antena TV Group"
+      ]
     },
     {
       "id": "AntenaSUR.pe",
@@ -14126,6 +14108,26 @@
       ],
       "altNames": [
         "Argentinísima Satelital"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "ArgesTV.ro",
+      "name": "Arges TV",
+      "logo": null,
+      "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Argeș TV"
       ],
       "network": null,
       "owners": []
@@ -19287,7 +19289,7 @@
       "id": "BBCFirst.uk",
       "name": "BBC First",
       "logo": null,
-      "url": "http://88.212.15.29/live/bbc_first/index.m3u8",
+      "url": "https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -24043,6 +24045,27 @@
       "owners": [
         "Albavisión"
       ]
+    },
+    {
+      "id": "BollywoodClassic.ro",
+      "name": "Bollywood Classic",
+      "logo": null,
+      "url": "https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas",
+        "Clásico"
+      ],
+      "altNames": [
+        "Bollywood Clasic"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "BollywoodHD.ro",
@@ -49397,7 +49420,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์���ารศึกษาทางไกลผ่านดาวเทียม"
+        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -57053,6 +57076,24 @@
       "owners": [
         "Red Media"
       ]
+    },
+    {
+      "id": "Eurosport4KCzechia.cz",
+      "name": "Eurosport 4K Czechia",
+      "logo": null,
+      "url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "EUTV.br",
@@ -65677,6 +65718,26 @@
       ]
     },
     {
+      "id": "GreaterLoveTV.us",
+      "name": "Greater Love TV",
+      "logo": null,
+      "url": "https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Oasis Television Ministries Nonprofit LLC"
+      ]
+    },
+    {
       "id": "GreenTV.bd",
       "name": "Green TV",
       "logo": null,
@@ -68120,7 +68181,7 @@
       "id": "HelloTaste.ro",
       "name": "Hello Taste",
       "logo": null,
-      "url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8",
+      "url": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -70477,6 +70538,26 @@
       "owners": [
         "Class Editori",
         "Giglio Group"
+      ]
+    },
+    {
+      "id": "HosannaTV.in",
+      "name": "Hosanna TV",
+      "logo": null,
+      "url": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Bro. M. Arockiaraj and Sis. Hema Arockiaraj"
       ]
     },
     {
@@ -77185,6 +77266,26 @@
       "network": null,
       "owners": [
         "DPG Media"
+      ]
+    },
+    {
+      "id": "JoelOsteenNetwork.us",
+      "name": "Joel Osteen Network",
+      "logo": null,
+      "url": "https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Joel Osteen Ministries"
       ]
     },
     {
@@ -99464,7 +99565,7 @@
         "General"
       ],
       "altNames": [
-        "MT��rk TV",
+        "MTürk TV",
         "Muğlatürk"
       ],
       "network": null,
@@ -127074,6 +127175,26 @@
       "owners": []
     },
     {
+      "id": "PrimaKrimi.cz",
+      "name": "Prima Krimi",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "FTV Prima"
+      ]
+    },
+    {
       "id": "PrimaKrimiSK.sk",
       "name": "Prima Krimi SK",
       "logo": null,
@@ -127128,6 +127249,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "PrimaMax.cz",
+      "name": "Prima Max",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "FTV Prima"
+      ]
     },
     {
       "id": "PrimaShow.cz",
@@ -149391,7 +149532,7 @@
       ],
       "network": "ВГТРК",
       "owners": [
-        "ВГТРК"
+        "��ГТРК"
       ]
     },
     {
@@ -154285,7 +154426,7 @@
         "Deportes"
       ],
       "altNames": [
-        "Старт Триумф"
+        "Старт Тр��умф"
       ],
       "network": null,
       "owners": [
@@ -186845,6 +186986,24 @@
       ]
     },
     {
+      "id": "ViasatExplore.ro",
+      "name": "Viasat Explore",
+      "logo": null,
+      "url": "https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ViasatExplore.se",
       "name": "Viasat Explore",
       "logo": null,
@@ -186963,6 +187122,24 @@
       ]
     },
     {
+      "id": "ViasatHistory.ro",
+      "name": "Viasat History",
+      "logo": null,
+      "url": "https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ViasatHistory.se",
       "name": "Viasat History",
       "logo": null,
@@ -187079,6 +187256,24 @@
       "owners": [
         "Viasat World LTD"
       ]
+    },
+    {
+      "id": "ViasatNature.ro",
+      "name": "Viasat Nature",
+      "logo": null,
+      "url": "https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "ViasatNature.se",
@@ -187246,6 +187441,24 @@
       "owners": [
         "Pastor Esteban Díaz"
       ]
+    },
+    {
+      "id": "VideoMixTV.us",
+      "name": "Video Mix TV",
+      "logo": null,
+      "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "VideoRola.it",
@@ -195207,6 +195420,46 @@
       "owners": []
     },
     {
+      "id": "YETMax.in",
+      "name": "YET Max",
+      "logo": null,
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": "YET+",
+      "owners": [
+        "YET Television"
+      ]
+    },
+    {
+      "id": "YETTV.in",
+      "name": "YET TV",
+      "logo": null,
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "YET+",
+      "owners": [
+        "YET Television"
+      ]
+    },
+    {
       "id": "YleTeemaFem.fi",
       "name": "Yle Teema & Fem",
       "logo": null,
@@ -199375,12 +199628,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 419
+      "count": 420
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 583
+      "count": 584
     },
     {
       "id": "series",
@@ -199400,31 +199653,31 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6422
+      "count": 6433
     }
   ],
   "stats": {
-    "total": 40793,
-    "withStreams": 10044,
+    "total": 40804,
+    "withStreams": 10057,
     "spanish": 1919,
     "adult": 78,
     "bySection": {
-      "peliculas": 583,
-      "general": 6422,
+      "peliculas": 584,
+      "general": 6433,
       "español": 1805,
       "infantil": 390,
       "series": 347,
-      "deportes": 419
+      "deportes": 420
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1698,
+        "count": 1701,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 684,
+        "count": 687,
         "name": "India"
       },
       {
@@ -199469,6 +199722,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-25T00:25:26.619Z",
+  "lastUpdated": "2026-08-26T00:26:44.547Z",
   "source": "orion-stream"
 }
