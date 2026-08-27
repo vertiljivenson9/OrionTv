@@ -9584,7 +9584,7 @@
         "General"
       ],
       "altNames": [
-        "خزامى راديو"
+        "خزامى ر��ديو"
       ],
       "network": null,
       "owners": []
@@ -15207,7 +15207,7 @@
       "id": "Asianet.in",
       "name": "Asianet",
       "logo": null,
-      "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8",
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -33632,7 +33632,7 @@
       "id": "CBSSportsGolazoNetwork.us",
       "name": "CBS Sports Golazo Network",
       "logo": null,
-      "url": "https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8",
+      "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -95840,6 +95840,26 @@
       ]
     },
     {
+      "id": "MHOneShraddha.in",
+      "name": "MH One Shraddha",
+      "logo": null,
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "MH One TV Network Pvt Ltd"
+      ]
+    },
+    {
       "id": "MHZ.ca",
       "name": "MHZ",
       "logo": null,
@@ -143191,10 +143211,10 @@
       ]
     },
     {
-      "id": "SamacharPlus.in",
-      "name": "Samachar Plus",
+      "id": "SamacharPlus24x7.in",
+      "name": "Samachar Plus 24x7",
       "logo": null,
-      "url": "https://cdn-2.pishow.tv/live/269/master.m3u8",
+      "url": "https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -143696,7 +143716,7 @@
       "id": "SankaraTV.in",
       "name": "Sankara TV",
       "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/1135/master.m3u8",
+      "url": "https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -146945,6 +146965,24 @@
       "owners": []
     },
     {
+      "id": "SharnamTV.in",
+      "name": "Sharnam TV",
+      "logo": null,
+      "url": "https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SharqRadioTV.af",
       "name": "Sharq Radio TV",
       "logo": null,
@@ -147185,7 +147223,7 @@
       "id": "ShemarooUmang.in",
       "name": "Shemaroo Umang",
       "logo": null,
-      "url": "http://103.213.31.109:90/ShemarooUmang/playlist.m3u8",
+      "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -149532,7 +149570,7 @@
       ],
       "network": "ВГТРК",
       "owners": [
-        "��ГТРК"
+        "ВГТРК"
       ]
     },
     {
@@ -149838,6 +149876,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "SohamTV.in",
+      "name": "Soham TV",
+      "logo": null,
+      "url": "https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Satdung Group Limited"
+      ]
     },
     {
       "id": "SolMusica.es",
@@ -153595,6 +153653,28 @@
       ]
     },
     {
+      "id": "StarJalsha.in",
+      "name": "Star Jalsha",
+      "logo": null,
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "StarKentrikisElladas.gr",
       "name": "Star Kentrikis Elladas",
       "logo": null,
@@ -153683,7 +153763,7 @@
       "id": "StarMaa.in",
       "name": "Star Maa",
       "logo": null,
-      "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -153705,7 +153785,7 @@
       "id": "StarMaaMovies.in",
       "name": "Star Maa Movies",
       "logo": null,
-      "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -153833,7 +153913,7 @@
       "id": "StarPravah.in",
       "name": "Star Pravah",
       "logo": null,
-      "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -154426,7 +154506,7 @@
         "Deportes"
       ],
       "altNames": [
-        "Старт Тр��умф"
+        "Старт Триумф"
       ],
       "network": null,
       "owners": [
@@ -155577,7 +155657,7 @@
       "id": "StudioOnePlus.in",
       "name": "Studio One +",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/276/master.m3u8",
+      "url": "https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -157096,6 +157176,24 @@
       "owners": []
     },
     {
+      "id": "SuvarnaNews.in",
+      "name": "Suvarna News",
+      "logo": null,
+      "url": "https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SuwannabhumiChannel.th",
       "name": "Suwannabhumi Channel",
       "logo": null,
@@ -157525,7 +157623,7 @@
       "id": "SwadeshNews.in",
       "name": "Swadesh News",
       "logo": null,
-      "url": "https://cdn-2.pishow.tv/live/465/master.m3u8",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -159017,6 +159115,24 @@
       "section": "general",
       "categories": [
         "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TamilanTV.in",
+      "name": "Tamilan TV",
+      "logo": null,
+      "url": "https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -186208,7 +186324,7 @@
       "id": "VelichamTV.in",
       "name": "Velicham TV",
       "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/461/master.m3u8",
+      "url": "https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -186228,7 +186344,7 @@
       "id": "VendharTV.in",
       "name": "Vendhar TV",
       "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/1271/master.m3u8",
+      "url": "https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -192103,7 +192219,7 @@
       "id": "WinTV.in",
       "name": "Win TV",
       "logo": null,
-      "url": "https://cdn-4.pishow.tv/live/1531/master.m3u8",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -199653,17 +199769,17 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6433
+      "count": 6439
     }
   ],
   "stats": {
-    "total": 40804,
-    "withStreams": 10057,
+    "total": 40844,
+    "withStreams": 10063,
     "spanish": 1919,
     "adult": 78,
     "bySection": {
       "peliculas": 584,
-      "general": 6433,
+      "general": 6439,
       "español": 1805,
       "infantil": 390,
       "series": 347,
@@ -199677,7 +199793,7 @@
       },
       {
         "code": "IN",
-        "count": 687,
+        "count": 693,
         "name": "India"
       },
       {
@@ -199722,6 +199838,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-26T00:26:44.547Z",
+  "lastUpdated": "2026-08-27T05:09:16.061Z",
   "source": "orion-stream"
 }
