@@ -3816,6 +3816,24 @@
       ]
     },
     {
+      "id": "AajKiKhabar.in",
+      "name": "Aaj Ki Khabar",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/aajkikhabar/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "AajNews.pk",
       "name": "Aaj News",
       "logo": null,
@@ -5097,7 +5115,7 @@
       "id": "ACCNetwork.us",
       "name": "ACC Network",
       "logo": null,
-      "url": "http://23.239.31.26:8989/accnetwork/index.m3u8",
+      "url": "https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -9584,7 +9602,7 @@
         "General"
       ],
       "altNames": [
-        "خزامى ر��ديو"
+        "خزامى راديو"
       ],
       "network": null,
       "owners": []
@@ -25069,7 +25087,7 @@
       "id": "BRKNews.in",
       "name": "BRK News",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/1037/master.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -35918,26 +35936,6 @@
       "network": null,
       "owners": [
         "Free Media Holding"
-      ]
-    },
-    {
-      "id": "Channel5.uk",
-      "name": "Channel 5",
-      "logo": null,
-      "url": "http://193.46.58.239:8080/Channel5/index.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Paramount Networks UK & Australia"
       ]
     },
     {
@@ -49486,7 +49484,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
+        "สถานีวิทยุโทรทัศน์กา��ศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -61047,26 +61045,6 @@
       ]
     },
     {
-      "id": "FoxSports.ar",
-      "name": "Fox Sports",
-      "logo": null,
-      "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": "Fox Sports International",
-      "owners": [
-        "The Walt Disney Company"
-      ]
-    },
-    {
       "id": "FoxSports1.us",
       "name": "Fox Sports 1",
       "logo": null,
@@ -63576,6 +63554,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "GenesisScienceNetwork.us",
+      "name": "Genesis Science Network",
+      "logo": null,
+      "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "David Rives Ministries"
+      ]
     },
     {
       "id": "GenialTV.cl",
@@ -67617,6 +67615,27 @@
       "network": null,
       "owners": [
         "Hare Krsna Content Broadcast Pvt. Ltd."
+      ]
+    },
+    {
+      "id": "HarmonyGospelMusicTV.us",
+      "name": "Harmony Gospel Music TV",
+      "logo": null,
+      "url": "https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso",
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Community Television Inc."
       ]
     },
     {
@@ -75408,28 +75427,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "ITV1.uk",
-      "name": "ITV1",
-      "logo": null,
-      "url": "https://xemzi.short.gy/1000011",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ITV"
-      ],
-      "network": "ITV",
-      "owners": [
-        "ITV plc"
-      ]
     },
     {
       "id": "ITV2.uk",
@@ -97691,6 +97688,26 @@
       ]
     },
     {
+      "id": "MOMOTV.tw",
+      "name": "MOMO TV",
+      "logo": null,
+      "url": "http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8",
+      "country": "Taiwan",
+      "countryCode": "TW",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Compras"
+      ],
+      "altNames": [
+        "MOMO購物台"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "MonacoInfo.mc",
       "name": "Monaco Info",
       "logo": null,
@@ -108691,7 +108708,7 @@
         "Religioso"
       ],
       "altNames": [
-        "الشباب"
+        "��لشباب"
       ],
       "network": null,
       "owners": []
@@ -115390,6 +115407,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ParaguayTV.py",
+      "name": "Paraguay TV",
+      "logo": null,
+      "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Government of Paraguay"
+      ]
     },
     {
       "id": "ParaisoTV.pr",
@@ -125573,6 +125610,26 @@
       ]
     },
     {
+      "id": "PocketFilms.in",
+      "name": "Pocket Films",
+      "logo": null,
+      "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Pocket Films",
+      "owners": [
+        "ONETAKEMEDIA.COM PRIVATE LIMITED"
+      ]
+    },
+    {
       "id": "pocketwatch.us",
       "name": "pocket.watch",
       "logo": null,
@@ -134226,6 +134283,27 @@
       "owners": [
         "Pluto Inc.",
         "Paramount Skydance Corporation"
+      ]
+    },
+    {
+      "id": "RayTVHD.np",
+      "name": "Ray TV HD",
+      "logo": null,
+      "url": "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8",
+      "country": "Nepal",
+      "countryCode": "NP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento",
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Ray Media Group"
       ]
     },
     {
@@ -160963,7 +161041,7 @@
       "id": "TelePosadas.ar",
       "name": "Tele Posadas",
       "logo": null,
-      "url": "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
+      "url": "https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8",
       "country": "Argentina",
       "countryCode": "AR",
       "language_primary": "Español",
@@ -166198,6 +166276,29 @@
       ]
     },
     {
+      "id": "TheLoop.us",
+      "name": "The Loop",
+      "logo": null,
+      "url": "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Clásico",
+        "Series"
+      ],
+      "altNames": [
+        "Lovers of Old Programs"
+      ],
+      "network": null,
+      "owners": [
+        "Community Television Inc."
+      ]
+    },
+    {
       "id": "TheLoveBoat.us",
       "name": "The Love Boat",
       "logo": null,
@@ -166483,6 +166584,24 @@
         "The Jukin Media Inc.",
         "Trusted Media Brands Inc."
       ]
+    },
+    {
+      "id": "ThePointTelevsionNetwork.us",
+      "name": "The Point Televsion Network",
+      "logo": null,
+      "url": "https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "ThePriceIsRight.us",
@@ -190325,7 +190444,7 @@
       "id": "WATCDT572.us",
       "name": "WATC-DT 57.2",
       "logo": null,
-      "url": "https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8",
+      "url": "https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -190340,29 +190459,6 @@
         "POINT"
       ],
       "network": "Religious",
-      "owners": [
-        "Community Television Inc."
-      ]
-    },
-    {
-      "id": "WATCDT573.us",
-      "name": "WATC-DT 57.3",
-      "logo": null,
-      "url": "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Religioso"
-      ],
-      "altNames": [
-        "The Loop",
-        "THELOOP"
-      ],
-      "network": "Classic Shows",
       "owners": [
         "Community Television Inc."
       ]
@@ -199744,17 +199840,17 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 420
+      "count": 419
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 584
+      "count": 585
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 347
+      "count": 348
     },
     {
       "id": "infantil",
@@ -199764,36 +199860,36 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1805
+      "count": 1806
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6439
+      "count": 6442
     }
   ],
   "stats": {
-    "total": 40844,
-    "withStreams": 10063,
+    "total": 40893,
+    "withStreams": 10068,
     "spanish": 1919,
     "adult": 78,
     "bySection": {
-      "peliculas": 584,
-      "general": 6439,
-      "español": 1805,
+      "peliculas": 585,
+      "general": 6442,
+      "español": 1806,
       "infantil": 390,
-      "series": 347,
-      "deportes": 420
+      "series": 348,
+      "deportes": 419
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1701,
+        "count": 1704,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 693,
+        "count": 695,
         "name": "India"
       },
       {
@@ -199838,6 +199934,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-27T05:09:16.061Z",
+  "lastUpdated": "2026-08-28T07:08:12.908Z",
   "source": "orion-stream"
 }
