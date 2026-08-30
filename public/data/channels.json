@@ -2786,6 +2786,26 @@
       ]
     },
     {
+      "id": "7Gold.it",
+      "name": "7 Gold",
+      "logo": null,
+      "url": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Giorgio Tacchino"
+      ]
+    },
+    {
       "id": "7Info.ci",
       "name": "7 Info",
       "logo": null,
@@ -5115,7 +5135,7 @@
       "id": "ACCNetwork.us",
       "name": "ACC Network",
       "logo": null,
-      "url": "https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8",
+      "url": "http://23.239.31.26:8989/accnetwork/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -6862,7 +6882,7 @@
         "General"
       ],
       "altNames": [
-        "Τηλεόραση Αιγαίο"
+        "Τηλ��όραση Αιγαίο"
       ],
       "network": null,
       "owners": []
@@ -31621,7 +31641,7 @@
       "id": "Canale5.it",
       "name": "Canale 5",
       "logo": null,
-      "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8",
+      "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -34953,7 +34973,7 @@
         "Películas"
       ],
       "altNames": [
-        "天映频道"
+        "��映频道"
       ],
       "network": null,
       "owners": [
@@ -38297,7 +38317,7 @@
       "id": "Cine34.it",
       "name": "Cine34",
       "logo": null,
-      "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8",
+      "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -38400,6 +38420,42 @@
       "url": "http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8",
       "country": "Malaysia",
       "countryCode": "MY",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Cinemax.cz",
+      "name": "Cinemax",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Cinemax2.cz",
+      "name": "Cinemax 2",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -41693,6 +41749,28 @@
       "owners": [
         "Pluto TV Europe GmbH",
         "Paramount Skydance Corporation"
+      ]
+    },
+    {
+      "id": "ComedyCentral.de",
+      "name": "Comedy Central",
+      "logo": null,
+      "url": "https://ma.anixa.tv/clips/stream/comedy_central/playlist.php",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Comedia"
+      ],
+      "altNames": [
+        "Comedy Central Deutschland"
+      ],
+      "network": null,
+      "owners": [
+        "Paramount Networks EMEAA"
       ]
     },
     {
@@ -45126,6 +45204,24 @@
       "owners": []
     },
     {
+      "id": "DailyPostTV.in",
+      "name": "Daily Post TV",
+      "logo": null,
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "DakLakTV.vn",
       "name": "Dak Lak TV",
       "logo": null,
@@ -46938,6 +47034,24 @@
       "owners": []
     },
     {
+      "id": "DeewanaHD.in",
+      "name": "Deewana HD",
+      "logo": null,
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "DeFianceMedia.pr",
       "name": "DeFiance Media",
       "logo": null,
@@ -48157,6 +48271,27 @@
       "owners": []
     },
     {
+      "id": "DidikTVKPM.my",
+      "name": "DidikTV KPM",
+      "logo": null,
+      "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324",
+      "country": "Malaysia",
+      "countryCode": "MY",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Educación"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Media Prima",
+        "Ministry of Education"
+      ]
+    },
+    {
       "id": "DieNeueZeitTV.ch",
       "name": "Die Neue Zeit TV",
       "logo": null,
@@ -48738,6 +48873,24 @@
       "owners": [
         "China Media Group"
       ]
+    },
+    {
+      "id": "DishaTV.in",
+      "name": "Disha TV",
+      "logo": null,
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "DismarRadioTV.py",
@@ -50754,6 +50907,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "DramaSangat.my",
+      "name": "Drama Sangat",
+      "logo": null,
+      "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342",
+      "country": "Malaysia",
+      "countryCode": "MY",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Media Prima Berhad"
+      ]
     },
     {
       "id": "DreamTurk.tr",
@@ -54929,7 +55102,7 @@
       "id": "EpicBhojpuri.in",
       "name": "Epic Bhojpuri",
       "logo": null,
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8",
+      "url": "https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -55544,6 +55717,26 @@
       "network": null,
       "owners": [
         "Lamine Guirassy"
+      ]
+    },
+    {
+      "id": "EspansioneTV.it",
+      "name": "Espansione TV",
+      "logo": null,
+      "url": "https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Espansione S.r.l."
       ]
     },
     {
@@ -57695,24 +57888,6 @@
       "owners": [
         "Star Hellenic Radio Television S.A."
       ]
-    },
-    {
-      "id": "ExtraTV.hr",
-      "name": "Extra TV",
-      "logo": null,
-      "url": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8",
-      "country": "Croatia",
-      "countryCode": "HR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "ExtraTV42.cr",
@@ -74757,7 +74932,7 @@
       "id": "Iris.it",
       "name": "Iris",
       "logo": null,
-      "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8",
+      "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8",
       "country": "Italy",
       "countryCode": "IT",
       "language_primary": null,
@@ -86999,6 +87174,26 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "LazioStyleChannel.it",
+      "name": "Lazio Style Channel",
+      "logo": null,
+      "url": "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "SS Lazio"
+      ]
     },
     {
       "id": "LazioTV.it",
@@ -99609,6 +99804,29 @@
       "owners": []
     },
     {
+      "id": "MTV.de",
+      "name": "MTV",
+      "logo": null,
+      "url": "https://ma.anixa.tv/clips/stream/mtv/playlist.php",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "MTV Germany",
+        "MTV DE"
+      ],
+      "network": null,
+      "owners": [
+        "Paramount Networks EMEAA"
+      ]
+    },
+    {
       "id": "MTV.fr",
       "name": "MTV",
       "logo": null,
@@ -99648,6 +99866,26 @@
         "JioStar India Pvt. Ltd.",
         "Reliance Industries(RIL)",
         "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "MTV.jp",
+      "name": "MTV",
+      "logo": null,
+      "url": "http://42.118.247.37:9394/stream/74.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Paramount Networks Japan K.K."
       ]
     },
     {
@@ -104247,6 +104485,26 @@
       "network": null,
       "owners": [
         "Public Relations Department of the Office of the Prime Minister"
+      ]
+    },
+    {
+      "id": "NBTTVChiangMai.th",
+      "name": "NBT TV Chiang Mai",
+      "logo": null,
+      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "National Broadcasting Services of Thailand"
       ]
     },
     {
@@ -130645,6 +130903,24 @@
       "owners": []
     },
     {
+      "id": "RadiantTV.us",
+      "name": "RadiantTV",
+      "logo": null,
+      "url": "https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Radio1.be",
       "name": "Radio 1",
       "logo": null,
@@ -144874,7 +145150,7 @@
       "id": "SchwabNetwork.us",
       "name": "Schwab Network",
       "logo": null,
-      "url": "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
+      "url": "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -161909,6 +162185,28 @@
       "owners": []
     },
     {
+      "id": "TelecityLombardia.it",
+      "name": "Telecity Lombardia",
+      "logo": null,
+      "url": "https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Canale 13"
+      ],
+      "network": null,
+      "owners": [
+        "Netweek SpA"
+      ]
+    },
+    {
       "id": "TelecolorLombardia.it",
       "name": "Telecolor Lombardia",
       "logo": null,
@@ -178257,6 +178555,24 @@
       "owners": []
     },
     {
+      "id": "TV13Gujarati.in",
+      "name": "TV13 Gujarati",
+      "logo": null,
+      "url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TV15.kg",
       "name": "TV15",
       "logo": null,
@@ -178492,6 +178808,24 @@
       "url": "http://stream.mcquack.net/29/index.m3u8",
       "country": "Lithuania",
       "countryCode": "LT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TV3.my",
+      "name": "TV3",
+      "logo": null,
+      "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323",
+      "country": "Malaysia",
+      "countryCode": "MY",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -187941,7 +188275,7 @@
         "Películas"
       ],
       "altNames": [
-        "viju TV1000 русское",
+        "viju TV1000 русско��",
         "TV1000 Russkoe Kino",
         "TV1000 Русское Кино"
       ],
@@ -193420,6 +193754,24 @@
       "section": "deportes",
       "categories": [
         "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "WorldPunjabiTV.in",
+      "name": "World Punjabi TV",
+      "logo": null,
+      "url": "https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -199840,17 +200192,17 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 419
+      "count": 420
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 585
+      "count": 587
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 348
+      "count": 349
     },
     {
       "id": "infantil",
@@ -199865,31 +200217,31 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6442
+      "count": 6456
     }
   ],
   "stats": {
     "total": 40912,
-    "withStreams": 10068,
+    "withStreams": 10086,
     "spanish": 1919,
     "adult": 78,
     "bySection": {
-      "peliculas": 585,
-      "general": 6442,
+      "peliculas": 587,
+      "general": 6456,
       "español": 1806,
       "infantil": 390,
-      "series": 348,
-      "deportes": 419
+      "series": 349,
+      "deportes": 420
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1704,
+        "count": 1705,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 695,
+        "count": 700,
         "name": "India"
       },
       {
@@ -199899,7 +200251,7 @@
       },
       {
         "code": "DE",
-        "count": 414,
+        "count": 416,
         "name": "Germany"
       },
       {
@@ -199908,14 +200260,14 @@
         "name": "Brazil"
       },
       {
+        "code": "IT",
+        "count": 252,
+        "name": "Italy"
+      },
+      {
         "code": "ES",
         "count": 248,
         "name": "Spain"
-      },
-      {
-        "code": "IT",
-        "count": 248,
-        "name": "Italy"
       },
       {
         "code": "DO",
@@ -199934,6 +200286,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-29T04:20:41.481Z",
+  "lastUpdated": "2026-08-30T01:47:00.527Z",
   "source": "orion-stream"
 }
