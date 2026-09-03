@@ -84,7 +84,7 @@
       "id": "red.ru",
       "name": ".red",
       "logo": null,
-      "url": "http://5.188.159.128:8070/RED/index.m3u8",
+      "url": "http://178.134.1.158:8081/red/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -144,7 +144,27 @@
       "id": "AndTV.in",
       "name": "&TV",
       "logo": null,
-      "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+      "url": "http://202.70.146.135:8000/play/a06c/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
+      "id": "AndxplorHD.in",
+      "name": "&xplor HD",
+      "logo": null,
+      "url": "http://66.102.126.10:8000/play/a028/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -5380,6 +5400,24 @@
       ]
     },
     {
+      "id": "ACECountryRadio.us",
+      "name": "ACE Country Radio",
+      "logo": null,
+      "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "AceTV.us",
       "name": "Ace TV",
       "logo": null,
@@ -7320,6 +7358,24 @@
       "owners": [
         "Islamic Republic of Iran Broadcasting"
       ]
+    },
+    {
+      "id": "AlAlamAlYawm.sa",
+      "name": "Al Alam Al Yawm",
+      "logo": null,
+      "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8",
+      "country": "Saudi Arabia",
+      "countryCode": "SA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "AlAlamiya2.sd",
@@ -17847,7 +17903,7 @@
       "id": "B4UKadak.in",
       "name": "B4U Kadak",
       "logo": null,
-      "url": "http://103.175.73.12:8080/live/44/44_0.m3u8",
+      "url": "https://cdn-2.pishow.tv/live/227/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -17867,7 +17923,7 @@
       "id": "B4UMovies.in",
       "name": "B4U Movies",
       "logo": null,
-      "url": "https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8",
+      "url": "https://cdn-2.pishow.tv/live/419/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -17887,7 +17943,7 @@
       "id": "B4UMusic.in",
       "name": "B4U Music",
       "logo": null,
-      "url": "https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8",
+      "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -17960,6 +18016,27 @@
       "altNames": [],
       "network": "Pluto TV",
       "owners": []
+    },
+    {
+      "id": "BabyTime.ru",
+      "name": "Baby Time",
+      "logo": null,
+      "url": "http://178.134.1.158:8081/babytime/index.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil",
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Bridge Media"
+      ]
     },
     {
       "id": "BabyFirst.us",
@@ -22275,7 +22352,7 @@
       "id": "Bharat24.in",
       "name": "Bharat24",
       "logo": null,
-      "url": "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8",
+      "url": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -22293,7 +22370,7 @@
       "id": "BhojpuriCinema.in",
       "name": "Bhojpuri Cinema",
       "logo": null,
-      "url": "http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8",
+      "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -22559,26 +22636,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "BigMagic.in",
-      "name": "Big Magic",
-      "logo": null,
-      "url": "http://103.175.73.12:8080/live/13/13_0.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "Z",
-      "owners": [
-        "Zee Entertainment Enterprises Limited"
-      ]
     },
     {
       "id": "BigTenNetwork.us",
@@ -24953,22 +25010,24 @@
       ]
     },
     {
-      "id": "BrioTV.in",
-      "name": "Brio TV",
+      "id": "BRIDGERock.ru",
+      "name": "BRIDGE Rock",
       "logo": null,
-      "url": "https://mumt03.tangotv.in/Dsly5z3HBRIOTV/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
+      "url": "http://178.134.1.158:8081/BRIDGEROCK/index.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
       "section": "general",
       "categories": [
-        "Entretenimiento"
+        "Música"
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Bridge Media"
+      ]
     },
     {
       "id": "BrionnaisTV.fr",
@@ -27348,6 +27407,28 @@
       "owners": []
     },
     {
+      "id": "Canal11.gt",
+      "name": "Canal 11",
+      "logo": null,
+      "url": "http://179.60.224.196:8000/play/a0dv/index.m3u8",
+      "country": "Guatemala",
+      "countryCode": "GT",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Canal 11"
+      ],
+      "network": null,
+      "owners": [
+        "Albavisión"
+      ]
+    },
+    {
       "id": "Canal11.hn",
       "name": "Canal 11",
       "logo": null,
@@ -27446,6 +27527,26 @@
       "owners": [
         "Secuoya Chile",
         "Grupo Luksic"
+      ]
+    },
+    {
+      "id": "Canal13.gt",
+      "name": "Canal 13",
+      "logo": null,
+      "url": "http://190.61.101.11:7050/play/a07f/index.m3u8",
+      "country": "Guatemala",
+      "countryCode": "GT",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Albavisión"
       ]
     },
     {
@@ -28553,6 +28654,26 @@
       "network": null,
       "owners": [
         "Informativos de Televisión y Radio S.A."
+      ]
+    },
+    {
+      "id": "Canal4.sv",
+      "name": "Canal 4",
+      "logo": null,
+      "url": "http://45.5.118.188:8000/play/a00j/index.m3u8",
+      "country": "El Salvador",
+      "countryCode": "SV",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Telecorporación Salvadoreña"
       ]
     },
     {
@@ -31342,6 +31463,26 @@
       ]
     },
     {
+      "id": "CanalTRV.sv",
+      "name": "Canal TRV",
+      "logo": null,
+      "url": "https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8",
+      "country": "El Salvador",
+      "countryCode": "SV",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Diario TRV"
+      ]
+    },
+    {
       "id": "CanalTVRadioMayaTGBA.gt",
       "name": "Canal TV Radio Maya TGBA",
       "logo": null,
@@ -32730,46 +32871,6 @@
       "owners": []
     },
     {
-      "id": "CBAFTDT.ca",
-      "name": "CBAFT-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CBATDT.ca",
-      "name": "CBAT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
-      ]
-    },
-    {
       "id": "CBBC.uk",
       "name": "CBBC",
       "logo": null,
@@ -32914,26 +33015,6 @@
       ]
     },
     {
-      "id": "CBCTDT.ca",
-      "name": "CBCT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
-      ]
-    },
-    {
       "id": "CBeebies.uk",
       "name": "CBeebies",
       "logo": null,
@@ -32954,163 +33035,23 @@
       ]
     },
     {
-      "id": "CBETDT.ca",
-      "name": "CBET-DT",
+      "id": "CBeebiesAsia.uk",
+      "name": "CBeebies Asia",
       "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
+      "url": "http://202.70.146.135:8000/play/a0a2/index.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
-      "section": "general",
+      "section": "infantil",
       "categories": [
-        "General"
+        "Infantil"
       ],
       "altNames": [],
-      "network": "CBC",
+      "network": null,
       "owners": [
-        "Canadian Broadcasting Corporation"
-      ]
-    },
-    {
-      "id": "CBFTDT.ca",
-      "name": "CBFT-DT",
-      "logo": null,
-      "url": "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CBHTDT.ca",
-      "name": "CBHT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
-      ]
-    },
-    {
-      "id": "CBKFTDT.ca",
-      "name": "CBKFT-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CBKTDT.ca",
-      "name": "CBKT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
-      ]
-    },
-    {
-      "id": "CBLFTDT.ca",
-      "name": "CBLFT-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CBLTDT.ca",
-      "name": "CBLT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
-      ]
-    },
-    {
-      "id": "CBMTDT.ca",
-      "name": "CBMT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
+        "BBC"
       ]
     },
     {
@@ -33213,86 +33154,6 @@
       "network": null,
       "owners": [
         "Caribbean Broadcast Network"
-      ]
-    },
-    {
-      "id": "CBNTDT.ca",
-      "name": "CBNT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
-      ]
-    },
-    {
-      "id": "CBOFTDT.ca",
-      "name": "CBOFT-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CBOTDT.ca",
-      "name": "CBOT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
-      ]
-    },
-    {
-      "id": "CBRTDT.ca",
-      "name": "CBRT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
       ]
     },
     {
@@ -33674,146 +33535,6 @@
       "owners": [
         "CBS Broadcasting Inc.",
         "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "CBUFTDT.ca",
-      "name": "CBUFT-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CBUTDT.ca",
-      "name": "CBUT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
-      ]
-    },
-    {
-      "id": "CBVTDT.ca",
-      "name": "CBVT-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CBWFTDT.ca",
-      "name": "CBWFT-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CBWTDT.ca",
-      "name": "CBWT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
-      ]
-    },
-    {
-      "id": "CBXFTDT.ca",
-      "name": "CBXFT-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CBXTDT.ca",
-      "name": "CBXT-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
       ]
     },
     {
@@ -35121,26 +34842,6 @@
       ]
     },
     {
-      "id": "CFHDDT.ca",
-      "name": "CFHD-DT",
-      "logo": null,
-      "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Norouzi Family"
-      ]
-    },
-    {
       "id": "CFMTVChannel98.us",
       "name": "CFM TV Channel 98",
       "logo": null,
@@ -35157,88 +34858,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "CFTMDT.ca",
-      "name": "CFTM-DT",
-      "logo": null,
-      "url": "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "TVA",
-      "owners": [
-        "Groupe TVA"
-      ]
-    },
-    {
-      "id": "CFTODT.ca",
-      "name": "CFTO-DT",
-      "logo": null,
-      "url": "http://stream.cammonitorplus.net/1712/index.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CTV",
-      "owners": [
-        "Bell Media"
-      ]
-    },
-    {
-      "id": "CFTUDT.ca",
-      "name": "CFTU-DT",
-      "logo": null,
-      "url": "https://hls.savoir.media/live/stream.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [
-        "Savoir Media"
-      ],
-      "network": null,
-      "owners": [
-        "Savoir Media"
-      ]
-    },
-    {
-      "id": "CFYKDT.ca",
-      "name": "CFYK-DT",
-      "logo": null,
-      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CBC",
-      "owners": [
-        "Canadian Broadcasting Corporation"
-      ]
     },
     {
       "id": "CGEntertainment.it",
@@ -36455,24 +36074,6 @@
       ]
     },
     {
-      "id": "ChannelY.ca",
-      "name": "Channel Y",
-      "logo": null,
-      "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Channel16.ru",
       "name": "Channel-16",
       "logo": null,
@@ -36856,7 +36457,7 @@
       "id": "Che.ru",
       "name": "Che!",
       "logo": null,
-      "url": "http://31.148.48.15/Che/index.m3u8",
+      "url": "http://flussonic.linkintel.ru/che/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -39656,48 +39257,6 @@
       ]
     },
     {
-      "id": "CJBRDT.ca",
-      "name": "CJBR-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CJONDT.ca",
-      "name": "CJON-DT",
-      "logo": null,
-      "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NTV"
-      ],
-      "network": "NTV",
-      "owners": [
-        "Stirling Communications International"
-      ]
-    },
-    {
       "id": "CKNOFM.ca",
       "name": "CKNO-FM",
       "logo": null,
@@ -39715,66 +39274,6 @@
       "network": null,
       "owners": [
         "Jim Pattison Group"
-      ]
-    },
-    {
-      "id": "CKSHDT.ca",
-      "name": "CKSH-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CKTMDT.ca",
-      "name": "CKTM-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
-      ]
-    },
-    {
-      "id": "CKTVDT.ca",
-      "name": "CKTV-DT",
-      "logo": null,
-      "url": "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8",
-      "country": "Canada",
-      "countryCode": "CA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "ICI",
-      "owners": [
-        "Societe Radio-Canada"
       ]
     },
     {
@@ -40695,6 +40194,26 @@
       ]
     },
     {
+      "id": "CNBC.us",
+      "name": "CNBC",
+      "logo": null,
+      "url": "http://41.205.93.154/CNBC/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Negocios"
+      ],
+      "altNames": [],
+      "network": "CNBC",
+      "owners": [
+        "Versant Media Group Inc."
+      ]
+    },
+    {
       "id": "CNBCArabiya.ae",
       "name": "CNBC Arabiya",
       "logo": null,
@@ -41357,7 +40876,7 @@
       "id": "Colors.in",
       "name": "Colors",
       "logo": null,
-      "url": "http://59.103.38.46:8000/play/a00b/index.m3u8",
+      "url": "http://66.102.126.10:8000/play/a00a/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -41379,7 +40898,7 @@
       "id": "ColorsBangla.in",
       "name": "Colors Bangla",
       "logo": null,
-      "url": "http://103.72.101.252:8080/live/756.m3u8",
+      "url": "http://103.165.93.31:8095/colorsBangla/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -41398,32 +40917,10 @@
       ]
     },
     {
-      "id": "ColorsBanglaCinema.in",
-      "name": "Colors Bangla Cinema",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1657.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "Colors",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
       "id": "ColorsCineplex.in",
       "name": "Colors Cineplex",
       "logo": null,
-      "url": "http://149.71.34.166:8000/play/a00b/index.m3u8",
+      "url": "http://66.102.126.10:8000/play/a076/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -41445,29 +40942,7 @@
       "id": "ColorsCineplexBollywood.in",
       "name": "Colors Cineplex Bollywood",
       "logo": null,
-      "url": "http://103.72.101.252:8080/live/1763.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "Colors",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "ColorsCineplexSuperhits.in",
-      "name": "Colors Cineplex Superhits",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1450.m3u8",
+      "url": "http://202.70.146.135:8000/play/a058/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -41508,32 +40983,10 @@
       ]
     },
     {
-      "id": "ColorsGujaratiCinema.in",
-      "name": "Colors Gujarati Cinema",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1324.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "Colors",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
       "id": "ColorsInfinity.in",
       "name": "Colors Infinity",
       "logo": null,
-      "url": "http://149.71.34.166:8002/play/a01d/index.m3u8",
+      "url": "http://66.102.126.10:8000/play/a014/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -41569,28 +41022,6 @@
         "ETV Kannada",
         "Colors ಕನ್ನಡ"
       ],
-      "network": "Colors",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "ColorsMarathi.in",
-      "name": "Colors Marathi",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/755.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
       "network": "Colors",
       "owners": [
         "JioStar India Pvt. Ltd.",
@@ -45487,7 +44918,7 @@
       "id": "Dangal2.in",
       "name": "Dangal 2",
       "logo": null,
-      "url": "http://103.213.31.109:90/Dangal2/playlist.m3u8",
+      "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -45507,7 +44938,7 @@
       "id": "DangalTV.in",
       "name": "Dangal TV",
       "logo": null,
-      "url": "http://103.213.31.109:90/Dangal/playlist.m3u8",
+      "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -46185,7 +45616,7 @@
       "id": "DDBharati.in",
       "name": "DD Bharati",
       "logo": null,
-      "url": "http://103.213.31.109:90/DDBharati/playlist.m3u8",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -46345,7 +45776,7 @@
       "id": "DDIndia.in",
       "name": "DD India",
       "logo": null,
-      "url": "http://103.213.31.109:90/DDIndia/playlist.m3u8",
+      "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -48990,6 +48421,28 @@
       "network": null,
       "owners": [
         "Disney Entertainment"
+      ]
+    },
+    {
+      "id": "DisneyChannel.in",
+      "name": "Disney Channel",
+      "logo": null,
+      "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
       ]
     },
     {
@@ -55039,6 +54492,26 @@
       ]
     },
     {
+      "id": "Enterr10Rangeela.in",
+      "name": "Enterr 10 Rangeela",
+      "logo": null,
+      "url": "http://103.185.24.134:3001/SUN-BANGLA-HD/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Enterr10",
+      "owners": [
+        "Enterr10 Television Pvt. Ltd."
+      ]
+    },
+    {
       "id": "EntertainmentTonight.us",
       "name": "Entertainment Tonight",
       "logo": null,
@@ -56530,6 +56003,27 @@
       ]
     },
     {
+      "id": "ETVBalBharat.in",
+      "name": "ETV Bal Bharat",
+      "logo": null,
+      "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "ETV",
+      "owners": [
+        "Eenadu Television Private Limited (ETV)",
+        "Ramoji Group"
+      ]
+    },
+    {
       "id": "ETVBeats.in",
       "name": "ETV Beats",
       "logo": null,
@@ -57295,7 +56789,7 @@
       "id": "EuropaEuropa.ar",
       "name": "Europa Europa",
       "logo": null,
-      "url": "https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8",
+      "url": "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8",
       "country": "Argentina",
       "countryCode": "AR",
       "language_primary": "Español",
@@ -71690,6 +71184,28 @@
       "owners": []
     },
     {
+      "id": "HungamaTV.in",
+      "name": "Hungama TV",
+      "logo": null,
+      "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "Hungry.us",
       "name": "Hungry",
       "logo": null,
@@ -78663,27 +78179,22 @@
       ]
     },
     {
-      "id": "KAAL61.us",
-      "name": "KAAL 6.1",
+      "id": "Kabaddi24x7.in",
+      "name": "Kabaddi 24x7",
       "logo": null,
-      "url": "https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
+      "url": "http://180.188.254.253/live/KABADDI24X7.m3u8",
+      "country": "India",
+      "countryCode": "IN",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
-      "section": "general",
+      "section": "deportes",
       "categories": [
-        "General"
+        "Deportes"
       ],
-      "altNames": [
-        "ABC 6",
-        "KAAL-DT"
-      ],
-      "network": "ABC",
-      "owners": [
-        "KAAL-TV LLC"
-      ]
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "KabbalahforthePeopleIsrael.il",
@@ -79951,52 +79462,6 @@
       "owners": []
     },
     {
-      "id": "KATC31.us",
-      "name": "KATC 3.1",
-      "logo": null,
-      "url": "http://stream.cammonitorplus.net/1753/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KATC-TV 3",
-        "KATC-HD"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
-      "id": "KATU321.us",
-      "name": "KATU 32.1",
-      "logo": null,
-      "url": "https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Portland's CW 32",
-        "KRCW"
-      ],
-      "network": "CW",
-      "owners": [
-        "Sinclair Portland Licensee LLC"
-      ]
-    },
-    {
       "id": "KaufBeiTV.de",
       "name": "KaufBei TV",
       "logo": null,
@@ -80145,29 +79610,6 @@
       "owners": []
     },
     {
-      "id": "KBPXLD465.us",
-      "name": "KBPX-LD 46.5",
-      "logo": null,
-      "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias",
-        "Cultura"
-      ],
-      "altNames": [
-        "GEB"
-      ],
-      "network": "GEB Network",
-      "owners": [
-        "Word Texas Broadcasting LLC"
-      ]
-    },
-    {
       "id": "KBRI8.us",
       "name": "KBRI-8",
       "logo": null,
@@ -80227,29 +79669,6 @@
       "network": "Korean Broadcasting System",
       "owners": [
         "Korean Broadcasting System"
-      ]
-    },
-    {
-      "id": "KBSI231.us",
-      "name": "KBSI 23.1",
-      "logo": null,
-      "url": "https://live.field59.com/kbsi/kbsi1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 23",
-        "KBSI-DT"
-      ],
-      "network": "FOX",
-      "owners": [
-        "Paducah Television License LLC"
       ]
     },
     {
@@ -80317,29 +79736,6 @@
       "owners": []
     },
     {
-      "id": "KCCI81.us",
-      "name": "KCCI 8.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KCCI NewsChannel 8",
-        "KCCI-HD"
-      ],
-      "network": "CBS",
-      "owners": [
-        "Hearst Properties Inc."
-      ]
-    },
-    {
       "id": "KCHTV.ec",
       "name": "KCHTV",
       "logo": null,
@@ -80356,28 +79752,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "KCKSLD253.us",
-      "name": "KCKS-LD 25.3",
-      "logo": null,
-      "url": "https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Ace"
-      ],
-      "network": "ACE TV",
-      "owners": [
-        "Heartland Broadcasting LLC"
-      ]
     },
     {
       "id": "KCLTV.in",
@@ -80421,52 +79795,6 @@
       ]
     },
     {
-      "id": "KCPQ131.us",
-      "name": "KCPQ 13.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 13",
-        "FOX13"
-      ],
-      "network": "FOX",
-      "owners": [
-        "FOX Television Stations LLC"
-      ]
-    },
-    {
-      "id": "KCRATV581.us",
-      "name": "KCRA-TV 58.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "CW on My 58",
-        "KQCA"
-      ],
-      "network": "CW",
-      "owners": [
-        "Hearst Stations Inc."
-      ]
-    },
-    {
       "id": "KCTV.kr",
       "name": "KCTV",
       "logo": null,
@@ -80486,74 +79814,6 @@
       "network": null,
       "owners": [
         "Gwangju Cable Television Co Ltd"
-      ]
-    },
-    {
-      "id": "KCWX351.us",
-      "name": "KCWX 35.1",
-      "logo": null,
-      "url": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "ROAR"
-      ],
-      "network": "ROAR",
-      "owners": [
-        "Corridor Television L.L.P."
-      ]
-    },
-    {
-      "id": "KDBCTV41.us",
-      "name": "KDBC-TV 4.1",
-      "logo": null,
-      "url": "https://linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "CBS 4",
-        "CBS"
-      ],
-      "network": "CBS",
-      "owners": [
-        "KDBC Licensee LLC"
-      ]
-    },
-    {
-      "id": "KDFW41.us",
-      "name": "KDFW 4.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 4",
-        "KDFW-DT"
-      ],
-      "network": "FOX",
-      "owners": [
-        "Nw Communications of Texas Inc."
       ]
     },
     {
@@ -80719,29 +79979,6 @@
       "owners": []
     },
     {
-      "id": "KEROTV231.us",
-      "name": "KERO-TV 23.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "23 ABC",
-        "KERO-HD"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
       "id": "KerussoTV.hn",
       "name": "Kerusso TV",
       "logo": null,
@@ -80802,29 +80039,6 @@
       ]
     },
     {
-      "id": "KETS21.us",
-      "name": "KETS 2.1",
-      "logo": null,
-      "url": "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [
-        "AETN HD",
-        "KETS-1"
-      ],
-      "network": "PBS",
-      "owners": [
-        "Arkansas Educational Television Commission"
-      ]
-    },
-    {
       "id": "KevinHartsLOLNetwork.us",
       "name": "Kevin Hart's LOL! Network",
       "logo": null,
@@ -80869,29 +80083,6 @@
       ]
     },
     {
-      "id": "KEYETV421.us",
-      "name": "KEYE-TV 42.1",
-      "logo": null,
-      "url": "https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "CBS 42",
-        "CBS"
-      ],
-      "network": "CBS",
-      "owners": [
-        "KEYE Licensee LLC"
-      ]
-    },
-    {
       "id": "KFONTV.us",
       "name": "KFON TV",
       "logo": null,
@@ -80908,75 +80099,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "KFTRDT461.us",
-      "name": "KFTR-DT 46.1",
-      "logo": null,
-      "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "TeleFutura 46",
-        "UniMas"
-      ],
-      "network": "UniMás",
-      "owners": [
-        "Unimas Los Angeles LLC"
-      ]
-    },
-    {
-      "id": "KGTV101.us",
-      "name": "KGTV 10.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "San Diego's 10",
-        "KGTV-HD"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
-      "id": "KGUNTV91.us",
-      "name": "KGUN-TV 9.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KGUN 9",
-        "KGUN HD"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
     },
     {
       "id": "KhabarFast.in",
@@ -81113,29 +80235,6 @@
       "owners": []
     },
     {
-      "id": "KHET111.us",
-      "name": "KHET 11.1",
-      "logo": null,
-      "url": "https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [
-        "PBS Hawaii",
-        "KHET-1"
-      ],
-      "network": "PBS",
-      "owners": [
-        "Hawaii Public Television Foundation"
-      ]
-    },
-    {
       "id": "KHL.ru",
       "name": "KHL",
       "logo": null,
@@ -81235,6 +80334,27 @@
       "network": null,
       "owners": [
         "Manoranjan TV Group Limited"
+      ]
+    },
+    {
+      "id": "KidOO.us",
+      "name": "KidOO",
+      "logo": null,
+      "url": "http://15.204.246.24:8080/KidooHD/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "2BeNamed"
       ]
     },
     {
@@ -81973,28 +81093,6 @@
       ]
     },
     {
-      "id": "KIROTV71.us",
-      "name": "KIRO-TV 7.1",
-      "logo": null,
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KIRO 7"
-      ],
-      "network": "CBS",
-      "owners": [
-        "KIRO-TV Inc."
-      ]
-    },
-    {
       "id": "KishTV.ir",
       "name": "Kish TV",
       "logo": null,
@@ -82146,29 +81244,6 @@
       "network": null,
       "owners": [
         "Department of General Education"
-      ]
-    },
-    {
-      "id": "KITV41.us",
-      "name": "KITV 4.1",
-      "logo": null,
-      "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Island Television",
-        "KITV-HD"
-      ],
-      "network": "ABC",
-      "owners": [
-        "KITV Inc."
       ]
     },
     {
@@ -82354,29 +81429,6 @@
       ]
     },
     {
-      "id": "KMBYLD275.us",
-      "name": "KMBY-LD 27.5",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación"
-      ],
-      "altNames": [
-        "HSN",
-        "Toons"
-      ],
-      "network": "Me-TV Toons",
-      "owners": [
-        "Cocola Broadcasting Companies LLC"
-      ]
-    },
-    {
       "id": "KMCTTV391.us",
       "name": "KMCT-TV 39.1",
       "logo": null,
@@ -82397,121 +81449,6 @@
       "network": "Religious",
       "owners": [
         "KMCT Holdings LLC"
-      ]
-    },
-    {
-      "id": "KMEXDT341.us",
-      "name": "KMEX-DT 34.1",
-      "logo": null,
-      "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Univision 34",
-        "KMEX-DT"
-      ],
-      "network": "Univision",
-      "owners": [
-        "KMEX License Partnership G.P."
-      ]
-    },
-    {
-      "id": "KMGHTV71.us",
-      "name": "KMGH-TV 7.1",
-      "logo": null,
-      "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Denver7",
-        "KMGH"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
-      "id": "KMOSTV61.us",
-      "name": "KMOS-TV 6.1",
-      "logo": null,
-      "url": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [
-        "KMOS",
-        "KMOS-HD"
-      ],
-      "network": "PBS",
-      "owners": [
-        "The University of Central Missouri"
-      ]
-    },
-    {
-      "id": "KMPHTV261.us",
-      "name": "KMPH-TV 26.1",
-      "logo": null,
-      "url": "https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KMPH Fox 26",
-        "FOX26"
-      ],
-      "network": "FOX",
-      "owners": [
-        "KMPH Licensee LLC"
-      ]
-    },
-    {
-      "id": "KMTVTV31.us",
-      "name": "KMTV-TV 3.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Action 3 News",
-        "KMTV-TV"
-      ],
-      "network": "CBS",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
       ]
     },
     {
@@ -82620,52 +81557,6 @@
       ]
     },
     {
-      "id": "KNSD481.us",
-      "name": "KNSD 48.1",
-      "logo": null,
-      "url": "https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Telemundo 20",
-        "KUAN-LD"
-      ],
-      "network": "Telemundo",
-      "owners": [
-        "Station Venture Operations Lp"
-      ]
-    },
-    {
-      "id": "KNTV111.us",
-      "name": "KNTV 11.1",
-      "logo": null,
-      "url": "http://50.229.129.155/0.ts",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NBC Bay Area",
-        "KNTV HD"
-      ],
-      "network": "NBC",
-      "owners": [
-        "NBC Telemundo License LLC"
-      ]
-    },
-    {
       "id": "KNXVTV611.us",
       "name": "KNXV-TV 61.1",
       "logo": null,
@@ -82686,29 +81577,6 @@
       "network": "Independent",
       "owners": [
         "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
-      "id": "KOATTV71.us",
-      "name": "KOAT-TV 7.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KOAT 7",
-        "KOAT-DT"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Hearst Properties Inc."
       ]
     },
     {
@@ -82829,51 +81697,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "KOKHTV251.us",
-      "name": "KOKH-TV 25.1",
-      "logo": null,
-      "url": "https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 25",
-        "KOKH"
-      ],
-      "network": "FOX",
-      "owners": [
-        "KOKH Licensee LLC"
-      ]
-    },
-    {
-      "id": "KOKITV231.us",
-      "name": "KOKI-TV 23.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KOKI-TV"
-      ],
-      "network": "ROAR",
-      "owners": [
-        "Rincon Broadcasting Tulsa LLC"
-      ]
     },
     {
       "id": "Kokshe.kz",
@@ -83054,29 +81877,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "KOMOTV511.us",
-      "name": "KOMO-TV 51.1",
-      "logo": null,
-      "url": "https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ARC Seattle",
-        "KUNS"
-      ],
-      "network": "CW",
-      "owners": [
-        "Sinclair Seattle Licensee LLC"
-      ]
     },
     {
       "id": "KompasTV.id",
@@ -83355,28 +82155,6 @@
       ]
     },
     {
-      "id": "KPCBDT171.us",
-      "name": "KPCB-DT 17.1",
-      "logo": null,
-      "url": "https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Religioso"
-      ],
-      "altNames": [
-        "KPCB-DT"
-      ],
-      "network": "GLC",
-      "owners": [
-        "Prime Time Christian Broadcasting Inc"
-      ]
-    },
-    {
       "id": "KpopMix.ar",
       "name": "Kpop Mix",
       "logo": null,
@@ -83438,206 +82216,6 @@
       ]
     },
     {
-      "id": "KPVMLD252.us",
-      "name": "KPVM-LD 25.2",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Movies!"
-      ],
-      "network": "Movies!",
-      "owners": [
-        "KPVM Television Inc."
-      ]
-    },
-    {
-      "id": "KPVMLD253.us",
-      "name": "KPVM-LD 25.3",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "RAV HD"
-      ],
-      "network": "Real America's Voice",
-      "owners": [
-        "KPVM Television Inc."
-      ]
-    },
-    {
-      "id": "KPVMLD254.us",
-      "name": "KPVM-LD 25.4",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "OAN"
-      ],
-      "network": "OAN Plus",
-      "owners": [
-        "KPVM Television Inc."
-      ]
-    },
-    {
-      "id": "KPVMLD255.us",
-      "name": "KPVM-LD 25.5",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "NEWSMAX"
-      ],
-      "network": "Newsmax2",
-      "owners": [
-        "KPVM Television Inc."
-      ]
-    },
-    {
-      "id": "KPVMLD256.us",
-      "name": "KPVM-LD 25.6",
-      "logo": null,
-      "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [
-        "Story"
-      ],
-      "network": "Story Television",
-      "owners": [
-        "KPVM Television Inc."
-      ]
-    },
-    {
-      "id": "KPVMLD257.us",
-      "name": "KPVM-LD 25.7",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Estilo de Vida",
-        "Viajes"
-      ],
-      "altNames": [
-        "AWE MP4"
-      ],
-      "network": "AWE Plus",
-      "owners": [
-        "KPVM Television Inc."
-      ]
-    },
-    {
-      "id": "KPVMLD258.us",
-      "name": "KPVM-LD 25.8",
-      "logo": null,
-      "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "KACEMP4"
-      ],
-      "network": "Ace Country Radio",
-      "owners": [
-        "KPVM Television Inc."
-      ]
-    },
-    {
-      "id": "KQED92.us",
-      "name": "KQED 9.2",
-      "logo": null,
-      "url": "https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "KQED Plus",
-        "KQED+HD"
-      ],
-      "network": "PBS",
-      "owners": [
-        "KQED Inc."
-      ]
-    },
-    {
-      "id": "KQSL81.us",
-      "name": "KQSL 8.1",
-      "logo": null,
-      "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Religioso"
-      ],
-      "altNames": [
-        "KQSL"
-      ],
-      "network": "TLN",
-      "owners": [
-        "One Ministries Inc."
-      ]
-    },
-    {
       "id": "KralPopTV.tr",
       "name": "Kral Pop TV",
       "logo": null,
@@ -83673,52 +82251,6 @@
       "network": null,
       "owners": [
         "KRC Uganda"
-      ]
-    },
-    {
-      "id": "KRCA71.us",
-      "name": "KRCA 7.1",
-      "logo": null,
-      "url": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ABC 7",
-        "KABC-DT"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Estrella Television License LLC"
-      ]
-    },
-    {
-      "id": "KRGVTV51.us",
-      "name": "KRGV-TV 5.1",
-      "logo": null,
-      "url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KRGV Channel 5",
-        "KRGV HD"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Mobile Video Tapes Inc."
       ]
     },
     {
@@ -83765,29 +82297,6 @@
       "owners": []
     },
     {
-      "id": "KRISTV61.us",
-      "name": "KRIS-TV 6.1",
-      "logo": null,
-      "url": "https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "6 News",
-        "KRIS-HD"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
       "id": "KritiTV.gr",
       "name": "Kriti TV",
       "logo": null,
@@ -83805,29 +82314,6 @@
       "network": null,
       "owners": [
         "Icarus Broadcasting Enterprises S. A."
-      ]
-    },
-    {
-      "id": "KRIV261.us",
-      "name": "KRIV 26.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 26",
-        "KRIV DT"
-      ],
-      "network": "FOX",
-      "owners": [
-        "FOX Television Stations LLC"
       ]
     },
     {
@@ -83849,75 +82335,6 @@
       "owners": []
     },
     {
-      "id": "KSAZTV101.us",
-      "name": "KSAZ-TV 10.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 10",
-        "KSAZ-TV"
-      ],
-      "network": "FOX",
-      "owners": [
-        "Nw Communications of Phoenix Inc."
-      ]
-    },
-    {
-      "id": "KSBW81.us",
-      "name": "KSBW 8.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KSBW 8",
-        "KSBW"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Hearst Stations Inc."
-      ]
-    },
-    {
-      "id": "KSBY61.us",
-      "name": "KSBY 6.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KSBY 6",
-        "KSBY-HD"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
       "id": "KSCE381.us",
       "name": "KSCE 38.1",
       "logo": null,
@@ -83936,28 +82353,6 @@
         "LIFE"
       ],
       "network": "Religious",
-      "owners": [
-        "Channel 38 Christian Television"
-      ]
-    },
-    {
-      "id": "KSCE382.us",
-      "name": "KSCE 38.2",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Religioso"
-      ],
-      "altNames": [
-        "VIDA"
-      ],
-      "network": "Red Advenir",
       "owners": [
         "Channel 38 Christian Television"
       ]
@@ -83986,97 +82381,6 @@
       ]
     },
     {
-      "id": "KSCNTV221.us",
-      "name": "KSCN-TV 22.1",
-      "logo": null,
-      "url": "https://stream-losangeles.scientology.org/master.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "SCNTV"
-      ],
-      "network": "Scientology Network",
-      "owners": [
-        "Sunset Boulevard Broadcasting Corporation"
-      ]
-    },
-    {
-      "id": "KSHBTV411.us",
-      "name": "KSHB-TV 41.1",
-      "logo": null,
-      "url": "https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "41 Action News",
-        "KSHB-TV"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
-      "id": "KSNV31.us",
-      "name": "KSNV 3.1",
-      "logo": null,
-      "url": "https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Channel 3",
-        "NBC3"
-      ],
-      "network": "NBC",
-      "owners": [
-        "KUPN Licensee LLC"
-      ]
-    },
-    {
-      "id": "KSTPTV51.us",
-      "name": "KSTP-TV 5.1",
-      "logo": null,
-      "url": "https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "5 Eyewitness News",
-        "KSTPDT"
-      ],
-      "network": "ABC",
-      "owners": [
-        "KSTP-TV LLC"
-      ]
-    },
-    {
       "id": "KSTVUganda.ug",
       "name": "KSTV Uganda",
       "logo": null,
@@ -84096,29 +82400,6 @@
       "network": null,
       "owners": [
         "Good News Ministries"
-      ]
-    },
-    {
-      "id": "KTBC71.us",
-      "name": "KTBC 7.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 7",
-        "KTBC-HD"
-      ],
-      "network": "FOX",
-      "owners": [
-        "Nw Communications of Austin Inc."
       ]
     },
     {
@@ -84162,29 +82443,6 @@
       ]
     },
     {
-      "id": "KTNVTV331.us",
-      "name": "KTNV-TV 33.1",
-      "logo": null,
-      "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "The CW Las Vegas",
-        "TheCWLV"
-      ],
-      "network": "CW",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
       "id": "KTO.fr",
       "name": "KTO",
       "logo": null,
@@ -84223,51 +82481,6 @@
       "owners": [
         "Karavan",
         "Red Media"
-      ]
-    },
-    {
-      "id": "KTOOTV33.us",
-      "name": "KTOO-TV 3.3",
-      "logo": null,
-      "url": "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [
-        "KTOO360"
-      ],
-      "network": "KTOO 360TV",
-      "owners": [
-        "KTOO Public Media"
-      ]
-    },
-    {
-      "id": "KTTV111.us",
-      "name": "KTTV 11.1",
-      "logo": null,
-      "url": "https://n15sb.host5245.com/63/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 11",
-        "KTTV-DT"
-      ],
-      "network": "FOX",
-      "owners": [
-        "FOX Television Stations LLC"
       ]
     },
     {
@@ -84505,29 +82718,6 @@
       ]
     },
     {
-      "id": "KTVU41.us",
-      "name": "KTVU 4.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KRON 4",
-        "KRON-TV"
-      ],
-      "network": "CW",
-      "owners": [
-        "FOX Television Stations LLC"
-      ]
-    },
-    {
       "id": "Kuban24.ru",
       "name": "Kuban 24",
       "logo": null,
@@ -84632,28 +82822,6 @@
       "owners": [
         "Sveriges Utbildningsradio",
         "Sveriges Television"
-      ]
-    },
-    {
-      "id": "KUONTV121.us",
-      "name": "KUON-TV 12.1",
-      "logo": null,
-      "url": "https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [
-        "NE-PBS"
-      ],
-      "network": "PBS",
-      "owners": [
-        "The University of Nebraska"
       ]
     },
     {
@@ -84877,51 +83045,6 @@
       ]
     },
     {
-      "id": "KUTV21.us",
-      "name": "KUTV 2.1",
-      "logo": null,
-      "url": "https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "2 News",
-        "KUTV2"
-      ],
-      "network": "CBS",
-      "owners": [
-        "KUTV Licensee LLC"
-      ]
-    },
-    {
-      "id": "KUVNDT491.us",
-      "name": "KUVN-DT 49.1",
-      "logo": null,
-      "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KSTR-DT"
-      ],
-      "network": "UniMás",
-      "owners": [
-        "KUVN License Partnership L.P."
-      ]
-    },
-    {
       "id": "KvartalTV.ua",
       "name": "Kvartal TV",
       "logo": null,
@@ -84942,51 +83065,6 @@
       "network": null,
       "owners": [
         "1+1 Media Group"
-      ]
-    },
-    {
-      "id": "KVCRDT242.us",
-      "name": "KVCR-DT 24.2",
-      "logo": null,
-      "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Cultura"
-      ],
-      "altNames": [
-        "KVCRFNX"
-      ],
-      "network": "First Nations Experience",
-      "owners": [
-        "San Bernardino Community College District"
-      ]
-    },
-    {
-      "id": "KVIE62.us",
-      "name": "KVIE 6.2",
-      "logo": null,
-      "url": "https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "KVIE 2",
-        "KVIE2"
-      ],
-      "network": "PBS Encore",
-      "owners": [
-        "KVIE Inc."
       ]
     },
     {
@@ -85052,98 +83130,6 @@
       ]
     },
     {
-      "id": "KVVBLD331.us",
-      "name": "KVVB-LD 33.1",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "KVVB.TV 33"
-      ],
-      "network": "YouToo America",
-      "owners": [
-        "h&h Enterprises"
-      ]
-    },
-    {
-      "id": "KWTVDT91.us",
-      "name": "KWTV-DT 9.1",
-      "logo": null,
-      "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "News 9",
-        "News9"
-      ],
-      "network": "CBS",
-      "owners": [
-        "Griffin Licensing L.L.C."
-      ]
-    },
-    {
-      "id": "KXASTV51.us",
-      "name": "KXAS-TV 5.1",
-      "logo": null,
-      "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NBC 5 Dallas-Fort Worth",
-        "NBC 5",
-        "KXAS-HD"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Station Venture Operations Lp"
-      ]
-    },
-    {
-      "id": "KXXV251.us",
-      "name": "KXXV 25.1",
-      "logo": null,
-      "url": "https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NewsChannel 25",
-        "KXXV-TV"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
       "id": "Kyiv.ua",
       "name": "Kyiv",
       "logo": null,
@@ -85164,29 +83150,6 @@
       "network": null,
       "owners": [
         "Kyiv City Council"
-      ]
-    },
-    {
-      "id": "KZTV101.us",
-      "name": "KZTV 10.1",
-      "logo": null,
-      "url": "https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Action 10 News",
-        "KZTV-HD"
-      ],
-      "network": "CBS",
-      "owners": [
-        "Sagamorehill of Corpus Christi Licenses LLC"
       ]
     },
     {
@@ -86861,6 +84824,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "LapkiLive.ru",
+      "name": "Lapki Live",
+      "logo": null,
+      "url": "http://45.145.32.13:20440/unikum/index.m3u8?token=test",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Лапки Live"
+      ],
+      "network": null,
+      "owners": [
+        "Digital telefamily"
+      ]
     },
     {
       "id": "LaPuraCremaTelevision.ve",
@@ -88837,6 +86822,24 @@
       "owners": [
         "Nelonen Media"
       ]
+    },
+    {
+      "id": "LiveIndia.in",
+      "name": "Live India",
+      "logo": null,
+      "url": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "LiveMusic.us",
@@ -96919,7 +94922,7 @@
       "id": "MirSeriala.ru",
       "name": "Mir Seriala",
       "logo": null,
-      "url": "http://31.148.48.15/Mir_Seriala/index.m3u8",
+      "url": "http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -98464,6 +96467,27 @@
       "owners": []
     },
     {
+      "id": "MorazanTV.sv",
+      "name": "Morazan TV",
+      "logo": null,
+      "url": "http://45.167.2.138:8000/play/a0o4/index.m3u8",
+      "country": "El Salvador",
+      "countryCode": "SV",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Morazán TV",
+        "Canal 5 Meanguera"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "MoreGraceTV.ng",
       "name": "More Grace TV",
       "logo": null,
@@ -99054,7 +97078,7 @@
       "id": "Movies.us",
       "name": "Movies!",
       "logo": null,
-      "url": "https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8",
+      "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -103739,6 +101763,30 @@
       ]
     },
     {
+      "id": "NationalGeographic.in",
+      "name": "National Geographic",
+      "logo": null,
+      "url": "http://103.165.93.31:8095/nationalGeographic/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [
+        "National Geographic Channel"
+      ],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "NationalGeographic.mx",
       "name": "National Geographic",
       "logo": null,
@@ -107200,6 +105248,28 @@
       ]
     },
     {
+      "id": "NickJr.in",
+      "name": "Nick Jr.",
+      "logo": null,
+      "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "NickJr.ru",
       "name": "Nick Jr.",
       "logo": null,
@@ -107447,6 +105517,30 @@
       "network": "Nickelodeon",
       "owners": [
         "Paramount Networks EMEAA"
+      ]
+    },
+    {
+      "id": "Nickelodeon.in",
+      "name": "Nickelodeon",
+      "logo": null,
+      "url": "http://103.185.24.134:3001/NICK/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "Nick"
+      ],
+      "network": "Nickelodeon",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
       ]
     },
     {
@@ -110618,7 +108712,7 @@
       "id": "NTVHit.ru",
       "name": "NTV-Hit",
       "logo": null,
-      "url": "https://cdn.ntv.ru/th_hit/playlist.m3u8",
+      "url": "http://178.134.1.158:8081/ntvhit/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -111401,7 +109495,7 @@
       "id": "OANPlus.us",
       "name": "OAN Plus",
       "logo": null,
-      "url": "https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8",
+      "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -114716,7 +112810,7 @@
       "id": "OTR.ru",
       "name": "OTR",
       "logo": null,
-      "url": "https://streaming.televizor-24-tochka.ru/live/12.m3u8",
+      "url": "http://flussonic.linkintel.ru/otr/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -118600,6 +116694,24 @@
       "section": "español",
       "categories": [
         "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PlanetFun.uk",
+      "name": "Planet Fun",
+      "logo": null,
+      "url": "http://66.102.126.10:8000/play/a02k/index.m3u8",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Comedia"
       ],
       "altNames": [],
       "network": null,
@@ -129660,6 +127772,26 @@
       "owners": []
     },
     {
+      "id": "QTV.in",
+      "name": "Q TV",
+      "logo": null,
+      "url": "https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "QYOU Media"
+      ]
+    },
+    {
       "id": "QMusic.be",
       "name": "Q-Music",
       "logo": null,
@@ -135271,7 +133403,7 @@
       "id": "RealAmericasVoice.us",
       "name": "Real America's Voice",
       "logo": null,
-      "url": "https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8",
+      "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -135933,7 +134065,7 @@
       "id": "RedUno.bo",
       "name": "Red Uno",
       "logo": null,
-      "url": "http://190.181.18.82:4111/play/a005/index.m3u8",
+      "url": "http://15.204.246.24:8080/RedUnoLPZHD/index.m3u8",
       "country": "Bolivia",
       "countryCode": "BO",
       "language_primary": "Español",
@@ -136664,6 +134796,28 @@
       ],
       "altNames": [
         "РЕН ТВ"
+      ],
+      "network": null,
+      "owners": [
+        "National Media Group"
+      ]
+    },
+    {
+      "id": "RENTVInternational.ru",
+      "name": "REN TV International",
+      "logo": null,
+      "url": "http://178.134.1.158:8081/RENTV/index.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "РЕН ТВ International"
       ],
       "network": null,
       "owners": [
@@ -145448,7 +143602,7 @@
       "id": "ScientologyNetwork.us",
       "name": "Scientology Network",
       "logo": null,
-      "url": "https://stream6.scientology.org/master.m3u8",
+      "url": "https://stream-losangeles.scientology.org/master.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -150804,6 +148958,31 @@
       ]
     },
     {
+      "id": "Sonic.in",
+      "name": "Sonic",
+      "logo": null,
+      "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "Nickelodeon Sonic",
+        "Sonic Nickelodeon"
+      ],
+      "network": "Nickelodeon",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "SonicTV.us",
       "name": "Sonic TV",
       "logo": null,
@@ -150874,6 +149053,27 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "SonyAath.in",
+      "name": "Sony Aath",
+      "logo": null,
+      "url": "http://103.165.93.31:8095/sonyAath/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Sony Pictures Networks",
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
     },
     {
       "id": "SonyCanalNovelas.us",
@@ -151174,6 +149374,27 @@
       ]
     },
     {
+      "id": "SonyPal.in",
+      "name": "Sony Pal",
+      "logo": null,
+      "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Sony Pictures Networks",
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
+    },
+    {
       "id": "SonyPix.in",
       "name": "Sony Pix",
       "logo": null,
@@ -151207,6 +149428,28 @@
       "section": "peliculas",
       "categories": [
         "Películas"
+      ],
+      "altNames": [],
+      "network": "Sony Pictures Networks",
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
+    },
+    {
+      "id": "SonyYay.in",
+      "name": "Sony Yay!",
+      "logo": null,
+      "url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
       ],
       "altNames": [],
       "network": "Sony Pictures Networks",
@@ -152448,27 +150691,6 @@
       "owners": []
     },
     {
-      "id": "SozcuTV.tr",
-      "name": "Sozcu TV",
-      "logo": null,
-      "url": "http://5.178.103.239:55/yt1/szctv.m3u8",
-      "country": "Turkiye",
-      "countryCode": "TR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Sözcü TV",
-        "SZC TV"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "SpaceLivepoweredbysen.uk",
       "name": "Space Live powered by sen",
       "logo": null,
@@ -153404,6 +151626,24 @@
       "owners": []
     },
     {
+      "id": "SportsSquadHaryana.in",
+      "name": "Sports Squad Haryana",
+      "logo": null,
+      "url": "http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SportsTelevision.kp",
       "name": "Sports Television",
       "logo": null,
@@ -154013,6 +152253,74 @@
       ]
     },
     {
+      "id": "StarGold.in",
+      "name": "Star Gold",
+      "logo": null,
+      "url": "http://41.205.93.154/STAR-GOLD/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "StarGold2.in",
+      "name": "Star Gold 2",
+      "logo": null,
+      "url": "http://66.102.126.10:8000/play/a077/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "StarGoldRomance.in",
+      "name": "Star Gold Romance",
+      "logo": null,
+      "url": "http://66.102.126.10:8000/play/a00r/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "UTV Movies"
+      ],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "StarGoldSelect.in",
       "name": "Star Gold Select",
       "logo": null,
@@ -154213,6 +152521,28 @@
       ]
     },
     {
+      "id": "StarMovies.in",
+      "name": "Star Movies",
+      "logo": null,
+      "url": "http://66.102.126.10:8000/play/a021/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "StarMovies.pt",
       "name": "Star Movies",
       "logo": null,
@@ -154252,6 +152582,28 @@
       "network": null,
       "owners": [
         "The Walt Disney Company Bulgaria"
+      ]
+    },
+    {
+      "id": "StarMoviesSelect.in",
+      "name": "Star Movies Select",
+      "logo": null,
+      "url": "http://66.102.126.10:8000/play/a020/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
       ]
     },
     {
@@ -155671,6 +154023,26 @@
       ]
     },
     {
+      "id": "StoryTelevision.us",
+      "name": "Story Television",
+      "logo": null,
+      "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Weigel Broadcasting"
+      ]
+    },
+    {
       "id": "Story4.hu",
       "name": "Story4",
       "logo": null,
@@ -155745,6 +154117,27 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "StreamForce360.co",
+      "name": "StreamForce 360",
+      "logo": null,
+      "url": "https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General",
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "StreamForce 360 Grados S.A.S."
+      ]
     },
     {
       "id": "StreekstadCentral.nl",
@@ -156693,6 +155086,34 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "SuperHungama.in",
+      "name": "Super Hungama",
+      "logo": null,
+      "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
+      ],
+      "altNames": [
+        "Marvel HQ",
+        " Disney XD",
+        " Toon Disney",
+        " Jetix"
+      ],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
     },
     {
       "id": "SuperJTVTeramo.it",
@@ -166826,7 +165247,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Community Television Inc."
+      ]
     },
     {
       "id": "ThePriceIsRight.us",
@@ -167753,7 +166176,7 @@
       "id": "TimesNowNavbharat.in",
       "name": "Times Now Navbharat",
       "logo": null,
-      "url": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8",
+      "url": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-717514/main.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -168647,7 +167070,7 @@
       "id": "TNT4.ru",
       "name": "TNT4",
       "logo": null,
-      "url": "http://31.148.48.15/TNT4/index.m3u8",
+      "url": "http://flussonic.linkintel.ru/tnt4/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -169049,7 +167472,7 @@
       "id": "Tonus.ru",
       "name": "Tonus",
       "logo": null,
-      "url": "http://31.148.48.15/Zdorovie/index.m3u8",
+      "url": "http://194.143.148.28:8080/Mir24/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -170420,7 +168843,7 @@
       "id": "TravelPlusAdventure.ru",
       "name": "Travel+Adventure",
       "logo": null,
-      "url": "http://31.148.48.15/Travel_Adventure_HD/index.m3u8",
+      "url": "http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -172261,6 +170684,29 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "TV21.ru",
+      "name": "TV 21",
+      "logo": null,
+      "url": "http://178.134.1.158:8081/TVXXI/index.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "ТВ 21",
+        "TV XXI"
+      ],
+      "network": null,
+      "owners": [
+        "Media Telecom"
+      ]
     },
     {
       "id": "TV21International.ru",
@@ -191045,122 +189491,6 @@
       "owners": []
     },
     {
-      "id": "WBALTV111.us",
-      "name": "WBAL-TV 11.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WBAL-TV 11",
-        "WBAL-DT"
-      ],
-      "network": "NBC",
-      "owners": [
-        "WBAL Hearst Television Inc."
-      ]
-    },
-    {
-      "id": "WBBJTV71.us",
-      "name": "WBBJ-TV 7.1",
-      "logo": null,
-      "url": "https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WBBJ ABC 7",
-        "WBBJ-DT"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Gray Television Licensee LLC"
-      ]
-    },
-    {
-      "id": "WBFF451.us",
-      "name": "WBFF 45.1",
-      "logo": null,
-      "url": "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 45",
-        "WBFF45"
-      ],
-      "network": "FOX",
-      "owners": [
-        "Chesapeake Television Licensee LLC"
-      ]
-    },
-    {
-      "id": "WBRZTV21.us",
-      "name": "WBRZ-TV 2.1",
-      "logo": null,
-      "url": "https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias",
-        "Clima"
-      ],
-      "altNames": [
-        "News 2 Louisiana",
-        "WBRZ-HD"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Louisiana Television Broadcasting LLC"
-      ]
-    },
-    {
-      "id": "WBTSCD151.us",
-      "name": "WBTS-CD 15.1",
-      "logo": null,
-      "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NBC Boston",
-        "WBTS-CD"
-      ],
-      "network": "NBC",
-      "owners": [
-        "NBC Telemundo License LLC"
-      ]
-    },
-    {
       "id": "WBTV641.us",
       "name": "WBTV 64.1",
       "logo": null,
@@ -191184,52 +189514,6 @@
       ]
     },
     {
-      "id": "WCAU621.us",
-      "name": "WCAU 62.1",
-      "logo": null,
-      "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Telemundo 62",
-        "WWSI-TV"
-      ],
-      "network": "Telemundo",
-      "owners": [
-        "NBC Telemundo License LLC"
-      ]
-    },
-    {
-      "id": "WCBITV41.us",
-      "name": "WCBI-TV 4.1",
-      "logo": null,
-      "url": "https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WCBI",
-        "CBS"
-      ],
-      "network": "CBS",
-      "owners": [
-        "WCBI-TV LLC"
-      ]
-    },
-    {
       "id": "WCETVDigitalChannel318.us",
       "name": "WCETV Digital Channel 31.8",
       "logo": null,
@@ -191250,51 +189534,6 @@
       ]
     },
     {
-      "id": "WCIUTV265.us",
-      "name": "WCIU-TV 26.5",
-      "logo": null,
-      "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "STORY"
-      ],
-      "network": "Story Television",
-      "owners": [
-        "WCIU-TV Limited Partnership"
-      ]
-    },
-    {
-      "id": "WCIV361.us",
-      "name": "WCIV 36.1",
-      "logo": null,
-      "url": "https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "MyTV Charleston",
-        "MyTV"
-      ],
-      "network": "MyN",
-      "owners": [
-        "WMMP Licensee L.P."
-      ]
-    },
-    {
       "id": "WCOT.us",
       "name": "WCOT",
       "logo": null,
@@ -191311,74 +189550,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "WCVBTV501.us",
-      "name": "WCVB-TV 50.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WWJE-DT"
-      ],
-      "network": "True Crime Network",
-      "owners": [
-        "Hearst Stations Inc."
-      ]
-    },
-    {
-      "id": "WDEFTV121.us",
-      "name": "WDEF-TV 12.1",
-      "logo": null,
-      "url": "https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WDEF News 12",
-        "WDEF"
-      ],
-      "network": "CBS",
-      "owners": [
-        "WDEF-TV Inc."
-      ]
-    },
-    {
-      "id": "WDIODT101.us",
-      "name": "WDIO-DT 10.1",
-      "logo": null,
-      "url": "https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WDIO",
-        "WDIOabc"
-      ],
-      "network": "ABC",
-      "owners": [
-        "WDIO-TV LLC"
-      ]
     },
     {
       "id": "WDR1Live.de",
@@ -191703,28 +189874,6 @@
       "owners": []
     },
     {
-      "id": "WEDQ34.us",
-      "name": "WEDQ 3.4",
-      "logo": null,
-      "url": "https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WEDQ"
-      ],
-      "network": "PBS Encore",
-      "owners": [
-        "Florida West Coast Public Broadcasting Inc."
-      ]
-    },
-    {
       "id": "WeedsNurseJackie.us",
       "name": "Weeds & Nurse Jackie",
       "logo": null,
@@ -191923,233 +190072,6 @@
       "owners": []
     },
     {
-      "id": "WFLD501.us",
-      "name": "WFLD 50.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "My 50",
-        "WPWR-DT"
-      ],
-      "network": "MyN",
-      "owners": [
-        "FOX Television Stations LLC"
-      ]
-    },
-    {
-      "id": "WFTTTV621.us",
-      "name": "WFTT-TV 62.1",
-      "logo": null,
-      "url": "https://stream-tampa.scientology.org/master.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "SCNTV"
-      ],
-      "network": "Scientology Network",
-      "owners": [
-        "Entravision Holdings LLC"
-      ]
-    },
-    {
-      "id": "WFTV91.us",
-      "name": "WFTV 9.1",
-      "logo": null,
-      "url": "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Channel 9",
-        "WFTV"
-      ],
-      "network": "ABC",
-      "owners": [
-        "WFTV LLC"
-      ]
-    },
-    {
-      "id": "WFTXTV361.us",
-      "name": "WFTX-TV 36.1",
-      "logo": null,
-      "url": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 4",
-        "WFTX-DT"
-      ],
-      "network": "FOX",
-      "owners": [
-        "Sun Broadcasting Inc."
-      ]
-    },
-    {
-      "id": "WFUTDT681.us",
-      "name": "WFUT-DT 68.1",
-      "logo": null,
-      "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WFUT-DT"
-      ],
-      "network": "UniMás",
-      "owners": [
-        "Univision New York LLC"
-      ]
-    },
-    {
-      "id": "WFXT251.us",
-      "name": "WFXT 25.1",
-      "logo": null,
-      "url": "https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 25",
-        "WFXT"
-      ],
-      "network": "FOX",
-      "owners": [
-        "WFXT (boston) LLC"
-      ]
-    },
-    {
-      "id": "WFXT662.us",
-      "name": "WFXT 66.2",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "MSGold"
-      ],
-      "network": "MovieSphere Gold",
-      "owners": [
-        "WFXT (boston) LLC"
-      ]
-    },
-    {
-      "id": "WGAL81.us",
-      "name": "WGAL 8.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "WGAL 8",
-        "WGAL-TV"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Hearst Properties Inc."
-      ]
-    },
-    {
-      "id": "WGBATV261.us",
-      "name": "WGBA-TV 26.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NBC 26",
-        "WGBA-HD"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
-      "id": "WGBODT661.us",
-      "name": "WGBO-DT 66.1",
-      "logo": null,
-      "url": "https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Univision Chicago",
-        "WGBO-DT"
-      ],
-      "network": "Univision",
-      "owners": [
-        "WGBO License Partnership G.P."
-      ]
-    },
-    {
       "id": "WGGSTV161.us",
       "name": "WGGS-TV 16.1",
       "logo": null,
@@ -192173,51 +190095,6 @@
       ]
     },
     {
-      "id": "WGGSTV162.us",
-      "name": "WGGS-TV 16.2",
-      "logo": null,
-      "url": "https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Walk"
-      ],
-      "network": "Outlaw",
-      "owners": [
-        "Carolina Christian Broadcasting Inc."
-      ]
-    },
-    {
-      "id": "WGTV83.us",
-      "name": "WGTV 8.3",
-      "logo": null,
-      "url": "https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "GPB Knowledge",
-        "KNOWLED"
-      ],
-      "network": "World Channel",
-      "owners": [
-        "Georgia Public Telecommunications Commission"
-      ]
-    },
-    {
       "id": "WhakaataMaori.nz",
       "name": "Whakaata Maori",
       "logo": null,
@@ -192238,75 +190115,6 @@
       "network": null,
       "owners": [
         "New Zealand Government"
-      ]
-    },
-    {
-      "id": "WHBQTV131.us",
-      "name": "WHBQ-TV 13.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 13",
-        "WHBQ-DT"
-      ],
-      "network": "FOX",
-      "owners": [
-        "Rincon Broadcasting Memphis LLC"
-      ]
-    },
-    {
-      "id": "WHECTV101.us",
-      "name": "WHEC-TV 10.1",
-      "logo": null,
-      "url": "https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "10 NBC",
-        "NBC HD"
-      ],
-      "network": "NBC",
-      "owners": [
-        "WHEC-TV LLC"
-      ]
-    },
-    {
-      "id": "WHIOTV71.us",
-      "name": "WHIO-TV 7.1",
-      "logo": null,
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WHIO-TV 7",
-        "WHIO-HD"
-      ],
-      "network": "CBS",
-      "owners": [
-        "Miami Valley Broadcasting Corporation"
       ]
     },
     {
@@ -192437,29 +190245,6 @@
       "network": null,
       "owners": [
         "The GodHouse Center"
-      ]
-    },
-    {
-      "id": "WHPSCD152.us",
-      "name": "WHPS-CD 15.2",
-      "logo": null,
-      "url": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WHPS Detroit Live",
-        "HlyFld"
-      ],
-      "network": "iHolyfield TV",
-      "owners": [
-        "Hme Equity Fund II LLC"
       ]
     },
     {
@@ -192844,52 +190629,6 @@
       "owners": []
     },
     {
-      "id": "WISNTV121.us",
-      "name": "WISN-TV 12.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WISN 12",
-        "WISN TV"
-      ],
-      "network": "ABC",
-      "owners": [
-        "WISN Hearst Television Inc."
-      ]
-    },
-    {
-      "id": "WITI61.us",
-      "name": "WITI 6.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 6 Milwaukee",
-        "WITI-DT"
-      ],
-      "network": "FOX",
-      "owners": [
-        "FOX Television Stations LLC"
-      ]
-    },
-    {
       "id": "WITN22.us",
       "name": "WITN22",
       "logo": null,
@@ -192906,166 +190645,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "WJACTV61.us",
-      "name": "WJAC-TV 6.1",
-      "logo": null,
-      "url": "https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WJAC 6",
-        "NBC"
-      ],
-      "network": "NBC",
-      "owners": [
-        "WJAC Licensee LLC"
-      ]
-    },
-    {
-      "id": "WJAR101.us",
-      "name": "WJAR 10.1",
-      "logo": null,
-      "url": "https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NBC 10",
-        "NBC"
-      ],
-      "network": "NBC",
-      "owners": [
-        "WJAR Licensee LLC"
-      ]
-    },
-    {
-      "id": "WJAXTV471.us",
-      "name": "WJAX-TV 47.1",
-      "logo": null,
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "CBS 47",
-        "WJAXHD"
-      ],
-      "network": "CBS",
-      "owners": [
-        "Hoffman Communications Inc."
-      ]
-    },
-    {
-      "id": "WJBK21.us",
-      "name": "WJBK 2.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Fox 2 Detroit",
-        "WJBK"
-      ],
-      "network": "FOX",
-      "owners": [
-        "New World Communications of Detroit Inc."
-      ]
-    },
-    {
-      "id": "WJLATV71.us",
-      "name": "WJLA-TV 7.1",
-      "logo": null,
-      "url": "https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ABC 7",
-        "WJLA"
-      ],
-      "network": "ABC",
-      "owners": [
-        "ACC Licensee LLC"
-      ]
-    },
-    {
-      "id": "WJXT71.us",
-      "name": "WJXT 7.1",
-      "logo": null,
-      "url": "https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WJCT"
-      ],
-      "network": "PBS",
-      "owners": [
-        "Graham Media Group Florida Inc."
-      ]
-    },
-    {
-      "id": "WKAQTV21.pr",
-      "name": "WKAQ-TV 2.1",
-      "logo": null,
-      "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
-      "country": "Puerto Rico",
-      "countryCode": "PR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Telemundo PR",
-        "WKAQ-DT"
-      ],
-      "network": "Telemundo",
-      "owners": [
-        "Telemundo of Puerto Rico LLC"
-      ]
     },
     {
       "id": "WKAQTV22.pr",
@@ -193088,141 +190667,6 @@
       "network": "Spanish Independent",
       "owners": [
         "Telemundo of Puerto Rico LLC"
-      ]
-    },
-    {
-      "id": "WKEF451.us",
-      "name": "WKEF 45.1",
-      "logo": null,
-      "url": "https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ROAR"
-      ],
-      "network": "ROAR",
-      "owners": [
-        "WKEF Licensee L.P."
-      ]
-    },
-    {
-      "id": "WKMJTV681.us",
-      "name": "WKMJ-TV 68.1",
-      "logo": null,
-      "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [
-        "KET2"
-      ],
-      "network": "PBS Encore",
-      "owners": [
-        "Kentucky Authority for Educational TV"
-      ]
-    },
-    {
-      "id": "WKMJTV683.us",
-      "name": "WKMJ-TV 68.3",
-      "logo": null,
-      "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KET KY",
-        "KETKY"
-      ],
-      "network": "Kentucky Channel",
-      "owners": [
-        "Kentucky Authority for Educational TV"
-      ]
-    },
-    {
-      "id": "WKPCTV153.us",
-      "name": "WKPC-TV 15.3",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "KET KY"
-      ],
-      "network": "Kentucky Channel",
-      "owners": [
-        "Kentucky Authority for Educational TV"
-      ]
-    },
-    {
-      "id": "WKRCTV121.us",
-      "name": "WKRC-TV 12.1",
-      "logo": null,
-      "url": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Local 12",
-        "CBS"
-      ],
-      "network": "CBS",
-      "owners": [
-        "WKRC Licensee LLC"
-      ]
-    },
-    {
-      "id": "WLIO81.us",
-      "name": "WLIO 8.1",
-      "logo": null,
-      "url": "https://live.field59.com/wlio/wlio1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NBC Lima",
-        "WLIONBC"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Lima Communications Corporation"
       ]
     },
     {
@@ -193260,351 +190704,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "WLOS131.us",
-      "name": "WLOS 13.1",
-      "logo": null,
-      "url": "https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ABC 13",
-        "ABC"
-      ],
-      "network": "ABC",
-      "owners": [
-        "WLOS Licensee LLC"
-      ]
-    },
-    {
-      "id": "WLTVDT231.us",
-      "name": "WLTV-DT 23.1",
-      "logo": null,
-      "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Univision 23",
-        "WLTV-DT"
-      ],
-      "network": "Univision",
-      "owners": [
-        "WLTV License Partnership G.P."
-      ]
-    },
-    {
-      "id": "WLUKTV141.us",
-      "name": "WLUK-TV 14.1",
-      "logo": null,
-      "url": "https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "CW 14",
-        "WCWF-CW"
-      ],
-      "network": "CW",
-      "owners": [
-        "WLUK Licensee LLC"
-      ]
-    },
-    {
-      "id": "WMAQTV51.us",
-      "name": "WMAQ-TV 5.1",
-      "logo": null,
-      "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NBC 5 Chicago",
-        "NBC5"
-      ],
-      "network": "NBC",
-      "owners": [
-        "NBC Telemundo License LLC"
-      ]
-    },
-    {
-      "id": "WMARTV21.us",
-      "name": "WMAR-TV 2.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "ABC 2",
-        "WMAR-HD"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
-      "id": "WMBCTV631.us",
-      "name": "WMBC-TV 63.1",
-      "logo": null,
-      "url": "http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WMBC-TV",
-        "ESTRETV"
-      ],
-      "network": "Estrella TV",
-      "owners": [
-        "Mountain Broadcasting Corporation"
-      ]
-    },
-    {
-      "id": "WMGTTV411.us",
-      "name": "WMGT-TV 41.1",
-      "logo": null,
-      "url": "https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "41 NBC",
-        "NBC"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Morris Network Inc."
-      ]
-    },
-    {
-      "id": "WMPT222.us",
-      "name": "WMPT 22.2",
-      "logo": null,
-      "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "MPT 2",
-        "MPT-2"
-      ],
-      "network": "Create",
-      "owners": [
-        "Maryland Public Broadcasting Commission"
-      ]
-    },
-    {
-      "id": "WMPT541.us",
-      "name": "WMPT 54.1",
-      "logo": null,
-      "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "CW Baltimore",
-        "CWWNUV"
-      ],
-      "network": "CW",
-      "owners": [
-        "Maryland Public Broadcasting Commission"
-      ]
-    },
-    {
-      "id": "WMURTV91.us",
-      "name": "WMUR-TV 9.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias",
-        "Clima"
-      ],
-      "altNames": [
-        "WMUR 9",
-        "WMUR"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Hearst Properties Inc."
-      ]
-    },
-    {
-      "id": "WNBC471.us",
-      "name": "WNBC 47.1",
-      "logo": null,
-      "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Telemundo 47",
-        "WNJU-HD"
-      ],
-      "network": "Telemundo",
-      "owners": [
-        "NBC Telemundo License LLC"
-      ]
-    },
-    {
-      "id": "WNJT521.us",
-      "name": "WNJT 52.1",
-      "logo": null,
-      "url": "https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WNJT"
-      ],
-      "network": "PBS",
-      "owners": [
-        "New Jersey Public Broadcasting Authority"
-      ]
-    },
-    {
-      "id": "WNYT131.us",
-      "name": "WNYT 13.1",
-      "logo": null,
-      "url": "https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NewsChannel 13",
-        "WNYT-HD"
-      ],
-      "network": "NBC",
-      "owners": [
-        "WNYT-TV LLC"
-      ]
-    },
-    {
-      "id": "WNYW51.us",
-      "name": "WNYW 5.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 5 New York",
-        "WNYW"
-      ],
-      "network": "FOX",
-      "owners": [
-        "FOX Television Stations LLC"
-      ]
-    },
-    {
-      "id": "WOAITV41.us",
-      "name": "WOAI-TV 4.1",
-      "logo": null,
-      "url": "https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "4 WOAI",
-        "WOAI"
-      ],
-      "network": "NBC",
-      "owners": [
-        "WOAI Licensee LLC"
-      ]
     },
     {
       "id": "WomensSportsNetwork.us",
@@ -193893,70 +190992,6 @@
       "owners": []
     },
     {
-      "id": "WPDETV151.us",
-      "name": "WPDE-TV 15.1",
-      "logo": null,
-      "url": "https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NewsChannel 15",
-        "ABC"
-      ],
-      "network": "ABC",
-      "owners": [
-        "WPDE Licensee LLC"
-      ]
-    },
-    {
-      "id": "WPEC121.us",
-      "name": "WPEC 12.1",
-      "logo": null,
-      "url": "https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "CBS 12",
-        "CBS"
-      ],
-      "network": "CBS",
-      "owners": [
-        "WPEC Licensee LLC"
-      ]
-    },
-    {
-      "id": "WPIXHD.us",
-      "name": "WPIX-HD",
-      "logo": null,
-      "url": "https://tvsen6.aynaott.com/pix11/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "The CW",
-      "owners": []
-    },
-    {
       "id": "WPLG101.us",
       "name": "WPLG 10.1",
       "logo": null,
@@ -193999,140 +191034,6 @@
       "owners": []
     },
     {
-      "id": "WPTVTV51.us",
-      "name": "WPTV-TV 5.1",
-      "logo": null,
-      "url": "https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NewsChannel 5",
-        "WPTV-TV"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
-      "id": "WPXI111.us",
-      "name": "WPXI 11.1",
-      "logo": null,
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Channel 11",
-        "WPXI-HD"
-      ],
-      "network": "NBC",
-      "owners": [
-        "WPXI LLC"
-      ]
-    },
-    {
-      "id": "WRDELD311.us",
-      "name": "WRDE-LD 31.1",
-      "logo": null,
-      "url": "https://live.field59.com/wrde/wrde1/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WRDE"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Wboc Inc."
-      ]
-    },
-    {
-      "id": "WSBSTV221.us",
-      "name": "WSBS-TV 22.1",
-      "logo": null,
-      "url": "https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WSBS"
-      ],
-      "network": "MEGA TV",
-      "owners": [
-        "WSBS Licensing Inc."
-      ]
-    },
-    {
-      "id": "WSBTTV281.us",
-      "name": "WSBT-TV 28.1",
-      "logo": null,
-      "url": "https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ROAR"
-      ],
-      "network": "ROAR",
-      "owners": [
-        "WSBT Licensee LLC"
-      ]
-    },
-    {
-      "id": "WSLFLD351.us",
-      "name": "WSLF-LD 35.1",
-      "logo": null,
-      "url": "https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WSLF-LD"
-      ],
-      "network": "Daystar",
-      "owners": [
-        "Word of God Fellowship Inc."
-      ]
-    },
-    {
       "id": "WSOCNow.us",
       "name": "WSOC Now",
       "logo": null,
@@ -194149,169 +191050,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "WSOCTV91.us",
-      "name": "WSOC-TV 9.1",
-      "logo": null,
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Channel 9",
-        "WSOC-TV"
-      ],
-      "network": "ABC",
-      "owners": [
-        "WSOC Television LLC"
-      ]
-    },
-    {
-      "id": "WSYX61.us",
-      "name": "WSYX 6.1",
-      "logo": null,
-      "url": "https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ABC 6",
-        "WSYXABC"
-      ],
-      "network": "ABC",
-      "owners": [
-        "WSYX Licensee Inc."
-      ]
-    },
-    {
-      "id": "WTMJTV41.us",
-      "name": "WTMJ-TV 4.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TMJ4",
-        "WTMJ"
-      ],
-      "network": "NBC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
-      "id": "WTMOCD311.us",
-      "name": "WTMO-CD 31.1",
-      "logo": null,
-      "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Telemundo 31",
-        "channel 31",
-        "Telemundo Orlando",
-        "WTMO-CD"
-      ],
-      "network": "Telemundo",
-      "owners": [
-        "NBC Telemundo License LLC"
-      ]
-    },
-    {
-      "id": "WTNH81.us",
-      "name": "WTNH 8.1",
-      "logo": null,
-      "url": "https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw==",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NewsChannel 8",
-        "WTNH-DT"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Nexstar Media Inc."
-      ]
-    },
-    {
-      "id": "WTOVTV91.us",
-      "name": "WTOV-TV 9.1",
-      "logo": null,
-      "url": "https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WTOV 9",
-        "NBC"
-      ],
-      "network": "NBC",
-      "owners": [
-        "WTOV Licensee LLC"
-      ]
-    },
-    {
-      "id": "WTTG51.us",
-      "name": "WTTG 5.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 5",
-        "WTTG-DT"
-      ],
-      "network": "FOX",
-      "owners": [
-        "FOX Television Stations LLC"
-      ]
     },
     {
       "id": "Wtv.pe",
@@ -194367,144 +191105,6 @@
       "network": null,
       "owners": [
         "WMEDIOS"
-      ]
-    },
-    {
-      "id": "WTVJ61.us",
-      "name": "WTVJ 6.1",
-      "logo": null,
-      "url": "https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NBC 6",
-        "WTVJ-DT"
-      ],
-      "network": "NBC",
-      "owners": [
-        "NBC Telemundo License LLC"
-      ]
-    },
-    {
-      "id": "WTVQDT361.us",
-      "name": "WTVQ-DT 36.1",
-      "logo": null,
-      "url": "https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WTVQ-36",
-        "WTVQ-TV"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
-      "id": "WTVRTV61.us",
-      "name": "WTVR-TV 6.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "CBS 6",
-        "WTVR-HD"
-      ],
-      "network": "CBS",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
-      ]
-    },
-    {
-      "id": "WTVT131.us",
-      "name": "WTVT 13.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 13",
-        "WTVT-DT"
-      ],
-      "network": "FOX",
-      "owners": [
-        "New World Communications of Tampa Inc."
-      ]
-    },
-    {
-      "id": "WTXFTV291.us",
-      "name": "WTXF-TV 29.1",
-      "logo": null,
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 29",
-        "WTXFDT"
-      ],
-      "network": "FOX",
-      "owners": [
-        "FOX Television Stations LLC"
-      ]
-    },
-    {
-      "id": "WTXLTV271.us",
-      "name": "WTXL-TV 27.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "ABC 27",
-        "WTXL-HD"
-      ],
-      "network": "ABC",
-      "owners": [
-        "Scripps Broadcasting Holdings LLC"
       ]
     },
     {
@@ -194564,29 +191164,6 @@
       "owners": []
     },
     {
-      "id": "WVIT301.us",
-      "name": "WVIT 30.1",
-      "logo": null,
-      "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "NBC 30",
-        "WVIT-HD"
-      ],
-      "network": "NBC",
-      "owners": [
-        "NBC Telemundo License LLC"
-      ]
-    },
-    {
       "id": "WVVHCD181.us",
       "name": "WVVH-CD 18.1",
       "logo": null,
@@ -194609,52 +191186,6 @@
       ]
     },
     {
-      "id": "WWAY31.us",
-      "name": "WWAY 3.1",
-      "logo": null,
-      "url": "https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "NewsChannel 3",
-        "WWAYABC"
-      ],
-      "network": "ABC",
-      "owners": [
-        "WWAY-TV LLC"
-      ]
-    },
-    {
-      "id": "WWMT31.us",
-      "name": "WWMT 3.1",
-      "logo": null,
-      "url": "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "CBS 3",
-        "CBS"
-      ],
-      "network": "CBS",
-      "owners": [
-        "WWMT Licensee LLC"
-      ]
-    },
-    {
       "id": "WWONTVChannel48.us",
       "name": "WWON-TV Channel 48",
       "logo": null,
@@ -194673,52 +191204,6 @@
       "owners": []
     },
     {
-      "id": "WWORTV91.us",
-      "name": "WWOR-TV 9.1",
-      "logo": null,
-      "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "My 9",
-        "WWOR-TV"
-      ],
-      "network": "MyN",
-      "owners": [
-        "FOX Television Stations LLC"
-      ]
-    },
-    {
-      "id": "WXIITV201.us",
-      "name": "WXII-TV 20.1",
-      "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Triad CW",
-        "WCWG CW"
-      ],
-      "network": "CW",
-      "owners": [
-        "Hearst Properties Inc."
-      ]
-    },
-    {
       "id": "WXTV.tw",
       "name": "WXTV",
       "logo": null,
@@ -194735,28 +191220,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "WXTVDT681.us",
-      "name": "WXTV-DT 68.1",
-      "logo": null,
-      "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "WFUT-DT"
-      ],
-      "network": "UniMás",
-      "owners": [
-        "WXTV License Partnership G.P."
-      ]
     },
     {
       "id": "WXWZLD231.pr",
@@ -194780,29 +191243,6 @@
       "network": "Spanish Independent",
       "owners": [
         "Jb Media Group"
-      ]
-    },
-    {
-      "id": "WXXVTV251.us",
-      "name": "WXXV-TV 25.1",
-      "logo": null,
-      "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fox 25",
-        "WXXVFOX"
-      ],
-      "network": "FOX",
-      "owners": [
-        "Morris Network of Mississippi Inc."
       ]
     },
     {
@@ -194881,26 +191321,6 @@
         "Canal 50.1"
       ],
       "network": null,
-      "owners": []
-    },
-    {
-      "id": "XEWHTDT.mx",
-      "name": "XEWH-TDT",
-      "logo": null,
-      "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
-      "country": "Mexico",
-      "countryCode": "MX",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Telemax"
-      ],
-      "network": "Telemax",
       "owners": []
     },
     {
@@ -195021,42 +191441,6 @@
       "owners": [
         "Grupo Intermedia"
       ]
-    },
-    {
-      "id": "XHPBZCTDT1.mx",
-      "name": "XHPBZC-TDT1",
-      "logo": null,
-      "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
-      "country": "Mexico",
-      "countryCode": "MX",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Sistema Estatal de Telecomunicaciones",
-      "owners": []
-    },
-    {
-      "id": "XHPBZCTDT2.mx",
-      "name": "XHPBZC-TDT2",
-      "logo": null,
-      "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
-      "country": "Mexico",
-      "countryCode": "MX",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": "Sistema Estatal de Telecomunicaciones",
-      "owners": []
     },
     {
       "id": "XHTTGTDT.mx",
@@ -197767,6 +194151,26 @@
       ]
     },
     {
+      "id": "ZeeTV.in",
+      "name": "Zee TV",
+      "logo": null,
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
       "id": "ZeeTVAsiaPacific.sg",
       "name": "Zee TV Asia Pacific",
       "logo": null,
@@ -200178,12 +196582,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 414
+      "count": 416
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 584
+      "count": 587
     },
     {
       "id": "series",
@@ -200193,46 +196597,46 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 390
+      "count": 400
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1805
+      "count": 1807
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6465
+      "count": 6288
     }
   ],
   "stats": {
-    "total": 40968,
-    "withStreams": 10087,
-    "spanish": 1918,
+    "total": 31197,
+    "withStreams": 9927,
+    "spanish": 1920,
     "adult": 78,
     "bySection": {
-      "peliculas": 584,
-      "general": 6465,
-      "español": 1805,
-      "infantil": 390,
+      "peliculas": 587,
+      "general": 6288,
+      "español": 1807,
+      "infantil": 400,
       "series": 351,
-      "deportes": 414
+      "deportes": 416
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1709,
+        "count": 1556,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 681,
+        "count": 698,
         "name": "India"
       },
       {
         "code": "RU",
-        "count": 418,
+        "count": 423,
         "name": "Russia"
       },
       {
@@ -200272,6 +196676,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-02T01:29:06.720Z",
+  "lastUpdated": "2026-09-03T01:32:39.477Z",
   "source": "orion-stream"
 }
