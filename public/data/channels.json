@@ -5461,7 +5461,7 @@
       "id": "AceTV.us",
       "name": "Ace TV",
       "logo": null,
-      "url": "https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8",
+      "url": "https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -17255,7 +17255,7 @@
       "id": "AWEPlus.us",
       "name": "AWE Plus",
       "logo": null,
-      "url": "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
+      "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -17570,7 +17570,7 @@
       "id": "AXNSpin.hu",
       "name": "AXN Spin",
       "logo": null,
-      "url": "https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8",
+      "url": "https://polska.hach.workers.dev/14847.m3u8",
       "country": "Hungary",
       "countryCode": "HU",
       "language_primary": null,
@@ -21208,26 +21208,6 @@
       ]
     },
     {
-      "id": "BelRos.ru",
-      "name": "BelRos",
-      "logo": null,
-      "url": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "БелРос"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "BelsatTV.pl",
       "name": "Belsat TV",
       "logo": null,
@@ -22222,7 +22202,7 @@
         "Noticias"
       ],
       "altNames": [],
-      "network": "BFM R��gions",
+      "network": "BFM Régions",
       "owners": [
         "Altice Média"
       ]
@@ -30937,6 +30917,26 @@
       "owners": []
     },
     {
+      "id": "CanalN.pe",
+      "name": "Canal N",
+      "logo": null,
+      "url": "http://190.108.91.206:9050/play/a0bd/index.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "America Multimedia"
+      ]
+    },
+    {
       "id": "CanalNets.co",
       "name": "Canal Nets",
       "logo": null,
@@ -33136,6 +33136,29 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "CBCTelevision.ca",
+      "name": "CBC Television",
+      "logo": null,
+      "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8",
+      "country": "Canada",
+      "countryCode": "CA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "CBC TV",
+        "CBC"
+      ],
+      "network": null,
+      "owners": [
+        "Canadian Broadcasting Corporation"
+      ]
     },
     {
       "id": "CBCTV8.bb",
@@ -35711,28 +35734,6 @@
       ]
     },
     {
-      "id": "Channel7.au",
-      "name": "Channel 7",
-      "logo": null,
-      "url": "https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8",
-      "country": "Australia",
-      "countryCode": "AU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Seven"
-      ],
-      "network": null,
-      "owners": [
-        "Seven West Media"
-      ]
-    },
-    {
       "id": "Channel7.bz",
       "name": "Channel 7",
       "logo": null,
@@ -35853,7 +35854,7 @@
       ],
       "altNames": [
         "8 канал",
-        "Восьм��й канал"
+        "Восьмой канал"
       ],
       "network": null,
       "owners": [
@@ -41014,28 +41015,6 @@
       ]
     },
     {
-      "id": "ColorVision.do",
-      "name": "Color Vision",
-      "logo": null,
-      "url": "https://cdn3.wind.do/streams/colorvision/colorvision_master.m3u8",
-      "country": "Dominican Republic",
-      "countryCode": "DO",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Color Visión"
-      ],
-      "network": null,
-      "owners": [
-        "Bermúdez family"
-      ]
-    },
-    {
       "id": "Colors.in",
       "name": "Colors",
       "logo": null,
@@ -43830,6 +43809,26 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "CTV.ca",
+      "name": "CTV",
+      "logo": null,
+      "url": "http://stream.cammonitorplus.net/1712/index.m3u8",
+      "country": "Canada",
+      "countryCode": "CA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Bell Media"
+      ]
     },
     {
       "id": "CTV.us",
@@ -49283,7 +49282,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
+        "สถานีวิท��ุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -60115,7 +60114,7 @@
       "id": "FNX.us",
       "name": "FNX",
       "logo": null,
-      "url": "https://fnx.lls.pbs.org/index.m3u8",
+      "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -62738,6 +62737,26 @@
       ]
     },
     {
+      "id": "GEBNetwork.us",
+      "name": "GEB Network",
+      "logo": null,
+      "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Oral Roberts University"
+      ]
+    },
+    {
       "id": "Geekdot.br",
       "name": "Geekdot",
       "logo": null,
@@ -64570,6 +64589,28 @@
       ]
     },
     {
+      "id": "GodsLearningChannel.us",
+      "name": "God's Learning Channel",
+      "logo": null,
+      "url": "https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [
+        "GLC"
+      ],
+      "network": null,
+      "owners": [
+        "Prime Time Christian Broadcasting Inc."
+      ]
+    },
+    {
       "id": "GoienaEus.es",
       "name": "Goiena Eus",
       "logo": null,
@@ -64773,7 +64814,7 @@
       "id": "GoldminesMovies.in",
       "name": "Goldmines Movies",
       "logo": null,
-      "url": "http://103.213.31.109:90/GoldminesMovies/playlist.m3u8",
+      "url": "http://103.175.73.12:8080/live/51/51_0.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -66328,24 +66369,6 @@
       "name": "Gujarat First",
       "logo": null,
       "url": "https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "GulistanNews.in",
-      "name": "Gulistan News",
-      "logo": null,
-      "url": "https://live.gulistannews.in/hls/gul.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -71752,6 +71775,28 @@
       "owners": []
     },
     {
+      "id": "IciRadioCanadaTele.ca",
+      "name": "Ici Radio-Canada Tele",
+      "logo": null,
+      "url": "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8",
+      "country": "Canada",
+      "countryCode": "CA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Ici Radio-Canada Télé"
+      ],
+      "network": null,
+      "owners": [
+        "Canadian Broadcasting Corporation"
+      ]
+    },
+    {
       "id": "IciRDI.ca",
       "name": "Ici RDI",
       "logo": null,
@@ -72217,6 +72262,24 @@
       "owners": [
         "Ignite News Inc."
       ]
+    },
+    {
+      "id": "iHolyfieldTV.us",
+      "name": "iHolyfield TV",
+      "logo": null,
+      "url": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "IIPCTV.ca",
@@ -79239,26 +79302,6 @@
       ]
     },
     {
-      "id": "KapatidTV5.ph",
-      "name": "Kapatid TV 5",
-      "logo": null,
-      "url": "https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8",
-      "country": "Philippines",
-      "countryCode": "PH",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TV5"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "KapazTV.az",
       "name": "Kapaz TV",
       "logo": null,
@@ -79962,6 +80005,28 @@
       "network": null,
       "owners": [
         "Multimedia Kentron PBY"
+      ]
+    },
+    {
+      "id": "KentuckyEducationalTelevision.us",
+      "name": "Kentucky Educational Television",
+      "logo": null,
+      "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "KET"
+      ],
+      "network": null,
+      "owners": [
+        "Kentucky Authority for Educational Television"
       ]
     },
     {
@@ -82527,6 +82592,26 @@
       "owners": [
         "Karavan",
         "Red Media"
+      ]
+    },
+    {
+      "id": "KTOO360TV.us",
+      "name": "KTOO 360TV",
+      "logo": null,
+      "url": "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Capital Community Broadcasting Inc."
       ]
     },
     {
@@ -90389,6 +90474,26 @@
       ]
     },
     {
+      "id": "Mango.in",
+      "name": "Mango",
+      "logo": null,
+      "url": "https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Mango Mass Media"
+      ]
+    },
+    {
       "id": "Mango.pl",
       "name": "Mango",
       "logo": null,
@@ -93337,6 +93442,26 @@
       "owners": []
     },
     {
+      "id": "MegaTV.us",
+      "name": "Mega TV",
+      "logo": null,
+      "url": "https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Spanihs Broadcasting System"
+      ]
+    },
+    {
       "id": "MegaTVJaen.pe",
       "name": "Mega TV Jaen",
       "logo": null,
@@ -94093,6 +94218,27 @@
       "section": "general",
       "categories": [
         "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Weigel Broadcasting"
+      ]
+    },
+    {
+      "id": "MeTVToons.us",
+      "name": "MeTV Toons",
+      "logo": null,
+      "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
       ],
       "altNames": [],
       "network": null,
@@ -95819,6 +95965,26 @@
       ]
     },
     {
+      "id": "MNT.us",
+      "name": "MNT",
+      "logo": null,
+      "url": "https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Fox Corporation"
+      ]
+    },
+    {
       "id": "MNTV.mz",
       "name": "MNTV",
       "logo": null,
@@ -97199,6 +97365,26 @@
       "altNames": [
         "MovieSphere by Lionsgate"
       ],
+      "network": null,
+      "owners": [
+        "Lionsgate Studios Corp."
+      ]
+    },
+    {
+      "id": "MovieSphereGold.us",
+      "name": "MovieSphere Gold",
+      "logo": null,
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "Lionsgate Studios Corp."
@@ -103249,7 +103435,7 @@
       "id": "NENews.in",
       "name": "NE News",
       "logo": null,
-      "url": "https://mumt05.tangotv.in/87NeALx2NENEWS/preview.mp4",
+      "url": "https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -104717,7 +104903,7 @@
       "id": "Newsmax2.us",
       "name": "Newsmax 2",
       "logo": null,
-      "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+      "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -108557,6 +108743,28 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "NTV.ca",
+      "name": "NTV",
+      "logo": null,
+      "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8",
+      "country": "Canada",
+      "countryCode": "CA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "CJON-DT"
+      ],
+      "network": null,
+      "owners": [
+        "Stirling Communications International"
+      ]
     },
     {
       "id": "NTV.ci",
@@ -113179,6 +113387,26 @@
       "network": null,
       "owners": [
         "Lionsgate Studios Corp."
+      ]
+    },
+    {
+      "id": "Outlaw.us",
+      "name": "Outlaw",
+      "logo": null,
+      "url": "https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Free TV Networks"
       ]
     },
     {
@@ -134255,7 +134483,7 @@
       "id": "RedADvenirTV.bo",
       "name": "RedADvenir TV",
       "logo": null,
-      "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
+      "url": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8",
       "country": "Bolivia",
       "countryCode": "BO",
       "language_primary": "Español",
@@ -136628,7 +136856,7 @@
       "id": "Roar.us",
       "name": "Roar",
       "logo": null,
-      "url": "https://fast-channels.sinclairstoryline.com/TBD/index.m3u8",
+      "url": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -143313,6 +143541,26 @@
       ]
     },
     {
+      "id": "Savoirmedia.ca",
+      "name": "Savoir media",
+      "logo": null,
+      "url": "https://hls.savoir.media/live/stream.m3u8",
+      "country": "Canada",
+      "countryCode": "CA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Savoir média"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SayareTV.ke",
       "name": "Sayare TV",
       "logo": null,
@@ -146771,6 +147019,29 @@
       "owners": []
     },
     {
+      "id": "SICOMTelevision.mx",
+      "name": "SICOM Television",
+      "logo": null,
+      "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "SICOM Televisión",
+        "Sistema Estatal de Telecomunicaciones"
+      ],
+      "network": null,
+      "owners": [
+        "Gobierno del Estado de Puebla"
+      ]
+    },
+    {
       "id": "SiembraTV.do",
       "name": "Siembra TV",
       "logo": null,
@@ -148250,7 +148521,7 @@
       ],
       "altNames": [
         "Смайл ТВ",
-        "Смайлик ТВ"
+        "Смай��ик ТВ"
       ],
       "network": null,
       "owners": []
@@ -150880,7 +151151,7 @@
       "id": "Soyuzny.ru",
       "name": "Soyuzny",
       "logo": null,
-      "url": "http://178.124.179.122:8080/TRO/index.m3u8",
+      "url": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -156658,6 +156929,26 @@
       "owners": []
     },
     {
+      "id": "Swarnavahini.lk",
+      "name": "Swarnavahini",
+      "logo": null,
+      "url": "https://teledrama.ebc.lk/TTT/proxy.php",
+      "country": "Sri Lanka",
+      "countryCode": "LK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "EAP Network",
+      "owners": [
+        "Lyca Group Ben Holdings"
+      ]
+    },
+    {
       "id": "SwatantraTV.in",
       "name": "Swatantra TV",
       "logo": null,
@@ -157681,6 +157972,24 @@
       "section": "general",
       "categories": [
         "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Tac12.es",
+      "name": "Tac12",
+      "logo": null,
+      "url": "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -161568,6 +161877,26 @@
       "owners": []
     },
     {
+      "id": "Telemax.mx",
+      "name": "Telemax",
+      "logo": null,
+      "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Government of the State of Sonora"
+      ]
+    },
+    {
       "id": "Telemedellin.co",
       "name": "Telemedellin",
       "logo": null,
@@ -165103,6 +165432,24 @@
       ]
     },
     {
+      "id": "TheJungleBook.in",
+      "name": "The Jungle Book",
+      "logo": null,
+      "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TheLWord.se",
       "name": "The L Word",
       "logo": null,
@@ -166779,6 +167126,24 @@
       "is_spanish": true,
       "is_adult": false,
       "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TLN.ca",
+      "name": "TLN",
+      "logo": null,
+      "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8",
+      "country": "Canada",
+      "countryCode": "CA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
       "categories": [
         "General"
       ],
@@ -178430,6 +178795,26 @@
       ]
     },
     {
+      "id": "TVA.ca",
+      "name": "TVA",
+      "logo": null,
+      "url": "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8",
+      "country": "Canada",
+      "countryCode": "CA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Quebecor Media"
+      ]
+    },
+    {
       "id": "TVA.de",
       "name": "TVA",
       "logo": null,
@@ -182348,6 +182733,24 @@
       "owners": [
         "Rudolf Kirnos"
       ]
+    },
+    {
+      "id": "UAATV.mx",
+      "name": "UAA TV",
+      "logo": null,
+      "url": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Cultura"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "UACJTV.mx",
@@ -192986,6 +193389,24 @@
       "owners": []
     },
     {
+      "id": "YoutooAmerica.us",
+      "name": "Youtoo America",
+      "logo": null,
+      "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "YOYInternational.id",
       "name": "YOY International",
       "logo": null,
@@ -196913,7 +197334,7 @@
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 589
+      "count": 590
     },
     {
       "id": "series",
@@ -196923,46 +197344,46 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 401
+      "count": 403
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1809
+      "count": 1813
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6299
+      "count": 6313
     }
   ],
   "stats": {
     "total": 31205,
-    "withStreams": 9943,
-    "spanish": 1922,
+    "withStreams": 9964,
+    "spanish": 1926,
     "adult": 78,
     "bySection": {
-      "peliculas": 589,
-      "general": 6299,
-      "español": 1809,
-      "infantil": 401,
+      "peliculas": 590,
+      "general": 6313,
+      "español": 1813,
+      "infantil": 403,
       "series": 350,
       "deportes": 417
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1559,
+        "count": 1570,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 692,
+        "count": 693,
         "name": "India"
       },
       {
         "code": "RU",
-        "count": 435,
+        "count": 434,
         "name": "Russia"
       },
       {
@@ -196982,12 +197403,12 @@
       },
       {
         "code": "ES",
-        "count": 246,
+        "count": 247,
         "name": "Spain"
       },
       {
         "code": "DO",
-        "count": 245,
+        "count": 244,
         "name": "Dominican Republic"
       },
       {
@@ -197002,6 +197423,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-04T01:26:26.865Z",
+  "lastUpdated": "2026-09-05T01:28:03.703Z",
   "source": "orion-stream"
 }
