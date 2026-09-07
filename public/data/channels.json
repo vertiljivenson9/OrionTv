@@ -20844,26 +20844,6 @@
       ]
     },
     {
-      "id": "beINSportsUSA.us",
-      "name": "beIN Sports USA",
-      "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "beIN Media Group"
-      ]
-    },
-    {
       "id": "beINSPORTSXTRA.us",
       "name": "beIN SPORTS XTRA",
       "logo": null,
@@ -43727,7 +43707,7 @@
         "General"
       ],
       "altNames": [
-        "中天綜合台"
+        "��天綜合台"
       ],
       "network": null,
       "owners": [
@@ -44556,7 +44536,7 @@
       "id": "CW.us",
       "name": "CW",
       "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8",
+      "url": "https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -47605,6 +47585,31 @@
       "owners": []
     },
     {
+      "id": "DetvoraPlus.ru",
+      "name": "Detvora+",
+      "logo": null,
+      "url": "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil",
+        "Familia"
+      ],
+      "altNames": [
+        "ДетвораПлюс",
+        " DetvoraPlus"
+      ],
+      "network": "InterraMedia",
+      "owners": [
+        "InterraMedia"
+      ]
+    },
+    {
       "id": "DHA.tr",
       "name": "DHA",
       "logo": null,
@@ -48632,6 +48637,26 @@
       ]
     },
     {
+      "id": "DisneyChannel.pl",
+      "name": "Disney Channel",
+      "logo": null,
+      "url": "http://185.227.34.179:8080/disney-channel-hd/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "The Walt Disney Company Limited"
+      ]
+    },
+    {
       "id": "DisneyChannel.pt",
       "name": "Disney Channel",
       "logo": null,
@@ -48862,6 +48887,26 @@
       "owners": [
         "The Walt Disney Company",
         "Disney Kids & Family"
+      ]
+    },
+    {
+      "id": "DisneyXD.pl",
+      "name": "Disney XD",
+      "logo": null,
+      "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "The Walt Disney Company"
       ]
     },
     {
@@ -49720,7 +49765,7 @@
       "id": "DocuBox.nl",
       "name": "DocuBox",
       "logo": null,
-      "url": "https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8",
+      "url": "http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8",
       "country": "Netherlands",
       "countryCode": "NL",
       "language_primary": null,
@@ -60747,7 +60792,7 @@
       "id": "Fox.us",
       "name": "Fox",
       "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8",
+      "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -61311,7 +61356,7 @@
       "id": "Freeform.us",
       "name": "Freeform",
       "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/freeform-usa/playlist.m3u8",
+      "url": "http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -64873,26 +64918,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "GolfChannel.us",
-      "name": "Golf Channel",
-      "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/golfchannel-usa/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Versant Media Group Inc."
-      ]
     },
     {
       "id": "GolfChannelLatinAmerica.us",
@@ -69773,6 +69798,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "HollywoodUkraine.ua",
+      "name": "Hollywood Ukraine",
+      "logo": null,
+      "url": "http://dtv.vol.net.ua/Hollywood-HD/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Hollywood Ukraine"
+      ]
     },
     {
       "id": "HolvoetTV.cl",
@@ -77238,6 +77283,28 @@
       "altNames": [],
       "network": "Pluto TV",
       "owners": []
+    },
+    {
+      "id": "JOJGDTV.jp",
+      "name": "JOJG-DTV",
+      "logo": null,
+      "url": "https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "NHK総合テレビジョン"
+      ],
+      "network": "NHK G",
+      "owners": [
+        "日本放送協会"
+      ]
     },
     {
       "id": "Jonack.in",
@@ -102781,7 +102848,7 @@
       "id": "NBCUniverso.us",
       "name": "NBC Universo",
       "logo": null,
-      "url": "http://187.102.210.46/universo/index.m3u8",
+      "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -126723,6 +126790,26 @@
       "owners": []
     },
     {
+      "id": "Prokino.ua",
+      "name": "Prokino",
+      "logo": null,
+      "url": "http://dtv.vol.net.ua/ProKino/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Viasat Ukraine"
+      ]
+    },
+    {
       "id": "PromarTV.ve",
       "name": "PromarTV",
       "logo": null,
@@ -148726,6 +148813,24 @@
       "owners": []
     },
     {
+      "id": "SmurfTV.us",
+      "name": "Smurf TV",
+      "logo": null,
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SNLVault.us",
       "name": "SNL Vault",
       "logo": null,
@@ -155028,7 +155133,7 @@
       "id": "StudioUniversalLatinAmerica.us",
       "name": "Studio Universal Latin America",
       "logo": null,
-      "url": "http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8",
+      "url": "http://187.102.210.46/universo/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -155982,6 +156087,27 @@
       "owners": []
     },
     {
+      "id": "SuperPlus.ua",
+      "name": "Super+",
+      "logo": null,
+      "url": "http://dtv.vol.net.ua/super_plus/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General",
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Starlight Media Group"
+      ]
+    },
+    {
       "id": "Super7FM.do",
       "name": "Super7FM",
       "logo": null,
@@ -156425,7 +156551,7 @@
         "Cultura"
       ],
       "altNames": [
-        "С��спільне. Культура",
+        "Суспільне. Культура",
         "Society Culture",
         "UΛ: Культура",
         "Культура"
@@ -161434,6 +161560,46 @@
       ]
     },
     {
+      "id": "TelefeRosario.ar",
+      "name": "Telefe Rosario",
+      "logo": null,
+      "url": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Grupo Televisión Litoral"
+      ]
+    },
+    {
+      "id": "TelefeTucuman.ar",
+      "name": "Telefe Tucuman",
+      "logo": null,
+      "url": "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Telefe Tucumán"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Telefoggia.it",
       "name": "Telefoggia",
       "logo": null,
@@ -163040,7 +163206,7 @@
       "id": "Telesistema11.do",
       "name": "Telesistema 11",
       "logo": null,
-      "url": "https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8",
+      "url": "https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -163339,6 +163505,24 @@
       "name": "Teleunion",
       "logo": null,
       "url": "http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8",
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Teleuniverso.do",
+      "name": "Teleuniverso",
+      "logo": null,
+      "url": "https://hls.tvabierta.net/hls/029.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -185934,6 +186118,190 @@
       ]
     },
     {
+      "id": "VelvetEuropeanMovies.ru",
+      "name": "Velvet. European Movies",
+      "logo": null,
+      "url": "https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas",
+        "Familia"
+      ],
+      "altNames": [
+        "Velvet. Европейское кино"
+      ],
+      "network": "InterraMedia",
+      "owners": [
+        "InterraMedia"
+      ]
+    },
+    {
+      "id": "VelvetGoldenCollection.ru",
+      "name": "Velvet. Golden Collection",
+      "logo": null,
+      "url": "https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas",
+        "Clásico"
+      ],
+      "altNames": [
+        "Velvet. Золотая коллекция"
+      ],
+      "network": "VXDGroup",
+      "owners": [
+        "VXDGroup"
+      ]
+    },
+    {
+      "id": "VelvetMentovskiyeSerialy.ru",
+      "name": "Velvet. Mentovskiye Serialy",
+      "logo": null,
+      "url": "https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
+      ],
+      "altNames": [
+        "Velvet. Ментовские сериалы"
+      ],
+      "network": "InterraMedia",
+      "owners": [
+        "InterraMedia"
+      ]
+    },
+    {
+      "id": "VelvetScary.ru",
+      "name": "Velvet. Scary",
+      "logo": null,
+      "url": "https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Velvet. Ужасы"
+      ],
+      "network": "InterraMedia",
+      "owners": [
+        "InterraMedia"
+      ]
+    },
+    {
+      "id": "VelvetSeriesHits.ru",
+      "name": "Velvet. Series Hits",
+      "logo": null,
+      "url": "https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series",
+        "Comedia",
+        "Familia"
+      ],
+      "altNames": [
+        "Velvet. Сериалы Хиты"
+      ],
+      "network": "InterraMedia",
+      "owners": [
+        "InterraMedia"
+      ]
+    },
+    {
+      "id": "VelvetSovetskoeKino.ru",
+      "name": "Velvet. Sovetskoe Kino",
+      "logo": null,
+      "url": "https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Clásico",
+        "Películas"
+      ],
+      "altNames": [
+        "Velvet. Советское кино"
+      ],
+      "network": "InterraMedia",
+      "owners": [
+        "InterraMedia"
+      ]
+    },
+    {
+      "id": "VelvetSvaty.ru",
+      "name": "Velvet. Svaty",
+      "logo": null,
+      "url": "https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series",
+        "Familia"
+      ],
+      "altNames": [
+        "Velvet. Сваты"
+      ],
+      "network": "InterraMedia",
+      "owners": [
+        "InterraMedia"
+      ]
+    },
+    {
+      "id": "VelvetWorldSeries.ru",
+      "name": "Velvet. World Series",
+      "logo": null,
+      "url": "https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series",
+        "Comedia",
+        "Familia"
+      ],
+      "altNames": [
+        "Velvet. Мировые сериалы"
+      ],
+      "network": "InterraMedia",
+      "owners": [
+        "InterraMedia"
+      ]
+    },
+    {
       "id": "VendharTV.in",
       "name": "Vendhar TV",
       "logo": null,
@@ -197412,51 +197780,51 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 422
+      "count": 420
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 591
+      "count": 597
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 350
+      "count": 354
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 403
+      "count": 407
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1811
+      "count": 1814
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6310
+      "count": 6312
     }
   ],
   "stats": {
-    "total": 31229,
-    "withStreams": 9965,
-    "spanish": 1924,
+    "total": 31238,
+    "withStreams": 9982,
+    "spanish": 1927,
     "adult": 78,
     "bySection": {
-      "peliculas": 591,
-      "general": 6310,
-      "español": 1811,
-      "infantil": 403,
-      "series": 350,
-      "deportes": 422
+      "peliculas": 597,
+      "general": 6312,
+      "español": 1814,
+      "infantil": 407,
+      "series": 354,
+      "deportes": 420
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1573,
+        "count": 1572,
         "name": "United States"
       },
       {
@@ -197466,7 +197834,7 @@
       },
       {
         "code": "RU",
-        "count": 433,
+        "count": 442,
         "name": "Russia"
       },
       {
@@ -197491,7 +197859,7 @@
       },
       {
         "code": "DO",
-        "count": 245,
+        "count": 246,
         "name": "Dominican Republic"
       },
       {
@@ -197506,6 +197874,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-06T01:22:05.725Z",
+  "lastUpdated": "2026-09-07T01:20:41.423Z",
   "source": "orion-stream"
 }
