@@ -1226,6 +1226,26 @@
       ]
     },
     {
+      "id": "24NewsHD.pk",
+      "name": "24 News HD",
+      "logo": null,
+      "url": "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8",
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "City News Network Mohsin Naqvi"
+      ]
+    },
+    {
       "id": "24TV.tr",
       "name": "24 TV",
       "logo": null,
@@ -1920,6 +1940,24 @@
         "Gazprom Media",
         "Red Media"
       ]
+    },
+    {
+      "id": "365News.pk",
+      "name": "365 News",
+      "logo": null,
+      "url": "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8",
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "3ABNCanada.ca",
@@ -2946,6 +2984,24 @@
       "owners": []
     },
     {
+      "id": "7News.pk",
+      "name": "7 News",
+      "logo": null,
+      "url": "https://sscsott.com/7news/live/index.m3u8",
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "7RadioVisione.it",
       "name": "7 RadioVisione",
       "logo": null,
@@ -3203,7 +3259,7 @@
       "id": "8XM.pk",
       "name": "8XM",
       "logo": null,
-      "url": "http://115.42.65.142:9981/stream/channelid/582886861",
+      "url": "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8",
       "country": "Pakistan",
       "countryCode": "PK",
       "language_primary": null,
@@ -15298,6 +15354,28 @@
       "owners": []
     },
     {
+      "id": "AsianDrama.hk",
+      "name": "Asian Drama",
+      "logo": null,
+      "url": "http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8",
+      "country": "Hong Kong",
+      "countryCode": "HK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "亞洲劇台"
+      ],
+      "network": null,
+      "owners": [
+        "Television Broadcasts Limited"
+      ]
+    },
+    {
       "id": "AsianBox.mn",
       "name": "AsianBox",
       "logo": null,
@@ -17954,6 +18032,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "B1.ro",
+      "name": "B1",
+      "logo": null,
+      "url": "https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "B1 TV Channel SRL"
+      ]
     },
     {
       "id": "B15Fresnillo.mx",
@@ -32191,6 +32289,24 @@
       "owners": []
     },
     {
+      "id": "CapitalTV.pk",
+      "name": "Capital TV",
+      "logo": null,
+      "url": "https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8",
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "CapitalTVHD.np",
       "name": "Capital TV HD",
       "logo": null,
@@ -37208,6 +37324,26 @@
       "owners": []
     },
     {
+      "id": "ChuxiongNewsChannel.cn",
+      "name": "Chuxiong News Channel",
+      "logo": null,
+      "url": "http://hwapi.yntv.net/ew265l/848y54.m3u8",
+      "country": "China",
+      "countryCode": "CN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "新闻频道"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ChuzhouNewsChannel.cn",
       "name": "Chuzhou News Channel",
       "logo": null,
@@ -38258,7 +38394,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Warner Bros. Discovery"
+      ]
     },
     {
       "id": "Cinemax2.cz",
@@ -38276,7 +38414,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Warner Bros. Discovery"
+      ]
     },
     {
       "id": "CinemaxClassics.us",
@@ -43707,7 +43847,7 @@
         "General"
       ],
       "altNames": [
-        "��天綜合台"
+        "中天綜合台"
       ],
       "network": null,
       "owners": [
@@ -45514,30 +45654,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "DAZN5.uk",
-      "name": "DAZN 5",
-      "logo": null,
-      "url": "http://znty.dyndns.org:5010/hls/eleven5.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "DAZN Eleven 5",
-        "Eleven 5",
-        "Eleven Sports 5"
-      ],
-      "network": null,
-      "owners": [
-        "Andrea Radrizzani"
-      ]
     },
     {
       "id": "DAZNCombat.uk",
@@ -52987,6 +53103,26 @@
       "owners": []
     },
     {
+      "id": "Ekoturk.tr",
+      "name": "Ekoturk",
+      "logo": null,
+      "url": "https://cdn.ekoturk.net/hls/master.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "Ekotürk"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "EkranMovies.ir",
       "name": "Ekran Movies",
       "logo": null,
@@ -58632,7 +58768,7 @@
         "Deportes"
       ],
       "altNames": [
-        "FCK Løvinderne"
+        "FCK L��vinderne"
       ],
       "network": "Pluto TV",
       "owners": [
@@ -64838,6 +64974,28 @@
       ]
     },
     {
+      "id": "GoldenJade.hk",
+      "name": "Golden Jade",
+      "logo": null,
+      "url": "http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8",
+      "country": "Hong Kong",
+      "countryCode": "HK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "黃金翡翠台"
+      ],
+      "network": null,
+      "owners": [
+        "Television Broadcasts Limited"
+      ]
+    },
+    {
       "id": "Goldmines.in",
       "name": "Goldmines",
       "logo": null,
@@ -67578,8 +67736,7 @@
       ],
       "network": "HBO",
       "owners": [
-        "Home Box Office Inc.",
-        "Warner Bros. Discovery Inc."
+        "Warner Bros. Discovery"
       ]
     },
     {
@@ -67600,8 +67757,7 @@
       "altNames": [],
       "network": null,
       "owners": [
-        "Home Box Office Inc.",
-        "Warner Bros. Discovery Inc."
+        "Warner Bros. Discovery"
       ]
     },
     {
@@ -75531,6 +75687,29 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Jade.hk",
+      "name": "Jade",
+      "logo": null,
+      "url": "http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8",
+      "country": "Hong Kong",
+      "countryCode": "HK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "TVB翡翠台",
+        "TVB Jade"
+      ],
+      "network": null,
+      "owners": [
+        "Television Broadcasts Limited"
+      ]
     },
     {
       "id": "JAG.de",
@@ -93696,6 +93875,48 @@
       ]
     },
     {
+      "id": "MeiAhMovieChannel.hk",
+      "name": "Mei Ah Movie Channel",
+      "logo": null,
+      "url": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
+      "country": "Hong Kong",
+      "countryCode": "HK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "美亞電影台"
+      ],
+      "network": null,
+      "owners": [
+        "Mei Ah Entertainment Group Co Ltd"
+      ]
+    },
+    {
+      "id": "MeiAlaiTV.in",
+      "name": "Mei Alai TV",
+      "logo": null,
+      "url": "https://meialai.iptelevishion.com/meialai/2/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "மெய் அலை டிவி"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "MekameleenTV.tr",
       "name": "Mekameleen TV",
       "logo": null,
@@ -95048,6 +95269,27 @@
       "network": null,
       "owners": [
         "Bells Entertainment (Pvt.) Ltd"
+      ]
+    },
+    {
+      "id": "Minimax.ro",
+      "name": "Minimax",
+      "logo": null,
+      "url": "https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "AMC GLOBAL MEDIA",
+      "owners": [
+        "AMC GLOBAL MEDIA"
       ]
     },
     {
@@ -101907,6 +102149,30 @@
       ]
     },
     {
+      "id": "National24Plus.ro",
+      "name": "National 24 Plus",
+      "logo": null,
+      "url": "https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Național 24 Plus",
+        "N24 Plus",
+        "N24"
+      ],
+      "network": null,
+      "owners": [
+        "Centrul Național Media"
+      ]
+    },
+    {
       "id": "NationalAssemblyTV.kr",
       "name": "National Assembly TV",
       "logo": null,
@@ -102365,6 +102631,28 @@
       "network": "National Iranian Congress",
       "owners": [
         "National Iranian Congress"
+      ]
+    },
+    {
+      "id": "NationalTV.ro",
+      "name": "National TV",
+      "logo": null,
+      "url": "https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Național TV"
+      ],
+      "network": null,
+      "owners": [
+        "Centrul Național Media"
       ]
     },
     {
@@ -105731,6 +106019,28 @@
       "network": "Nickelodeon",
       "owners": [
         "Paramount Networks EMEAA"
+      ]
+    },
+    {
+      "id": "Nickelodeon.br",
+      "name": "Nickelodeon",
+      "logo": null,
+      "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "Nick"
+      ],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Networks Americas"
       ]
     },
     {
@@ -141331,6 +141641,26 @@
       "owners": []
     },
     {
+      "id": "SFree.us",
+      "name": "S Free!",
+      "logo": null,
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "S Plus Group"
+      ]
+    },
+    {
       "id": "SPremium.us",
       "name": "S Premium!",
       "logo": null,
@@ -158703,7 +159033,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Tanzania Broadcasting Corporation"
+      ]
     },
     {
       "id": "TAPTVChannel23.us",
@@ -164988,7 +165320,7 @@
         "General"
       ],
       "altNames": [
-        "ไทยรัฐทีวี",
+        "ไทยร���ฐทีวี",
         "Channel 32"
       ],
       "network": null,
@@ -184654,7 +184986,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Apostle Dr. Peter Nyaga"
+      ]
     },
     {
       "id": "UrfaNatikTV.tr",
@@ -197780,12 +198114,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 420
+      "count": 419
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 597
+      "count": 598
     },
     {
       "id": "series",
@@ -197795,7 +198129,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 407
+      "count": 409
     },
     {
       "id": "español",
@@ -197805,31 +198139,31 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6312
+      "count": 6326
     }
   ],
   "stats": {
-    "total": 31238,
-    "withStreams": 9982,
+    "total": 31260,
+    "withStreams": 9998,
     "spanish": 1927,
     "adult": 78,
     "bySection": {
-      "peliculas": 597,
-      "general": 6312,
+      "peliculas": 598,
+      "general": 6326,
       "español": 1814,
-      "infantil": 407,
+      "infantil": 409,
       "series": 354,
-      "deportes": 420
+      "deportes": 419
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1572,
+        "count": 1573,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 694,
+        "count": 695,
         "name": "India"
       },
       {
@@ -197844,7 +198178,7 @@
       },
       {
         "code": "BR",
-        "count": 276,
+        "count": 277,
         "name": "Brazil"
       },
       {
@@ -197874,6 +198208,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-07T01:20:41.423Z",
+  "lastUpdated": "2026-09-08T01:30:01.470Z",
   "source": "orion-stream"
 }
