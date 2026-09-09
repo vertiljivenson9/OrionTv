@@ -58768,7 +58768,7 @@
         "Deportes"
       ],
       "altNames": [
-        "FCK L��vinderne"
+        "FCK Løvinderne"
       ],
       "network": "Pluto TV",
       "owners": [
@@ -66778,7 +66778,7 @@
       ],
       "network": null,
       "owners": [
-        "Albayrak Medya"
+        "Albayrak Media Group"
       ]
     },
     {
@@ -67736,6 +67736,7 @@
       ],
       "network": "HBO",
       "owners": [
+        "Home Box Office Inc.",
         "Warner Bros. Discovery"
       ]
     },
@@ -67757,6 +67758,7 @@
       "altNames": [],
       "network": null,
       "owners": [
+        "Home Box Office Inc.",
         "Warner Bros. Discovery"
       ]
     },
@@ -96260,11 +96262,13 @@
       "is_adult": false,
       "section": "general",
       "categories": [
-        "General"
+        "Negocios"
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Alves Lampeão Jr."
+      ]
     },
     {
       "id": "MNX.in",
@@ -116718,7 +116722,7 @@
         "General"
       ],
       "altNames": [
-        "Первый городской канал",
+        "Первый гор��дской канал",
         "Нова Одеса",
         "ТА-Одеса"
       ],
@@ -165320,7 +165324,7 @@
         "General"
       ],
       "altNames": [
-        "ไทยร���ฐทีวี",
+        "ไทยรัฐทีวี",
         "Channel 32"
       ],
       "network": null,
@@ -168400,29 +168404,6 @@
       ]
     },
     {
-      "id": "TochkaRF.ru",
-      "name": "Tochka RF",
-      "logo": null,
-      "url": "http://stream.mcquack.net/161/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales",
-        "Viajes"
-      ],
-      "altNames": [
-        "Точка РФ"
-      ],
-      "network": null,
-      "owners": [
-        "Red Media"
-      ]
-    },
-    {
       "id": "TochkaTV.ru",
       "name": "Tochka TV",
       "logo": null,
@@ -170665,7 +170646,7 @@
       "altNames": [],
       "network": null,
       "owners": [
-        "Turkish Radio and Television Corporation"
+        "TRT"
       ]
     },
     {
@@ -170724,7 +170705,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "TRT"
+      ]
     },
     {
       "id": "TRTAvaz.tr",
@@ -170763,7 +170746,7 @@
       "altNames": [],
       "network": null,
       "owners": [
-        "Turkish Radio and Television Corporation"
+        "TRT"
       ]
     },
     {
@@ -170806,7 +170789,9 @@
         "TRT Diyanet Çocuk"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "TRT"
+      ]
     },
     {
       "id": "TRTEBA.tr",
@@ -170906,7 +170891,7 @@
       ],
       "network": null,
       "owners": [
-        "Turkish Radio and Television Corporation"
+        "TRT"
       ]
     },
     {
@@ -184268,15 +184253,17 @@
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
-      "section": "general",
+      "section": "infantil",
       "categories": [
-        "General"
+        "Infantil"
       ],
       "altNames": [
         "Уникум"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Stream"
+      ]
     },
     {
       "id": "UniMas.us",
@@ -198129,7 +198116,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 409
+      "count": 410
     },
     {
       "id": "español",
@@ -198139,19 +198126,19 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6326
+      "count": 6324
     }
   ],
   "stats": {
-    "total": 31260,
-    "withStreams": 9998,
+    "total": 31284,
+    "withStreams": 9997,
     "spanish": 1927,
     "adult": 78,
     "bySection": {
       "peliculas": 598,
-      "general": 6326,
+      "general": 6324,
       "español": 1814,
-      "infantil": 409,
+      "infantil": 410,
       "series": 354,
       "deportes": 419
     },
@@ -198168,7 +198155,7 @@
       },
       {
         "code": "RU",
-        "count": 442,
+        "count": 441,
         "name": "Russia"
       },
       {
@@ -198208,6 +198195,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-08T01:30:01.470Z",
+  "lastUpdated": "2026-09-09T01:38:09.522Z",
   "source": "orion-stream"
 }
