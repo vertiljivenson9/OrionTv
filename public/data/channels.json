@@ -181,26 +181,6 @@
       ]
     },
     {
-      "id": "PlusSBTNovelas.br",
-      "name": "+SBT Novelas",
-      "logo": null,
-      "url": "https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8",
-      "country": "Brazil",
-      "countryCode": "BR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Grupo Silvio Santos"
-      ]
-    },
-    {
       "id": "PlusTV.by",
       "name": "+TV",
       "logo": null,
@@ -13487,28 +13467,6 @@
       "owners": []
     },
     {
-      "id": "ArenaSport1.ba",
-      "name": "Arena Sport 1",
-      "logo": null,
-      "url": "https://nl1.nghk.ai/ArenaSport1BH/index.m3u8",
-      "country": "Bosnia and Herzegovina",
-      "countryCode": "BA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Arena Sport 1 Bosna i Hercegovina"
-      ],
-      "network": null,
-      "owners": [
-        "Telekom Srbjia"
-      ]
-    },
-    {
       "id": "ArenaSport1.hr",
       "name": "Arena Sport 1",
       "logo": null,
@@ -13524,28 +13482,6 @@
       ],
       "altNames": [
         "Arena Sport 1 Hrvatska"
-      ],
-      "network": null,
-      "owners": [
-        "Telekom Srbjia"
-      ]
-    },
-    {
-      "id": "ArenaSport1.rs",
-      "name": "Arena Sport 1",
-      "logo": null,
-      "url": "https://nl1.nghk.ai/ArenaSport1HD/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Arena Sport 1 Srbija"
       ],
       "network": null,
       "owners": [
@@ -13639,28 +13575,6 @@
       ]
     },
     {
-      "id": "ArenaSport2.ba",
-      "name": "Arena Sport 2",
-      "logo": null,
-      "url": "https://nl1.nghk.ai/ArenaSport2BH/index.m3u8",
-      "country": "Bosnia and Herzegovina",
-      "countryCode": "BA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Arena Sport 2 Bosna i Hercegovina"
-      ],
-      "network": null,
-      "owners": [
-        "Telekom Srbjia"
-      ]
-    },
-    {
       "id": "ArenaSport2.hr",
       "name": "Arena Sport 2",
       "logo": null,
@@ -13740,28 +13654,6 @@
       ],
       "altNames": [
         "Arena Sport 2 Premium Srbija"
-      ],
-      "network": null,
-      "owners": [
-        "Telekom Srbjia"
-      ]
-    },
-    {
-      "id": "ArenaSport3.ba",
-      "name": "Arena Sport 3",
-      "logo": null,
-      "url": "https://nl1.nghk.ai/ArenaSport3BH/index.m3u8",
-      "country": "Bosnia and Herzegovina",
-      "countryCode": "BA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Arena Sport 3 Bosna i Hercegovina"
       ],
       "network": null,
       "owners": [
@@ -13965,24 +13857,6 @@
       "owners": [
         "Telekom Srbjia"
       ]
-    },
-    {
-      "id": "ArenaSport5BH.ba",
-      "name": "Arena Sport 5 BH",
-      "logo": null,
-      "url": "https://nl1.nghk.ai/ArenaSport5BH/index.m3u8",
-      "country": "Bosnia and Herzegovina",
-      "countryCode": "BA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "ArenaSport5Premium.rs",
@@ -28218,6 +28092,24 @@
       "owners": []
     },
     {
+      "id": "Canal2MardelPlata.ar",
+      "name": "Canal 2 Mar del Plata",
+      "logo": null,
+      "url": "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Canal2Misiones.ar",
       "name": "Canal 2 Misiones",
       "logo": null,
@@ -38379,46 +38271,6 @@
       "owners": []
     },
     {
-      "id": "Cinemax.cz",
-      "name": "Cinemax",
-      "logo": null,
-      "url": "http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8",
-      "country": "Czech Republic",
-      "countryCode": "CZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Warner Bros. Discovery"
-      ]
-    },
-    {
-      "id": "Cinemax2.cz",
-      "name": "Cinemax 2",
-      "logo": null,
-      "url": "http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8",
-      "country": "Czech Republic",
-      "countryCode": "CZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Warner Bros. Discovery"
-      ]
-    },
-    {
       "id": "CinemaxClassics.us",
       "name": "Cinemax Classics",
       "logo": null,
@@ -41326,6 +41178,28 @@
         "ETV Kannada",
         "Colors ಕನ್ನಡ"
       ],
+      "network": "Colors",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "ColorsMarathi.in",
+      "name": "Colors Marathi",
+      "logo": null,
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
       "network": "Colors",
       "owners": [
         "JioStar India Pvt. Ltd.",
@@ -60051,6 +59925,26 @@
       "owners": []
     },
     {
+      "id": "FixFoxi.de",
+      "name": "Fix & Foxi",
+      "logo": null,
+      "url": "https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Your Family Entertainment AG"
+      ]
+    },
+    {
       "id": "FIXTV.hu",
       "name": "FIX TV",
       "logo": null,
@@ -75793,7 +75687,7 @@
         "General"
       ],
       "altNames": [
-        "شبکه چهارمحال و بختیاری"
+        "شبکه چهارمحال و بختیا��ی"
       ],
       "network": null,
       "owners": [
@@ -98579,26 +98473,6 @@
       ]
     },
     {
-      "id": "MTV.jp",
-      "name": "MTV",
-      "logo": null,
-      "url": "http://42.118.247.37:9394/stream/74.m3u8",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Paramount Networks Japan K.K."
-      ]
-    },
-    {
       "id": "MTV.us",
       "name": "MTV",
       "logo": null,
@@ -101045,6 +100919,28 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "MyanmarInternationalTV.mm",
+      "name": "Myanmar International TV",
+      "logo": null,
+      "url": "https://mrtvott.com/cache/MITV/master.m3u8",
+      "country": "Myanmar",
+      "countryCode": "MM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "မြန်မာအင်တာနေရှင်နယ်ရုပ်သံလိုင်း"
+      ],
+      "network": null,
+      "owners": [
+        "Ministry of Information"
+      ]
     },
     {
       "id": "MysteryScienceTheater3000.us",
@@ -104420,30 +104316,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "NewsMalayalam24x7.in",
-      "name": "News Malayalam 24x7",
-      "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/1629/master.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "ന്യൂസ് മലയാളം 24x7",
-        "News മലയാളം 24x7"
-      ],
-      "network": "MSO – Thamizhaga Cable TV Communication Limited (TCCL) Group",
-      "owners": [
-        "SPLUS Media Limited",
-        "News Malayalam Private Limited"
-      ]
     },
     {
       "id": "NewsNation.in",
@@ -116722,7 +116594,7 @@
         "General"
       ],
       "altNames": [
-        "Первый гор��дской канал",
+        "Первый городской канал",
         "Нова Одеса",
         "ТА-Одеса"
       ],
@@ -125221,6 +125093,27 @@
       ]
     },
     {
+      "id": "PolsatJimJam.pl",
+      "name": "Polsat JimJam",
+      "logo": null,
+      "url": "http://185.227.34.179:8080/jimjam/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Cyfrowy Polsat S.A.",
+        "AMC Networks Inc."
+      ]
+    },
+    {
       "id": "PolsatNews.pl",
       "name": "Polsat News",
       "logo": null,
@@ -126664,6 +126557,28 @@
       "owners": []
     },
     {
+      "id": "PrimaTV.ro",
+      "name": "Prima TV",
+      "logo": null,
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Canal 38 Amerom Bucureşti"
+      ],
+      "network": null,
+      "owners": [
+        "Clever Group"
+      ]
+    },
+    {
       "id": "PrimaZoom.cz",
       "name": "Prima Zoom",
       "logo": null,
@@ -126956,6 +126871,26 @@
       ],
       "altNames": [
         "Про Любовь"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PROTV.ro",
+      "name": "PRO TV",
+      "logo": null,
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Canal 31"
       ],
       "network": null,
       "owners": []
@@ -138593,6 +138528,30 @@
       ]
     },
     {
+      "id": "RTL.de",
+      "name": "RTL",
+      "logo": null,
+      "url": "https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "RTL Television",
+        "RTL Plus",
+        "RTL Plus Television"
+      ],
+      "network": null,
+      "owners": [
+        "RTL Group S.A."
+      ]
+    },
+    {
       "id": "RTL.hu",
       "name": "RTL",
       "logo": null,
@@ -138982,6 +138941,26 @@
       "network": null,
       "owners": [
         "RTL Group"
+      ]
+    },
+    {
+      "id": "RTLZwei.de",
+      "name": "RTL Zwei",
+      "logo": null,
+      "url": "https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RTL Group S.A."
       ]
     },
     {
@@ -147049,6 +147028,27 @@
       "owners": []
     },
     {
+      "id": "Showtime.us",
+      "name": "Showtime",
+      "logo": null,
+      "url": "http://4.30.180.36:8420/showtime/mono.m3u8?token=test",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Paramount+ with SHOWTIME",
+      "owners": [
+        "Showtime Networks Inc.",
+        "Paramount Skydance Corporation"
+      ]
+    },
+    {
       "id": "ShowtimeFamilyZone.us",
       "name": "Showtime Family Zone",
       "logo": null,
@@ -148532,12 +148532,12 @@
       ]
     },
     {
-      "id": "SkySportsCricket.uk",
+      "id": "SkySportsCricket.ie",
       "name": "Sky Sports Cricket",
       "logo": null,
-      "url": "https://xemzi.short.gy/2000006",
-      "country": "United Kingdom",
-      "countryCode": "UK",
+      "url": "https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8",
+      "country": "Ireland",
+      "countryCode": "IE",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -148572,6 +148572,24 @@
       "name": "Sky Sports Football",
       "logo": null,
       "url": "https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8",
+      "country": "Ireland",
+      "countryCode": "IE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SkySportsGolf.ie",
+      "name": "Sky Sports Golf",
+      "logo": null,
+      "url": "https://leaf.highfly.dev/m3u/now-sky-sports-golf/live.m3u8",
       "country": "Ireland",
       "countryCode": "IE",
       "language_primary": null,
@@ -153547,28 +153565,6 @@
       ]
     },
     {
-      "id": "StarMovies.in",
-      "name": "Star Movies",
-      "logo": null,
-      "url": "http://66.102.126.10:8000/play/a021/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "JioStar",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
       "id": "StarMovies.pt",
       "name": "Star Movies",
       "logo": null,
@@ -153608,28 +153604,6 @@
       "network": null,
       "owners": [
         "The Walt Disney Company Bulgaria"
-      ]
-    },
-    {
-      "id": "StarMoviesSelect.in",
-      "name": "Star Movies Select",
-      "logo": null,
-      "url": "http://66.102.126.10:8000/play/a020/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "JioStar",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
       ]
     },
     {
@@ -155395,7 +155369,7 @@
       "id": "StudioPlusTV.ec",
       "name": "Studio + TV",
       "logo": null,
-      "url": "https://cloudvideo.servers10.com:8081/8184/index.m3u8",
+      "url": "https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8",
       "country": "Ecuador",
       "countryCode": "EC",
       "language_primary": "Español",
@@ -156845,6 +156819,29 @@
       "altNames": [],
       "network": "Pluto TV",
       "owners": []
+    },
+    {
+      "id": "SuspilneDonbas.ua",
+      "name": "Suspilne. Donbas",
+      "logo": null,
+      "url": "http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Суспільне. Донбас",
+        "UΛ: Донбасс"
+      ],
+      "network": null,
+      "owners": [
+        "National Public Television and Radio Company of Ukraine"
+      ]
     },
     {
       "id": "SuspilneKrym.ua",
@@ -167280,6 +167277,28 @@
       ]
     },
     {
+      "id": "TimelessDiziChannel.pl",
+      "name": "Timeless Dizi Channel",
+      "logo": null,
+      "url": "http://hls127.freeott.top:8080/BG_Dizi_HD/video.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Timeless Dizi Channel Polska"
+      ],
+      "network": null,
+      "owners": [
+        "SPI International"
+      ]
+    },
+    {
       "id": "TimelessDiziChannel.ro",
       "name": "Timeless Dizi Channel",
       "logo": null,
@@ -170851,6 +170870,29 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "TRTGenc.tr",
+      "name": "TRT Genc",
+      "logo": null,
+      "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General",
+        "Cultura"
+      ],
+      "altNames": [
+        "TRT Genç"
+      ],
+      "network": null,
+      "owners": [
+        "TRT"
+      ]
     },
     {
       "id": "TRTHaber.tr",
@@ -184862,6 +184904,24 @@
       ]
     },
     {
+      "id": "UPLTV.ua",
+      "name": "UPL.TV",
+      "logo": null,
+      "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "UpperaBalkan.at",
       "name": "Uppera Balkan",
       "logo": null,
@@ -198101,56 +198161,56 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 419
+      "count": 416
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 598
+      "count": 594
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 354
+      "count": 353
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 410
+      "count": 412
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1814
+      "count": 1815
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6324
+      "count": 6332
     }
   ],
   "stats": {
-    "total": 31284,
-    "withStreams": 9997,
-    "spanish": 1927,
+    "total": 31286,
+    "withStreams": 10000,
+    "spanish": 1928,
     "adult": 78,
     "bySection": {
-      "peliculas": 598,
-      "general": 6324,
-      "español": 1814,
-      "infantil": 410,
-      "series": 354,
-      "deportes": 419
+      "peliculas": 594,
+      "general": 6332,
+      "español": 1815,
+      "infantil": 412,
+      "series": 353,
+      "deportes": 416
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1573,
+        "count": 1574,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 695,
+        "count": 693,
         "name": "India"
       },
       {
@@ -198160,12 +198220,12 @@
       },
       {
         "code": "DE",
-        "count": 415,
+        "count": 418,
         "name": "Germany"
       },
       {
         "code": "BR",
-        "count": 277,
+        "count": 276,
         "name": "Brazil"
       },
       {
@@ -198195,6 +198255,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-09T01:38:09.522Z",
+  "lastUpdated": "2026-09-10T01:32:30.717Z",
   "source": "orion-stream"
 }
