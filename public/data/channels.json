@@ -3667,7 +3667,7 @@
       "id": "AELatinAmerica.us",
       "name": "A&E Latin America",
       "logo": null,
-      "url": "http://45.190.28.50/AE_HD/index.m3u8",
+      "url": "http://170.83.16.50/AeE/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -5977,9 +5977,7 @@
         "Infantil",
         "Deportes"
       ],
-      "altNames": [
-        "Bénin TV Juniors"
-      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "Societé de Radio et de Télévision du Bénin"
@@ -6043,7 +6041,7 @@
       "id": "AdultSwimLatinAmerica.us",
       "name": "Adult Swim Latin America",
       "logo": null,
-      "url": "http://45.190.28.50/TRUTV_HD/index.m3u8",
+      "url": "http://168.197.104.22/ADULT_SWIM/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -17337,7 +17335,7 @@
       "id": "AXN.br",
       "name": "AXN",
       "logo": null,
-      "url": "http://45.190.28.50/AXN_HD/index.m3u8",
+      "url": "http://170.83.16.50/AXN/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -18720,7 +18718,7 @@
       "id": "Band.br",
       "name": "Band",
       "logo": null,
-      "url": "http://45.190.28.50/BAND_HD/index.m3u8",
+      "url": "http://170.84.165.204/BAND_HD/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -21818,6 +21816,26 @@
       ]
     },
     {
+      "id": "BethelColombia.co",
+      "name": "Bethel Colombia",
+      "logo": null,
+      "url": "http://138.121.15.230:9002/BETHEL/index.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Obra del Movimiento Misionero Mundial"
+      ]
+    },
+    {
       "id": "BethelTV.pe",
       "name": "Bethel TV",
       "logo": null,
@@ -24668,7 +24686,7 @@
       "id": "BoxKidsTV.br",
       "name": "Box Kids TV",
       "logo": null,
-      "url": "http://45.190.28.50/BOX_KIDS_HD/index.m3u8",
+      "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -36772,7 +36790,7 @@
       "id": "ChefTV.br",
       "name": "Chef TV",
       "logo": null,
-      "url": "http://45.190.28.50/CHEF_TV/index.m3u8",
+      "url": "http://168.197.104.22/CHEF_TV/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -44614,11 +44632,13 @@
       "is_adult": false,
       "section": "general",
       "categories": [
-        "Música"
+        "Entretenimiento"
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Fousseyni Maïga"
+      ]
     },
     {
       "id": "DaNangTV1.vn",
@@ -56654,7 +56674,7 @@
       "id": "EuronewsEnglish.fr",
       "name": "Euronews English",
       "logo": null,
-      "url": "http://45.190.28.50/EURONEWS_HD/index.m3u8",
+      "url": "https://dash4.antik.sk/live/test_euronews/playlist.m3u8",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -58345,26 +58365,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "FashionTV.br",
-      "name": "FashionTV",
-      "logo": null,
-      "url": "http://45.190.28.50/FASHION_TV_HD/index.m3u8",
-      "country": "Brazil",
-      "countryCode": "BR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Estilo de Vida"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Michel Adam Lisowski"
-      ]
     },
     {
       "id": "FashionTVEurope.fr",
@@ -60902,7 +60902,7 @@
       "id": "FoxNewsChannel.us",
       "name": "Fox News Channel",
       "logo": null,
-      "url": "http://45.190.28.50/FOX_NEWS/index.m3u8",
+      "url": "http://138.121.15.230:9002/FOX-NEWS/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -74881,7 +74881,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Isango Star"
+      ]
     },
     {
       "id": "IsfahanTV.ir",
@@ -75687,7 +75689,7 @@
         "General"
       ],
       "altNames": [
-        "شبکه چهارمحال و بختیا��ی"
+        "شبکه چهارمحال و بختیاری"
       ],
       "network": null,
       "owners": [
@@ -77782,7 +77784,7 @@
       "id": "JovemPanNews.br",
       "name": "Jovem Pan News",
       "logo": null,
-      "url": "http://45.190.28.50/JP_NEWS/index.m3u8",
+      "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -86602,7 +86604,7 @@
       "id": "LifetimeLatinAmerica.us",
       "name": "Lifetime Latin America",
       "logo": null,
-      "url": "http://138.255.2.6:8084/LIFETIME/index.m3u8",
+      "url": "http://170.83.16.50/LIFETIME/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -89699,7 +89701,7 @@
       "id": "MagnavisionTV.uk",
       "name": "Magnavision TV",
       "logo": null,
-      "url": "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8",
+      "url": "https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -94546,6 +94548,26 @@
       ]
     },
     {
+      "id": "Mh1Music.in",
+      "name": "Mh 1 Music",
+      "logo": null,
+      "url": "https://livestream.jswk.online/playlisttest/live/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "MH One TV Network Pvt Ltd"
+      ]
+    },
+    {
       "id": "Mh1News.in",
       "name": "Mh 1 News",
       "logo": null,
@@ -94558,6 +94580,66 @@
       "section": "general",
       "categories": [
         "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "MH One TV Network Pvt Ltd"
+      ]
+    },
+    {
+      "id": "Mh1Prime.in",
+      "name": "Mh 1 Prime",
+      "logo": null,
+      "url": "https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "MH One TV Network Pvt Ltd"
+      ]
+    },
+    {
+      "id": "MHOneDilSe.in",
+      "name": "MH One Dil Se",
+      "logo": null,
+      "url": "https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "MH One TV Network Pvt Ltd"
+      ]
+    },
+    {
+      "id": "MHOneMovies.in",
+      "name": "MH One Movies",
+      "logo": null,
+      "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
       ],
       "altNames": [],
       "network": null,
@@ -100068,7 +100150,7 @@
       "id": "MusicBoxBrazil.br",
       "name": "Music Box Brazil",
       "logo": null,
-      "url": "http://45.190.28.50/MUSIC_BOX_HD/index.m3u8",
+      "url": "http://168.197.104.22/MUSIC/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -131412,6 +131494,27 @@
       "owners": []
     },
     {
+      "id": "RadioRomania3Net.ro",
+      "name": "Radio Romania 3Net",
+      "logo": null,
+      "url": "https://media.3netmedia.ro/hls/stream.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "RR3N",
+        "Radio România 3Net"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "RadioRomaniaAntenaSatelor.ro",
       "name": "Radio Romania Antena Satelor",
       "logo": null,
@@ -132894,6 +132997,26 @@
       ]
     },
     {
+      "id": "RajMusixMalayalam.in",
+      "name": "Raj Musix Malayalam",
+      "logo": null,
+      "url": "https://cdn.pishow.tv/ott/live/1073/master.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": "Raj",
+      "owners": [
+        "Raj Television Network"
+      ]
+    },
+    {
       "id": "RajMusixTamil.in",
       "name": "Raj Musix Tamil",
       "logo": null,
@@ -134254,7 +134377,7 @@
       "id": "Record.br",
       "name": "Record",
       "logo": null,
-      "url": "http://45.190.28.50/RECORD/index.m3u8",
+      "url": "http://170.84.165.204/Record_HD/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -134852,7 +134975,7 @@
       "id": "RedeGlobo.br",
       "name": "Rede Globo",
       "logo": null,
-      "url": "http://138.255.2.6:8084/GLOBOHD/index.m3u8",
+      "url": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -135038,7 +135161,7 @@
       "id": "RedeTV.br",
       "name": "Rede TV!",
       "logo": null,
-      "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8",
+      "url": "http://45.162.64.114/REDE_TV/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -135074,7 +135197,7 @@
       "id": "RedeVida.br",
       "name": "Rede Vida",
       "logo": null,
-      "url": "http://45.190.28.50/REDE_VIDA_HD/index.m3u8",
+      "url": "http://168.197.104.22/REDE_VIDA/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -149989,7 +150112,7 @@
       "id": "SonyChannel.br",
       "name": "Sony Channel",
       "logo": null,
-      "url": "http://45.190.28.50/SONY_HD/index.m3u8",
+      "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -167343,7 +167466,7 @@
       "id": "TimesBrasil.br",
       "name": "Times Brasil",
       "logo": null,
-      "url": "http://45.190.28.50/CNBC/index.m3u8",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -170053,7 +170176,7 @@
       "id": "TravelBoxBrazil.br",
       "name": "Travel Box Brazil",
       "logo": null,
-      "url": "http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8",
+      "url": "http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -173987,24 +174110,6 @@
       "owners": []
     },
     {
-      "id": "TVEscola.br",
-      "name": "TV Escola",
-      "logo": null,
-      "url": "http://45.190.28.50/TV_ESCOLA/index.m3u8",
-      "country": "Brazil",
-      "countryCode": "BR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TVEstrella.hn",
       "name": "TV Estrella",
       "logo": null,
@@ -174256,24 +174361,6 @@
       "is_spanish": true,
       "is_adult": false,
       "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TVGloboRiodeJaneiro.br",
-      "name": "TV Globo Rio de Janeiro",
-      "logo": null,
-      "url": "http://45.190.28.50/GLOBO_HD/index.m3u8",
-      "country": "Brazil",
-      "countryCode": "BR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
       "categories": [
         "General"
       ],
@@ -178144,7 +178231,9 @@
         "TV One"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Kakooza Nkuliza Charles"
+      ]
     },
     {
       "id": "TV1KG.kg",
@@ -179975,24 +180064,6 @@
       "name": "TVE Bahia",
       "logo": null,
       "url": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
-      "country": "Brazil",
-      "countryCode": "BR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "TVECultura.br",
-      "name": "TVE Cultura",
-      "logo": null,
-      "url": "http://45.190.28.50/TVE/index.m3u8",
       "country": "Brazil",
       "countryCode": "BR",
       "language_primary": null,
@@ -183702,24 +183773,6 @@
       "section": "español",
       "categories": [
         "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "UltraTV4K.pl",
-      "name": "Ultra TV 4K",
-      "logo": null,
-      "url": "http://45.190.28.50/ULTRA/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
       ],
       "altNames": [],
       "network": null,
@@ -195056,28 +195109,6 @@
       ]
     },
     {
-      "id": "ZeeAction.in",
-      "name": "Zee Action",
-      "logo": null,
-      "url": "http://103.175.73.12:8080/live/270/master.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Action Cinema"
-      ],
-      "network": "Z",
-      "owners": [
-        "Zee Entertainment Enterprises Limited"
-      ]
-    },
-    {
       "id": "ZeeAlwan.ae",
       "name": "Zee Alwan",
       "logo": null,
@@ -195266,28 +195297,6 @@
       ]
     },
     {
-      "id": "ZeeCafe.in",
-      "name": "Zee Cafe",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1319.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [
-        "Zee Café"
-      ],
-      "network": "Z",
-      "owners": [
-        "Zee Entertainment Enterprises Limited"
-      ]
-    },
-    {
       "id": "ZeeCineClassic.in",
       "name": "Zee Cine Classic",
       "logo": null,
@@ -195313,7 +195322,7 @@
       "id": "ZeeCinema.in",
       "name": "Zee Cinema",
       "logo": null,
-      "url": "https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8",
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -196454,6 +196463,28 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Zoom.co",
+      "name": "Zoom",
+      "logo": null,
+      "url": "http://138.121.15.230:9002/ZOOM/index.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Educación"
+      ],
+      "altNames": [
+        "Canal Universitario de Colombia"
+      ],
+      "network": null,
+      "owners": [
+        "Asociación Colombiana de Universidades"
+      ]
     },
     {
       "id": "Zoom.il",
@@ -198171,7 +198202,7 @@
     {
       "id": "series",
       "name": "Series",
-      "count": 353
+      "count": 352
     },
     {
       "id": "infantil",
@@ -198181,7 +198212,7 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1815
+      "count": 1817
     },
     {
       "id": "general",
@@ -198190,16 +198221,16 @@
     }
   ],
   "stats": {
-    "total": 31286,
-    "withStreams": 10000,
-    "spanish": 1928,
+    "total": 31292,
+    "withStreams": 10001,
+    "spanish": 1930,
     "adult": 78,
     "bySection": {
       "peliculas": 594,
       "general": 6332,
-      "español": 1815,
+      "español": 1817,
       "infantil": 412,
-      "series": 353,
+      "series": 352,
       "deportes": 416
     },
     "topCountries": [
@@ -198210,7 +198241,7 @@
       },
       {
         "code": "IN",
-        "count": 693,
+        "count": 696,
         "name": "India"
       },
       {
@@ -198225,7 +198256,7 @@
       },
       {
         "code": "BR",
-        "count": 276,
+        "count": 272,
         "name": "Brazil"
       },
       {
@@ -198255,6 +198286,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-10T01:32:30.717Z",
+  "lastUpdated": "2026-09-11T01:31:37.774Z",
   "source": "orion-stream"
 }
