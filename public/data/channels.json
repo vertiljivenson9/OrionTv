@@ -5248,6 +5248,55 @@
       ]
     },
     {
+      "id": "Acasa.ro",
+      "name": "Acasa",
+      "logo": null,
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Acasă",
+        "Pro 2",
+        "Acasă TV"
+      ],
+      "network": null,
+      "owners": [
+        "Central European Media Enterprises"
+      ]
+    },
+    {
+      "id": "AcasaGold.ro",
+      "name": "Acasa Gold",
+      "logo": null,
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Acasă Gold",
+        "Pro Gold",
+        "Acasă Clasic",
+        "Acasă 2"
+      ],
+      "network": null,
+      "owners": [
+        "Central European Media Enterprises"
+      ]
+    },
+    {
       "id": "ACCDigitalNetwork.us",
       "name": "ACC Digital Network",
       "logo": null,
@@ -29104,6 +29153,24 @@
       "url": "https://live.obslivestream.com/canal8/index.m3u8",
       "country": "Peru",
       "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Canal8MardelPlata.ar",
+      "name": "Canal 8 Mar del Plata",
+      "logo": null,
+      "url": "https://canal8mdq.unpocodeawita.workers.dev/",
+      "country": "Argentina",
+      "countryCode": "AR",
       "language_primary": "Español",
       "is_spanish": true,
       "is_adult": false,
@@ -61535,27 +61602,6 @@
       "network": "FX Channels",
       "owners": [
         "The Walt Disney Company Latin America"
-      ]
-    },
-    {
-      "id": "FXMovieChannel.us",
-      "name": "FX Movie Channel",
-      "logo": null,
-      "url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "FX Channels",
-      "owners": [
-        "FX Networks LLC",
-        "The Walt Disney Company"
       ]
     },
     {
@@ -105666,7 +105712,7 @@
       "id": "Nickelodeon.us",
       "name": "Nickelodeon",
       "logo": null,
-      "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+      "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -126118,6 +126164,26 @@
       ]
     },
     {
+      "id": "PrimaNews.ro",
+      "name": "Prima News",
+      "logo": null,
+      "url": "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Clever Group"
+      ]
+    },
+    {
       "id": "PrimaShow.cz",
       "name": "Prima Show",
       "logo": null,
@@ -126471,6 +126537,30 @@
       "owners": []
     },
     {
+      "id": "ProArena.ro",
+      "name": "Pro Arena",
+      "logo": null,
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Pro X",
+        "Sport.ro",
+        "TV Sport"
+      ],
+      "network": "Pro TV",
+      "owners": [
+        "Pro TV SRL"
+      ]
+    },
+    {
       "id": "ProBusiness.ru",
       "name": "Pro Business",
       "logo": null,
@@ -126489,6 +126579,26 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ProCinema.ro",
+      "name": "Pro Cinema",
+      "logo": null,
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Pro TV",
+      "owners": [
+        "Pro TV SRL"
+      ]
     },
     {
       "id": "ProLyubov.ru",
@@ -135433,7 +135543,7 @@
       ],
       "altNames": [
         "R.ಕನ್ನಡ",
-        "ರಿಪಬ್ಲಿಕ ಕನ್ನಡ"
+        "ರಿಪಬ್ಲ��ಕ ಕನ್ನಡ"
       ],
       "network": "Republic Media",
       "owners": [
@@ -153927,26 +154037,6 @@
       ]
     },
     {
-      "id": "Starz.us",
-      "name": "Starz",
-      "logo": null,
-      "url": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "STARZ",
-      "owners": [
-        "Starz Entertainment Corp."
-      ]
-    },
-    {
       "id": "StarzCinema.us",
       "name": "Starz Cinema",
       "logo": null,
@@ -155316,6 +155406,29 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "SuaraSurabayaVisualRadio.id",
+      "name": "Suara Surabaya Visual Radio",
+      "logo": null,
+      "url": "https://ssfm.siar.us/ssfm/live/playlist.m3u8",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias",
+        "Interactive"
+      ],
+      "altNames": [
+        "suarasurabaya.net"
+      ],
+      "network": "Suara Surabaya Media",
+      "owners": [
+        "PT Radio Fiskaria Jaya Suara Surabaya"
+      ]
     },
     {
       "id": "Subbota.ru",
@@ -161593,6 +161706,24 @@
       "owners": [
         "Grupo Televisión Litoral"
       ]
+    },
+    {
+      "id": "TelefeSalta.ar",
+      "name": "Telefe Salta",
+      "logo": null,
+      "url": "https://canal11saltatv.unpocodeawita.workers.dev/",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "TelefeTucuman.ar",
@@ -170676,7 +170807,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "TRT"
+      ]
     },
     {
       "id": "TRTTurk.tr",
@@ -197830,23 +197963,23 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1822
+      "count": 1824
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6350
+      "count": 6354
     }
   ],
   "stats": {
-    "total": 31292,
-    "withStreams": 9986,
-    "spanish": 1935,
+    "total": 31297,
+    "withStreams": 9992,
+    "spanish": 1937,
     "adult": 78,
     "bySection": {
       "peliculas": 588,
-      "general": 6350,
-      "español": 1822,
+      "general": 6354,
+      "español": 1824,
       "infantil": 412,
       "series": 352,
       "deportes": 384
@@ -197854,7 +197987,7 @@
     "topCountries": [
       {
         "code": "US",
-        "count": 1576,
+        "count": 1574,
         "name": "United States"
       },
       {
@@ -197904,6 +198037,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-12T01:38:03.121Z",
+  "lastUpdated": "2026-09-13T01:27:57.274Z",
   "source": "orion-stream"
 }
