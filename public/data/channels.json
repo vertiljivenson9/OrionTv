@@ -6551,7 +6551,9 @@
         "Afrikinfo TV"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Afrikinfo Médias"
+      ]
     },
     {
       "id": "AfriqueMedia.cm",
@@ -16898,7 +16900,7 @@
       "id": "AXNLatinAmerica.us",
       "name": "AXN Latin America",
       "logo": null,
-      "url": "http://177.234.249.178:8888/AXN/index.m3u8",
+      "url": "http://138.121.15.230:9002/AXN/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -35000,7 +35002,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Media Ring Pvt Ltd."
+      ]
     },
     {
       "id": "Channel18GAC.us",
@@ -37157,24 +37161,6 @@
       ]
     },
     {
-      "id": "CineMexicano.us",
-      "name": "Cine Mexicano",
-      "logo": null,
-      "url": "http://177.234.249.178:8888/AMERICA/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "CineNanar.fr",
       "name": "Cine Nanar",
       "logo": null,
@@ -37330,7 +37316,7 @@
       "id": "CineSony.us",
       "name": "Cine Sony",
       "logo": null,
-      "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
+      "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -53721,26 +53707,6 @@
       ]
     },
     {
-      "id": "Encuentro.ar",
-      "name": "Encuentro",
-      "logo": null,
-      "url": "http://138.121.113.175:8000/play/a04c/index.m3u8",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Cultura"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Argentine Ministry of Education"
-      ]
-    },
-    {
       "id": "EnerGeek.cl",
       "name": "EnerGeek",
       "logo": null,
@@ -53919,7 +53885,7 @@
       "id": "Enlace.cr",
       "name": "Enlace",
       "logo": null,
-      "url": "http://177.234.249.178:8888/ENLACE/index.m3u8",
+      "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
       "country": "Costa Rica",
       "countryCode": "CR",
       "language_primary": "Español",
@@ -64479,26 +64445,6 @@
         "General"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "GolTVLatinAmerica.us",
-      "name": "GolTV Latin America",
-      "logo": null,
-      "url": "http://177.234.249.178:8888/GOLTV/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "GolTV LatinoAmérica"
-      ],
       "network": null,
       "owners": []
     },
@@ -95582,7 +95528,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Maldives Media House Pvt Ltd."
+      ]
     },
     {
       "id": "MNPlus.mn",
@@ -105458,7 +105406,7 @@
       "id": "NickJrLatinAmerica.us",
       "name": "Nick Jr. Latin America",
       "logo": null,
-      "url": "http://177.234.249.178:8888/NICK-JR/index.m3u8",
+      "url": "https://streamer.metronethn.com/NickJr/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -113649,26 +113597,6 @@
       "network": null,
       "owners": [
         "Paigham Communications Limited"
-      ]
-    },
-    {
-      "id": "Pakapaka.ar",
-      "name": "Pakapaka",
-      "logo": null,
-      "url": "http://138.121.113.175:8000/play/a04d/index.m3u8",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Ministry of Education of Argentina"
       ]
     },
     {
@@ -128843,24 +128771,6 @@
       "owners": []
     },
     {
-      "id": "QuieroMusicaenmiIdioma.ar",
-      "name": "Quiero Musica en mi Idioma",
-      "logo": null,
-      "url": "http://177.234.249.178:8888/MTV/index.m3u8",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "QuinceUCR.cr",
       "name": "Quince UCR",
       "logo": null,
@@ -129422,7 +129332,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Raajje Television Pvt Ltd."
+      ]
     },
     {
       "id": "RaaviTV.pk",
@@ -135543,7 +135455,7 @@
       ],
       "altNames": [
         "R.ಕನ್ನಡ",
-        "ರಿಪಬ್ಲ��ಕ ಕನ್ನಡ"
+        "ರಿಪಬ್ಲಿಕ ಕನ್ನಡ"
       ],
       "network": "Republic Media",
       "owners": [
@@ -164070,30 +163982,6 @@
       "owners": []
     },
     {
-      "id": "TelevisionPublica.ar",
-      "name": "Television Publica",
-      "logo": null,
-      "url": "http://138.121.113.175:8000/play/a03l/index.m3u8",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Televisión Pública",
-        "TVP",
-        "TV Publica"
-      ],
-      "network": null,
-      "owners": [
-        "Radio y Televisión Argentina S.A."
-      ]
-    },
-    {
       "id": "TelevisionTarapoto.pe",
       "name": "Television Tarapoto",
       "logo": null,
@@ -186469,7 +186357,7 @@
       "id": "Venevision.ve",
       "name": "Venevision",
       "logo": null,
-      "url": "http://177.234.249.178:8888/VENEVISION/index.m3u8",
+      "url": "http://181.78.8.199:8000/play/a0if/index.m3u8",
       "country": "Venezuela",
       "countryCode": "VE",
       "language_primary": "Español",
@@ -193708,9 +193596,11 @@
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
-      "section": "general",
+      "section": "deportes",
       "categories": [
-        "Noticias"
+        "Entretenimiento",
+        "Deportes",
+        "Cultura"
       ],
       "altNames": [],
       "network": null,
@@ -197948,7 +197838,7 @@
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 588
+      "count": 587
     },
     {
       "id": "series",
@@ -197958,36 +197848,36 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 412
+      "count": 411
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1824
+      "count": 1821
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6354
+      "count": 6353
     }
   ],
   "stats": {
-    "total": 31297,
-    "withStreams": 9992,
-    "spanish": 1937,
+    "total": 31377,
+    "withStreams": 9986,
+    "spanish": 1933,
     "adult": 78,
     "bySection": {
-      "peliculas": 588,
-      "general": 6354,
-      "español": 1824,
-      "infantil": 412,
+      "peliculas": 587,
+      "general": 6353,
+      "español": 1821,
+      "infantil": 411,
       "series": 352,
       "deportes": 384
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1574,
+        "count": 1572,
         "name": "United States"
       },
       {
@@ -198037,6 +197927,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-13T01:27:57.274Z",
+  "lastUpdated": "2026-09-14T01:46:01.930Z",
   "source": "orion-stream"
 }
