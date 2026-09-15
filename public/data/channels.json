@@ -2572,7 +2572,7 @@
       "id": "4TVNews.in",
       "name": "4TV News",
       "logo": null,
-      "url": "https://cdn-4.pishow.tv/live/1007/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1007/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -3381,7 +3381,7 @@
       "id": "99TV.in",
       "name": "99TV",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/1211/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1211/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -13255,7 +13255,7 @@
       "id": "AradanaTV.in",
       "name": "Aradana TV",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/961/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -14649,6 +14649,24 @@
       "owners": [
         "Television Broadcasts Limited"
       ]
+    },
+    {
+      "id": "AsianNews.in",
+      "name": "Asian News",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/asiannews/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "AsianBox.mn",
@@ -17410,7 +17428,7 @@
       "id": "B4UKadak.in",
       "name": "B4U Kadak",
       "logo": null,
-      "url": "https://cdn-2.pishow.tv/live/227/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/227/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -17430,7 +17448,7 @@
       "id": "B4UMovies.in",
       "name": "B4U Movies",
       "logo": null,
-      "url": "https://cdn-2.pishow.tv/live/419/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/419/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -17450,7 +17468,7 @@
       "id": "B4UMusic.in",
       "name": "B4U Music",
       "logo": null,
-      "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/415/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -18955,6 +18973,26 @@
       "owners": []
     },
     {
+      "id": "BBCLifestyle.uk",
+      "name": "BBC Lifestyle",
+      "logo": null,
+      "url": "http://58.8.186.128:10003/bysid/2333",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Estilo de Vida"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "BBC Studios"
+      ]
+    },
+    {
       "id": "BBCNews.uk",
       "name": "BBC News",
       "logo": null,
@@ -19713,26 +19751,6 @@
         "General"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "BBNTV.bz",
-      "name": "BBN TV",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/06-BBN/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Belize Broadcasting Network"
-      ],
       "network": null,
       "owners": []
     },
@@ -21742,30 +21760,10 @@
       ]
     },
     {
-      "id": "BHATV.bz",
-      "name": "BHA TV",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/15-BHA/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Viajes"
-      ],
-      "altNames": [
-        "Belize Hotel Association Television"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "BhakthiTV.in",
       "name": "Bhakthi TV",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/397/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/397/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -22190,7 +22188,7 @@
       "id": "BIGTV.in",
       "name": "BIG TV",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/1059/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1059/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -29412,7 +29410,7 @@
       "id": "CanalCdelZulia.ve",
       "name": "Canal C del Zulia",
       "logo": null,
-      "url": "https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8",
+      "url": "https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8",
       "country": "Venezuela",
       "countryCode": "VE",
       "language_primary": "Español",
@@ -35197,26 +35195,6 @@
       ]
     },
     {
-      "id": "Channel7.bz",
-      "name": "Channel 7",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Tropical Vision Limited"
-      ]
-    },
-    {
       "id": "Channel7.kz",
       "name": "Channel 7",
       "logo": null,
@@ -36508,7 +36486,7 @@
       "id": "Chithiram.in",
       "name": "Chithiram",
       "logo": null,
-      "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1243/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -40464,28 +40442,6 @@
       "owners": []
     },
     {
-      "id": "ColorBlindTV.bz",
-      "name": "Color Blind TV",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/12-CBTV/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "CBTV"
-      ],
-      "network": null,
-      "owners": [
-        "Color Blind Media Productions"
-      ]
-    },
-    {
       "id": "ColorVision.do",
       "name": "Color Vision",
       "logo": null,
@@ -40680,6 +40636,28 @@
       "network": null,
       "owners": [
         "Viacom18"
+      ]
+    },
+    {
+      "id": "ColorsSuper.in",
+      "name": "Colors Super",
+      "logo": null,
+      "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Colors",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
       ]
     },
     {
@@ -43398,24 +43376,6 @@
       ]
     },
     {
-      "id": "CTV3.bz",
-      "name": "CTV3",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/03-CTVOW/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "CTV35.cl",
       "name": "CTV35",
       "logo": null,
@@ -43909,7 +43869,7 @@
       "id": "CVRHealth.in",
       "name": "CVR Health",
       "logo": null,
-      "url": "https://cdn-6.pishow.tv/live/395/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/395/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -45167,7 +45127,7 @@
       "id": "DDArunPrabha.in",
       "name": "DD Arun Prabha",
       "logo": null,
-      "url": "https://cdn-4.pishow.tv/live/32/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/32/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -45207,7 +45167,7 @@
       "id": "DDBangla.in",
       "name": "DD Bangla",
       "logo": null,
-      "url": "https://cdn-4.pishow.tv/live/37/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/37/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -45267,7 +45227,7 @@
       "id": "DDChandana.in",
       "name": "DD Chandana",
       "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/28/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/28/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -45407,7 +45367,7 @@
       "id": "DDJharkhand.in",
       "name": "DD Jharkhand",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/1617/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1617/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -45427,7 +45387,7 @@
       "id": "DDKashir.in",
       "name": "DD Kashir",
       "logo": null,
-      "url": "https://cdn-6.pishow.tv/live/16/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/16/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -57914,7 +57874,7 @@
       "id": "Fast1.in",
       "name": "Fast1",
       "logo": null,
-      "url": "https://cdn-6.pishow.tv/live/10008/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/10008/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -59362,26 +59322,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "FixFoxi.de",
-      "name": "Fix & Foxi",
-      "logo": null,
-      "url": "https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Your Family Entertainment AG"
-      ]
     },
     {
       "id": "FIXTV.hu",
@@ -68460,24 +68400,6 @@
       "owners": []
     },
     {
-      "id": "HitzTV.bz",
-      "name": "Hitz TV",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/13-HITZ/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "HKTV.us",
       "name": "HKTV",
       "logo": null,
@@ -69112,7 +69034,7 @@
       "id": "HMTV.in",
       "name": "HMTV",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/280/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/280/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -75780,7 +75702,7 @@
       "id": "JeevanTV.in",
       "name": "Jeevan TV",
       "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/1467/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1467/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -76505,7 +76427,7 @@
       "id": "JinvaniChannel.in",
       "name": "Jinvani Channel",
       "logo": null,
-      "url": "https://cdn-2.pishow.tv/live/989/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/989/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -76619,27 +76541,6 @@
       "owners": []
     },
     {
-      "id": "JOAXDTV.jp",
-      "name": "JOAX-DTV",
-      "logo": null,
-      "url": "https://ntv5.mov3.co/hls/ntv.m3u8",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Nippon TV",
-        "日本テレビ"
-      ],
-      "network": "NNN/NNS",
-      "owners": []
-    },
-    {
       "id": "JOBTV.ro",
       "name": "JOB TV",
       "logo": null,
@@ -76675,29 +76576,6 @@
       "network": null,
       "owners": [
         "TV2 Média Csoport Kft."
-      ]
-    },
-    {
-      "id": "JOCXDTV.jp",
-      "name": "JOCX-DTV",
-      "logo": null,
-      "url": "https://fujitv4.mov3.co/hls/fujitv.m3u8",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Fuji TV",
-        "フジテレビ"
-      ],
-      "network": "FNN/FNS",
-      "owners": [
-        "Fuji Television Network"
       ]
     },
     {
@@ -76739,28 +76617,6 @@
       "owners": [
         "Joel Osteen Ministries"
       ]
-    },
-    {
-      "id": "JOEXDTV.jp",
-      "name": "JOEX-DTV",
-      "logo": null,
-      "url": "https://tvasahi.mov3.co/hls/tvasahi.m3u8",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TV Asahi",
-        "テレビ朝日",
-        "テレ朝"
-      ],
-      "network": "ANN/TV Asahi Network",
-      "owners": []
     },
     {
       "id": "JogjaIstimewaTV.id",
@@ -76842,7 +76698,7 @@
       "id": "Jonack.in",
       "name": "Jonack",
       "logo": null,
-      "url": "http://103.175.73.12:8080/live/676/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/10006/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -77114,27 +76970,6 @@
       ]
     },
     {
-      "id": "JORXDTV.jp",
-      "name": "JORX-DTV",
-      "logo": null,
-      "url": "https://tbs5.mov3.co/hls/tbs.m3u8",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TBS TV",
-        "TBSテレビ"
-      ],
-      "network": "JNN/TBS Network",
-      "owners": []
-    },
-    {
       "id": "JoshuaTV.pk",
       "name": "Joshua TV",
       "logo": null,
@@ -77193,29 +77028,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "JOTXDTV.jp",
-      "name": "JOTX-DTV",
-      "logo": null,
-      "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8",
-      "country": "Japan",
-      "countryCode": "JP",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TV Tokyo",
-        "テレビ東京"
-      ],
-      "network": "TXN Network",
-      "owners": [
-        "TV Tokyo Corporation"
-      ]
     },
     {
       "id": "Journy.us",
@@ -78117,7 +77929,7 @@
       "id": "KalingaTV.in",
       "name": "Kalinga TV",
       "logo": null,
-      "url": "https://cdn-4.pishow.tv/live/1470/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1470/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -81196,6 +81008,26 @@
       "network": null,
       "owners": [
         "Second News Company"
+      ]
+    },
+    {
+      "id": "KNino.us",
+      "name": "KNino",
+      "logo": null,
+      "url": "https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "2BeNamed"
       ]
     },
     {
@@ -87587,24 +87419,6 @@
       ]
     },
     {
-      "id": "LoveTelevision.bz",
-      "name": "Love Television",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/01-LOVE/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "LoveThePlanet.es",
       "name": "Love The Planet",
       "logo": null,
@@ -88960,7 +88774,7 @@
       "id": "MadhaTV.in",
       "name": "Madha TV",
       "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/1265/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1265/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -89253,7 +89067,7 @@
       "id": "MahaMovie.in",
       "name": "Maha Movie",
       "logo": null,
-      "url": "https://cdn-6.pishow.tv/live/10007/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/10007/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -89273,7 +89087,7 @@
       "id": "MahaPunjabi.in",
       "name": "Maha Punjabi",
       "logo": null,
-      "url": "https://cdn-4.pishow.tv/live/1521/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1521/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -89329,7 +89143,7 @@
       "id": "MahaaNews.in",
       "name": "Mahaa News",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/401/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/401/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -89742,26 +89556,6 @@
       "network": null,
       "owners": [
         "Malai Murasu TV Private Limited"
-      ]
-    },
-    {
-      "id": "MalarTV.in",
-      "name": "Malar TV",
-      "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/473/master.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Metronation Chennai Television Private Limited"
       ]
     },
     {
@@ -90246,7 +90040,7 @@
       "id": "ManoranjanPrime.in",
       "name": "Manoranjan Prime",
       "logo": null,
-      "url": "https://cdn-4.pishow.tv/live/1474/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1474/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -91498,24 +91292,6 @@
       "owners": [
         "A1 Bulgaria"
       ]
-    },
-    {
-      "id": "MaxTV.bz",
-      "name": "Max TV",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/14-MAX/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "MaxTV.ch",
@@ -95432,26 +95208,6 @@
       "owners": []
     },
     {
-      "id": "MLBNetwork.us",
-      "name": "MLB Network",
-      "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Major League Baseball"
-      ]
-    },
-    {
       "id": "MLBStrikeZone.us",
       "name": "MLB Strike Zone",
       "logo": null,
@@ -96399,7 +96155,7 @@
       "id": "MoonTV.in",
       "name": "Moon TV",
       "logo": null,
-      "url": "https://cdn-4.pishow.tv/live/1121/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1121/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -100692,6 +100448,26 @@
       "owners": []
     },
     {
+      "id": "ntv.de",
+      "name": "n-tv",
+      "logo": null,
+      "url": "https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RTL Group"
+      ]
+    },
+    {
       "id": "N24Doku.de",
       "name": "N24 Doku",
       "logo": null,
@@ -102395,7 +102171,7 @@
       "id": "NBATV.us",
       "name": "NBA TV",
       "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/nbatv-usa/playlist.m3u8",
+      "url": "https://cdn1.ayitistream.com/NBATV/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -102515,27 +102291,6 @@
       ]
     },
     {
-      "id": "NBCSportsBayArea.us",
-      "name": "NBC Sports Bay Area",
-      "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": "NBC Sports Regional Networks",
-      "owners": [
-        "NBCUniversal",
-        "Comcast Corporation"
-      ]
-    },
-    {
       "id": "NBCSportsNOW.us",
       "name": "NBC Sports NOW",
       "logo": null,
@@ -102553,27 +102308,6 @@
         "NBC Sports"
       ],
       "network": "NBC",
-      "owners": [
-        "NBCUniversal",
-        "Comcast Corporation"
-      ]
-    },
-    {
-      "id": "NBCSportsPhiladelphia.us",
-      "name": "NBC Sports Philadelphia",
-      "logo": null,
-      "url": "https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": "NBC Sports Regional Networks",
       "owners": [
         "NBCUniversal",
         "Comcast Corporation"
@@ -103812,7 +103546,7 @@
       "id": "NewsIndia24x7.in",
       "name": "News India 24x7",
       "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/273/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/273/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -103830,7 +103564,7 @@
       "id": "NewsJ.in",
       "name": "News J",
       "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/1279/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1279/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -103946,7 +103680,7 @@
       "id": "NewsTamil24x7.in",
       "name": "News Tamil 24x7",
       "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/1433/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1433/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -104717,26 +104451,6 @@
       ]
     },
     {
-      "id": "NewsTimeBangla.in",
-      "name": "NewsTime Bangla",
-      "logo": null,
-      "url": "https://cdn-2.pishow.tv/live/1494/master.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Brand Value Communications"
-      ]
-    },
-    {
       "id": "NewsWorld.hk",
       "name": "NewsWorld",
       "logo": null,
@@ -105071,6 +104785,26 @@
       "owners": []
     },
     {
+      "id": "NHTamilGold.in",
+      "name": "NH Tamil Gold",
+      "logo": null,
+      "url": "https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "NH தமிழ் தங்கம்"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "NHKGeneralTV.jp",
       "name": "NHK General TV",
       "logo": null,
@@ -105297,6 +105031,26 @@
       ]
     },
     {
+      "id": "NickJr.it",
+      "name": "Nick Jr.",
+      "logo": null,
+      "url": "http://102.129.186.182:81/nick/index.m3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Networks EMEAA"
+      ]
+    },
+    {
       "id": "NickJr.ru",
       "name": "Nick Jr.",
       "logo": null,
@@ -105339,7 +105093,7 @@
       "id": "NickJrAsia.sg",
       "name": "Nick Jr. Asia",
       "logo": null,
-      "url": "http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8",
+      "url": "http://58.8.186.128:10003/bysid/2330",
       "country": "Singapore",
       "countryCode": "SG",
       "language_primary": null,
@@ -105396,27 +105150,6 @@
       "altNames": [
         "Nickelodeon Nick Jr. Club"
       ],
-      "network": "Nickelodeon",
-      "owners": [
-        "Viacom International Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "NickJrLatinAmerica.us",
-      "name": "Nick Jr. Latin America",
-      "logo": null,
-      "url": "https://streamer.metronethn.com/NickJr/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
       "network": "Nickelodeon",
       "owners": [
         "Viacom International Inc.",
@@ -106473,7 +106206,7 @@
       "id": "NireekshanaTV.in",
       "name": "Nireekshana TV",
       "logo": null,
-      "url": "https://cdn-1.pishow.tv/live/965/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/965/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -106506,6 +106239,28 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Nitro.de",
+      "name": "Nitro",
+      "logo": null,
+      "url": "https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "RTL Nitro"
+      ],
+      "network": null,
+      "owners": [
+        "RTL Group"
+      ]
     },
     {
       "id": "NizhniyNovgorod24.ru",
@@ -112321,7 +112076,7 @@
       "id": "OrangeBanglaTV.in",
       "name": "Orange Bangla TV",
       "logo": null,
-      "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1499/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -116329,24 +116084,6 @@
       "owners": []
     },
     {
-      "id": "PGTV.bz",
-      "name": "PGTV",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/16-PGTV/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "PhenomenalLifeTV.ng",
       "name": "Phenomenal Life TV",
       "logo": null,
@@ -117250,26 +116987,6 @@
       "network": null,
       "owners": [
         "1+1 Media Group"
-      ]
-    },
-    {
-      "id": "PlusTV.bz",
-      "name": "PlusTV",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/04-PLUS/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Shamax Productions LTD"
       ]
     },
     {
@@ -133049,7 +132766,7 @@
       "id": "Ramdhenu.in",
       "name": "Ramdhenu",
       "logo": null,
-      "url": "https://cdn-7.pishow.tv/live/10016/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/10016/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -133087,7 +132804,7 @@
       "id": "Rang.in",
       "name": "Rang",
       "logo": null,
-      "url": "https://cdn-7.pishow.tv/live/10017/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/10017/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -137005,6 +136722,24 @@
       "owners": []
     },
     {
+      "id": "ROCKEntertainment.sg",
+      "name": "ROCK Entertainment",
+      "logo": null,
+      "url": "http://58.8.186.128:10006/bysid/2612",
+      "country": "Singapore",
+      "countryCode": "SG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "RockTV.mk",
       "name": "Rock TV",
       "logo": null,
@@ -137040,6 +136775,26 @@
       "network": null,
       "owners": [
         "Antenna Group"
+      ]
+    },
+    {
+      "id": "ROCKXStream.sg",
+      "name": "ROCK X Stream",
+      "logo": null,
+      "url": "http://58.8.186.128:10007/bysid/2811",
+      "country": "Singapore",
+      "countryCode": "SG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "ROCK Network",
+      "owners": [
+        "Rock Entertainment Holdings"
       ]
     },
     {
@@ -138290,7 +138045,7 @@
       "id": "RTL.de",
       "name": "RTL",
       "logo": null,
-      "url": "https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz",
+      "url": "https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -138622,7 +138377,7 @@
       "id": "RTLSuper.de",
       "name": "RTL Super",
       "logo": null,
-      "url": "https://forsizero.github.io/iptv/m3u/superrtlhd.m3u",
+      "url": "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -138706,7 +138461,7 @@
       "id": "RTLZwei.de",
       "name": "RTL Zwei",
       "logo": null,
-      "url": "https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz",
+      "url": "https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -141540,7 +141295,7 @@
       "id": "SaamTV.in",
       "name": "Saam TV",
       "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/437/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/437/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -142077,7 +141832,7 @@
         "General"
       ],
       "altNames": [
-        "شبکه آذربایجان شرقی"
+        "شبکه آذربایجان ش��قی"
       ],
       "network": null,
       "owners": []
@@ -142104,7 +141859,7 @@
       "id": "SairamTV.in",
       "name": "Sairam TV",
       "logo": null,
-      "url": "https://cdn-3.pishow.tv/live/1611/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/1611/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -143323,7 +143078,7 @@
       "id": "SantvaniChannel.in",
       "name": "Santvani Channel",
       "logo": null,
-      "url": "https://cdn-2.pishow.tv/live/475/master.m3u8",
+      "url": "https://cdn.pishow.tv/ott/live/475/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -145434,7 +145189,7 @@
       "id": "SetantaSports.uk",
       "name": "Setanta Sports",
       "logo": null,
-      "url": "http://stream.mcquack.net/313/index.m3u8",
+      "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -149524,24 +149279,6 @@
       "owners": []
     },
     {
-      "id": "SonLaTV.vn",
-      "name": "Son La TV",
-      "logo": null,
-      "url": "https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8",
-      "country": "Vietnam",
-      "countryCode": "VN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Sonce.ua",
       "name": "Sonce",
       "logo": null,
@@ -152562,6 +152299,42 @@
       ]
     },
     {
+      "id": "SPOTV.id",
+      "name": "SPOTV",
+      "logo": null,
+      "url": "http://58.8.186.128:10006/bysid/2614",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SPOTV2.id",
+      "name": "SPOTV 2",
+      "logo": null,
+      "url": "http://58.8.186.128:10006/bysid/2630",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SPTV.us",
       "name": "SPTV",
       "logo": null,
@@ -152786,31 +152559,6 @@
       "owners": []
     },
     {
-      "id": "StarBharat.in",
-      "name": "Star Bharat",
-      "logo": null,
-      "url": "http://103.253.18.58:8000/play/a00u",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "Life OK",
-        "Star One"
-      ],
-      "network": "JioStar",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
       "id": "StarChannel.bg",
       "name": "Star Channel",
       "logo": null,
@@ -152953,7 +152701,7 @@
       "id": "StarChannelLatinAmerica.us",
       "name": "Star Channel Latin America",
       "logo": null,
-      "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
+      "url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -153764,28 +153512,10 @@
       "owners": []
     },
     {
-      "id": "StarUtsavMovies.in",
-      "name": "Star Utsav Movies",
-      "logo": null,
-      "url": "http://149.71.34.166:8000/play/a059/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "StarVijay.in",
       "name": "Star Vijay",
       "logo": null,
-      "url": "http://149.71.34.166:8000/play/a06i/index.m3u8",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -157732,6 +157462,26 @@
         "SWR Fernsehen Baden-Württemberg",
         "SWR Fernsehen BW"
       ],
+      "network": null,
+      "owners": [
+        "Südwestrundfunk"
+      ]
+    },
+    {
+      "id": "SWRFernsehenHD.de",
+      "name": "SWR Fernsehen HD",
+      "logo": null,
+      "url": "https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "Südwestrundfunk"
@@ -165932,26 +165682,6 @@
       "owners": []
     },
     {
-      "id": "TheNationalChannel10.bz",
-      "name": "The National Channel 10",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/10-TNC/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "TNC10"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TheNest.us",
       "name": "The Nest",
       "logo": null,
@@ -166266,6 +165996,24 @@
       "section": "general",
       "categories": [
         "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TheVoiceTV.in",
+      "name": "The Voice TV",
+      "logo": null,
+      "url": "https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -167773,24 +167521,6 @@
       "owners": []
     },
     {
-      "id": "TNCSports.bz",
-      "name": "TNC Sports",
-      "logo": null,
-      "url": "https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TNE.cl",
       "name": "TNE",
       "logo": null,
@@ -168622,6 +168352,24 @@
       "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
       "country": "Thailand",
       "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TopNewsMarathi.in",
+      "name": "Top News Marathi",
+      "logo": null,
+      "url": "https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -170846,6 +170594,60 @@
       "owners": []
     },
     {
+      "id": "TrueFilm1.th",
+      "name": "True Film 1",
+      "logo": null,
+      "url": "http://58.8.186.128:10004/bysid/2415",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TrueFilm2.th",
+      "name": "True Film 2",
+      "logo": null,
+      "url": "http://58.8.186.128:10004/bysid/2432",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TrueFilmAsia.th",
+      "name": "True Film Asia",
+      "logo": null,
+      "url": "http://58.8.186.128:10004/bysid/2416",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TrueHistory.us",
       "name": "True History",
       "logo": null,
@@ -170858,6 +170660,60 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TrueMovieHits.th",
+      "name": "True Movie Hits",
+      "logo": null,
+      "url": "http://58.8.186.128:10003/bysid/2325",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TrueTennis.th",
+      "name": "True Tennis",
+      "logo": null,
+      "url": "http://58.8.186.128:10004/bysid/2418",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TrueThaiFilm.th",
+      "name": "True Thai Film",
+      "logo": null,
+      "url": "http://58.8.186.128:10003/bysid/2326",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
       ],
       "altNames": [],
       "network": null,
@@ -178099,6 +177955,24 @@
       "owners": []
     },
     {
+      "id": "TV27News.in",
+      "name": "TV27 News",
+      "logo": null,
+      "url": "https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TV3.es",
       "name": "TV3",
       "logo": null,
@@ -178248,6 +178122,24 @@
       "owners": []
     },
     {
+      "id": "TV30India.in",
+      "name": "TV30 India",
+      "logo": null,
+      "url": "https://stream.tv30bharat.com/hls/shree/bhattji.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TV38SudostNiedersachen.de",
       "name": "TV38 Sudost-Niedersachen",
       "logo": null,
@@ -178356,6 +178248,24 @@
       "section": "general",
       "categories": [
         "Legislativo"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TV45.in",
+      "name": "TV45",
+      "logo": null,
+      "url": "https://server.livelegitpro.in/bnews24/bnews24/video.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -180568,6 +180478,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "tvNAsia.hk",
+      "name": "tvN Asia",
+      "logo": null,
+      "url": "http://58.8.186.128:10005/bysid/2518",
+      "country": "Hong Kong",
+      "countryCode": "HK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "CJ E&M"
+      ]
     },
     {
       "id": "TVN24.do",
@@ -182935,6 +182865,24 @@
       "owners": [
         "Media-1"
       ]
+    },
+    {
+      "id": "UBangla.in",
+      "name": "U Bangla",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/ubangla/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "UChannel.id",
@@ -187630,26 +187578,6 @@
       "owners": []
     },
     {
-      "id": "VibesMedia.bz",
-      "name": "Vibes Media",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/09-POSVIBES/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "People's United Party"
-      ]
-    },
-    {
       "id": "VICETV.us",
       "name": "VICE TV",
       "logo": null,
@@ -188665,6 +188593,24 @@
       ]
     },
     {
+      "id": "VistaarNews.in",
+      "name": "Vistaar News",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "VisualRadio.it",
       "name": "Visual Radio",
       "logo": null,
@@ -189390,6 +189336,26 @@
       "owners": []
     },
     {
+      "id": "VOX.de",
+      "name": "VOX",
+      "logo": null,
+      "url": "https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Vox Television GmbH"
+      ]
+    },
+    {
       "id": "VoyagesSaveurs.es",
       "name": "Voyages & Saveurs",
       "logo": null,
@@ -189445,6 +189411,24 @@
       "section": "español",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "VRLive.in",
+      "name": "VR Live",
+      "logo": null,
+      "url": "https://channel.vrlivegujarat.com/hls/vrchannel.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -190612,24 +190596,6 @@
       "owners": []
     },
     {
-      "id": "WAVETV.bz",
-      "name": "WAVE TV",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/08-WAVE/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "WavezFM.aw",
       "name": "Wavez FM",
       "logo": null,
@@ -191202,6 +191168,26 @@
       "network": null,
       "owners": [
         "Welat TV"
+      ]
+    },
+    {
+      "id": "WELT.de",
+      "name": "WELT",
+      "logo": null,
+      "url": "https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "WeltN24 GmbH"
       ]
     },
     {
@@ -193316,26 +193302,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "XTV.bz",
-      "name": "XTV",
-      "logo": null,
-      "url": "https://streamer2.nexgen.bz/02-KREM/index.m3u8",
-      "country": "Belize",
-      "countryCode": "BZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Kremandala Ltd"
-      ]
     },
     {
       "id": "XuzhouEconomicLifeChannel.cn",
@@ -197833,12 +197799,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 384
+      "count": 383
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 587
+      "count": 592
     },
     {
       "id": "series",
@@ -197848,7 +197814,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 411
+      "count": 410
     },
     {
       "id": "español",
@@ -197858,31 +197824,31 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6353
+      "count": 6350
     }
   ],
   "stats": {
-    "total": 31377,
+    "total": 31360,
     "withStreams": 9986,
     "spanish": 1933,
     "adult": 78,
     "bySection": {
-      "peliculas": 587,
-      "general": 6353,
+      "peliculas": 592,
+      "general": 6350,
       "español": 1821,
-      "infantil": 411,
+      "infantil": 410,
       "series": 352,
-      "deportes": 384
+      "deportes": 383
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1572,
+        "count": 1569,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 701,
+        "count": 708,
         "name": "India"
       },
       {
@@ -197892,7 +197858,7 @@
       },
       {
         "code": "DE",
-        "count": 418,
+        "count": 422,
         "name": "Germany"
       },
       {
@@ -197902,7 +197868,7 @@
       },
       {
         "code": "IT",
-        "count": 251,
+        "count": 252,
         "name": "Italy"
       },
       {
@@ -197927,6 +197893,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-14T01:46:01.930Z",
+  "lastUpdated": "2026-09-15T01:56:23.381Z",
   "source": "orion-stream"
 }
