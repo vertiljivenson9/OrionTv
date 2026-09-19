@@ -8988,6 +8988,28 @@
       "owners": []
     },
     {
+      "id": "AlankarTV.in",
+      "name": "Alankar TV",
+      "logo": null,
+      "url": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "ଅଳଙ୍କାର"
+      ],
+      "network": "Odisha Television Network",
+      "owners": [
+        "Odisha Television Ltd."
+      ]
+    },
+    {
       "id": "AlanyaPostaTV.tr",
       "name": "Alanya Posta TV",
       "logo": null,
@@ -17072,24 +17094,6 @@
       ]
     },
     {
-      "id": "AXNPoland.pl",
-      "name": "AXN Poland",
-      "logo": null,
-      "url": "http://193.24.244.60:1001/udp/239.254.5.5:6060",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "AXNSpin.hu",
       "name": "AXN Spin",
       "logo": null,
@@ -17108,24 +17112,6 @@
       "owners": [
         "Antenna Group"
       ]
-    },
-    {
-      "id": "AXNSpin.pl",
-      "name": "AXN Spin",
-      "logo": null,
-      "url": "http://193.24.244.60:1001/udp/239.254.5.6:6060",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "AXNWhite.us",
@@ -25198,29 +25184,6 @@
       "owners": []
     },
     {
-      "id": "BTB.pl",
-      "name": "BTB",
-      "logo": null,
-      "url": "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Telewizja BTB",
-        "Bombaska Telewizja Boża"
-      ],
-      "network": "Telewizja BTB",
-      "owners": [
-        "Telewizja BTB"
-      ]
-    },
-    {
       "id": "BTB2.pl",
       "name": "BTB 2",
       "logo": null,
@@ -32442,7 +32405,7 @@
       "id": "CartoonClassics.pl",
       "name": "Cartoon Classics",
       "logo": null,
-      "url": "http://5.188.159.128:8070/Cartoon_Network/index.m3u8",
+      "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -59296,26 +59259,6 @@
       "owners": []
     },
     {
-      "id": "FILMBOXPlusAction.pl",
-      "name": "FILMBOX+ Action",
-      "logo": null,
-      "url": "https://polska.hach.workers.dev/14864.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "FILMBOX+",
-      "owners": [
-        "SPI International"
-      ]
-    },
-    {
       "id": "FILMBOXPlusComedy.pl",
       "name": "FILMBOX+ Comedy",
       "logo": null,
@@ -60671,26 +60614,6 @@
       "owners": []
     },
     {
-      "id": "Fox.pl",
-      "name": "Fox",
-      "logo": null,
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6108/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Fox Networks Group Polska Sp. zo.o"
-      ]
-    },
-    {
       "id": "Fox.ru",
       "name": "Fox",
       "logo": null,
@@ -60866,28 +60789,6 @@
       ],
       "altNames": [
         "FS1"
-      ],
-      "network": "Fox Sports",
-      "owners": [
-        "Fox Sports Media Group"
-      ]
-    },
-    {
-      "id": "FoxSports2.us",
-      "name": "Fox Sports 2",
-      "logo": null,
-      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "FS2"
       ],
       "network": "Fox Sports",
       "owners": [
@@ -71009,6 +70910,24 @@
       "owners": [
         "Qurate Retail Group"
       ]
+    },
+    {
+      "id": "HSTV.in",
+      "name": "HSTV",
+      "logo": null,
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "hstv media",
+      "owners": []
     },
     {
       "id": "HTRTV.nl",
@@ -81509,7 +81428,7 @@
         "Películas"
       ],
       "altNames": [
-        "Киноуж��с"
+        "Киноужас"
       ],
       "network": null,
       "owners": [
@@ -90863,31 +90782,6 @@
       ]
     },
     {
-      "id": "Mango.pl",
-      "name": "Mango",
-      "logo": null,
-      "url": "https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Compras"
-      ],
-      "altNames": [
-        "Mango24"
-      ],
-      "network": "Cyfrowy Polsat",
-      "owners": [
-        "Telewizja Polsat",
-        "Cyfrowy Polsat",
-        "TVO",
-        "Tvokazje"
-      ]
-    },
-    {
       "id": "MangoMobileTV.in",
       "name": "Mango Mobile TV",
       "logo": null,
@@ -97711,26 +97605,6 @@
       ]
     },
     {
-      "id": "Motowizja.pl",
-      "name": "Motowizja",
-      "logo": null,
-      "url": "https://polska.hach.workers.dev/14808.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Automovilismo"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Motowizja SP Z O O"
-      ]
-    },
-    {
       "id": "MovieBangla.bd",
       "name": "Movie Bangla",
       "logo": null,
@@ -100590,7 +100464,7 @@
       "id": "MusicBoxPolska.pl",
       "name": "Music Box Polska",
       "logo": null,
-      "url": "http://193.24.244.60:1001/udp/239.254.4.237:6060",
+      "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -107213,28 +107087,6 @@
       ]
     },
     {
-      "id": "Nicktoons.pl",
-      "name": "Nicktoons",
-      "logo": null,
-      "url": "http://193.24.244.60:1001/udp/239.254.5.227:6060",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Nicktoons Polska"
-      ],
-      "network": "Nickelodeon",
-      "owners": [
-        "Paramount Global"
-      ]
-    },
-    {
       "id": "Nicktoons.ro",
       "name": "Nicktoons",
       "logo": null,
@@ -108819,6 +108671,24 @@
       "owners": [
         "VXDGroup"
       ]
+    },
+    {
+      "id": "NovynyLive.ua",
+      "name": "Novyny.Live",
+      "logo": null,
+      "url": "rtmp://95.67.11.153/klive/stream",
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "Now14.il",
@@ -125868,48 +125738,6 @@
       ]
     },
     {
-      "id": "Polsat.pl",
-      "name": "Polsat",
-      "logo": null,
-      "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Cyfrowy Polsat",
-      "owners": [
-        "Telewizja Polsat",
-        "Cyfrowy Polsat"
-      ]
-    },
-    {
-      "id": "Polsat1.pl",
-      "name": "Polsat 1",
-      "logo": null,
-      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Cyfrowy Polsat",
-      "owners": [
-        "Telewizja Polsat",
-        "Cyfrowy Polsat"
-      ]
-    },
-    {
       "id": "PolsatJimJam.pl",
       "name": "Polsat JimJam",
       "logo": null,
@@ -125929,123 +125757,6 @@
         "Cyfrowy Polsat S.A.",
         "AMC Networks Inc."
       ]
-    },
-    {
-      "id": "PolsatNews.pl",
-      "name": "Polsat News",
-      "logo": null,
-      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": "Cyfrowy Polsat",
-      "owners": [
-        "Telewizja Polsat",
-        "Cyfrowy Polsat"
-      ]
-    },
-    {
-      "id": "PolsatNews2.pl",
-      "name": "Polsat News 2",
-      "logo": null,
-      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": "Cyfrowy Polsat",
-      "owners": [
-        "Telewizja Polsat",
-        "Cyfrowy Polsat"
-      ]
-    },
-    {
-      "id": "PolsatNewsPolityka.pl",
-      "name": "Polsat News Polityka",
-      "logo": null,
-      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": "Cyfrowy Polsat",
-      "owners": [
-        "Telewizja Polsat",
-        "Cyfrowy Polsat"
-      ]
-    },
-    {
-      "id": "PolsatSport1.pl",
-      "name": "Polsat Sport 1",
-      "logo": null,
-      "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "PolsatSportPremium1.pl",
-      "name": "Polsat Sport Premium 1",
-      "logo": null,
-      "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "PolsatSportPremium2.pl",
-      "name": "Polsat Sport Premium 2",
-      "logo": null,
-      "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7305/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "PolsatViasatHistory.pl",
@@ -135290,6 +135001,26 @@
       "owners": []
     },
     {
+      "id": "RealityChannel.il",
+      "name": "Reality Channel",
+      "logo": null,
+      "url": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "ערוץ הריאליטי"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Record.br",
       "name": "Record",
       "logo": null,
@@ -136412,26 +136143,6 @@
         "Infantil"
       ],
       "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "RelevantTV.il",
-      "name": "Relevant TV",
-      "logo": null,
-      "url": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8",
-      "country": "Israel",
-      "countryCode": "IL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "רלוונט"
-      ],
       "network": null,
       "owners": []
     },
@@ -138892,6 +138603,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "RoyaTV.jo",
+      "name": "Roya TV",
+      "logo": null,
+      "url": "https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8",
+      "country": "Jordan",
+      "countryCode": "JO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "رؤيا تي في"
+      ],
+      "network": null,
+      "owners": [
+        "Sayegh Group"
+      ]
     },
     {
       "id": "Royalworld.pl",
@@ -182782,26 +182515,6 @@
       "owners": []
     },
     {
-      "id": "TVP3Warszawa.pl",
-      "name": "TVP 3 Warszawa",
-      "logo": null,
-      "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7284/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "TVP",
-      "owners": [
-        "Telewizja Polska"
-      ]
-    },
-    {
       "id": "TVPCuliacan.mx",
       "name": "TVP Culiacan",
       "logo": null,
@@ -182824,50 +182537,10 @@
       ]
     },
     {
-      "id": "TVPDokument.pl",
-      "name": "TVP Dokument",
-      "logo": null,
-      "url": "https://tvpi.travny.workers.dev/tvpdokument.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "TVP",
-      "owners": [
-        "Telewizja Polska"
-      ]
-    },
-    {
-      "id": "TVPHistoria.pl",
-      "name": "TVP Historia",
-      "logo": null,
-      "url": "https://tvp3.cache.orange.pl/tvp/live/JQmETX58eM7X32i5AVKZRQ/1783368986/video/live/live171/nginx/TKH/156/master.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "TVP",
-      "owners": [
-        "Telewizja Polska"
-      ]
-    },
-    {
       "id": "TVPInfo.pl",
       "name": "TVP Info",
       "logo": null,
-      "url": "https://tvpi.travny.workers.dev/tvpinfo.m3u8",
+      "url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -182951,7 +182624,7 @@
       "id": "TVPPolonia.pl",
       "name": "TVP Polonia",
       "logo": null,
-      "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7282/index.m3u8",
+      "url": "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -182960,26 +182633,6 @@
       "section": "general",
       "categories": [
         "General"
-      ],
-      "altNames": [],
-      "network": "TVP",
-      "owners": [
-        "Telewizja Polska"
-      ]
-    },
-    {
-      "id": "TVPSport.pl",
-      "name": "TVP Sport",
-      "logo": null,
-      "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7280/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
       ],
       "altNames": [],
       "network": "TVP",
@@ -182991,7 +182644,7 @@
       "id": "TVPWorld.pl",
       "name": "TVP World",
       "logo": null,
-      "url": "https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8",
+      "url": "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -183000,46 +182653,6 @@
       "section": "general",
       "categories": [
         "Noticias"
-      ],
-      "altNames": [],
-      "network": "TVP",
-      "owners": [
-        "Telewizja Polska"
-      ]
-    },
-    {
-      "id": "TVP1.pl",
-      "name": "TVP1",
-      "logo": null,
-      "url": "https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "TVP",
-      "owners": [
-        "Telewizja Polska"
-      ]
-    },
-    {
-      "id": "TVP2.pl",
-      "name": "TVP2",
-      "logo": null,
-      "url": "https://tvpi.travny.workers.dev/tvp2.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
       ],
       "altNames": [],
       "network": "TVP",
@@ -187085,6 +186698,26 @@
       "owners": []
     },
     {
+      "id": "VacationChannel.il",
+      "name": "Vacation Channel",
+      "logo": null,
+      "url": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "הנופש ערוץ"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ValeTV.ve",
       "name": "Vale TV",
       "logo": null,
@@ -190651,6 +190284,24 @@
       ]
     },
     {
+      "id": "VivaPremium.il",
+      "name": "Viva Premium",
+      "logo": null,
+      "url": "http://stream.mcquack.net/43/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "VivaTV.ni",
       "name": "Viva TV",
       "logo": null,
@@ -191972,7 +191623,7 @@
       "id": "WPolscePL.pl",
       "name": "W Polsce PL",
       "logo": null,
-      "url": "https://lowa8026-cmyk.github.io/WPolscePL.m3u8",
+      "url": "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -199766,22 +199417,22 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 387
+      "count": 383
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 607
+      "count": 606
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 353
+      "count": 352
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 416
+      "count": 415
     },
     {
       "id": "español",
@@ -199791,31 +199442,31 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6425
+      "count": 6415
     }
   ],
   "stats": {
-    "total": 31347,
-    "withStreams": 10087,
+    "total": 31487,
+    "withStreams": 10070,
     "spanish": 1933,
     "adult": 78,
     "bySection": {
-      "peliculas": 607,
-      "general": 6425,
+      "peliculas": 606,
+      "general": 6415,
       "español": 1821,
-      "infantil": 416,
-      "series": 353,
-      "deportes": 387
+      "infantil": 415,
+      "series": 352,
+      "deportes": 383
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1571,
+        "count": 1570,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 756,
+        "count": 758,
         "name": "India"
       },
       {
@@ -199860,6 +199511,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-18T01:38:10.188Z",
+  "lastUpdated": "2026-09-19T01:42:26.390Z",
   "source": "orion-stream"
 }
