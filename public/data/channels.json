@@ -60028,26 +60028,6 @@
       ]
     },
     {
-      "id": "FoodNetwork.ie",
-      "name": "Food Network",
-      "logo": null,
-      "url": "http://hls127.freeott.top:8080/Food_Network_SD/video.m3u8",
-      "country": "Ireland",
-      "countryCode": "IE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Cocina"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Warner Bros. Discovery"
-      ]
-    },
-    {
       "id": "FoodTime.ru",
       "name": "FoodTime",
       "logo": null,
@@ -68551,9 +68531,7 @@
       "categories": [
         "Documentales"
       ],
-      "altNames": [
-        "History 2 Brasil"
-      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -88736,24 +88714,6 @@
       "owners": []
     },
     {
-      "id": "MSignMedia.in",
-      "name": "M Sign Media",
-      "logo": null,
-      "url": "http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "MSports.pk",
       "name": "M Sports",
       "logo": null,
@@ -90129,26 +90089,6 @@
       "network": "MakroDigital Television",
       "owners": [
         "MakroDigital Television"
-      ]
-    },
-    {
-      "id": "MalabarNews.in",
-      "name": "Malabar News",
-      "logo": null,
-      "url": "http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Malabar Media and Publications Private Limited"
       ]
     },
     {
@@ -91729,6 +91669,26 @@
       ]
     },
     {
+      "id": "MatribhumiTV.bd",
+      "name": "Matribhumi TV",
+      "logo": null,
+      "url": "http://live.playmax.live/matribhumi/index.m3u8",
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "মাতৃভূমি টিভি"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "MatrixTVYogyakarta.id",
       "name": "Matrix TV Yogyakarta",
       "logo": null,
@@ -92017,24 +91977,6 @@
       "altNames": [
         "Canal 66"
       ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "Mayyazhi.in",
-      "name": "Mayyazhi",
-      "logo": null,
-      "url": "http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -92747,26 +92689,6 @@
       "owners": [
         "Pluto TV Europe GmbH",
         "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "MCMTop.fr",
-      "name": "MCM Top",
-      "logo": null,
-      "url": "http://89.33.29.118/MCM/index.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Groupe M6"
       ]
     },
     {
@@ -105904,28 +105826,6 @@
       "owners": []
     },
     {
-      "id": "NickHDPlus.in",
-      "name": "Nick HD+",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1226.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": "Nickelodeon",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
       "id": "NickJr.cz",
       "name": "Nick Jr.",
       "logo": null,
@@ -107613,6 +107513,24 @@
       "section": "español",
       "categories": [
         "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "NorteTV.ar",
+      "name": "Norte TV",
+      "logo": null,
+      "url": "https://ntvcanal7.com.ar:81/dash/stream.mpd",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -111746,6 +111664,31 @@
       "network": null,
       "owners": [
         "Eirkur Sigurbjornsson"
+      ]
+    },
+    {
+      "id": "OmegaChannel.cy",
+      "name": "Omega Channel",
+      "logo": null,
+      "url": "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8",
+      "country": "Cyprus",
+      "countryCode": "CY",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Ο Λόγος",
+        "Mega Channel",
+        "MegaOne",
+        "TVOne"
+      ],
+      "network": null,
+      "owners": [
+        "Omega Channel Ltd."
       ]
     },
     {
@@ -122728,27 +122671,6 @@
       ]
     },
     {
-      "id": "PlutoTVPokemon.us",
-      "name": "Pluto TV Pokemon",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Infantil"
-      ],
-      "altNames": [
-        "Pokémon"
-      ],
-      "network": "Pluto TV",
-      "owners": []
-    },
-    {
       "id": "PlutoTVPolar.de",
       "name": "Pluto TV Polar",
       "logo": null,
@@ -125424,6 +125346,24 @@
       "owners": [
         "Polimer TV Network"
       ]
+    },
+    {
+      "id": "PolsatGames.pl",
+      "name": "Polsat Games",
+      "logo": null,
+      "url": "http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "PolsatJimJam.pl",
@@ -142062,10 +142002,73 @@
       "owners": []
     },
     {
+      "id": "SCorbyTV.us",
+      "name": "S Corby TV",
+      "logo": null,
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "playout.video"
+      ],
+      "network": null,
+      "owners": [
+        "S Plus Group"
+      ]
+    },
+    {
       "id": "SFree.us",
       "name": "S Free!",
       "logo": null,
       "url": "https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "S Plus Group"
+      ]
+    },
+    {
+      "id": "SKPop.us",
+      "name": "S KPop!",
+      "logo": null,
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Música",
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "S Plus Group"
+      ]
+    },
+    {
+      "id": "SMetroTV.us",
+      "name": "S Metro TV",
+      "logo": null,
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -143647,7 +143650,7 @@
       "id": "SangeetBhojpuri.in",
       "name": "Sangeet Bhojpuri",
       "logo": null,
-      "url": "http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -143785,7 +143788,7 @@
       "id": "SansadTV2.in",
       "name": "Sansad TV 2",
       "logo": null,
-      "url": "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -144136,7 +144139,7 @@
       "id": "SarvDharamSangam.in",
       "name": "Sarv Dharam Sangam",
       "logo": null,
-      "url": "http://103.72.101.252:8080/live/972.m3u8",
+      "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -147225,7 +147228,7 @@
       "id": "ShemarooFilmiGaane.in",
       "name": "Shemaroo Filmi Gaane",
       "logo": null,
-      "url": "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8",
+      "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -147246,7 +147249,7 @@
       "id": "ShemarooJosh.in",
       "name": "Shemaroo Josh",
       "logo": null,
-      "url": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
+      "url": "https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -147268,7 +147271,7 @@
       "id": "ShemarooMarathiBana.in",
       "name": "Shemaroo Marathi Bana",
       "logo": null,
-      "url": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlSHEMAROOMARATHIBANA/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -148383,7 +148386,7 @@
       "id": "SirippoliTV.in",
       "name": "Sirippoli TV",
       "logo": null,
-      "url": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8",
+      "url": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -150325,7 +150328,7 @@
       "id": "SongdewTV.in",
       "name": "Songdew TV",
       "logo": null,
-      "url": "http://103.72.101.252:8080/live/1411.m3u8",
+      "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -185558,8 +185561,11 @@
         "Series"
       ],
       "altNames": [],
-      "network": "Pluto TV",
-      "owners": []
+      "network": "FilmRise",
+      "owners": [
+        "Radial Entertainment",
+        "Oaktree Capital Management L.P."
+      ]
     },
     {
       "id": "UpNetwork.cz",
@@ -199019,23 +199025,23 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1821
+      "count": 1822
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6405
+      "count": 6404
     }
   ],
   "stats": {
-    "total": 31492,
+    "total": 31499,
     "withStreams": 10050,
-    "spanish": 1934,
+    "spanish": 1935,
     "adult": 78,
     "bySection": {
       "peliculas": 603,
-      "general": 6405,
-      "español": 1821,
+      "general": 6404,
+      "español": 1822,
       "infantil": 415,
       "series": 351,
       "deportes": 377
@@ -199043,12 +199049,12 @@
     "topCountries": [
       {
         "code": "US",
-        "count": 1570,
+        "count": 1572,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 745,
+        "count": 741,
         "name": "India"
       },
       {
@@ -199093,6 +199099,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-20T01:44:18.836Z",
+  "lastUpdated": "2026-09-21T01:45:32.377Z",
   "source": "orion-stream"
 }
