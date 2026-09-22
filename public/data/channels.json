@@ -386,6 +386,24 @@
       "owners": []
     },
     {
+      "id": "101tvAntequera.es",
+      "name": "101tv Antequera",
+      "logo": null,
+      "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "101tvCadiz.es",
       "name": "101tv Cadiz",
       "logo": null,
@@ -2864,6 +2882,26 @@
       "owners": [
         "Inter Media Group"
       ]
+    },
+    {
+      "id": "6TVGorlovka.ru",
+      "name": "6 TV Gorlovka",
+      "logo": null,
+      "url": "http://91.214.48.158:4022/udp/224.2.2.4:10000",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "6 ТВ Горловка"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "6TVTelugu.in",
@@ -20606,6 +20644,27 @@
       "network": null,
       "owners": [
         "Belle Amie d.o.o."
+      ]
+    },
+    {
+      "id": "BemMaisTV.br",
+      "name": "Bem Mais TV",
+      "logo": null,
+      "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Cultura",
+        "Educación"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Historical Cities Foundation"
       ]
     },
     {
@@ -47273,7 +47332,7 @@
       "id": "DhoolTV.in",
       "name": "Dhool TV",
       "logo": null,
-      "url": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -47996,6 +48055,24 @@
       "section": "español",
       "categories": [
         "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "DiscoPoloMusic.pl",
+      "name": "Disco Polo Music",
+      "logo": null,
+      "url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
       ],
       "altNames": [],
       "network": null,
@@ -63912,7 +63989,7 @@
         "General"
       ],
       "altNames": [
-        "Globovisión"
+        "Globovisi��n"
       ],
       "network": null,
       "owners": [
@@ -73023,24 +73100,6 @@
       "owners": [
         "Christian Era Broadcasting Service International"
       ]
-    },
-    {
-      "id": "Ind24.in",
-      "name": "Ind 24",
-      "logo": null,
-      "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "India.ru",
@@ -90432,6 +90491,31 @@
       ]
     },
     {
+      "id": "Mango.pl",
+      "name": "Mango",
+      "logo": null,
+      "url": "https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Compras"
+      ],
+      "altNames": [
+        "Mango24"
+      ],
+      "network": "Cyfrowy Polsat",
+      "owners": [
+        "Telewizja Polsat",
+        "Cyfrowy Polsat",
+        "TVO",
+        "Tvokazje"
+      ]
+    },
+    {
       "id": "MangoMobileTV.in",
       "name": "Mango Mobile TV",
       "logo": null,
@@ -93138,6 +93222,26 @@
       "owners": []
     },
     {
+      "id": "MediCOOLTV.ro",
+      "name": "MediCOOL TV",
+      "logo": null,
+      "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Estilo de Vida"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Digital Antena Group"
+      ]
+    },
+    {
       "id": "MediterraniaTV.it",
       "name": "MediterraniaTV",
       "logo": null,
@@ -95739,24 +95843,6 @@
       "section": "general",
       "categories": [
         "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "MKNMarathi.in",
-      "name": "MKN Marathi",
-      "logo": null,
-      "url": "https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -108234,6 +108320,26 @@
       "owners": []
     },
     {
+      "id": "NovorossiyaTV.ru",
+      "name": "Novorossiya TV",
+      "logo": null,
+      "url": "http://31.131.139.253:9002/novoros/index.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "Новороссия ТВ"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "NovyiChannel.ua",
       "name": "Novyi Channel",
       "logo": null,
@@ -113005,6 +113111,26 @@
       "owners": []
     },
     {
+      "id": "OplotTV.ru",
+      "name": "Oplot TV",
+      "logo": null,
+      "url": "http://31.131.139.253:9002/oplot_hd/index.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "Оплот ТВ"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "OraNews.al",
       "name": "Ora News",
       "logo": null,
@@ -115160,9 +115286,14 @@
       "categories": [
         "Legislativo"
       ],
-      "altNames": [],
+      "altNames": [
+        "Parliament TV",
+        "Parliament Channel"
+      ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Government of Malta"
+      ]
     },
     {
       "id": "ParliamentTV.mn",
@@ -125348,6 +125479,48 @@
       ]
     },
     {
+      "id": "Polsat.pl",
+      "name": "Polsat",
+      "logo": null,
+      "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Cyfrowy Polsat",
+      "owners": [
+        "Telewizja Polsat",
+        "Cyfrowy Polsat"
+      ]
+    },
+    {
+      "id": "Polsat1.pl",
+      "name": "Polsat 1",
+      "logo": null,
+      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Cyfrowy Polsat",
+      "owners": [
+        "Telewizja Polsat",
+        "Cyfrowy Polsat"
+      ]
+    },
+    {
       "id": "PolsatGames.pl",
       "name": "Polsat Games",
       "logo": null,
@@ -125385,6 +125558,87 @@
         "Cyfrowy Polsat S.A.",
         "AMC Networks Inc."
       ]
+    },
+    {
+      "id": "PolsatNews.pl",
+      "name": "Polsat News",
+      "logo": null,
+      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": "Cyfrowy Polsat",
+      "owners": [
+        "Telewizja Polsat",
+        "Cyfrowy Polsat"
+      ]
+    },
+    {
+      "id": "PolsatNews2.pl",
+      "name": "Polsat News 2",
+      "logo": null,
+      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": "Cyfrowy Polsat",
+      "owners": [
+        "Telewizja Polsat",
+        "Cyfrowy Polsat"
+      ]
+    },
+    {
+      "id": "PolsatNewsPolityka.pl",
+      "name": "Polsat News Polityka",
+      "logo": null,
+      "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": "Cyfrowy Polsat",
+      "owners": [
+        "Telewizja Polsat",
+        "Cyfrowy Polsat"
+      ]
+    },
+    {
+      "id": "PolsatSport1.pl",
+      "name": "Polsat Sport 1",
+      "logo": null,
+      "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "PolsatViasatHistory.pl",
@@ -128069,24 +128323,6 @@
       "section": "general",
       "categories": [
         "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "PublicFirst.in",
-      "name": "Public First",
-      "logo": null,
-      "url": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -144075,11 +144311,13 @@
       "is_adult": false,
       "section": "general",
       "categories": [
-        "Noticias"
+        "General"
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Moussa Kaka"
+      ]
     },
     {
       "id": "SarapiquiTV.cr",
@@ -150621,7 +150859,7 @@
       "id": "SonyMarathi.in",
       "name": "Sony Marathi",
       "logo": null,
-      "url": "https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8",
+      "url": "https://cloudplay-sonyliv.pages.dev/marathi.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -153220,24 +153458,6 @@
       "owners": []
     },
     {
-      "id": "SportsSquadHaryana.in",
-      "name": "Sports Squad Haryana",
-      "logo": null,
-      "url": "http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "SportsTelevision.kp",
       "name": "Sports Television",
       "logo": null,
@@ -154135,31 +154355,6 @@
       ]
     },
     {
-      "id": "StarSports1Hindi.in",
-      "name": "Star Sports 1 Hindi",
-      "logo": null,
-      "url": "http://103.253.18.58:8000/play/a03o",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Star Sports 3",
-        "Star Cricket"
-      ],
-      "network": "Star Sports",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
       "id": "StarSports2.in",
       "name": "Star Sports 2",
       "logo": null,
@@ -154185,7 +154380,7 @@
       "id": "StarSports2Hindi.in",
       "name": "Star Sports 2 Hindi",
       "logo": null,
-      "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
+      "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -154206,10 +154401,10 @@
       ]
     },
     {
-      "id": "StarSportsKhel.in",
-      "name": "Star Sports Khel",
+      "id": "StarSports2Telugu.in",
+      "name": "Star Sports 2 Telugu",
       "logo": null,
-      "url": "http://103.175.73.12:8080/live/151/151_0.m3u8",
+      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -154220,7 +154415,7 @@
         "Deportes"
       ],
       "altNames": [
-        "Sports18 Khel"
+        "Sports18 2"
       ],
       "network": "Star Sports",
       "owners": [
@@ -157998,7 +158193,7 @@
       "id": "SwarajExpressSMBC.in",
       "name": "Swaraj Express SMBC",
       "logo": null,
-      "url": "https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -158067,426 +158262,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "SwayamPrabha1.in",
-      "name": "Swayam Prabha 1",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/980.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha10.in",
-      "name": "Swayam Prabha 10",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/989.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha11.in",
-      "name": "Swayam Prabha 11",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/990.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha12.in",
-      "name": "Swayam Prabha 12",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/991.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha13.in",
-      "name": "Swayam Prabha 13",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/992.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha14.in",
-      "name": "Swayam Prabha 14",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/993.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha15.in",
-      "name": "Swayam Prabha 15",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/995.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha16.in",
-      "name": "Swayam Prabha 16",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/994.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha17.in",
-      "name": "Swayam Prabha 17",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/996.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha18.in",
-      "name": "Swayam Prabha 18",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/999.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha19.in",
-      "name": "Swayam Prabha 19",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/401.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha20.in",
-      "name": "Swayam Prabha 20",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/403.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha21.in",
-      "name": "Swayam Prabha 21",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/997.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha22.in",
-      "name": "Swayam Prabha 22",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/998.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha3.in",
-      "name": "Swayam Prabha 3",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/982.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha4.in",
-      "name": "Swayam Prabha 4",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/984.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha5.in",
-      "name": "Swayam Prabha 5",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/986.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha6.in",
-      "name": "Swayam Prabha 6",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/987.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha7.in",
-      "name": "Swayam Prabha 7",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/985.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha8.in",
-      "name": "Swayam Prabha 8",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/983.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
-    },
-    {
-      "id": "SwayamPrabha9.in",
-      "name": "Swayam Prabha 9",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/988.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of India"
-      ]
     },
     {
       "id": "SwerveCombat.us",
@@ -159307,7 +159082,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Office of Radio and Television of Niger"
+      ]
     },
     {
       "id": "TalangaTVCanal39.hn",
@@ -167988,27 +167765,6 @@
       ]
     },
     {
-      "id": "TimesNowWorld.in",
-      "name": "Times Now World",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/876.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": "Times Network",
-      "owners": [
-        "The Times Group",
-        "Bennett Coleman and Company Limited (BCCL)"
-      ]
-    },
-    {
       "id": "TinTV.us",
       "name": "Tin TV",
       "logo": null,
@@ -168804,7 +168560,7 @@
       "id": "TNTInternational.ru",
       "name": "TNT International",
       "logo": null,
-      "url": "https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8",
+      "url": "http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -170754,26 +170510,6 @@
       ]
     },
     {
-      "id": "TravelxpTamil.in",
-      "name": "Travelxp Tamil",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/814.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Viajes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Celebrities Management Private Limited"
-      ]
-    },
-    {
       "id": "TRCTV.mx",
       "name": "TRC TV",
       "logo": null,
@@ -172188,24 +171924,6 @@
       "section": "general",
       "categories": [
         "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "Tunes6.in",
-      "name": "Tunes 6",
-      "logo": null,
-      "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
       ],
       "altNames": [],
       "network": null,
@@ -182246,6 +181964,26 @@
       ]
     },
     {
+      "id": "TVP1.pl",
+      "name": "TVP1",
+      "logo": null,
+      "url": "https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "TVP",
+      "owners": [
+        "Telewizja Polska"
+      ]
+    },
+    {
       "id": "TVPlusSuceava.ro",
       "name": "TVPlus Suceava",
       "logo": null,
@@ -185096,7 +184834,7 @@
       "id": "UniqueTV.in",
       "name": "Unique TV",
       "logo": null,
-      "url": "http://103.175.73.12:8080/live/688/master.m3u8",
+      "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -186456,326 +186194,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "VandeGujarat1.in",
-      "name": "Vande Gujarat 1",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1069.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat10.in",
-      "name": "Vande Gujarat 10",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1088.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat11.in",
-      "name": "Vande Gujarat 11",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1089.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat12.in",
-      "name": "Vande Gujarat 12",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1090.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat13.in",
-      "name": "Vande Gujarat 13",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1091.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat14.in",
-      "name": "Vande Gujarat 14",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1092.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat15.in",
-      "name": "Vande Gujarat 15",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1093.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat16.in",
-      "name": "Vande Gujarat 16",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1094.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat2.in",
-      "name": "Vande Gujarat 2",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1070.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat3.in",
-      "name": "Vande Gujarat 3",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1082.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat4.in",
-      "name": "Vande Gujarat 4",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1071.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat5.in",
-      "name": "Vande Gujarat 5",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1083.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat6.in",
-      "name": "Vande Gujarat 6",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1084.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat7.in",
-      "name": "Vande Gujarat 7",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1085.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat8.in",
-      "name": "Vande Gujarat 8",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1086.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
-    },
-    {
-      "id": "VandeGujarat9.in",
-      "name": "Vande Gujarat 9",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/1087.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Government of Gujarat"
-      ]
     },
     {
       "id": "VanithaTV.in",
@@ -191778,28 +191196,6 @@
       "owners": []
     },
     {
-      "id": "WayanadVision.in",
-      "name": "Wayanad Vision",
-      "logo": null,
-      "url": "https://cloudsavre.in.net/hls/stream.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Wayanad Vision Live"
-      ],
-      "network": null,
-      "owners": [
-        "Wayanad Vision Communicators Pvt. Ltd."
-      ]
-    },
-    {
       "id": "WaypointTV.us",
       "name": "Waypoint TV",
       "logo": null,
@@ -191994,24 +191390,6 @@
       "owners": [
         "Teleadoracion Christian Network Inc."
       ]
-    },
-    {
-      "id": "WeOneKerala.in",
-      "name": "We One Kerala",
-      "logo": null,
-      "url": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "WeSportTV.md",
@@ -195820,7 +195198,7 @@
       "id": "Zee24Ghanta.in",
       "name": "Zee 24 Ghanta",
       "logo": null,
-      "url": "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8",
+      "url": "https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -195899,29 +195277,6 @@
       "network": "Z",
       "owners": [
         "Zee Entertainment Enterprises Limited"
-      ]
-    },
-    {
-      "id": "ZeeAlwan.ae",
-      "name": "Zee Alwan",
-      "logo": null,
-      "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
-      "country": "United Arab Emirates",
-      "countryCode": "AE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series",
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "زي ألوان"
-      ],
-      "network": "ZEE",
-      "owners": [
-        "Zee Entertainment Enterprises"
       ]
     },
     {
@@ -196006,26 +195361,6 @@
       "owners": [
         "Zee Media Corporation Limited (ZMCL)",
         "The Essel Group"
-      ]
-    },
-    {
-      "id": "ZeeBiskope.in",
-      "name": "Zee Biskope",
-      "logo": null,
-      "url": "http://103.175.73.12:8080/live/347/master.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "Z",
-      "owners": [
-        "Zee Entertainment Enterprises Limited"
       ]
     },
     {
@@ -196115,7 +195450,7 @@
       "id": "ZeeClassic.in",
       "name": "Zee Classic",
       "logo": null,
-      "url": "http://103.72.101.252:8080/live/1691.m3u8",
+      "url": "http://107.167.16.138/zeeclassic/index.m3u8?token=test",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -196267,27 +195602,6 @@
       "name": "Zee Madhya Pradesh Chhattisgarh",
       "logo": null,
       "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": "Zee Media",
-      "owners": [
-        "Zee Media Corporation Limited (ZMCL)",
-        "The Essel Group"
-      ]
-    },
-    {
-      "id": "ZeeMalayalamNews.in",
-      "name": "Zee Malayalam News",
-      "logo": null,
-      "url": "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -196610,26 +195924,6 @@
       "owners": [
         "Zee Media Corporation Limited (ZMCL)",
         "The Essel Group"
-      ]
-    },
-    {
-      "id": "ZeeYuva.in",
-      "name": "Zee Yuva",
-      "logo": null,
-      "url": "http://103.72.101.252:8080/live/414.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "Z",
-      "owners": [
-        "Zee Entertainment Enterprises Limited"
       ]
     },
     {
@@ -196994,7 +196288,7 @@
       "id": "Zing.in",
       "name": "Zing!",
       "logo": null,
-      "url": "http://103.72.101.252:8080/live/585.m3u8",
+      "url": "http://107.167.16.138/zing/index.m3u8?token=test",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -197321,7 +196615,7 @@
       "id": "Zoom.in",
       "name": "Zoom",
       "logo": null,
-      "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8",
+      "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -199005,17 +198299,17 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 377
+      "count": 375
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 603
+      "count": 602
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 351
+      "count": 350
     },
     {
       "id": "infantil",
@@ -199025,26 +198319,26 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1822
+      "count": 1823
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6404
+      "count": 6371
     }
   ],
   "stats": {
-    "total": 31499,
-    "withStreams": 10050,
-    "spanish": 1935,
+    "total": 31502,
+    "withStreams": 10014,
+    "spanish": 1936,
     "adult": 78,
     "bySection": {
-      "peliculas": 603,
-      "general": 6404,
-      "español": 1822,
+      "peliculas": 602,
+      "general": 6371,
+      "español": 1823,
       "infantil": 415,
-      "series": 351,
-      "deportes": 377
+      "series": 350,
+      "deportes": 375
     },
     "topCountries": [
       {
@@ -199054,12 +198348,12 @@
       },
       {
         "code": "IN",
-        "count": 741,
+        "count": 691,
         "name": "India"
       },
       {
         "code": "RU",
-        "count": 462,
+        "count": 465,
         "name": "Russia"
       },
       {
@@ -199069,7 +198363,7 @@
       },
       {
         "code": "BR",
-        "count": 272,
+        "count": 273,
         "name": "Brazil"
       },
       {
@@ -199079,7 +198373,7 @@
       },
       {
         "code": "ES",
-        "count": 247,
+        "count": 248,
         "name": "Spain"
       },
       {
@@ -199099,6 +198393,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-21T01:45:32.377Z",
+  "lastUpdated": "2026-09-22T01:56:35.433Z",
   "source": "orion-stream"
 }
