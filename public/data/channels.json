@@ -2821,10 +2821,72 @@
       "owners": []
     },
     {
+      "id": "5Gold.il",
+      "name": "5Gold",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/sport5gold/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Sports5"
+      ],
+      "network": null,
+      "owners": [
+        "RGE Group"
+      ]
+    },
+    {
+      "id": "5Live.il",
+      "name": "5Live",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/5live/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RGE Group"
+      ]
+    },
+    {
+      "id": "5Plus.il",
+      "name": "5Plus",
+      "logo": null,
+      "url": "http://89.33.29.115:8080/sportplus/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RGE Group"
+      ]
+    },
+    {
       "id": "5Sport.il",
       "name": "5Sport",
       "logo": null,
-      "url": "http://stream.mcquack.net/41/index.m3u8",
+      "url": "http://str2.iptvhd.ru:8080/5sport/index.m3u8",
       "country": "Israel",
       "countryCode": "IL",
       "language_primary": null,
@@ -2837,6 +2899,26 @@
       "altNames": [
         "ספורט 5"
       ],
+      "network": null,
+      "owners": [
+        "RGE Group"
+      ]
+    },
+    {
+      "id": "5Sport4K.il",
+      "name": "5Sport 4K",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "RGE Group"
@@ -31909,6 +31991,26 @@
       ]
     },
     {
+      "id": "CaracolInternacional.co",
+      "name": "Caracol Internacional",
+      "logo": null,
+      "url": "http://138.59.177.78:9999/play/a0a8/index.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Caracol Televisión S.A."
+      ]
+    },
+    {
       "id": "CaracolTV.co",
       "name": "Caracol TV",
       "logo": null,
@@ -32599,26 +32701,6 @@
       "name": "CBeebies",
       "logo": null,
       "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "BBC"
-      ]
-    },
-    {
-      "id": "CBeebiesAsia.uk",
-      "name": "CBeebies Asia",
-      "logo": null,
-      "url": "http://202.70.146.135:8000/play/a0a2/index.m3u8",
       "country": "United Kingdom",
       "countryCode": "UK",
       "language_primary": null,
@@ -35302,6 +35384,26 @@
       "owners": [
         "Ars Manga Production"
       ]
+    },
+    {
+      "id": "Channel8International.ru",
+      "name": "Channel 8 International",
+      "logo": null,
+      "url": "http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "8 канал International"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "Channel8Krasnoyarsk.ru",
@@ -43893,26 +43995,6 @@
       "owners": []
     },
     {
-      "id": "CW.us",
-      "name": "CW",
-      "logo": null,
-      "url": "https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "CW",
-      "owners": [
-        "Nexstar Media Group"
-      ]
-    },
-    {
       "id": "CypressChannel36.us",
       "name": "Cypress Channel 36",
       "logo": null,
@@ -48592,7 +48674,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึ���ษาทางไกลผ่านดาวเทียม"
+        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -59832,6 +59914,24 @@
       "owners": []
     },
     {
+      "id": "FoodChannel.il",
+      "name": "Food Channel",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Cocina"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "FoodFood.in",
       "name": "Food Food",
       "logo": null,
@@ -64808,24 +64908,6 @@
       "owners": []
     },
     {
-      "id": "GoUSATV.us",
-      "name": "GoUSA TV",
-      "logo": null,
-      "url": "https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Viajes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "GovernmentTV16.us",
       "name": "Government TV 16",
       "logo": null,
@@ -66554,6 +66636,26 @@
       ]
     },
     {
+      "id": "HalomTV.hu",
+      "name": "Halom TV",
+      "logo": null,
+      "url": "rtmp://212.92.13.108/live/livestream1",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Halom Television Nonprofit"
+      ]
+    },
+    {
       "id": "HamaikaTelebista.es",
       "name": "Hamaika Telebista",
       "logo": null,
@@ -67313,6 +67415,24 @@
       "section": "general",
       "categories": [
         "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "HealthChannel.il",
+      "name": "Health Channel",
+      "logo": null,
+      "url": "http://89.33.29.115:8080/Health/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Estilo de Vida"
       ],
       "altNames": [],
       "network": null,
@@ -69481,6 +69601,24 @@
       "owners": []
     },
     {
+      "id": "HomePlus.il",
+      "name": "Home +",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/home_plus/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "HomeMadeNation.us",
       "name": "Home.Made.Nation",
       "logo": null,
@@ -70156,6 +70294,25 @@
       "owners": []
     },
     {
+      "id": "HOTComedy.il",
+      "name": "HOT Comedy",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Comedia",
+        "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "HOTDrama.il",
       "name": "HOT Drama",
       "logo": null,
@@ -70168,6 +70325,24 @@
       "section": "series",
       "categories": [
         "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "HOTSenior.il",
+      "name": "HOT Senior",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -77403,6 +77578,24 @@
       "owners": [
         "Mood Media"
       ]
+    },
+    {
+      "id": "Junior.il",
+      "name": "Junior",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/junior/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "JuniorTechnologiaTV.do",
@@ -88169,6 +88362,26 @@
         "VIMN Nordic AB",
         "Paramount Skydance Corporation"
       ]
+    },
+    {
+      "id": "Luli.il",
+      "name": "Luli",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "לולי"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "LunaTVCanal53.do",
@@ -106233,6 +106446,24 @@
       "owners": []
     },
     {
+      "id": "NicktoonsScandinavia.nl",
+      "name": "Nicktoons Scandinavia",
+      "logo": null,
+      "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
+      "owners": []
+    },
+    {
       "id": "NicoyaTV.cr",
       "name": "NicoyaTV",
       "logo": null,
@@ -111995,6 +112226,26 @@
       ]
     },
     {
+      "id": "One2.il",
+      "name": "One 2",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/One/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Yedioth Ahronoth Group"
+      ]
+    },
+    {
       "id": "One31.th",
       "name": "One 31",
       "logo": null,
@@ -113836,6 +114087,26 @@
       "network": null,
       "owners": [
         "Paigham Communications Limited"
+      ]
+    },
+    {
+      "id": "Pakapaka.ar",
+      "name": "Pakapaka",
+      "logo": null,
+      "url": "https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Ministry of Education of Argentina"
       ]
     },
     {
@@ -117295,6 +117566,25 @@
       "section": "general",
       "categories": [
         "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PlimPlim.ar",
+      "name": "Plim Plim",
+      "logo": null,
+      "url": "https://xyktmobile00.s.gy/PPV911_CANCION_BEBE",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
       ],
       "altNames": [],
       "network": null,
@@ -145447,7 +145737,7 @@
       "id": "SetantaSports1.ru",
       "name": "Setanta Sports 1",
       "logo": null,
-      "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_georgia",
+      "url": "https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -152105,6 +152395,24 @@
       "owners": [
         "AMC Networks Central Europe Kft."
       ]
+    },
+    {
+      "id": "Sport2.il",
+      "name": "Sport 2",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/Sport_2/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "Sport2.ua",
@@ -188308,6 +188616,26 @@
       "owners": []
     },
     {
+      "id": "VivaIstanbul.il",
+      "name": "Viva Istanbul",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/viva_plus/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Yes Docu"
+      ]
+    },
+    {
       "id": "VivaNicaraguaCanal13.ni",
       "name": "Viva Nicaragua Canal 13",
       "logo": null,
@@ -188341,6 +188669,24 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "VivaTelenovelas.il",
+      "name": "Viva Telenovelas",
+      "logo": null,
+      "url": "http://str2.iptvhd.ru:8080/VIVA/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
       ],
       "altNames": [],
       "network": null,
@@ -193017,6 +193363,24 @@
       "owners": []
     },
     {
+      "id": "YaltaTV.ru",
+      "name": "Yalta TV",
+      "logo": null,
+      "url": "http://195.26.83.96:7029/play/a006",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "YamTichoni.il",
       "name": "Yam Tichoni",
       "logo": null,
@@ -197338,7 +197702,7 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 375
+      "count": 381
     },
     {
       "id": "peliculas",
@@ -197348,41 +197712,41 @@
     {
       "id": "series",
       "name": "Series",
-      "count": 340
+      "count": 342
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 405
+      "count": 409
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1823
+      "count": 1824
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6358
+      "count": 6364
     }
   ],
   "stats": {
-    "total": 31451,
-    "withStreams": 9971,
-    "spanish": 1936,
+    "total": 31453,
+    "withStreams": 9990,
+    "spanish": 1939,
     "adult": 78,
     "bySection": {
       "peliculas": 592,
-      "general": 6358,
-      "español": 1823,
-      "infantil": 405,
-      "series": 340,
-      "deportes": 375
+      "general": 6364,
+      "español": 1824,
+      "infantil": 409,
+      "series": 342,
+      "deportes": 381
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1572,
+        "count": 1570,
         "name": "United States"
       },
       {
@@ -197392,7 +197756,7 @@
       },
       {
         "code": "RU",
-        "count": 465,
+        "count": 467,
         "name": "Russia"
       },
       {
@@ -197432,6 +197796,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-23T01:52:27.529Z",
+  "lastUpdated": "2026-09-24T01:41:39.586Z",
   "source": "orion-stream"
 }
