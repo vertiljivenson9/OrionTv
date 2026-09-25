@@ -2925,6 +2925,26 @@
       ]
     },
     {
+      "id": "5Stars.il",
+      "name": "5Stars",
+      "logo": null,
+      "url": "http://89.33.29.115:8080/IL_5Stars/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "RGE Group"
+      ]
+    },
+    {
       "id": "5tv.ar",
       "name": "5tv",
       "logo": null,
@@ -26058,6 +26078,26 @@
       "owners": []
     },
     {
+      "id": "Cablenoticias.co",
+      "name": "Cablenoticias",
+      "logo": null,
+      "url": "http://181.78.211.244:8005/play/a09u/index.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Global Media"
+      ]
+    },
+    {
       "id": "CaboFrioTV.br",
       "name": "Cabo Frio TV",
       "logo": null,
@@ -48056,6 +48096,26 @@
       ]
     },
     {
+      "id": "DisneyChannel.de",
+      "name": "Disney Channel",
+      "logo": null,
+      "url": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Disney Entertainment"
+      ]
+    },
+    {
       "id": "DisneyChannel.hu",
       "name": "Disney Channel",
       "logo": null,
@@ -64408,6 +64468,26 @@
       ]
     },
     {
+      "id": "GoldenPremier2.mx",
+      "name": "Golden Premier 2",
+      "logo": null,
+      "url": "http://200.229.147.210:9999/play/a00l/index.m3u8",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Televisa Networks",
+      "owners": [
+        "Grupo Televisa"
+      ]
+    },
+    {
       "id": "Goldmines.in",
       "name": "Goldmines",
       "logo": null,
@@ -78035,6 +78115,26 @@
       "network": null,
       "owners": [
         "ProSiebenSat.1 Media SE"
+      ]
+    },
+    {
+      "id": "kabeleinsDoku.de",
+      "name": "kabel eins Doku",
+      "logo": null,
+      "url": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Seven.One Entertainment Group"
       ]
     },
     {
@@ -126990,6 +127090,26 @@
       ]
     },
     {
+      "id": "ProSiebenMaxx.de",
+      "name": "ProSieben Maxx",
+      "logo": null,
+      "url": "http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass",
+      "country": "Germany",
+      "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Seven.One Entertainment Group"
+      ]
+    },
+    {
       "id": "Prosveshchenie.ru",
       "name": "Prosveshchenie",
       "logo": null,
@@ -133666,7 +133786,7 @@
       "id": "RCNMas.co",
       "name": "RCN Mas",
       "logo": null,
-      "url": "https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8",
+      "url": "http://45.226.205.96:48000/play/a0af/index.m3u8",
       "country": "Colombia",
       "countryCode": "CO",
       "language_primary": "Español",
@@ -151878,6 +151998,31 @@
       "owners": []
     },
     {
+      "id": "SpacetoonTurkey.tr",
+      "name": "Spacetoon Turkey",
+      "logo": null,
+      "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
+      ],
+      "altNames": [
+        "Spacetoon Türkiye",
+        "STOON",
+        "Space Toon TV"
+      ],
+      "network": null,
+      "owners": [
+        "Spacetoon International"
+      ]
+    },
+    {
       "id": "SparkTV.uk",
       "name": "Spark TV",
       "logo": null,
@@ -152437,6 +152582,24 @@
       ]
     },
     {
+      "id": "Sport3.il",
+      "name": "Sport 3",
+      "logo": null,
+      "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Sport3.ua",
       "name": "Sport 3",
       "logo": null,
@@ -152457,6 +152620,24 @@
       "owners": [
         "Surface TV"
       ]
+    },
+    {
+      "id": "Sport4.il",
+      "name": "Sport 4",
+      "logo": null,
+      "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "Sport4.ua",
@@ -156915,7 +157096,7 @@
         "General"
       ],
       "altNames": [
-        "Суспільне. Крим",
+        "Суспільне. К��им",
         "UΛ: Крым",
         "ТРК"
       ],
@@ -161796,6 +161977,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "TeleHit.mx",
+      "name": "TeleHit",
+      "logo": null,
+      "url": "http://200.115.120.1:8000/play/ca048/index.m3u8",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": "Televisa Networks",
+      "owners": [
+        "Televisa Networks"
+      ]
     },
     {
       "id": "TelehitMusica.mx",
@@ -197702,12 +197903,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 381
+      "count": 384
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 592
+      "count": 593
     },
     {
       "id": "series",
@@ -197717,31 +197918,31 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 409
+      "count": 411
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1824
+      "count": 1826
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6364
+      "count": 6366
     }
   ],
   "stats": {
     "total": 31453,
-    "withStreams": 9990,
-    "spanish": 1939,
+    "withStreams": 10000,
+    "spanish": 1942,
     "adult": 78,
     "bySection": {
-      "peliculas": 592,
-      "general": 6364,
-      "español": 1824,
-      "infantil": 409,
+      "peliculas": 593,
+      "general": 6366,
+      "español": 1826,
+      "infantil": 411,
       "series": 342,
-      "deportes": 381
+      "deportes": 384
     },
     "topCountries": [
       {
@@ -197761,7 +197962,7 @@
       },
       {
         "code": "DE",
-        "count": 380,
+        "count": 383,
         "name": "Germany"
       },
       {
@@ -197796,6 +197997,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-24T01:41:39.586Z",
+  "lastUpdated": "2026-09-25T01:58:48.730Z",
   "source": "orion-stream"
 }
