@@ -16939,7 +16939,7 @@
       "id": "AXNAsia.sg",
       "name": "AXN Asia",
       "logo": null,
-      "url": "http://125.227.210.55:4050/VideoInput/play.ts",
+      "url": "https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8",
       "country": "Singapore",
       "countryCode": "SG",
       "language_primary": null,
@@ -18274,6 +18274,26 @@
       "network": null,
       "owners": [
         "Grupo Bandeirantes de Comunicacao"
+      ]
+    },
+    {
+      "id": "Bandamax.mx",
+      "name": "Bandamax",
+      "logo": null,
+      "url": "http://181.78.106.127:5000/play/ca064/index.m3u8",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": "Televisa Networks",
+      "owners": [
+        "Grupo Televisa"
       ]
     },
     {
@@ -35898,6 +35918,26 @@
       "owners": []
     },
     {
+      "id": "ChaozhouPublicChannel.cn",
+      "name": "Chaozhou Public Channel",
+      "logo": null,
+      "url": "http://113.64.146.48:1688/hls/4/index.m3u8",
+      "country": "China",
+      "countryCode": "CN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "潮州公共"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ChappellesShow.se",
       "name": "Chappelle's Show",
       "logo": null,
@@ -37803,6 +37843,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "CinemaxAction.us",
+      "name": "Cinemax Action",
+      "logo": null,
+      "url": "https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Warner Bros. Discovery Inc."
+      ]
     },
     {
       "id": "CinemaxClassics.us",
@@ -67304,10 +67364,32 @@
       ]
     },
     {
+      "id": "HBODrama.us",
+      "name": "HBO Drama",
+      "logo": null,
+      "url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas",
+        "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Home Box Office Inc.",
+        "Warner Bros. Discovery"
+      ]
+    },
+    {
       "id": "HBOHits.us",
       "name": "HBO Hits",
       "logo": null,
-      "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
+      "url": "http://4.30.180.36:8420/hbo2/index.m3u8?token=test",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -77474,7 +77556,7 @@
         "Religioso"
       ],
       "altNames": [
-        "ஜாய் டிவி"
+        "ஜாய��� டிவி"
       ],
       "network": null,
       "owners": []
@@ -157096,7 +157178,7 @@
         "General"
       ],
       "altNames": [
-        "Суспільне. К��им",
+        "Суспільне. Крим",
         "UΛ: Крым",
         "ТРК"
       ],
@@ -190999,7 +191081,7 @@
       "id": "WeTV.us",
       "name": "We TV",
       "logo": null,
-      "url": "http://170.254.17.2/WE_TV/index.m3u8",
+      "url": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -191854,6 +191936,30 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "WinPlusFutbol.co",
+      "name": "Win+ Futbol",
+      "logo": null,
+      "url": "http://181.78.12.119:16123/play/ch19/index.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Win+ Fútbol",
+        "Win Sports+"
+      ],
+      "network": null,
+      "owners": [
+        "DirecTV",
+        "RCN Televisión"
+      ]
     },
     {
       "id": "WindowTV.us",
@@ -197903,12 +198009,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 384
+      "count": 385
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 593
+      "count": 595
     },
     {
       "id": "series",
@@ -197923,31 +198029,31 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1826
+      "count": 1827
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6366
+      "count": 6367
     }
   ],
   "stats": {
-    "total": 31453,
-    "withStreams": 10000,
-    "spanish": 1942,
+    "total": 31477,
+    "withStreams": 10005,
+    "spanish": 1944,
     "adult": 78,
     "bySection": {
-      "peliculas": 593,
-      "general": 6366,
-      "español": 1826,
+      "peliculas": 595,
+      "general": 6367,
+      "español": 1827,
       "infantil": 411,
       "series": 342,
-      "deportes": 384
+      "deportes": 385
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1570,
+        "count": 1572,
         "name": "United States"
       },
       {
@@ -197997,6 +198103,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-09-25T01:58:48.730Z",
+  "lastUpdated": "2026-09-26T02:04:16.849Z",
   "source": "orion-stream"
 }
