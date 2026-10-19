@@ -7750,28 +7750,6 @@
       ]
     },
     {
-      "id": "AlAlam.ir",
-      "name": "Al Alam",
-      "logo": null,
-      "url": "https://live2.alalam.ir/alalam.m3u8",
-      "country": "Iran",
-      "countryCode": "IR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [
-        "العالم"
-      ],
-      "network": null,
-      "owners": [
-        "Islamic Republic of Iran Broadcasting"
-      ]
-    },
-    {
       "id": "AlAlamAlYawm.sa",
       "name": "Al Alam Al Yawm",
       "logo": null,
@@ -9226,7 +9204,7 @@
       "id": "AlalamNewsChannelSyria.sy",
       "name": "Alalam News Channel Syria",
       "logo": null,
-      "url": "http://live2.alalam.ir/live/Alalam/index.m3u8",
+      "url": "http://live2.alalam.ir/alalam.m3u8",
       "country": "Syria",
       "countryCode": "SY",
       "language_primary": null,
@@ -12319,6 +12297,26 @@
       ],
       "altNames": [],
       "network": null,
+      "owners": [
+        "Skydance Corporation"
+      ]
+    },
+    {
+      "id": "AnimalPlanet.pl",
+      "name": "Animal Planet",
+      "logo": null,
+      "url": "http://57.128.231.171:8080/317/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": "Skydance EMEA",
       "owners": [
         "Skydance Corporation"
       ]
@@ -15506,7 +15504,7 @@
       "id": "AsthaTV.id",
       "name": "Astha TV",
       "logo": null,
-      "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
+      "url": "https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -17748,6 +17746,26 @@
       "owners": [
         "Ayush TV Private Limited"
       ]
+    },
+    {
+      "id": "AzCinema.mx",
+      "name": "Az Cinema",
+      "logo": null,
+      "url": "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Cinema"
+      ],
+      "network": "TV Azteca Internacional",
+      "owners": []
     },
     {
       "id": "AzClic.mx",
@@ -26276,7 +26294,7 @@
       "id": "BTV.id",
       "name": "BTV",
       "logo": null,
-      "url": "https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8",
+      "url": "https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8",
       "country": "Indonesia",
       "countryCode": "ID",
       "language_primary": null,
@@ -45157,6 +45175,26 @@
       ]
     },
     {
+      "id": "CRTVSportsandEntertainment.cm",
+      "name": "CRTV Sports and Entertainment",
+      "logo": null,
+      "url": "https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8",
+      "country": "Cameroon",
+      "countryCode": "CM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Government of Cameroon"
+      ]
+    },
+    {
       "id": "Crunchyroll.us",
       "name": "Crunchyroll",
       "logo": null,
@@ -46603,7 +46641,7 @@
       "id": "DaVinciAsia.de",
       "name": "Da Vinci Asia",
       "logo": null,
-      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=214",
+      "url": "https://vmttv.dpdns.org/tv360/?id=davinci-hd",
       "country": "Germany",
       "countryCode": "DE",
       "language_primary": null,
@@ -48312,7 +48350,7 @@
       ],
       "altNames": [
         "DD Uttrakhand",
-        "दूरदर्शन उत्तराखंड",
+        "दू��दर्शन उत्तराखंड",
         "DD उत्तराखंड"
       ],
       "network": "Doordarshan",
@@ -51731,7 +51769,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่าน���าวเทียม"
+        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -58521,26 +58559,6 @@
       "owners": [
         "ESPN Inc."
       ]
-    },
-    {
-      "id": "ESPNPremium.ar",
-      "name": "ESPN Premium",
-      "logo": null,
-      "url": "http://190.128.214.97:64333/play/a02i/index.m3u8",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Fox Sports Premium Argentina"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "ESPNPremium.cl",
@@ -70757,27 +70775,7 @@
       "id": "HanoiTV1.vn",
       "name": "HanoiTV1",
       "logo": null,
-      "url": "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8",
-      "country": "Vietnam",
-      "countryCode": "VN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Hanoi People's Committee"
-      ]
-    },
-    {
-      "id": "HanoiTV2.vn",
-      "name": "HanoiTV2",
-      "logo": null,
-      "url": "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8",
+      "url": "https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8",
       "country": "Vietnam",
       "countryCode": "VN",
       "language_primary": null,
@@ -71399,27 +71397,6 @@
       "section": "general",
       "categories": [
         "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Skydance Corporation"
-      ]
-    },
-    {
-      "id": "HBOMovies.us",
-      "name": "HBO Movies",
-      "logo": null,
-      "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas",
-        "Series"
       ],
       "altNames": [],
       "network": null,
@@ -75536,6 +75513,24 @@
       "url": "https://netstreaming.eu/hd1.m3u8",
       "country": "Romania",
       "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "HungYenTV.vn",
+      "name": "Hung Yen TV",
+      "logo": null,
+      "url": "https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -80812,6 +80807,24 @@
       "owners": []
     },
     {
+      "id": "JEMRTV.hn",
+      "name": "JEMR TV",
+      "logo": null,
+      "url": "https://tv.webmedialive.com/jmrtv/live/playlist.m3u8",
+      "country": "Honduras",
+      "countryCode": "HN",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "JeremiahTV.pk",
       "name": "Jeremiah TV",
       "logo": null,
@@ -81337,7 +81350,7 @@
         "Películas"
       ],
       "altNames": [
-        "影��频道"
+        "影视频道"
       ],
       "network": null,
       "owners": []
@@ -84789,24 +84802,6 @@
       "owners": [
         "IRIB"
       ]
-    },
-    {
-      "id": "KhanhHoaTV.vn",
-      "name": "Khanh Hoa TV",
-      "logo": null,
-      "url": "https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video",
-      "country": "Vietnam",
-      "countryCode": "VN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "Khatlon.tj",
@@ -89262,24 +89257,6 @@
       "owners": []
     },
     {
-      "id": "LamDongTV.vn",
-      "name": "Lam Dong TV",
-      "logo": null,
-      "url": "http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8",
-      "country": "Vietnam",
-      "countryCode": "VN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "LAMIL35TV.ar",
       "name": "LAMIL35 TV",
       "logo": null,
@@ -89378,6 +89355,26 @@
       "owners": [
         "Russmedia"
       ]
+    },
+    {
+      "id": "LangSonTV.vn",
+      "name": "Lang Son TV",
+      "logo": null,
+      "url": "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "LSTV"
+      ],
+      "network": null,
+      "owners": []
     },
     {
       "id": "LangstraatTV.nl",
@@ -100928,26 +100925,6 @@
       ]
     },
     {
-      "id": "MNCTV.id",
-      "name": "MNCTV",
-      "logo": null,
-      "url": "http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8",
-      "country": "Indonesia",
-      "countryCode": "ID",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Media Nusantara Citra"
-      ]
-    },
-    {
       "id": "MNM.be",
       "name": "MNM",
       "logo": null,
@@ -110160,7 +110137,29 @@
       "altNames": [],
       "network": null,
       "owners": [
-        "Australian News Channel Pty Ltd"
+        "Australian News Channel Pty Ltd",
+        "News Corp Australia"
+      ]
+    },
+    {
+      "id": "News24World.au",
+      "name": "News24 World",
+      "logo": null,
+      "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8",
+      "country": "Australia",
+      "countryCode": "AU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Australian News Channel Pty Ltd",
+        "News Corp Australia"
       ]
     },
     {
@@ -112125,28 +112124,6 @@
       "altNames": [
         "卫视频道",
         "宁夏卫视"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "NinhThuanTV.vn",
-      "name": "Ninh Thuan TV",
-      "logo": null,
-      "url": "https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video",
-      "country": "Vietnam",
-      "countryCode": "VN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Thuan Hai TV",
-        "TNT Ninh Thuan",
-        "Khanh Hoa TV 1"
       ],
       "network": null,
       "owners": []
@@ -134646,6 +134623,24 @@
       ]
     },
     {
+      "id": "QuangNamTV.vn",
+      "name": "Quang Nam TV",
+      "logo": null,
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=80",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "QuangNgaiTV.vn",
       "name": "Quang Ngai TV",
       "logo": null,
@@ -139538,6 +139533,26 @@
       ],
       "altNames": [
         "РБК-ТВ"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "RBTVJogja.id",
+      "name": "RBTV Jogja",
+      "logo": null,
+      "url": "https://official.rbtvjogja.tv/live/mychannel.m3u8",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Reksa Birama TV"
       ],
       "network": null,
       "owners": []
@@ -150813,7 +150828,7 @@
       "id": "SCTV2.vn",
       "name": "SCTV2",
       "logo": null,
-      "url": "https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8",
+      "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8",
       "country": "Vietnam",
       "countryCode": "VN",
       "language_primary": null,
@@ -154409,26 +154424,6 @@
       ]
     },
     {
-      "id": "SkyNewsExtra.au",
-      "name": "Sky News Extra",
-      "logo": null,
-      "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8",
-      "country": "Australia",
-      "countryCode": "AU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Foxtel"
-      ]
-    },
-    {
       "id": "SkyNewsExtra1.au",
       "name": "Sky News Extra 1",
       "logo": null,
@@ -155136,7 +155131,7 @@
         "Series"
       ],
       "altNames": [
-        "С��отрим Честный Детектив"
+        "Смотрим Честный Детектив"
       ],
       "network": "ВГТРК",
       "owners": [
@@ -165622,6 +165617,28 @@
       ]
     },
     {
+      "id": "TBSTV.jp",
+      "name": "TBS TV",
+      "logo": null,
+      "url": "https://tbs5.mov3.co/hls/tbs.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "TBSテレビ"
+      ],
+      "network": "JNN/TBS Network",
+      "owners": [
+        "Tokyo Broadcasting System Television Inc."
+      ]
+    },
+    {
       "id": "TBSTV.kr",
       "name": "TBS TV",
       "logo": null,
@@ -167250,6 +167267,24 @@
       "owners": [
         "Gobernación de Antioquia"
       ]
+    },
+    {
+      "id": "TeleantioquiaPlus.co",
+      "name": "Teleantioquia Plus",
+      "logo": null,
+      "url": "http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "TeleAragua.ve",
@@ -174120,7 +174155,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Skydance Corporation"
+      ]
     },
     {
       "id": "TLC.ru",
@@ -179997,7 +180034,7 @@
         "General"
       ],
       "altNames": [
-        "TV Cidade Verde Cuiab��"
+        "TV Cidade Verde Cuiabá"
       ],
       "network": null,
       "owners": []
@@ -192159,6 +192196,24 @@
       ]
     },
     {
+      "id": "USMTV.id",
+      "name": "USM TV",
+      "logo": null,
+      "url": "https://play.fsa-stream.my.id/hls/siaran.m3u8",
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "USMPTV.pe",
       "name": "USMPTV",
       "logo": null,
@@ -197389,28 +197444,6 @@
       ]
     },
     {
-      "id": "VTV5TayNamBo.vn",
-      "name": "VTV5 Tay Nam Bo",
-      "logo": null,
-      "url": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8",
-      "country": "Vietnam",
-      "countryCode": "VN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "VTV5 Tây Nam Bộ"
-      ],
-      "network": null,
-      "owners": [
-        "Vietnam Television"
-      ]
-    },
-    {
       "id": "VTV5TayNguyen.vn",
       "name": "VTV5 Tay Nguyen",
       "logo": null,
@@ -201233,6 +201266,29 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "YerkirMedia.am",
+      "name": "Yerkir Media",
+      "logo": null,
+      "url": "http://yerkirmedia.am/yerkirmedia/live.m3u8",
+      "country": "Armenia",
+      "countryCode": "AM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Երկիր Մեդիա",
+        "Еркир Медиа"
+      ],
+      "network": null,
+      "owners": [
+        "Husaber"
+      ]
     },
     {
       "id": "YES.mv",
@@ -205371,23 +205427,23 @@
     {
       "id": "español",
       "name": "Español",
-      "count": 1863
+      "count": 1865
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6587
+      "count": 6588
     }
   ],
   "stats": {
-    "total": 31710,
-    "withStreams": 10373,
-    "spanish": 1992,
+    "total": 31712,
+    "withStreams": 10376,
+    "spanish": 1994,
     "adult": 78,
     "bySection": {
       "peliculas": 638,
-      "general": 6587,
-      "español": 1863,
+      "general": 6588,
+      "español": 1865,
       "infantil": 427,
       "series": 349,
       "deportes": 431
@@ -205395,7 +205451,7 @@
     "topCountries": [
       {
         "code": "US",
-        "count": 1631,
+        "count": 1630,
         "name": "United States"
       },
       {
@@ -205445,6 +205501,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-18T01:35:16.239Z",
+  "lastUpdated": "2026-10-19T01:52:50.551Z",
   "source": "orion-stream"
 }
