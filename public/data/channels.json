@@ -124,7 +124,7 @@
       "id": "AndTV.in",
       "name": "&TV",
       "logo": null,
-      "url": "http://202.70.146.135:8000/play/a06c/index.m3u8",
+      "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -1417,6 +1417,26 @@
       "network": "2M",
       "owners": [
         "Bank of Africa"
+      ]
+    },
+    {
+      "id": "2TV.lt",
+      "name": "2TV",
+      "logo": null,
+      "url": "https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd",
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Laisvas ir nepriklausomas kanalas"
       ]
     },
     {
@@ -10342,6 +10362,26 @@
       "owners": []
     },
     {
+      "id": "AlrightTV.in",
+      "name": "Alright! TV",
+      "logo": null,
+      "url": "https://d3c7vdfq3tyeyw.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/v1/channel/ruskmedia/germane.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Rusk Media",
+      "owners": [
+        "Rusk Media Pvt. Ltd."
+      ]
+    },
+    {
       "id": "AlsaciasTelevision.hn",
       "name": "Alsacias Television",
       "logo": null,
@@ -15995,6 +16035,24 @@
       ]
     },
     {
+      "id": "ATNSamachar.in",
+      "name": "ATN Samachar",
+      "logo": null,
+      "url": "https://newsliveindia.com:4433/atn/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "AtomicAcademyTV.ro",
       "name": "Atomic Academy TV",
       "logo": null,
@@ -17437,7 +17495,7 @@
       "id": "AXNAsia.sg",
       "name": "AXN Asia",
       "logo": null,
-      "url": "https://2x2.me/5aE8sA",
+      "url": "http://125.227.210.55:4050/VideoInput/play.ts",
       "country": "Singapore",
       "countryCode": "SG",
       "language_primary": null,
@@ -18189,7 +18247,7 @@
       "id": "B4UBhojpuri.in",
       "name": "B4U Bhojpuri",
       "logo": null,
-      "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
+      "url": "https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -19069,6 +19127,24 @@
       ],
       "altNames": [],
       "network": "Indonesia Network",
+      "owners": []
+    },
+    {
+      "id": "BanglaJago.in",
+      "name": "Bangla Jago",
+      "logo": null,
+      "url": "https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
       "owners": []
     },
     {
@@ -22899,6 +22975,24 @@
       "owners": []
     },
     {
+      "id": "BharatAtoZ.in",
+      "name": "Bharat AtoZ",
+      "logo": null,
+      "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "BharatExpress.in",
       "name": "Bharat Express",
       "logo": null,
@@ -22957,6 +23051,24 @@
       "name": "Bharat24",
       "logo": null,
       "url": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "BHIChannel.in",
+      "name": "BHI Channel",
+      "logo": null,
+      "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -26093,6 +26205,24 @@
       "section": "general",
       "categories": [
         "Compras"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "BSTV.in",
+      "name": "BSTV",
+      "logo": null,
+      "url": "https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -30692,6 +30822,24 @@
       ]
     },
     {
+      "id": "CanalALMA.uy",
+      "name": "Canal ALMA",
+      "logo": null,
+      "url": "https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "CanalAlphaJura.ch",
       "name": "Canal Alpha Jura",
       "logo": null,
@@ -31777,6 +31925,26 @@
       ]
     },
     {
+      "id": "CanalOncePlus.uy",
+      "name": "Canal Once Plus",
+      "logo": null,
+      "url": "https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Canal 11 Punta del Este S.A.S."
+      ]
+    },
+    {
       "id": "CanalOracionConSon.co",
       "name": "Canal Oracion Con Son",
       "logo": null,
@@ -32599,26 +32767,6 @@
       "owners": []
     },
     {
-      "id": "CanalPlus.fr",
-      "name": "Canal+",
-      "logo": null,
-      "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/41.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Vivendi"
-      ]
-    },
-    {
       "id": "CANALPlus360.pl",
       "name": "CANAL+ 360",
       "logo": null,
@@ -32795,26 +32943,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "CanalPlusSport360.fr",
-      "name": "Canal+ Sport 360",
-      "logo": null,
-      "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Vivendi"
-      ]
     },
     {
       "id": "CanalPlusSport4SK.sk",
@@ -39138,6 +39266,24 @@
         "Pluto TV Europe GmbH",
         "Paramount Skydance Corporation"
       ]
+    },
+    {
+      "id": "CineJomjomat.in",
+      "name": "Cine Jomjomat",
+      "logo": null,
+      "url": "https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "CineNanar.fr",
@@ -48182,7 +48328,7 @@
         "General"
       ],
       "altNames": [
-        "దూరదర్శన్ సప్తగిరి"
+        "దూరదర్శన్ ���ప్తగిరి"
       ],
       "network": "Doordarshan",
       "owners": [
@@ -49234,6 +49380,26 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "DesdeElSurTV.uy",
+      "name": "Desde El Sur TV",
+      "logo": null,
+      "url": "https://stmv.gmpro.top/surtv/surtv/playlist.m3u8",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Sur Multimedios"
+      ]
     },
     {
       "id": "DesheBidesheTV.ca",
@@ -51361,6 +51527,24 @@
       "section": "deportes",
       "categories": [
         "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "DivyaBhajan.in",
+      "name": "Divya Bhajan",
+      "logo": null,
+      "url": "https://jmp2.uk/stvp-IN1600002IQ",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
       ],
       "altNames": [],
       "network": null,
@@ -62031,6 +62215,24 @@
       ]
     },
     {
+      "id": "FGNChannel.in",
+      "name": "FGN Channel",
+      "logo": null,
+      "url": "https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "FGTV.kr",
       "name": "FGTV",
       "logo": null,
@@ -63651,26 +63853,6 @@
       "owners": [
         "Celebrities Management Private Limited"
       ]
-    },
-    {
-      "id": "Football.ru",
-      "name": "Football",
-      "logo": null,
-      "url": "http://hls127.freeott.top:8080/Football/video.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Футбол"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "Forlaekkertillove.se",
@@ -67284,6 +67466,24 @@
       "owners": []
     },
     {
+      "id": "GlobalIndia.in",
+      "name": "Global India",
+      "logo": null,
+      "url": "https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "GlobalPunjab.in",
       "name": "Global Punjab",
       "logo": null,
@@ -67404,6 +67604,24 @@
       "section": "general",
       "categories": [
         "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "GlobeTV.in",
+      "name": "Globe TV",
+      "logo": null,
+      "url": "https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -68727,6 +68945,24 @@
       "owners": []
     },
     {
+      "id": "GraceTV.in",
+      "name": "Grace TV",
+      "logo": null,
+      "url": "https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "GranTV.hu",
       "name": "Gran TV",
       "logo": null,
@@ -68916,6 +69152,26 @@
       "network": null,
       "owners": [
         "Oasis Television Ministries Nonprofit LLC"
+      ]
+    },
+    {
+      "id": "GreenGoldTV.in",
+      "name": "Green Gold TV",
+      "logo": null,
+      "url": "https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Green Gold Animation Pvt Ltd"
       ]
     },
     {
@@ -71057,7 +71313,7 @@
       "id": "HBOAsia.sg",
       "name": "HBO Asia",
       "logo": null,
-      "url": "https://2x2.me/yTKXaE",
+      "url": "https://tinyurl.com/yn3d3rmd",
       "country": "Singapore",
       "countryCode": "SG",
       "language_primary": null,
@@ -71113,26 +71369,6 @@
         "HBO Plus East"
       ],
       "network": "HBO",
-      "owners": [
-        "Skydance Corporation"
-      ]
-    },
-    {
-      "id": "HBOHitsAsia.sg",
-      "name": "HBO Hits Asia",
-      "logo": null,
-      "url": "https://2x2.me/BbwzPx",
-      "country": "Singapore",
-      "countryCode": "SG",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "HBO Asia",
       "owners": [
         "Skydance Corporation"
       ]
@@ -71929,28 +72165,6 @@
       ]
     },
     {
-      "id": "HGTV.pl",
-      "name": "HGTV",
-      "logo": null,
-      "url": "http://57.128.231.171:8080/241/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Estilo de Vida"
-      ],
-      "altNames": [
-        "HGTV Home&Garden"
-      ],
-      "network": null,
-      "owners": [
-        "Skydance Corporation"
-      ]
-    },
-    {
       "id": "HGTV.us",
       "name": "HGTV",
       "logo": null,
@@ -72203,6 +72417,24 @@
       "section": "general",
       "categories": [
         "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "HindiHits.in",
+      "name": "Hindi Hits",
+      "logo": null,
+      "url": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
       ],
       "altNames": [],
       "network": null,
@@ -74902,7 +75134,11 @@
         "Entretenimiento",
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "Vie Channel",
+        "Vie Channel - HTV2",
+        "HTV2 - Vie Channel"
+      ],
       "network": null,
       "owners": [
         "Ho Chi Minh City Television Station"
@@ -77249,7 +77485,7 @@
         "Noticias"
       ],
       "altNames": [
-        "इंडिया टीव�� आप की अदालत"
+        "इंडिया टीवी आप की अदालत"
       ],
       "network": "India TV",
       "owners": [
@@ -77505,6 +77741,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "InfoTV.lt",
+      "name": "Info TV",
+      "logo": null,
+      "url": "https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd",
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Laisvas ir nepriklausomas kanalas UAB"
+      ]
     },
     {
       "id": "InformatiaTV.ro",
@@ -87981,6 +88237,27 @@
       "owners": []
     },
     {
+      "id": "LaElegidaTelevision.uy",
+      "name": "La Elegida Television",
+      "logo": null,
+      "url": "https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "La Elegida Televisión",
+        "La Elegida FM TV"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "LaFabulosaTV.pe",
       "name": "La Fabulosa TV",
       "logo": null,
@@ -94172,6 +94449,42 @@
       "owners": []
     },
     {
+      "id": "MahuaKhabar.in",
+      "name": "Mahua Khabar",
+      "logo": null,
+      "url": "https://cdn.ottlive.co.in/mahuakhabar/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "MahuaPlay.in",
+      "name": "Mahua Play",
+      "logo": null,
+      "url": "https://cdn.ottlive.co.in/mahuaplay/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Maidan.ru",
       "name": "Maidan",
       "logo": null,
@@ -94483,7 +94796,7 @@
       ],
       "altNames": [
         "Malai Murasu Seithigal",
-        " மாலைமுரசு ���ெய்திகள்"
+        " மாலைமுரசு செய்திகள்"
       ],
       "network": null,
       "owners": [
@@ -95929,28 +96242,6 @@
       ],
       "altNames": [
         "Матч! Планета"
-      ],
-      "network": null,
-      "owners": [
-        "Gazprom Media"
-      ]
-    },
-    {
-      "id": "MatchPremier.ru",
-      "name": "Match! Premier",
-      "logo": null,
-      "url": "http://192.162.64.99:5000/play/a02b/index.m3u8",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Матч! Премьер"
       ],
       "network": null,
       "owners": [
@@ -98990,6 +99281,26 @@
       ]
     },
     {
+      "id": "MHOne.in",
+      "name": "MH One",
+      "logo": null,
+      "url": "https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "MH One TV Network Pvt Ltd"
+      ]
+    },
+    {
       "id": "MHOneDilSe.in",
       "name": "MH One Dil Se",
       "logo": null,
@@ -100161,6 +100472,29 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "MisionVidaTV.uy",
+      "name": "Mision Vida TV",
+      "logo": null,
+      "url": "https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [
+        "Misión Vida TV",
+        "MVTV"
+      ],
+      "network": null,
+      "owners": [
+        "Misión Vida para las Naciones"
+      ]
     },
     {
       "id": "MisionesCuatro.ar",
@@ -117242,26 +117576,6 @@
       "owners": []
     },
     {
-      "id": "ONVieDrama.vn",
-      "name": "ON Vie Drama",
-      "logo": null,
-      "url": "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8",
-      "country": "Vietnam",
-      "countryCode": "VN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Vietnam Cable Television Corporation Joint Stock Company"
-      ]
-    },
-    {
       "id": "ONVieGiaiTri.vn",
       "name": "ON Vie Giai Tri",
       "logo": null,
@@ -133112,6 +133426,24 @@
       "owners": []
     },
     {
+      "id": "PunjabiBeatsHD.in",
+      "name": "Punjabi Beats HD",
+      "logo": null,
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "PunjabiHits.in",
       "name": "Punjabi Hits",
       "logo": null,
@@ -133408,6 +133740,24 @@
       "name": "Puthiya Thalaimurai",
       "logo": null,
       "url": "https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "PuthiyaThalaimuraiExpress.in",
+      "name": "Puthiya Thalaimurai Express",
+      "logo": null,
+      "url": "https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -155214,6 +155564,24 @@
       "section": "español",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SonarBangla.in",
+      "name": "Sonar Bangla",
+      "logo": null,
+      "url": "https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
       ],
       "altNames": [],
       "network": null,
@@ -183866,6 +184234,26 @@
       "owners": []
     },
     {
+      "id": "TVUniversalUruguay.uy",
+      "name": "TV Universal Uruguay",
+      "logo": null,
+      "url": "https://stream.universal.org.uy/hls/0/stream.m3u8",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Iglesia Universal Uruguay"
+      ]
+    },
+    {
       "id": "TVUniversidad.ar",
       "name": "TV Universidad",
       "logo": null,
@@ -201396,7 +201784,7 @@
         "General"
       ],
       "altNames": [
-        "Загородная жизнь"
+        "Заго��одная жизнь"
       ],
       "network": null,
       "owners": []
@@ -201645,6 +202033,25 @@
       "section": "infantil",
       "categories": [
         "Infantil"
+      ],
+      "altNames": [],
+      "network": "ZillarBarta Network",
+      "owners": []
+    },
+    {
+      "id": "ZBCinema.in",
+      "name": "ZB Cinema",
+      "logo": null,
+      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Clásico",
+        "Películas"
       ],
       "altNames": [],
       "network": "ZillarBarta Network",
@@ -204703,12 +205110,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 424
+      "count": 421
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 624
+      "count": 626
     },
     {
       "id": "series",
@@ -204718,31 +205125,31 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 430
+      "count": 431
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1865
+      "count": 1871
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6578
+      "count": 6594
     }
   ],
   "stats": {
-    "total": 31723,
-    "withStreams": 10345,
-    "spanish": 1997,
+    "total": 31733,
+    "withStreams": 10367,
+    "spanish": 2003,
     "adult": 78,
     "bySection": {
-      "peliculas": 624,
-      "general": 6578,
-      "español": 1865,
-      "infantil": 430,
+      "peliculas": 626,
+      "general": 6594,
+      "español": 1871,
+      "infantil": 431,
       "series": 346,
-      "deportes": 424
+      "deportes": 421
     },
     "topCountries": [
       {
@@ -204752,12 +205159,12 @@
       },
       {
         "code": "IN",
-        "count": 743,
+        "count": 764,
         "name": "India"
       },
       {
         "code": "RU",
-        "count": 462,
+        "count": 460,
         "name": "Russia"
       },
       {
@@ -204797,6 +205204,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-23T02:02:56.696Z",
+  "lastUpdated": "2026-10-24T02:01:41.672Z",
   "source": "orion-stream"
 }
