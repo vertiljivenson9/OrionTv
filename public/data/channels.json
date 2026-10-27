@@ -33959,6 +33959,26 @@
       "owners": []
     },
     {
+      "id": "CartoonClassics.ru",
+      "name": "Cartoon Classics",
+      "logo": null,
+      "url": "http://88.218.242.237:8001/Cartoon_Classics",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Plan_B Kino"
+      ]
+    },
+    {
       "id": "CartoonNetwork.in",
       "name": "Cartoon Network",
       "logo": null,
@@ -118059,7 +118079,7 @@
         "ONE31 HD",
         "One 31",
         "Channel One 31",
-        "สถานีโทรทัศน์ช่���งวัน 31",
+        "สถานีโทรทัศน์ช่องวัน 31",
         "One HD",
         "One",
         "GMM One",
@@ -150983,26 +151003,6 @@
       "owners": []
     },
     {
-      "id": "SCTV4K.vn",
-      "name": "SCTV4K",
-      "logo": null,
-      "url": "https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8",
-      "country": "Vietnam",
-      "countryCode": "VN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Saigontourist Cable Television Limited Liability Company"
-      ]
-    },
-    {
       "id": "SCTV6.vn",
       "name": "SCTV6",
       "logo": null,
@@ -163122,7 +163122,7 @@
         "General"
       ],
       "altNames": [
-        "Суспільне. Донбас",
+        "Суспіль��е. Донбас",
         "UΛ: Донбасс"
       ],
       "network": null,
@@ -205407,7 +205407,7 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 432
+      "count": 433
     },
     {
       "id": "español",
@@ -205417,7 +205417,7 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6606
+      "count": 6605
     }
   ],
   "stats": {
@@ -205427,9 +205427,9 @@
     "adult": 78,
     "bySection": {
       "peliculas": 628,
-      "general": 6606,
+      "general": 6605,
       "español": 1870,
-      "infantil": 432,
+      "infantil": 433,
       "series": 346,
       "deportes": 422
     },
@@ -205446,7 +205446,7 @@
       },
       {
         "code": "RU",
-        "count": 461,
+        "count": 462,
         "name": "Russia"
       },
       {
@@ -205486,6 +205486,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-26T01:50:42.470Z",
+  "lastUpdated": "2026-10-27T02:29:29.613Z",
   "source": "orion-stream"
 }
