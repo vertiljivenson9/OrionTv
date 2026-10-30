@@ -10596,24 +10596,6 @@
       "owners": []
     },
     {
-      "id": "Althingi.is",
-      "name": "Althingi",
-      "logo": null,
-      "url": "https://althingi-live.secure.footprint.net/althingi/live/index.m3u8",
-      "country": "Iceland",
-      "countryCode": "IS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Legislativo"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "AltoAdigeTV.it",
       "name": "AltoAdige TV",
       "logo": null,
@@ -12648,48 +12630,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "AnmolCinema.in",
-      "name": "Anmol Cinema",
-      "logo": null,
-      "url": "https://fta.ektv.in/live/271/master.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "Z",
-      "owners": [
-        "Zee Entertainment Enterprises Limited"
-      ]
-    },
-    {
-      "id": "AnmolCinema2.in",
-      "name": "Anmol Cinema 2",
-      "logo": null,
-      "url": "https://fta.ektv.in/live/257/master.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Zee Anmol Cinema 2"
-      ],
-      "network": "Z",
-      "owners": [
-        "Zee Entertainment Enterprises Limited"
-      ]
     },
     {
       "id": "AnmolTV.in",
@@ -26043,26 +25983,6 @@
       ]
     },
     {
-      "id": "BTBMusic.pl",
-      "name": "BTB Music",
-      "logo": null,
-      "url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": "Telewizja BTB",
-      "owners": [
-        "Telewizja BTB"
-      ]
-    },
-    {
       "id": "BTLTV.ke",
       "name": "BTL TV",
       "logo": null,
@@ -26078,6 +25998,26 @@
       ],
       "altNames": [
         "Breaking The Limits TV"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "BTLTV.nl",
+      "name": "BTL TV",
+      "logo": null,
+      "url": "https://livecdn.live247stream.com/btl/tv/playlist.m3u8",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Religioso"
+      ],
+      "altNames": [
+        "Be The Light Television"
       ],
       "network": null,
       "owners": []
@@ -51766,7 +51706,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
+        "สถานีว���ทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -71263,6 +71203,26 @@
       ]
     },
     {
+      "id": "HBCUGOSports.us",
+      "name": "HBCU-GO Sports",
+      "logo": null,
+      "url": "https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Skydance Corporation"
+      ]
+    },
+    {
       "id": "HBO.cz",
       "name": "HBO",
       "logo": null,
@@ -74156,6 +74116,24 @@
       "altNames": [
         "홈&쇼핑"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Home4K.ru",
+      "name": "Home 4K",
+      "logo": null,
+      "url": "http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Relax"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -81895,6 +81873,26 @@
         "Cultura"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "JingmenComprehensiveNewsChannel.cn",
+      "name": "Jingmen Comprehensive News Channel",
+      "logo": null,
+      "url": "https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036",
+      "country": "China",
+      "countryCode": "CN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "新闻综合频道"
+      ],
       "network": null,
       "owners": []
     },
@@ -99493,26 +99491,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "MeTV.us",
-      "name": "MeTV",
-      "logo": null,
-      "url": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Weigel Broadcasting"
-      ]
     },
     {
       "id": "meWATCHLIVE1.sg",
@@ -117378,26 +117356,6 @@
       "network": null,
       "owners": [
         "PART"
-      ]
-    },
-    {
-      "id": "Omega.is",
-      "name": "Omega",
-      "logo": null,
-      "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8",
-      "country": "Iceland",
-      "countryCode": "IS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Religioso"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Eirkur Sigurbjornsson"
       ]
     },
     {
@@ -137607,6 +137565,29 @@
       "owners": []
     },
     {
+      "id": "RadioRomaniaAntenaSatelor.ro",
+      "name": "Radio Romania Antena Satelor",
+      "logo": null,
+      "url": "https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [
+        "RRAS",
+        "Radio România Antena Satelor"
+      ],
+      "network": null,
+      "owners": [
+        "Romanian Radio Broadcasting Company"
+      ]
+    },
+    {
       "id": "RadioRomaniaIasi.ro",
       "name": "Radio Romania Iasi",
       "logo": null,
@@ -138299,6 +138280,24 @@
       "section": "español",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "RadioTVSerieA.it",
+      "name": "Radio TV Serie A",
+      "logo": null,
+      "url": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
       ],
       "altNames": [],
       "network": null,
@@ -148176,26 +148175,6 @@
       "owners": []
     },
     {
-      "id": "SMetroTV.us",
-      "name": "S Metro TV",
-      "logo": null,
-      "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "S Plus Group"
-      ]
-    },
-    {
       "id": "SSport2.tr",
       "name": "S Sport 2",
       "logo": null,
@@ -156705,6 +156684,26 @@
         "Películas"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SonyMovies.us",
+      "name": "Sony Movies",
+      "logo": null,
+      "url": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Sony Movie Channel"
+      ],
       "network": null,
       "owners": []
     },
@@ -174379,6 +174378,27 @@
       ]
     },
     {
+      "id": "Tipik.be",
+      "name": "Tipik",
+      "logo": null,
+      "url": "http://41.205.93.154/TIPIK/index.m3u8",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "La Deux",
+        "RTBF La 2"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TirolTV.at",
       "name": "Tirol TV",
       "logo": null,
@@ -178692,6 +178712,24 @@
       "altNames": [
         "台视"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TTVNews.tw",
+      "name": "TTV News",
+      "logo": null,
+      "url": "https://live.wcetv.com/hls/master-ttvnews.m3u8",
+      "country": "Taiwan",
+      "countryCode": "TW",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -205963,12 +206001,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 412
+      "count": 414
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 625
+      "count": 624
     },
     {
       "id": "series",
@@ -205988,21 +206026,21 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6645
+      "count": 6646
     }
   ],
   "stats": {
-    "total": 31785,
-    "withStreams": 10409,
+    "total": 31786,
+    "withStreams": 10411,
     "spanish": 2005,
     "adult": 78,
     "bySection": {
-      "peliculas": 625,
-      "general": 6645,
+      "peliculas": 624,
+      "general": 6646,
       "español": 1872,
       "infantil": 430,
       "series": 347,
-      "deportes": 412
+      "deportes": 414
     },
     "topCountries": [
       {
@@ -206012,12 +206050,12 @@
       },
       {
         "code": "IN",
-        "count": 791,
+        "count": 789,
         "name": "India"
       },
       {
         "code": "RU",
-        "count": 461,
+        "count": 462,
         "name": "Russia"
       },
       {
@@ -206032,7 +206070,7 @@
       },
       {
         "code": "IT",
-        "count": 271,
+        "count": 272,
         "name": "Italy"
       },
       {
@@ -206057,6 +206095,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-10-29T02:57:07.537Z",
+  "lastUpdated": "2026-10-30T03:00:57.697Z",
   "source": "orion-stream"
 }
