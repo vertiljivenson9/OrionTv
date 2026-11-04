@@ -12845,7 +12845,7 @@
       "id": "Antena3CNN.ro",
       "name": "Antena 3 CNN",
       "logo": null,
-      "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8",
+      "url": "https://live3vox.antenaplay.ro/a3free/a3free.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -13072,24 +13072,6 @@
       ],
       "altNames": [],
       "network": "Antena Uno",
-      "owners": []
-    },
-    {
-      "id": "AntenaPlayEvents.ro",
-      "name": "AntenaPlay Events",
-      "logo": null,
-      "url": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
       "owners": []
     },
     {
@@ -15252,26 +15234,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "AsiaExpressNonStop.ro",
-      "name": "Asia Express NonStop",
-      "logo": null,
-      "url": "https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "Antena TV Group",
-      "owners": [
-        "Antena TV Group"
-      ]
     },
     {
       "id": "AsiaTV.lk",
@@ -39773,6 +39735,24 @@
       "name": "CineStar 1 Bulgaria",
       "logo": null,
       "url": "http://213.91.179.28:8000/play/a05h",
+      "country": "Bulgaria",
+      "countryCode": "BG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "CineStarActionBulgaria.bg",
+      "name": "CineStar Action Bulgaria",
+      "logo": null,
+      "url": "http://213.91.179.28:8000/play/a06b",
       "country": "Bulgaria",
       "countryCode": "BG",
       "language_primary": null,
@@ -64300,26 +64280,6 @@
       ]
     },
     {
-      "id": "FoxSports2.ar",
-      "name": "Fox Sports 2",
-      "logo": null,
-      "url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": "Fox Sports International",
-      "owners": [
-        "Mediapro"
-      ]
-    },
-    {
       "id": "FoxSports2.us",
       "name": "Fox Sports 2",
       "logo": null,
@@ -70651,26 +70611,6 @@
       "network": null,
       "owners": [
         "Hallmark Cards"
-      ]
-    },
-    {
-      "id": "HalloweenNonStop.ro",
-      "name": "Halloween Non Stop",
-      "logo": null,
-      "url": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Antena TV Group"
       ]
     },
     {
@@ -78407,26 +78347,6 @@
       "owners": []
     },
     {
-      "id": "Insulanonstop.ro",
-      "name": "Insula non stop",
-      "logo": null,
-      "url": "https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "Antena TV Group",
-      "owners": [
-        "Antena TV Group"
-      ]
-    },
-    {
       "id": "Insync.in",
       "name": "Insync",
       "logo": null,
@@ -83812,6 +83732,26 @@
         "Entretenimiento"
       ],
       "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "Kanal8.mk",
+      "name": "Kanal 8",
+      "logo": null,
+      "url": "https://tv.kanal8.mk/live/kanal8.m3u8",
+      "country": "North Macedonia",
+      "countryCode": "MK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Канал 8"
+      ],
       "network": null,
       "owners": []
     },
@@ -97905,6 +97845,26 @@
       ]
     },
     {
+      "id": "MCMTop.fr",
+      "name": "MCM Top",
+      "logo": null,
+      "url": "http://185.228.163.146:8000/play/a00g/index.m3u8",
+      "country": "France",
+      "countryCode": "FR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Música"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Groupe M6"
+      ]
+    },
+    {
       "id": "MCMTop.ru",
       "name": "MCM Top",
       "logo": null,
@@ -111041,24 +111001,6 @@
       "owners": []
     },
     {
-      "id": "NHBollyGold.in",
-      "name": "NH BollyGold",
-      "logo": null,
-      "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "NHBollyRaga.in",
       "name": "NH BollyRaga",
       "logo": null,
@@ -111162,26 +111104,6 @@
       "network": null,
       "owners": [
         "Government of Japan"
-      ]
-    },
-    {
-      "id": "NHLAntenaPlay.ro",
-      "name": "NHL AntenaPlay",
-      "logo": null,
-      "url": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": "Antena TV Group",
-      "owners": [
-        "Antena TV Group"
       ]
     },
     {
@@ -132350,6 +132272,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "PrimaTV.ro",
+      "name": "Prima TV",
+      "logo": null,
+      "url": "http://89.44.231.73:7000/primatv",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Canal 38 Amerom Bucureşti"
+      ],
+      "network": null,
+      "owners": [
+        "Clever Group"
+      ]
     },
     {
       "id": "PrimaZoom.cz",
@@ -160117,28 +160061,6 @@
       ]
     },
     {
-      "id": "StarMovies.in",
-      "name": "Star Movies",
-      "logo": null,
-      "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "JioStar",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
       "id": "StarMovies.pt",
       "name": "Star Movies",
       "logo": null,
@@ -172662,24 +172584,6 @@
       ]
     },
     {
-      "id": "TheFilmDetective.us",
-      "name": "The Film Detective",
-      "logo": null,
-      "url": "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "TheFirstTV.us",
       "name": "The First TV",
       "logo": null,
@@ -177453,7 +177357,7 @@
       "id": "Travelxp.in",
       "name": "Travelxp",
       "logo": null,
-      "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+      "url": "http://88.212.7.14/live/travel_xp_4k/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -188025,7 +187929,7 @@
         "Series"
       ],
       "altNames": [
-        "Твій серіал"
+        "Твій се��іал"
       ],
       "network": null,
       "owners": [
@@ -189294,7 +189198,7 @@
       "id": "TVP1.pl",
       "name": "TVP1",
       "logo": null,
-      "url": "http://92.114.85.87:8009/play/a009/index.m3u8",
+      "url": "https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -189314,7 +189218,7 @@
       "id": "TVP2.pl",
       "name": "TVP2",
       "logo": null,
-      "url": "http://57.128.210.196:8080/143/index.m3u8",
+      "url": "https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -193390,24 +193294,6 @@
       "owners": [
         "Media Capital"
       ]
-    },
-    {
-      "id": "V2BEATTV.uk",
-      "name": "V2BEAT TV",
-      "logo": null,
-      "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
-      "country": "United Kingdom",
-      "countryCode": "UK",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "V6News.in",
@@ -206150,12 +206036,12 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 427
+      "count": 424
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 622
+      "count": 619
     },
     {
       "id": "series",
@@ -206179,27 +206065,27 @@
     }
   ],
   "stats": {
-    "total": 31802,
-    "withStreams": 10416,
-    "spanish": 1975,
+    "total": 31803,
+    "withStreams": 10410,
+    "spanish": 1974,
     "adult": 78,
     "bySection": {
-      "peliculas": 622,
+      "peliculas": 619,
       "general": 6665,
       "español": 1844,
       "infantil": 432,
       "series": 348,
-      "deportes": 427
+      "deportes": 424
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1649,
+        "count": 1648,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 789,
+        "count": 787,
         "name": "India"
       },
       {
@@ -206234,7 +206120,7 @@
       },
       {
         "code": "UK",
-        "count": 214,
+        "count": 213,
         "name": "United Kingdom"
       },
       {
@@ -206244,6 +206130,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-11-03T04:05:44.290Z",
+  "lastUpdated": "2026-11-04T03:23:45.148Z",
   "source": "orion-stream"
 }
