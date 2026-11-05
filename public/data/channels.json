@@ -12781,7 +12781,7 @@
       "id": "Antena1.ro",
       "name": "Antena 1",
       "logo": null,
-      "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8",
+      "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -21057,6 +21057,26 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "beINSportsUSA.us",
+      "name": "beIN Sports USA",
+      "logo": null,
+      "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "beIN Media Group"
+      ]
     },
     {
       "id": "beINSPORTSXTRA.us",
@@ -112499,6 +112519,26 @@
       "owners": []
     },
     {
+      "id": "NipponTV.jp",
+      "name": "Nippon TV",
+      "logo": null,
+      "url": "https://ntv5.mov3.co/hls/ntv.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "日本テレビ"
+      ],
+      "network": "NNN/NNS",
+      "owners": []
+    },
+    {
       "id": "NireekshanaTV.in",
       "name": "Nireekshana TV",
       "logo": null,
@@ -184913,6 +184953,28 @@
       ]
     },
     {
+      "id": "TVTokyo.jp",
+      "name": "TV Tokyo",
+      "logo": null,
+      "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "テレビ東京"
+      ],
+      "network": "TXN Network",
+      "owners": [
+        "TV Tokyo Corporation"
+      ]
+    },
+    {
       "id": "TVTorun.pl",
       "name": "TV Torun",
       "logo": null,
@@ -187929,7 +187991,7 @@
         "Series"
       ],
       "altNames": [
-        "Твій се��іал"
+        "Твій серіал"
       ],
       "network": null,
       "owners": [
@@ -206036,7 +206098,7 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 424
+      "count": 425
     },
     {
       "id": "peliculas",
@@ -206061,26 +206123,26 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6665
+      "count": 6667
     }
   ],
   "stats": {
     "total": 31803,
-    "withStreams": 10410,
+    "withStreams": 10413,
     "spanish": 1974,
     "adult": 78,
     "bySection": {
       "peliculas": 619,
-      "general": 6665,
+      "general": 6667,
       "español": 1844,
       "infantil": 432,
       "series": 348,
-      "deportes": 424
+      "deportes": 425
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1648,
+        "count": 1649,
         "name": "United States"
       },
       {
@@ -206130,6 +206192,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-11-04T03:23:45.148Z",
+  "lastUpdated": "2026-11-05T03:47:22.830Z",
   "source": "orion-stream"
 }
