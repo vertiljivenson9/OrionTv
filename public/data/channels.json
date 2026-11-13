@@ -4070,7 +4070,7 @@
       "id": "A7TV.do",
       "name": "A7 TV",
       "logo": null,
-      "url": "https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8",
+      "url": "https://183.giatvcdn.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -6258,7 +6258,7 @@
       "id": "AdoramTV.do",
       "name": "Adoram TV",
       "logo": null,
-      "url": "https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8",
+      "url": "https://183.giatvcdn.com/giatv/giatv-adoram/adoram/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -11788,79 +11788,6 @@
       ]
     },
     {
-      "id": "AnGiangTV1.vn",
-      "name": "An Giang TV 1",
-      "logo": null,
-      "url": "https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8",
-      "country": "Vietnam",
-      "countryCode": "VN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ATV1",
-        "Kien Giang TV",
-        "KG-PTTH"
-      ],
-      "network": null,
-      "owners": [
-        "An Giang Radio - Television Station"
-      ]
-    },
-    {
-      "id": "AnGiangTV2.vn",
-      "name": "An Giang TV 2",
-      "logo": null,
-      "url": "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8",
-      "country": "Vietnam",
-      "countryCode": "VN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "An Giang TV",
-        "AnGiangTV",
-        "ATV",
-        "ATV2"
-      ],
-      "network": null,
-      "owners": [
-        "An Giang Radio - Television Station"
-      ]
-    },
-    {
-      "id": "AnGiangTV3.vn",
-      "name": "An Giang TV 3",
-      "logo": null,
-      "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
-      "country": "Vietnam",
-      "countryCode": "VN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "ATV 3",
-        "Kien Giang TV 1",
-        "KG1-PTTH"
-      ],
-      "network": null,
-      "owners": [
-        "An Giang Radio - Television Station"
-      ]
-    },
-    {
       "id": "AnNinhTV.vn",
       "name": "An Ninh TV",
       "logo": null,
@@ -12855,30 +12782,6 @@
       "network": null,
       "owners": [
         "Albavisión"
-      ]
-    },
-    {
-      "id": "Antena3.es",
-      "name": "Antena 3",
-      "logo": null,
-      "url": "https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Antena Tres",
-        "A3",
-        "Antena 3 HD"
-      ],
-      "network": null,
-      "owners": [
-        "Atresmedia Corporación de Medios de Comunicación SA"
       ]
     },
     {
@@ -15185,7 +15088,7 @@
         "Documentales"
       ],
       "altNames": [
-        "الشرق الوثائقية"
+        "الشرق الوثائق��ة"
       ],
       "network": null,
       "owners": [
@@ -21091,6 +20994,26 @@
       "owners": []
     },
     {
+      "id": "beINSports1.qa",
+      "name": "beIN Sports 1",
+      "logo": null,
+      "url": "https://vg162.adcdsd123321.shop/7.m3u8",
+      "country": "Qatar",
+      "countryCode": "QA",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "beIN Media Group"
+      ]
+    },
+    {
       "id": "beINSportsUSA.us",
       "name": "beIN Sports USA",
       "logo": null,
@@ -22971,6 +22894,24 @@
       "owners": []
     },
     {
+      "id": "BicolorPlus.pe",
+      "name": "Bicolor+",
+      "logo": null,
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "BicolorPlusPremium.pe",
       "name": "Bicolor+ Premium",
       "logo": null,
@@ -22993,6 +22934,24 @@
       "name": "Bicolor+ Premium 2",
       "logo": null,
       "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8",
+      "country": "Peru",
+      "countryCode": "PE",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "BicolorPlusPremium3.pe",
+      "name": "Bicolor+ Premium 3",
+      "logo": null,
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium3_abr/playlist.m3u8",
       "country": "Peru",
       "countryCode": "PE",
       "language_primary": "Español",
@@ -25018,6 +24977,26 @@
       "network": null,
       "owners": [
         "TVSAT Media Group"
+      ]
+    },
+    {
+      "id": "Boomerang.th",
+      "name": "Boomerang",
+      "logo": null,
+      "url": "https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Skydance Corporation"
       ]
     },
     {
@@ -27654,26 +27633,6 @@
       "owners": []
     },
     {
-      "id": "CamuTV.do",
-      "name": "Camu TV",
-      "logo": null,
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8",
-      "country": "Dominican Republic",
-      "countryCode": "DO",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Camú TV"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "CanThoTV.vn",
       "name": "Can Tho TV",
       "logo": null,
@@ -30289,24 +30248,6 @@
       "owners": []
     },
     {
-      "id": "Canal70.do",
-      "name": "Canal 70",
-      "logo": null,
-      "url": "https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8",
-      "country": "Dominican Republic",
-      "countryCode": "DO",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Canal79LaCosta.ar",
       "name": "Canal 79 La Costa",
       "logo": null,
@@ -31689,7 +31630,7 @@
       "id": "CanalMultivision.do",
       "name": "Canal Multivision",
       "logo": null,
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8",
+      "url": "https://183.giatvcdn.com/ssh101/ssh101/canalmulti24/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -44163,7 +44104,7 @@
       "id": "ConstanzaTV.do",
       "name": "ConstanzaTV",
       "logo": null,
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8",
+      "url": "https://183.giatvcdn.com/ssh101/ssh101/ctv8hd/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -46227,6 +46168,29 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Cula4.ie",
+      "name": "Cula4",
+      "logo": null,
+      "url": "http://41.180.140.146:4200/bysid/2106",
+      "country": "Ireland",
+      "countryCode": "IE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "Cúla4",
+        "Cúlabúla"
+      ],
+      "network": "TG4",
+      "owners": [
+        "Teilifís na Gaeilge"
+      ]
     },
     {
       "id": "Cultura24.pe",
@@ -54313,7 +54277,7 @@
         "Noticias"
       ],
       "altNames": [
-        "د��یا نیوز"
+        "دنیا نیوز"
       ],
       "network": null,
       "owners": [
@@ -64233,6 +64197,24 @@
       "owners": []
     },
     {
+      "id": "Formula1AntenaPlay.ro",
+      "name": "Formula 1 AntenaPlay",
+      "logo": null,
+      "url": "https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ForoTV.pe",
       "name": "Foro TV",
       "logo": null,
@@ -68191,26 +68173,6 @@
       ]
     },
     {
-      "id": "GMSTV.ge",
-      "name": "GMS TV",
-      "logo": null,
-      "url": "http://158.101.222.193:88/georgia_play.php?id=gms",
-      "country": "Georgia",
-      "countryCode": "GE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "პირდაპირი ეთერი"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "GMSTV.sn",
       "name": "GMS TV",
       "logo": null,
@@ -70230,24 +70192,6 @@
       "section": "español",
       "categories": [
         "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "GuaymateTV.do",
-      "name": "Guaymate TV",
-      "logo": null,
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
-      "country": "Dominican Republic",
-      "countryCode": "DO",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "Cultura"
       ],
       "altNames": [],
       "network": null,
@@ -75688,7 +75632,8 @@
       ],
       "network": null,
       "owners": [
-        "Ho Chi Minh City Television Station"
+        "Ho Chi Minh City Television Station",
+        "DatVietVAC"
       ]
     },
     {
@@ -82325,6 +82270,24 @@
       "owners": []
     },
     {
+      "id": "JK24x7News.in",
+      "name": "JK 24x7 News",
+      "logo": null,
+      "url": "https://samitaorigin.tangotv.in/JKL24X7NEWS/SAMITAORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "JKN18.th",
       "name": "JKN 18",
       "logo": null,
@@ -84768,6 +84731,24 @@
       "owners": [
         "Corporation Universal"
       ]
+    },
+    {
+      "id": "KarnatakaNewsBeat.in",
+      "name": "Karnataka News Beat",
+      "logo": null,
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "KartoonChannel.us",
@@ -88519,29 +88500,6 @@
       ]
     },
     {
-      "id": "KvartalTV.ua",
-      "name": "Kvartal TV",
-      "logo": null,
-      "url": "http://158.101.222.193:88/georgia_play.php?id=kvartal95",
-      "country": "Ukraine",
-      "countryCode": "UA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "Квартал ТБ",
-        "Квартал ТВ"
-      ],
-      "network": null,
-      "owners": [
-        "1+1 Media Group"
-      ]
-    },
-    {
       "id": "KVIFFTV.cz",
       "name": "KVIFF TV",
       "logo": null,
@@ -89593,7 +89551,7 @@
       "id": "LaVozdeJesusHD.do",
       "name": "La Voz de Jesus HD",
       "logo": null,
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -102680,7 +102638,7 @@
       "id": "MontonesTV.do",
       "name": "Montones TV",
       "logo": null,
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8",
+      "url": "https://183.giatvcdn.com/ssh101/ssh101/montonestv1/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -113530,6 +113488,24 @@
       "owners": []
     },
     {
+      "id": "NonStopBharat.in",
+      "name": "Non Stop Bharat",
+      "logo": null,
+      "url": "https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "NonStopKungFu.se",
       "name": "NonStop Kung Fu",
       "logo": null,
@@ -118704,9 +118680,10 @@
         "Entretenimiento"
       ],
       "altNames": [],
-      "network": null,
+      "network": "VTVcab",
       "owners": [
-        "Vietnam Cable Television Corporation Joint Stock Company"
+        "Vietnam Cable Television Corporation Joint Stock Company",
+        "DatVietVAC"
       ]
     },
     {
@@ -118726,9 +118703,10 @@
       "altNames": [
         "ON Vie Giải Trí"
       ],
-      "network": null,
+      "network": "VTVcab",
       "owners": [
-        "Vietnam Cable Television Corporation Joint Stock Company"
+        "Vietnam Cable Television Corporation Joint Stock Company",
+        "DatVietVAC"
       ]
     },
     {
@@ -120811,6 +120789,24 @@
       "owners": [
         "The Capuchin Friars of the Religious Province of Sant'Angelo"
       ]
+    },
+    {
+      "id": "PaighamTelevision.pk",
+      "name": "Paigham Television",
+      "logo": null,
+      "url": "https://samitaorigin.tangotv.in/PAIGAMTV/SAMITAORIGIN/index.m3u8",
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "PaighanTV.pk",
@@ -148832,6 +148828,29 @@
       ]
     },
     {
+      "id": "Rybalkaiokhota.ru",
+      "name": "Rybalka i okhota",
+      "logo": null,
+      "url": "https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Aire Libre"
+      ],
+      "altNames": [
+        "Рыбалка и охота"
+      ],
+      "network": null,
+      "owners": [
+        "Content Union",
+        "Stream"
+      ]
+    },
+    {
       "id": "Rybolov.ru",
       "name": "Rybolov",
       "logo": null,
@@ -153021,48 +153040,12 @@
       "owners": []
     },
     {
-      "id": "SetantaSports1.ru",
-      "name": "Setanta Sports 1",
-      "logo": null,
-      "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_georgia",
-      "country": "Russia",
-      "countryCode": "RU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "SetantaSports1Eurasia.ie",
       "name": "Setanta Sports 1 Eurasia",
       "logo": null,
       "url": "http://stream.mcquack.net/234/index.m3u8",
       "country": "Ireland",
       "countryCode": "IE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "SetantaSports2.ru",
-      "name": "Setanta Sports 2",
-      "logo": null,
-      "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia",
-      "country": "Russia",
-      "countryCode": "RU",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -153096,7 +153079,25 @@
       "id": "SetantaSports3.ge",
       "name": "Setanta Sports 3",
       "logo": null,
-      "url": "http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3",
+      "url": "http://85.117.61.84/setanta3/index.m3u8",
+      "country": "Georgia",
+      "countryCode": "GE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SetantaSportsPlusGeorgia.ge",
+      "name": "Setanta Sports+ Georgia",
+      "logo": null,
+      "url": "http://85.117.61.84/setanta2/index.m3u8",
       "country": "Georgia",
       "countryCode": "GE",
       "language_primary": null,
@@ -159369,6 +159370,27 @@
       ],
       "altNames": [
         "Союзный"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SozcuTV.tr",
+      "name": "Sozcu TV",
+      "logo": null,
+      "url": "https://filbox-to-m3u8.onrender.com/stream/szchd.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Sözcü TV",
+        "SZC TV"
       ],
       "network": null,
       "owners": []
@@ -168817,24 +168839,6 @@
       "owners": []
     },
     {
-      "id": "Telealtura.do",
-      "name": "Telealtura",
-      "logo": null,
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/telealtura/playlist.m3u8",
-      "country": "Dominican Republic",
-      "countryCode": "DO",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "Teleamazonas.ec",
       "name": "Teleamazonas",
       "logo": null,
@@ -169831,7 +169835,7 @@
       "id": "Telefuturo.do",
       "name": "Telefuturo",
       "logo": null,
-      "url": "http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8",
+      "url": "https://hls.tvabierta.net/hls/023.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -171845,7 +171849,7 @@
       "id": "TeleviaductoCanal14.do",
       "name": "Televiaducto Canal 14",
       "logo": null,
-      "url": "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_62c23ce08a8b11f1a955e58b585fd65f/index.fmp4.m3u8",
+      "url": "https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_a193cbb0a9f711f199075bad3dcd9dda/index.fmp4.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -177019,7 +177023,7 @@
       "id": "TomAndJerry.do",
       "name": "Tom And Jerry",
       "logo": null,
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -180189,7 +180193,7 @@
       "id": "TurismoHD.do",
       "name": "Turismo HD",
       "logo": null,
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -182115,7 +182119,7 @@
       "id": "TVCotuiCanal31.do",
       "name": "TV Cotui Canal 31",
       "logo": null,
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8",
+      "url": "https://183.giatvcdn.com/ssh101/ssh101/tvcotui/playlist.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -184192,26 +184196,6 @@
       "owners": [
         "Government of Monaco"
       ]
-    },
-    {
-      "id": "TVMontanaCanal10.do",
-      "name": "TV Montana Canal 10",
-      "logo": null,
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8",
-      "country": "Dominican Republic",
-      "countryCode": "DO",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "español",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TV Montaña Canal 10"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "TVMu.id",
@@ -186758,6 +186742,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "TVUYamagata.jp",
+      "name": "TV-U Yamagata",
+      "logo": null,
+      "url": "https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8",
+      "country": "Japan",
+      "countryCode": "JP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "テレビユー山形"
+      ],
+      "network": "Japan News Network",
+      "owners": [
+        "TV-U Yamagata Inc."
+      ]
     },
     {
       "id": "TVWEST.ng",
@@ -190272,6 +190278,26 @@
       ],
       "altNames": [],
       "network": null,
+      "owners": [
+        "Telewizja Polska"
+      ]
+    },
+    {
+      "id": "TVPSport.pl",
+      "name": "TVP Sport",
+      "logo": null,
+      "url": "rtsp://213.189.46.75/wmt-14963-1.sdp",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "TVP",
       "owners": [
         "Telewizja Polska"
       ]
@@ -198107,7 +198133,7 @@
         "General"
       ],
       "altNames": [
-        "VOA���国之音"
+        "VOA美国之音"
       ],
       "network": null,
       "owners": []
@@ -204173,6 +204199,24 @@
       ]
     },
     {
+      "id": "ZeceTV.ro",
+      "name": "Zece TV",
+      "logo": null,
+      "url": "https://zecetv.ilink.ro:8088/hls/live.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ZedTV.ir",
       "name": "Zed TV",
       "logo": null,
@@ -207147,7 +207191,7 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 442
+      "count": 446
     },
     {
       "id": "peliculas",
@@ -207162,31 +207206,31 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 436
+      "count": 438
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1852
+      "count": 1846
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6679
+      "count": 6682
     }
   ],
   "stats": {
-    "total": 31881,
-    "withStreams": 10468,
-    "spanish": 1988,
+    "total": 31883,
+    "withStreams": 10471,
+    "spanish": 1984,
     "adult": 78,
     "bySection": {
       "peliculas": 632,
-      "general": 6679,
-      "español": 1852,
-      "infantil": 436,
+      "general": 6682,
+      "español": 1846,
+      "infantil": 438,
       "series": 349,
-      "deportes": 442
+      "deportes": 446
     },
     "topCountries": [
       {
@@ -207196,12 +207240,12 @@
       },
       {
         "code": "IN",
-        "count": 777,
+        "count": 780,
         "name": "India"
       },
       {
         "code": "RU",
-        "count": 464,
+        "count": 463,
         "name": "Russia"
       },
       {
@@ -207221,12 +207265,12 @@
       },
       {
         "code": "ES",
-        "count": 250,
+        "count": 249,
         "name": "Spain"
       },
       {
         "code": "DO",
-        "count": 248,
+        "count": 243,
         "name": "Dominican Republic"
       },
       {
@@ -207235,12 +207279,12 @@
         "name": "United Kingdom"
       },
       {
-        "code": "SE",
+        "code": "TR",
         "count": 197,
-        "name": "Sweden"
+        "name": "Turkiye"
       }
     ]
   },
-  "lastUpdated": "2026-11-12T04:23:59.067Z",
+  "lastUpdated": "2026-11-13T03:40:08.714Z",
   "source": "orion-stream"
 }
