@@ -12785,6 +12785,30 @@
       ]
     },
     {
+      "id": "Antena3.es",
+      "name": "Antena 3",
+      "logo": null,
+      "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "Antena Tres",
+        "A3",
+        "Antena 3 HD"
+      ],
+      "network": null,
+      "owners": [
+        "Atresmedia Corporación de Medios de Comunicación SA"
+      ]
+    },
+    {
       "id": "Antena3CNN.ro",
       "name": "Antena 3 CNN",
       "logo": null,
@@ -15088,7 +15112,7 @@
         "Documentales"
       ],
       "altNames": [
-        "الشرق الوثائق��ة"
+        "الشرق الوثائقية"
       ],
       "network": null,
       "owners": [
@@ -16173,6 +16197,24 @@
       "owners": [
         "North Khorasan Radio and Television"
       ]
+    },
+    {
+      "id": "Atreseries.es",
+      "name": "Atreseries",
+      "logo": null,
+      "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3s.mpd",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "AtrinaTV.ir",
@@ -21012,6 +21054,24 @@
       "owners": [
         "beIN Media Group"
       ]
+    },
+    {
+      "id": "beINSports1Turk.tr",
+      "name": "beIN Sports 1 Turk",
+      "logo": null,
+      "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+      "country": "Turkiye",
+      "countryCode": "TR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "beINSportsUSA.us",
@@ -61900,6 +61960,26 @@
       ]
     },
     {
+      "id": "FastSports.am",
+      "name": "Fast Sports",
+      "logo": null,
+      "url": "http://s7.merlive.am/Fastsports/index.m3u8",
+      "country": "Armenia",
+      "countryCode": "AM",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Fast Media"
+      ]
+    },
+    {
       "id": "FastTV.us",
       "name": "Fast TV",
       "logo": null,
@@ -63206,7 +63286,7 @@
       "id": "FilmUADrama.ua",
       "name": "FilmUADrama",
       "logo": null,
-      "url": "http://88.99.215.227/FilmUADrama/index.m3u8",
+      "url": "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8",
       "country": "Ukraine",
       "countryCode": "UA",
       "language_primary": null,
@@ -81002,7 +81082,7 @@
       "id": "JalshaMovies.in",
       "name": "Jalsha Movies",
       "logo": null,
-      "url": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8",
+      "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -89368,6 +89448,24 @@
       "section": "español",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "LaSexta.es",
+      "name": "La Sexta",
+      "logo": null,
+      "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
       ],
       "altNames": [],
       "network": null,
@@ -99071,6 +99169,26 @@
       "network": null,
       "owners": [
         "Mega Media"
+      ]
+    },
+    {
+      "id": "Mega.es",
+      "name": "Mega",
+      "logo": null,
+      "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Atresmedia"
       ]
     },
     {
@@ -109686,6 +109804,29 @@
       "owners": []
     },
     {
+      "id": "Neox.es",
+      "name": "Neox",
+      "logo": null,
+      "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Neox 8",
+        "Antena.Neox"
+      ],
+      "network": null,
+      "owners": [
+        "Atresmedia"
+      ]
+    },
+    {
       "id": "NeoxTV.ar",
       "name": "Neox TV",
       "logo": null,
@@ -111831,6 +111972,26 @@
       ]
     },
     {
+      "id": "NHLAntenaPlay.ro",
+      "name": "NHL AntenaPlay",
+      "logo": null,
+      "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "Antena TV Group",
+      "owners": [
+        "Antena TV Group"
+      ]
+    },
+    {
       "id": "NHLNetwork.us",
       "name": "NHL Network",
       "logo": null,
@@ -112335,6 +112496,26 @@
       "altNames": [
         "Nick Germany"
       ],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Networks EMEAA"
+      ]
+    },
+    {
+      "id": "Nickelodeon.hr",
+      "name": "Nickelodeon",
+      "logo": null,
+      "url": "http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
       "network": "Nickelodeon",
       "owners": [
         "Paramount Networks EMEAA"
@@ -112883,6 +113064,26 @@
         "Viacom International Inc.",
         "Network Ten All Access Pty Ltd.",
         "Paramount Skydance Corporation"
+      ]
+    },
+    {
+      "id": "NicktoonsAdria.hr",
+      "name": "Nicktoons Adria",
+      "logo": null,
+      "url": "http://5.175.174.49:1234/stream/maxtvhr/nicktoonshr-1/master.m3u8",
+      "country": "Croatia",
+      "countryCode": "HR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Global"
       ]
     },
     {
@@ -114235,6 +114436,26 @@
       "network": null,
       "owners": [
         "United Group"
+      ]
+    },
+    {
+      "id": "Nova.es",
+      "name": "Nova",
+      "logo": null,
+      "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/nova.mpd",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Estilo de Vida"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Atresmedia"
       ]
     },
     {
@@ -117913,7 +118134,7 @@
         "General"
       ],
       "altNames": [
-        "Ο Λόγος",
+        "Ο Λό��ος",
         "Mega Channel",
         "MegaOne",
         "TVOne"
@@ -132834,29 +133055,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "Prima4K.ro",
-      "name": "Prima 4K",
-      "logo": null,
-      "url": "http://92.180.26.103/stream/80/index.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Look 4K",
-        "LookSport 1"
-      ],
-      "network": null,
-      "owners": [
-        "Clever Group"
-      ]
     },
     {
       "id": "PrimaCool.cz",
@@ -157918,27 +158116,6 @@
       "owners": []
     },
     {
-      "id": "SonyMax1.in",
-      "name": "Sony Max 1",
-      "logo": null,
-      "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Sony Pictures Networks India (SPNI)",
-        "Culver Max Entertainment Private Limited"
-      ]
-    },
-    {
       "id": "SonyMovies.br",
       "name": "Sony Movies",
       "logo": null,
@@ -159378,7 +159555,7 @@
       "id": "SozcuTV.tr",
       "name": "Sozcu TV",
       "logo": null,
-      "url": "https://filbox-to-m3u8.onrender.com/stream/szchd.m3u8",
+      "url": "https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/szchd.m3u8",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -161433,28 +161610,6 @@
       "altNames": [
         "Sports18 2"
       ],
-      "network": "Star Sports",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "StarSportsSelect2.in",
-      "name": "Star Sports Select 2",
-      "logo": null,
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
       "network": "Star Sports",
       "owners": [
         "JioStar India Pvt. Ltd.",
@@ -204298,28 +204453,6 @@
       ]
     },
     {
-      "id": "ZeeAction.in",
-      "name": "Zee Action",
-      "logo": null,
-      "url": "https://fta.ektv.in/live/270/master.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "Action Cinema"
-      ],
-      "network": "Z",
-      "owners": [
-        "Zee Entertainment Enterprises Limited"
-      ]
-    },
-    {
       "id": "ZeeBangla.in",
       "name": "Zee Bangla",
       "logo": null,
@@ -207191,27 +207324,27 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 446
+      "count": 447
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 632
+      "count": 630
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 349
+      "count": 350
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 438
+      "count": 440
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1846
+      "count": 1851
     },
     {
       "id": "general",
@@ -207221,16 +207354,16 @@
   ],
   "stats": {
     "total": 31883,
-    "withStreams": 10471,
-    "spanish": 1984,
+    "withStreams": 10478,
+    "spanish": 1990,
     "adult": 78,
     "bySection": {
-      "peliculas": 632,
+      "peliculas": 630,
       "general": 6682,
-      "español": 1846,
-      "infantil": 438,
-      "series": 349,
-      "deportes": 446
+      "español": 1851,
+      "infantil": 440,
+      "series": 350,
+      "deportes": 447
     },
     "topCountries": [
       {
@@ -207240,7 +207373,7 @@
       },
       {
         "code": "IN",
-        "count": 780,
+        "count": 777,
         "name": "India"
       },
       {
@@ -207265,7 +207398,7 @@
       },
       {
         "code": "ES",
-        "count": 249,
+        "count": 255,
         "name": "Spain"
       },
       {
@@ -207280,11 +207413,11 @@
       },
       {
         "code": "TR",
-        "count": 197,
+        "count": 198,
         "name": "Turkiye"
       }
     ]
   },
-  "lastUpdated": "2026-11-13T03:40:08.714Z",
+  "lastUpdated": "2026-11-14T03:38:59.895Z",
   "source": "orion-stream"
 }
