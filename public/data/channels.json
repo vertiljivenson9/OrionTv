@@ -40347,7 +40347,7 @@
         "Música"
       ],
       "altNames": [
-        "Сити Эд��м Классическая Музыка"
+        "Сити Эдем Классическая Музыка"
       ],
       "network": null,
       "owners": [
@@ -52353,7 +52353,7 @@
         "Educación"
       ],
       "altNames": [
-        "สถานีวิ���ยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
+        "สถานีวิทยุโทรทัศน์การศึกษาทางไกลผ่านดาวเทียม"
       ],
       "network": null,
       "owners": [
@@ -96543,7 +96543,7 @@
         "Series"
       ],
       "altNames": [
-        "مرا��ا‎"
+        "مرايا‎"
       ],
       "network": "Shahid",
       "owners": [
@@ -119166,7 +119166,7 @@
     },
     {
       "id": "ONVFamily.vn",
-      "name": "ON V Family",
+      "name": "ON VFamily",
       "logo": null,
       "url": "https://vmttv.dpdns.org/tv360?id=187",
       "country": "Vietnam",
@@ -139395,10 +139395,14 @@
         "General"
       ],
       "altNames": [
-        "Radio televizija Rožaje"
+        "Radio televizija Rožaje",
+        "RTR",
+        "TV Rožaje"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Radio televizija Rožaje d.o.o."
+      ]
     },
     {
       "id": "RadioTropical.pe",
@@ -167276,7 +167280,7 @@
         "Entretenimiento"
       ],
       "altNames": [
-        "ତରଙ୍ଗ ଭିଜ���୍"
+        "ତରଙ୍ଗ ଭିଜନ୍"
       ],
       "network": "Odisha Television Network",
       "owners": [
@@ -184874,9 +184878,14 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "TV Nikšić",
+        "Televizija Nikšić"
+      ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Radio i Televizija Nikšić d.o.o."
+      ]
     },
     {
       "id": "TVNitricka.sk",
@@ -186679,7 +186688,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Mir & Teuta d.o.o."
+      ]
     },
     {
       "id": "TVThathi.br",
@@ -189334,9 +189345,13 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "RTCG 1"
+      ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Radio i Televizija Crne Gore"
+      ]
     },
     {
       "id": "TVCG2.me",
@@ -189352,9 +189367,13 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "RTCG 2"
+      ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Radio i Televizija Crne Gore"
+      ]
     },
     {
       "id": "TVCG3.me",
@@ -189371,10 +189390,13 @@
         "Legislativo"
       ],
       "altNames": [
-        "TVCG Parlamentarni kanal"
+        "TVCG Parlamentarni kanal",
+        "Parlamentarni program RTCG"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Radio i Televizija Crne Gore"
+      ]
     },
     {
       "id": "TVCGMNE.me",
@@ -189396,7 +189418,9 @@
         "RTCG Sat"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Radio i Televizija Crne Gore"
+      ]
     },
     {
       "id": "TVcom.be",
@@ -207769,7 +207793,7 @@
     }
   ],
   "stats": {
-    "total": 31909,
+    "total": 31921,
     "withStreams": 10499,
     "spanish": 1995,
     "adult": 78,
@@ -207834,6 +207858,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-11-15T03:13:40.823Z",
+  "lastUpdated": "2026-11-16T03:16:29.092Z",
   "source": "orion-stream"
 }
