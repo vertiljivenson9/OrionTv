@@ -64,7 +64,7 @@
       "id": "black.ru",
       "name": ".black",
       "logo": null,
-      "url": "http://s1.merlive.am/black/index.m3u8",
+      "url": "http://116.90.120.149:8000/play/a0ac/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -104,7 +104,7 @@
       "id": "scifi.ru",
       "name": ".sci-fi",
       "logo": null,
-      "url": "http://stream.mcquack.net/180/index.m3u8",
+      "url": "http://116.90.120.149:8000/play/a0ao/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -121,10 +121,50 @@
       ]
     },
     {
+      "id": "Andpictures.in",
+      "name": "&pictures",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a132/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
       "id": "AndTV.in",
       "name": "&TV",
       "logo": null,
-      "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+      "url": "http://116.90.120.149:8000/play/a133/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
+      "id": "AndxplorHD.in",
+      "name": "&xplor HD",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11o/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -2348,6 +2388,26 @@
       ]
     },
     {
+      "id": "3TV.us",
+      "name": "3TV",
+      "logo": null,
+      "url": "https://amg00312-amg00312c59-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c59-amgplt0022/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Gray Media"
+      ]
+    },
+    {
       "id": "4Afghanistan.fr",
       "name": "4 Afghanistan",
       "logo": null,
@@ -2438,24 +2498,6 @@
       "owners": [
         "Persiana Media Group"
       ]
-    },
-    {
-      "id": "4SiDESTV.in",
-      "name": "4 SiDES TV",
-      "logo": null,
-      "url": "https://stream.ottlive.co.in/4sidestv/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
     },
     {
       "id": "48Hours.us",
@@ -3474,7 +3516,7 @@
       "id": "8XM.pk",
       "name": "8XM",
       "logo": null,
-      "url": "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8",
+      "url": "http://116.90.120.149:8000/play/a0tw/index.m3u8",
       "country": "Pakistan",
       "countryCode": "PK",
       "language_primary": null,
@@ -11265,6 +11307,26 @@
       ]
     },
     {
+      "id": "AMCThrillers.us",
+      "name": "AMC Thrillers",
+      "logo": null,
+      "url": "https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "AMC",
+      "owners": [
+        "AMC Networks Inc."
+      ]
+    },
+    {
       "id": "Ame47.do",
       "name": "Ame 47",
       "logo": null,
@@ -14269,28 +14331,6 @@
         "Deportes"
       ],
       "altNames": [],
-      "network": null,
-      "owners": [
-        "Telekom Srbjia"
-      ]
-    },
-    {
-      "id": "ArenaSport1Premium.rs",
-      "name": "Arena Sport 1 Premium",
-      "logo": null,
-      "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Arena Sport 1 Premium Srbija"
-      ],
       "network": null,
       "owners": [
         "Telekom Srbjia"
@@ -20327,7 +20367,7 @@
         "Noticias"
       ],
       "altNames": [
-        "تلویزیون فار��ی بی‌بی‌سی"
+        "تلویزیون فارسی بی‌بی‌سی"
       ],
       "network": null,
       "owners": [
@@ -21703,26 +21743,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "BelleAmie.rs",
-      "name": "Belle Amie",
-      "logo": null,
-      "url": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Belle Amie d.o.o."
-      ]
     },
     {
       "id": "BelsatTV.pl",
@@ -31721,6 +31741,26 @@
       "owners": []
     },
     {
+      "id": "CanalGuapa.py",
+      "name": "Canal Guapa",
+      "logo": null,
+      "url": "https://guapa-live.argosworkspace.com/guapa/index.m3u8",
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Estilo de Vida"
+      ],
+      "altNames": [
+        "Guapa"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "CanalGuiaABE.bo",
       "name": "Canal Guia ABE",
       "logo": null,
@@ -35167,7 +35207,7 @@
       "id": "CBS.us",
       "name": "CBS",
       "logo": null,
-      "url": "https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8",
+      "url": "https://amg01438-amg01438c32-vizio-us-10898.playouts.now.amagi.tv/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -39244,7 +39284,7 @@
         "General"
       ],
       "altNames": [
-        "滁州��广播电视台 公共频道"
+        "滁州市广播电视台 公共频道"
       ],
       "network": null,
       "owners": []
@@ -43093,6 +43133,26 @@
       "altNames": [
         "CNN en Español"
       ],
+      "network": "Cable News Network",
+      "owners": [
+        "Skydance Corporation"
+      ]
+    },
+    {
+      "id": "CNNHeadlines.us",
+      "name": "CNN Headlines",
+      "logo": null,
+      "url": "https://amg01918-cnnus-amg01918c1-vizio-us-1813.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-vizious/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
       "network": "Cable News Network",
       "owners": [
         "Skydance Corporation"
@@ -47305,10 +47365,28 @@
       "owners": []
     },
     {
+      "id": "DaVinci.pl",
+      "name": "Da Vinci",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a0ad/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Educación"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "DaVinci.ru",
       "name": "Da Vinci",
       "logo": null,
-      "url": "http://stream.mcquack.net/238/index.m3u8",
+      "url": "http://116.90.120.149:8000/play/a0s6/index.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -51402,7 +51480,7 @@
       "id": "DiscoverPakistan.pk",
       "name": "Discover Pakistan",
       "logo": null,
-      "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+      "url": "http://116.90.120.149:8000/play/a0s8/index.m3u8",
       "country": "Pakistan",
       "countryCode": "PK",
       "language_primary": null,
@@ -51807,6 +51885,26 @@
       ]
     },
     {
+      "id": "DiscoveryScience.in",
+      "name": "Discovery Science",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11b/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Ciencia"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Skydance Corporation"
+      ]
+    },
+    {
       "id": "DiscoveryScienceEurope.uk",
       "name": "Discovery Science Europe",
       "logo": null,
@@ -51859,6 +51957,26 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Skydance Corporation"
+      ]
+    },
+    {
+      "id": "DiscoveryTurbo.in",
+      "name": "Discovery Turbo",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11d/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Automovilismo"
       ],
       "altNames": [],
       "network": null,
@@ -52080,6 +52198,28 @@
       "network": null,
       "owners": [
         "Disney Entertainment"
+      ]
+    },
+    {
+      "id": "DisneyChannel.in",
+      "name": "Disney Channel",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11r/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
       ]
     },
     {
@@ -52990,7 +53130,7 @@
       "id": "DMSat.rs",
       "name": "DM Sat",
       "logo": null,
-      "url": "https://shift03.isp.bg/DMSat/index.m3u8",
+      "url": "http://85.14.32.26:8800/udp/239.100.10.40:5000",
       "country": "Serbia",
       "countryCode": "RS",
       "language_primary": null,
@@ -53000,9 +53140,13 @@
       "categories": [
         "Música"
       ],
-      "altNames": [],
+      "altNames": [
+        "ДМ Сат"
+      ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Sat DM Plus TV d.o.o."
+      ]
     },
     {
       "id": "DMAX.de",
@@ -55295,6 +55439,29 @@
       ]
     },
     {
+      "id": "E.pl",
+      "name": "E!",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a0kz/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Entertainment"
+      ],
+      "network": "NBCUniversal International Networks",
+      "owners": [
+        "NBCUniversal",
+        "Sky Group"
+      ]
+    },
+    {
       "id": "E.ro",
       "name": "E!",
       "logo": null,
@@ -56215,30 +56382,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "EDUTV.rs",
-      "name": "EDU TV",
-      "logo": null,
-      "url": "https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
-      ],
-      "altNames": [
-        "ЕДУ ТВ"
-      ],
-      "network": null,
-      "owners": [
-        "Valentin Kuleto",
-        "Savremena gimnazija",
-        "Link Group d.o.o."
-      ]
     },
     {
       "id": "EducaTV.ec",
@@ -60972,7 +61115,7 @@
       "id": "Eurosport.in",
       "name": "Eurosport",
       "logo": null,
-      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
+      "url": "http://116.90.120.149:8000/play/a118/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -65490,7 +65633,7 @@
       "id": "FoxWeather.us",
       "name": "Fox Weather",
       "logo": null,
-      "url": "https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8",
+      "url": "https://amg00488-foxdigital-fox2sanfranciscoktvu-vizious-cshim.amagi.tv/playlist/amg00488-foxdigital-fox2sanfranciscoktvu-vizious/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -72810,7 +72953,7 @@
       "id": "HBOXtremeLatinAmerica.us",
       "name": "HBO Xtreme Latin America",
       "logo": null,
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8",
+      "url": "http://181.78.61.202:8000/play/a02a",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -73340,6 +73483,29 @@
       ],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "HerSphere.us",
+      "name": "HerSphere",
+      "logo": null,
+      "url": "https://amg00353-lionsgatestudios-amg00353c3-vizio-us-802.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vizious/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas",
+        "Series"
+      ],
+      "altNames": [
+        "HerSphere by Lionsgate"
+      ],
+      "network": null,
+      "owners": [
+        "Lionsgate Studios Corp."
+      ]
     },
     {
       "id": "HeviziTV.hu",
@@ -74156,6 +74322,24 @@
       ]
     },
     {
+      "id": "History2.pl",
+      "name": "History 2",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a0l1/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "History2LatinAmerica.us",
       "name": "History 2 Latin America",
       "logo": null,
@@ -74237,7 +74421,7 @@
       "id": "HistoryTV18.in",
       "name": "History TV18",
       "logo": null,
-      "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+      "url": "http://116.90.120.149:8000/play/a12z/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -74696,7 +74880,7 @@
       "altNames": [
         "Daegu MBC TV",
         "대구문화방송",
-        "大邱文化放��"
+        "大邱文化放送"
       ],
       "network": "MBC",
       "owners": [
@@ -77837,7 +78021,7 @@
       "is_adult": false,
       "section": "general",
       "categories": [
-        "General"
+        "Música"
       ],
       "altNames": [],
       "network": null,
@@ -80128,6 +80312,26 @@
       ]
     },
     {
+      "id": "InvestigationDiscovery.in",
+      "name": "Investigation Discovery",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a119/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Skydance Corporation"
+      ]
+    },
+    {
       "id": "InvestigationDiscovery.ru",
       "name": "Investigation Discovery",
       "logo": null,
@@ -80227,6 +80431,27 @@
       "network": "Insight TV",
       "owners": [
         "TV Entertainment Reality Network B.V."
+      ]
+    },
+    {
+      "id": "IONMystery.us",
+      "name": "ION Mystery",
+      "logo": null,
+      "url": "https://bdd9b4ef.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSU9OTXlzdGVyeV9ITFM/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "Scripps Networks",
+      "owners": [
+        "ION Media Networks Inc.",
+        "The E.W. Scripps Company"
       ]
     },
     {
@@ -81893,7 +82118,7 @@
       "id": "JalwaTV.pk",
       "name": "Jalwa TV",
       "logo": null,
-      "url": "http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8",
+      "url": "http://116.90.120.149:8000/play/a0tv/index.m3u8",
       "country": "Pakistan",
       "countryCode": "PK",
       "language_primary": null,
@@ -83838,6 +84063,24 @@
       "altNames": [
         "Júbilo TV"
       ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "JudgeFaith.us",
+      "name": "Judge Faith",
+      "logo": null,
+      "url": "https://amg18477-mycode-amg18477c1-vizio-us-9644.playouts.now.amagi.tv/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
+      ],
+      "altNames": [],
       "network": null,
       "owners": []
     },
@@ -87590,7 +87833,9 @@
       ],
       "altNames": [],
       "network": null,
-      "owners": []
+      "owners": [
+        "Kitchen TV d.o.o."
+      ]
     },
     {
       "id": "KiteVicters.in",
@@ -89403,6 +89648,29 @@
       ]
     },
     {
+      "id": "KurirTV.rs",
+      "name": "Kurir TV",
+      "logo": null,
+      "url": "https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8",
+      "country": "Serbia",
+      "countryCode": "RS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "Kurir televizija",
+        "Курир телевизија"
+      ],
+      "network": null,
+      "owners": [
+        "Adria Media Group d.o.o."
+      ]
+    },
+    {
       "id": "KusKus.ua",
       "name": "Kus-Kus",
       "logo": null,
@@ -90783,6 +91051,26 @@
       "name": "Laff",
       "logo": null,
       "url": "http://tvsen7.aynascope.net/laff/index.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Comedia"
+      ],
+      "altNames": [],
+      "network": "Scripps Networks",
+      "owners": [
+        "The E.W. Scripps Company"
+      ]
+    },
+    {
+      "id": "LaffMore.us",
+      "name": "Laff More",
+      "logo": null,
+      "url": "https://amg01438-amg01438c45-vizio-us-9921.playouts.now.amagi.tv/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -93749,6 +94037,26 @@
       "owners": []
     },
     {
+      "id": "LocalNow.us",
+      "name": "Local Now",
+      "logo": null,
+      "url": "https://localnow-vizio.amagi.tv/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Allen Media Group"
+      ]
+    },
+    {
       "id": "Localish.us",
       "name": "Localish",
       "logo": null,
@@ -94369,6 +94677,28 @@
       "network": "Love The Planet",
       "owners": [
         "Love TV Channels S.L."
+      ]
+    },
+    {
+      "id": "LoveThyNeighbor.us",
+      "name": "Love Thy Neighbor",
+      "logo": null,
+      "url": "https://amg00353-amg00353c48-vizio-us-8534.playouts.now.amagi.tv/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "series",
+      "categories": [
+        "Series"
+      ],
+      "altNames": [
+        "Tyler Perry’s Love Thy Neighbor"
+      ],
+      "network": null,
+      "owners": [
+        "Lionsgate Studios Corp."
       ]
     },
     {
@@ -102420,26 +102750,6 @@
       ]
     },
     {
-      "id": "MISTelevizija.au",
-      "name": "MIS Televizija",
-      "logo": null,
-      "url": "https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8",
-      "country": "Australia",
-      "countryCode": "AU",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Cultura"
-      ],
-      "altNames": [
-        "MIS TV"
-      ],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "MISATV.ro",
       "name": "MISA TV",
       "logo": null,
@@ -103058,7 +103368,7 @@
       "id": "MNT.us",
       "name": "MNT",
       "logo": null,
-      "url": "https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8",
+      "url": "https://amg00312-amg00312c41-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c41-amgplt0022/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -103092,6 +103402,27 @@
       "network": null,
       "owners": [
         "Alves Lampeão Jr."
+      ]
+    },
+    {
+      "id": "MNX.in",
+      "name": "MNX",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11m/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Times Network",
+      "owners": [
+        "The Times Group",
+        "Bennett Coleman and Company Limited (BCCL)"
       ]
     },
     {
@@ -104357,7 +104688,7 @@
       "id": "MoviesNow.in",
       "name": "Movies Now",
       "logo": null,
-      "url": "http://27.124.71.27/Movies_Now/index.m3u8",
+      "url": "http://116.90.120.149:8000/play/a11f/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -104368,6 +104699,29 @@
         "Películas"
       ],
       "altNames": [],
+      "network": "Times Network",
+      "owners": [
+        "The Times Group",
+        "Bennett Coleman and Company Limited (BCCL)"
+      ]
+    },
+    {
+      "id": "MoviesNowPlus.in",
+      "name": "Movies Now +",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11k/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "MN+"
+      ],
       "network": "Times Network",
       "owners": [
         "The Times Group",
@@ -105394,7 +105748,7 @@
       "id": "MTV.in",
       "name": "MTV",
       "logo": null,
-      "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
+      "url": "http://116.90.120.149:8000/play/a136/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -108514,26 +108868,6 @@
       ]
     },
     {
-      "id": "NarodnaTV.rs",
-      "name": "Narodna TV",
-      "logo": null,
-      "url": "https://edge8.pink.rs/narodnatv/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Pink Media Group"
-      ]
-    },
-    {
       "id": "Naruto.us",
       "name": "Naruto",
       "logo": null,
@@ -109141,6 +109475,30 @@
       ]
     },
     {
+      "id": "NationalGeographic.in",
+      "name": "National Geographic",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a115/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [
+        "National Geographic Channel"
+      ],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "NationalGeographic.mx",
       "name": "National Geographic",
       "logo": null,
@@ -109355,6 +109713,30 @@
       "network": null,
       "owners": [
         "FOX Networks Group"
+      ]
+    },
+    {
+      "id": "NationalGeographicWild.in",
+      "name": "National Geographic Wild",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11h/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [
+        "Nat Geo Wild"
+      ],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
       ]
     },
     {
@@ -113021,6 +113403,28 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "NickHDPlus.in",
+      "name": "Nick HD+",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11j/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
     },
     {
       "id": "NickJr.cz",
@@ -122632,9 +123036,13 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "Pannon RTV"
+      ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Fondacija Panonija"
+      ]
     },
     {
       "id": "PanoramaFM.sa",
@@ -123844,6 +124252,28 @@
       "altNames": [],
       "network": "PBS",
       "owners": []
+    },
+    {
+      "id": "PBSRetro.us",
+      "name": "PBS Retro",
+      "logo": null,
+      "url": "https://amg02333-pbs-amg02333c6-vizio-us-4416.playouts.now.amagi.tv/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil",
+        "Clásico"
+      ],
+      "altNames": [],
+      "network": "PBS",
+      "owners": [
+        "PBS Distribution",
+        "Public Media Distribution LLC"
+      ]
     },
     {
       "id": "PBSTravel.us",
@@ -125332,6 +125762,26 @@
       ]
     },
     {
+      "id": "PickleballTV.us",
+      "name": "Pickleball TV",
+      "logo": null,
+      "url": "https://amg27547-amg27547c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "PBTV"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "PicosaTV.hn",
       "name": "Picosa TV",
       "logo": null,
@@ -125481,24 +125931,6 @@
       "section": "general",
       "categories": [
         "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "Pink.rs",
-      "name": "Pink",
-      "logo": null,
-      "url": "https://edge8.pink.rs/pinktv/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
       ],
       "altNames": [],
       "network": null,
@@ -133504,6 +133936,24 @@
       ]
     },
     {
+      "id": "PopularScience.us",
+      "name": "Popular Science",
+      "logo": null,
+      "url": "https://amg13231-actve-amg13231c5-vizio-us-6143.playouts.now.amagi.tv/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Ciencia"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "PopularTVMelilla.es",
       "name": "Popular TV Melilla",
       "logo": null,
@@ -135457,151 +135907,6 @@
       "owners": []
     },
     {
-      "id": "Prva.rs",
-      "name": "Prva",
-      "logo": null,
-      "url": "https://de1.dstv.cx/PrvaTVHD/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Prva Srpska Televizija",
-        "Прва"
-      ],
-      "network": null,
-      "owners": [
-        "Nova Broadcasting doo"
-      ]
-    },
-    {
-      "id": "PrvaFiles.rs",
-      "name": "Prva Files",
-      "logo": null,
-      "url": "https://de1.dstv.cx/PrvaFiles/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Nova Broadcasting doo"
-      ]
-    },
-    {
-      "id": "PrvaKick.rs",
-      "name": "Prva Kick",
-      "logo": null,
-      "url": "https://de1.dstv.cx/PrvaKick/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Nova Broadcasting doo"
-      ]
-    },
-    {
-      "id": "PrvaLife.rs",
-      "name": "Prva Life",
-      "logo": null,
-      "url": "https://de1.dstv.cx/PrvaLife/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Nova Broadcasting doo"
-      ]
-    },
-    {
-      "id": "PrvaMax.rs",
-      "name": "Prva Max",
-      "logo": null,
-      "url": "https://de1.dstv.cx/PrvaMax/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Nova Broadcasting doo"
-      ]
-    },
-    {
-      "id": "PrvaPlus.rs",
-      "name": "Prva Plus",
-      "logo": null,
-      "url": "https://de1.dstv.cx/PrvaPlus/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Прва Плус"
-      ],
-      "network": null,
-      "owners": [
-        "Nova Broadcasting doo"
-      ]
-    },
-    {
-      "id": "PrvaWorld.rs",
-      "name": "Prva World",
-      "logo": null,
-      "url": "https://de1.dstv.cx/PrvaWorld/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Nova Broadcasting doo"
-      ]
-    },
-    {
       "id": "PSDTV.us",
       "name": "PSD TV",
       "logo": null,
@@ -136585,6 +136890,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "PureFlixTV.us",
+      "name": "Pure Flix TV",
+      "logo": null,
+      "url": "https://amg01884-gac-amg01884c1-vizio-us-5495.playouts.now.amagi.tv/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Great American Media"
+      ]
     },
     {
       "id": "PuringlaTV.hn",
@@ -140535,30 +140860,6 @@
       "owners": []
     },
     {
-      "id": "RadiotelevizijaRozaje.me",
-      "name": "Radio televizija Rozaje",
-      "logo": null,
-      "url": "https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8",
-      "country": "Montenegro",
-      "countryCode": "ME",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "Radio televizija Rožaje",
-        "RTR",
-        "TV Rožaje"
-      ],
-      "network": null,
-      "owners": [
-        "Radio televizija Rožaje d.o.o."
-      ]
-    },
-    {
       "id": "RadioTropical.pe",
       "name": "Radio Tropical",
       "logo": null,
@@ -141482,31 +141783,6 @@
         "Educación"
       ],
       "altNames": [],
-      "network": null,
-      "owners": [
-        "Rai"
-      ]
-    },
-    {
-      "id": "RaiSport.it",
-      "name": "Rai Sport",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896",
-      "country": "Italy",
-      "countryCode": "IT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Rai Sport 1",
-        "Rai Sport +",
-        "Rai Sport Più",
-        "Rai Sport Satellite"
-      ],
       "network": null,
       "owners": [
         "Rai"
@@ -148567,7 +148843,7 @@
       "id": "RTS1.rs",
       "name": "RTS 1",
       "logo": null,
-      "url": "https://de1.dstv.cx/RTS1HD/index.m3u8",
+      "url": "https://webtvstream.bhtelecom.ba/rts1.m3u8",
       "country": "Serbia",
       "countryCode": "RS",
       "language_primary": null,
@@ -148589,7 +148865,7 @@
       "id": "RTS2.rs",
       "name": "RTS 2",
       "logo": null,
-      "url": "https://de1.dstv.cx/RTS2HD/index.m3u8",
+      "url": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
       "country": "Serbia",
       "countryCode": "RS",
       "language_primary": null,
@@ -148597,54 +148873,10 @@
       "is_adult": false,
       "section": "general",
       "categories": [
-        "General"
+        "Cultura"
       ],
       "altNames": [
         "РТС 2"
-      ],
-      "network": null,
-      "owners": [
-        "Radio Televizija Srbije"
-      ]
-    },
-    {
-      "id": "RTS3.rs",
-      "name": "RTS 3",
-      "logo": null,
-      "url": "http://185.81.240.65:15000/udp/233.233.233.36:12000",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "РТС 3"
-      ],
-      "network": null,
-      "owners": [
-        "Radio Televizija Srbije"
-      ]
-    },
-    {
-      "id": "RTSDrama.rs",
-      "name": "RTS Drama",
-      "logo": null,
-      "url": "https://de1.dstv.cx/RTSDrama/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [
-        "РТС Драма"
       ],
       "network": null,
       "owners": [
@@ -148670,76 +148902,10 @@
       "owners": []
     },
     {
-      "id": "RTSKolo.rs",
-      "name": "RTS Kolo",
-      "logo": null,
-      "url": "https://de1.dstv.cx/RTSKolo/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "РТС Коло"
-      ],
-      "network": null,
-      "owners": [
-        "Radio Televizija Srbije"
-      ]
-    },
-    {
-      "id": "RTSMuzika.rs",
-      "name": "RTS Muzika",
-      "logo": null,
-      "url": "https://de1.dstv.cx/RTSMuzika/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [
-        "РТС Музика"
-      ],
-      "network": null,
-      "owners": [
-        "Radio Televizija Srbije"
-      ]
-    },
-    {
-      "id": "RTSPoletarac.rs",
-      "name": "RTS Poletarac",
-      "logo": null,
-      "url": "https://de1.dstv.cx/RTSPoletarac/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "РТС Полетарац"
-      ],
-      "network": null,
-      "owners": [
-        "Radio Televizija Srbije"
-      ]
-    },
-    {
       "id": "RTSSvet.rs",
       "name": "RTS Svet",
       "logo": null,
-      "url": "https://de1.dstv.cx/RTSSvet/index.m3u8",
+      "url": "https://webtvstream.bhtelecom.ba/rts_svet.m3u8",
       "country": "Serbia",
       "countryCode": "RS",
       "language_primary": null,
@@ -148755,51 +148921,6 @@
         "RTS Sat",
         "RTS BSatelit",
         "TVB Satelit"
-      ],
-      "network": null,
-      "owners": [
-        "Radio Televizija Srbije"
-      ]
-    },
-    {
-      "id": "RTSTrezor.rs",
-      "name": "RTS Trezor",
-      "logo": null,
-      "url": "https://de1.dstv.cx/RTSTrezor/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "РТС Трезор"
-      ],
-      "network": null,
-      "owners": [
-        "Radio Televizija Srbije"
-      ]
-    },
-    {
-      "id": "RTSZivot.rs",
-      "name": "RTS Zivot",
-      "logo": null,
-      "url": "https://de1.dstv.cx/RTSZivot/index.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "RTS Život",
-        "РТС Живот"
       ],
       "network": null,
       "owners": [
@@ -149047,7 +149168,7 @@
       "id": "RTV1.rs",
       "name": "RTV 1",
       "logo": null,
-      "url": "mmsh://212.200.255.151/rtv1",
+      "url": "http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8",
       "country": "Serbia",
       "countryCode": "RS",
       "language_primary": null,
@@ -149061,13 +149182,15 @@
         "РТВ 1"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Radio-televizija Vojvodine"
+      ]
     },
     {
       "id": "RTV2.rs",
       "name": "RTV 2",
       "logo": null,
-      "url": "mmsh://212.200.255.151/rtv2",
+      "url": "http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8",
       "country": "Serbia",
       "countryCode": "RS",
       "language_primary": null,
@@ -149081,7 +149204,9 @@
         "РТВ 2"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Radio-televizija Vojvodine"
+      ]
     },
     {
       "id": "RTVArnhemTV.nl",
@@ -149414,7 +149539,9 @@
       "categories": [
         "General"
       ],
-      "altNames": [],
+      "altNames": [
+        "РТВ Нови Пазар"
+      ],
       "network": null,
       "owners": [
         "Radio Televizija Novi Pazar d.o.o."
@@ -153626,9 +153753,9 @@
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
-      "section": "general",
+      "section": "series",
       "categories": [
-        "General"
+        "Series"
       ],
       "altNames": [
         "Scifi Србија"
@@ -158846,7 +158973,7 @@
       "id": "Smotrim100Detskoe.ru",
       "name": "Smotrim 100% Detskoe",
       "logo": null,
-      "url": "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8",
+      "url": "https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -158868,7 +158995,7 @@
       "id": "Smotrim100Fakty.ru",
       "name": "Smotrim 100% Fakty",
       "logo": null,
-      "url": "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8",
+      "url": "https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -158887,10 +159014,54 @@
       ]
     },
     {
+      "id": "Smotrim100Gorkogo.ru",
+      "name": "Smotrim 100% Gorkogo",
+      "logo": null,
+      "url": "https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "Смотрим 100% Горького"
+      ],
+      "network": "VGTRK",
+      "owners": [
+        "VGTRK"
+      ]
+    },
+    {
+      "id": "Smotrim100k1.ru",
+      "name": "Smotrim 100% k 1",
+      "logo": null,
+      "url": "https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Смотрим 100% к 1"
+      ],
+      "network": "VGTRK",
+      "owners": [
+        "VGTRK"
+      ]
+    },
+    {
       "id": "Smotrim100Klassika.ru",
       "name": "Smotrim 100% Klassika",
       "logo": null,
-      "url": "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8",
+      "url": "https://stream.smotrim.ru/hls2/fasttv03/playlist_3.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -158913,7 +159084,7 @@
       "id": "Smotrim100Lyubov.ru",
       "name": "Smotrim 100% Lyubov",
       "logo": null,
-      "url": "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8",
+      "url": "https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -158935,7 +159106,7 @@
       "id": "Smotrim100Muzhskoe.ru",
       "name": "Smotrim 100% Muzhskoe",
       "logo": null,
-      "url": "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8",
+      "url": "https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -158957,7 +159128,7 @@
       "id": "Smotrim100Prazdnik.ru",
       "name": "Smotrim 100% Prazdnik",
       "logo": null,
-      "url": "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8",
+      "url": "https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8",
       "country": "Russia",
       "countryCode": "RU",
       "language_primary": null,
@@ -158973,6 +159144,28 @@
       "network": "ВГТРК",
       "owners": [
         "ВГТРК"
+      ]
+    },
+    {
+      "id": "Smotrim100Talkshow.ru",
+      "name": "Smotrim 100% Talk-show",
+      "logo": null,
+      "url": "https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8",
+      "country": "Russia",
+      "countryCode": "RU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Смотрим 100% Ток-шоу"
+      ],
+      "network": "VGTRK",
+      "owners": [
+        "VGTRK"
       ]
     },
     {
@@ -159797,6 +159990,28 @@
       ]
     },
     {
+      "id": "SonyBBCEarth.in",
+      "name": "Sony BBC Earth",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a130/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [],
+      "network": "Sony Pictures Networks",
+      "owners": [
+        "BBC Earth",
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
+    },
+    {
       "id": "SonyCanalNovelas.us",
       "name": "Sony Canal Novelas",
       "logo": null,
@@ -159910,6 +160125,29 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "SonyMax.in",
+      "name": "Sony Max",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a123/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "SET Max"
+      ],
+      "network": null,
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
     },
     {
       "id": "SonyMovies.br",
@@ -160064,6 +160302,27 @@
       "section": "general",
       "categories": [
         "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": "Sony Pictures Networks",
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
+    },
+    {
+      "id": "SonyPix.in",
+      "name": "Sony Pix",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a138/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
       ],
       "altNames": [],
       "network": "Sony Pictures Networks",
@@ -161438,6 +161697,24 @@
       ]
     },
     {
+      "id": "SpaceScienceNow.us",
+      "name": "Space Science Now",
+      "logo": null,
+      "url": "https://amg00376-magellan-amg00376c13-vizio-us-1392.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowmainus-vizious/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "SpacetoonArabic.ae",
       "name": "Spacetoon Arabic",
       "logo": null,
@@ -161504,6 +161781,24 @@
       ]
     },
     {
+      "id": "SparkTVLightLove.us",
+      "name": "Spark TV Light & Love",
+      "logo": null,
+      "url": "https://wurlcandlelight.global.transmit.live/hls/68714af3296cf9171b9d7de5/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Spas.ru",
       "name": "Spas",
       "logo": null,
@@ -161559,6 +161854,24 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SPEEDVISION.us",
+      "name": "SPEEDVISION",
+      "logo": null,
+      "url": "https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Automovilismo"
       ],
       "altNames": [],
       "network": null,
@@ -161793,7 +162106,7 @@
       "id": "Spondon.in",
       "name": "Spondon",
       "logo": null,
-      "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
+      "url": "https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -163488,30 +163801,6 @@
       ],
       "altNames": [],
       "network": "JioStar",
-      "owners": [
-        "JioStar India Pvt. Ltd.",
-        "Reliance Industries(RIL)",
-        "The Walt Disney Company"
-      ]
-    },
-    {
-      "id": "StarSports2Telugu.in",
-      "name": "Star Sports 2 Telugu",
-      "logo": null,
-      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
-      "country": "India",
-      "countryCode": "IN",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "Sports18 2"
-      ],
-      "network": "Star Sports",
       "owners": [
         "JioStar India Pvt. Ltd.",
         "Reliance Industries(RIL)",
@@ -166206,6 +166495,24 @@
       "url": "http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8",
       "country": "Italy",
       "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "SuperTVSmederevo.rs",
+      "name": "Super TV Smederevo",
+      "logo": null,
+      "url": "https://183.giatvcdn.com/ssh101/ssh101/televizijasuper/playlist.m3u8",
+      "country": "Serbia",
+      "countryCode": "RS",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -175853,6 +176160,26 @@
       "owners": []
     },
     {
+      "id": "TheCW.us",
+      "name": "The CW",
+      "logo": null,
+      "url": "https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": "CW",
+      "owners": [
+        "Nexstar Media Group"
+      ]
+    },
+    {
       "id": "TheCyclingChannel.at",
       "name": "The Cycling Channel",
       "logo": null,
@@ -179184,26 +179511,6 @@
       "owners": []
     },
     {
-      "id": "TomSingsTV.us",
-      "name": "Tom Sings TV",
-      "logo": null,
-      "url": "https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Tom Sings Group"
-      ]
-    },
-    {
       "id": "TonTV.tr",
       "name": "Ton TV",
       "logo": null,
@@ -179531,26 +179838,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "TopTV.rs",
-      "name": "Top TV",
-      "logo": null,
-      "url": "http://82.165.71.58:8081/TopTV/live/playlist.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Deni Zah"
-      ]
     },
     {
       "id": "TopEstradaTV.mk",
@@ -180930,7 +181217,7 @@
       "id": "TribecaChannel.us",
       "name": "Tribeca Channel",
       "logo": null,
-      "url": "https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8",
+      "url": "https://amg02042-amg02042c43-vizio-us-11531.playouts.now.amagi.tv/playlist.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -183293,6 +183580,29 @@
       "owners": []
     },
     {
+      "id": "TVAS.rs",
+      "name": "TV AS",
+      "logo": null,
+      "url": "https://stream.toobimedia.org/public/assabac.m3u8",
+      "country": "Serbia",
+      "countryCode": "RS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "ТВ АС"
+      ],
+      "network": null,
+      "owners": [
+        "Marinko Urošević",
+        "Vesna Urošević"
+      ]
+    },
+    {
       "id": "TVAsahi.jp",
       "name": "TV Asahi",
       "logo": null,
@@ -184749,7 +185059,7 @@
       "id": "TVDugaPlus.rs",
       "name": "TV Duga+",
       "logo": null,
-      "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
+      "url": "http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8",
       "country": "Serbia",
       "countryCode": "RS",
       "language_primary": null,
@@ -184759,7 +185069,10 @@
       "categories": [
         "Música"
       ],
-      "altNames": [],
+      "altNames": [
+        "TV Duga Plus",
+        "ТВ Дуга+"
+      ],
       "network": null,
       "owners": [
         "TV Duga+"
@@ -185352,7 +185665,7 @@
       "is_adult": false,
       "section": "general",
       "categories": [
-        "General"
+        "Religioso"
       ],
       "altNames": [
         "ТВ Храм"
@@ -185453,6 +185766,28 @@
       "owners": []
     },
     {
+      "id": "TVJefimija.rs",
+      "name": "TV Jefimija",
+      "logo": null,
+      "url": "https://live.jefimija.eu/hls/stream.m3u8",
+      "country": "Serbia",
+      "countryCode": "RS",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "ТВ Јефимија"
+      ],
+      "network": null,
+      "owners": [
+        "Goran Nikolić"
+      ]
+    },
+    {
       "id": "TVJohaniter.al",
       "name": "TV Johaniter",
       "logo": null,
@@ -185529,28 +185864,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "TVKanalM.rs",
-      "name": "TV Kanal M",
-      "logo": null,
-      "url": "http://176.67.210.1/hls/kanalm.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ТВ Kанал М"
-      ],
-      "network": null,
-      "owners": [
-        "Radoica Milosavljević"
-      ]
     },
     {
       "id": "TVKeszthely.hu",
@@ -186274,29 +186587,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "TVMarsh.rs",
-      "name": "TV Marsh",
-      "logo": null,
-      "url": "http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "TV Marš",
-        "ТВ Марш"
-      ],
-      "network": null,
-      "owners": [
-        "Zoran Dovečer"
-      ]
     },
     {
       "id": "TVMAX.pe",
@@ -187226,7 +187516,7 @@
       "id": "TVPirot.rs",
       "name": "TV Pirot",
       "logo": null,
-      "url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8",
+      "url": "https://edge-rs-01.maksnet.tv/tvpirot/uzivo/playlist.m3u8",
       "country": "Serbia",
       "countryCode": "RS",
       "language_primary": null,
@@ -188103,26 +188393,6 @@
       "owners": [
         "Vidik"
       ]
-    },
-    {
-      "id": "TVSmederevo.rs",
-      "name": "TV Smederevo",
-      "logo": null,
-      "url": "https://183.giatvcdn.com/ssh101/ssh101/televizijasuper/playlist.m3u8",
-      "country": "Serbia",
-      "countryCode": "RS",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "ТВ Смедерево"
-      ],
-      "network": null,
-      "owners": []
     },
     {
       "id": "TVSolComunidade.br",
@@ -195413,7 +195683,7 @@
       "id": "UnifeTV.ar",
       "name": "Unife TV",
       "logo": null,
-      "url": "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8",
+      "url": "https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8",
       "country": "Argentina",
       "countryCode": "AR",
       "language_primary": "Español",
@@ -203176,6 +203446,29 @@
       "owners": []
     },
     {
+      "id": "WFTSTV321.us",
+      "name": "WFTS-TV 32.1",
+      "logo": null,
+      "url": "https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8",
+      "country": "United States",
+      "countryCode": "US",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "TV32 WMOR",
+        "WMOR-TV"
+      ],
+      "network": "Independent",
+      "owners": [
+        "Scripps Broadcasting Holdings LLC"
+      ]
+    },
+    {
       "id": "WGGSTV161.us",
       "name": "WGGS-TV 16.1",
       "logo": null,
@@ -209646,61 +209939,61 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 470
+      "count": 468
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 637
+      "count": 647
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 351
+      "count": 353
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 452
+      "count": 454
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1873
+      "count": 1874
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6732
+      "count": 6733
     }
   ],
   "stats": {
-    "total": 31929,
-    "withStreams": 10593,
-    "spanish": 2014,
+    "total": 31936,
+    "withStreams": 10607,
+    "spanish": 2015,
     "adult": 78,
     "bySection": {
-      "peliculas": 637,
-      "general": 6732,
-      "español": 1873,
-      "infantil": 452,
-      "series": 351,
-      "deportes": 470
+      "peliculas": 647,
+      "general": 6733,
+      "español": 1874,
+      "infantil": 454,
+      "series": 353,
+      "deportes": 468
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1657,
+        "count": 1674,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 785,
+        "count": 797,
         "name": "India"
       },
       {
         "code": "RU",
-        "count": 460,
+        "count": 463,
         "name": "Russia"
       },
       {
@@ -209710,7 +210003,7 @@
       },
       {
         "code": "IT",
-        "count": 289,
+        "count": 288,
         "name": "Italy"
       },
       {
@@ -209740,6 +210033,6 @@
       }
     ]
   },
-  "lastUpdated": "2026-11-19T04:35:22.238Z",
+  "lastUpdated": "2026-11-20T04:26:00.203Z",
   "source": "orion-stream"
 }
