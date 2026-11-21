@@ -6535,60 +6535,6 @@
       "owners": []
     },
     {
-      "id": "AdriaticSport1.ba",
-      "name": "Adriatic Sport 1",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3645291205",
-      "country": "Bosnia and Herzegovina",
-      "countryCode": "BA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "AdriaticSport2.ba",
-      "name": "Adriatic Sport 2",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2665922581",
-      "country": "Bosnia and Herzegovina",
-      "countryCode": "BA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "AdriaticSport3.ba",
-      "name": "Adriatic Sport 3",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2743527845",
-      "country": "Bosnia and Herzegovina",
-      "countryCode": "BA",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "AdultSwim.us",
       "name": "Adult Swim",
       "logo": null,
@@ -13756,24 +13702,6 @@
       ]
     },
     {
-      "id": "APATv.az",
-      "name": "APA Tv",
-      "logo": null,
-      "url": "http://stream.apa.tv/apastream/index.m3u8",
-      "country": "Azerbaijan",
-      "countryCode": "AZ",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Noticias"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "apartTV.lu",
       "name": "apart TV",
       "logo": null,
@@ -13846,6 +13774,24 @@
       "section": "general",
       "categories": [
         "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "ApnaPunjabTV.in",
+      "name": "Apna Punjab TV",
+      "logo": null,
+      "url": "https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
       ],
       "altNames": [],
       "network": null,
@@ -14188,6 +14134,26 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "ARB24.az",
+      "name": "ARB 24",
+      "logo": null,
+      "url": "http://185.32.44.154:80/arb24/index.m3u8",
+      "country": "Azerbaijan",
+      "countryCode": "AZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Region TV MMC"
+      ]
     },
     {
       "id": "ArboldeVidaTV.sv",
@@ -16322,6 +16288,24 @@
       "owners": []
     },
     {
+      "id": "ATMRozrywkaREWORK.pl",
+      "name": "ATM Rozrywka REWORK",
+      "logo": null,
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ATNBangla.bd",
       "name": "ATN Bangla",
       "logo": null,
@@ -17975,29 +17959,6 @@
       ]
     },
     {
-      "id": "AXNMovies.es",
-      "name": "AXN Movies",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2493319111",
-      "country": "Spain",
-      "countryCode": "ES",
-      "language_primary": "Español",
-      "is_spanish": true,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [
-        "AXN White Spain",
-        "Sony Entertainment Television Spain"
-      ],
-      "network": null,
-      "owners": [
-        "Sony Pictures Television"
-      ]
-    },
-    {
       "id": "AXNMovies.pt",
       "name": "AXN Movies",
       "logo": null,
@@ -18316,7 +18277,7 @@
       "id": "AzStarTV.ca",
       "name": "Az Star TV",
       "logo": null,
-      "url": "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
+      "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
       "country": "Canada",
       "countryCode": "CA",
       "language_primary": null,
@@ -19115,7 +19076,7 @@
       "id": "BakuTV.az",
       "name": "Baku.TV",
       "logo": null,
-      "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
+      "url": "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8",
       "country": "Azerbaijan",
       "countryCode": "AZ",
       "language_primary": null,
@@ -21366,7 +21327,7 @@
       "id": "beINSports1Turk.tr",
       "name": "beIN Sports 1 Turk",
       "logo": null,
-      "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -22165,29 +22126,6 @@
       "altNames": [],
       "network": "Pluto TV",
       "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "BestofTheDrewBarrymoreShow.se",
-      "name": "Best of The Drew Barrymore Show",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
         "Viaplay Group AB (publ)",
         "VIMN Nordic AB",
         "Paramount Skydance Corporation"
@@ -25307,28 +25245,6 @@
       "owners": []
     },
     {
-      "id": "BondiRescue.se",
-      "name": "Bondi Rescue",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "BondiRescue.us",
       "name": "Bondi Rescue",
       "logo": null,
@@ -25404,26 +25320,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "Boomerang.it",
-      "name": "Boomerang",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802",
-      "country": "Italy",
-      "countryCode": "IT",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Skydance Corporation"
-      ]
     },
     {
       "id": "Boomerang.th",
@@ -27471,6 +27367,24 @@
       "owners": [
         "Groupe Canal Plus"
       ]
+    },
+    {
+      "id": "C10.in",
+      "name": "C-10",
+      "logo": null,
+      "url": "https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "C1.mn",
@@ -31904,6 +31818,26 @@
       ]
     },
     {
+      "id": "CanalJ.fr",
+      "name": "Canal J",
+      "logo": null,
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b",
+      "country": "France",
+      "countryCode": "FR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Groupe M6"
+      ]
+    },
+    {
       "id": "CanalLatino54.cl",
       "name": "Canal Latino 54",
       "logo": null,
@@ -33175,46 +33109,6 @@
       ]
     },
     {
-      "id": "CanalPlusSport.pl",
-      "name": "Canal+ Sport",
-      "logo": null,
-      "url": "http://57.129.96.133:888/stream/92/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Canal+ Group"
-      ]
-    },
-    {
-      "id": "CanalPlusSport2.pl",
-      "name": "Canal+ Sport 2",
-      "logo": null,
-      "url": "http://57.129.96.133:888/stream/94/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Canal+ Group"
-      ]
-    },
-    {
       "id": "CanalPlusSport2SK.sk",
       "name": "Canal+ Sport 2 SK",
       "logo": null,
@@ -33233,26 +33127,6 @@
       "owners": []
     },
     {
-      "id": "CanalPlusSport3.pl",
-      "name": "Canal+ Sport 3",
-      "logo": null,
-      "url": "http://57.129.96.133:888/stream/93/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Canal+ Group"
-      ]
-    },
-    {
       "id": "CanalPlusSport3SK.sk",
       "name": "Canal+ Sport 3 SK",
       "logo": null,
@@ -33269,26 +33143,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "CanalPlusSport4.pl",
-      "name": "Canal+ Sport 4",
-      "logo": null,
-      "url": "http://57.129.96.133:888/stream/95/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Canal+ Group"
-      ]
     },
     {
       "id": "CanalPlusSport4SK.sk",
@@ -33849,29 +33703,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "CarChase.se",
-      "name": "Car Chase",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
     },
     {
       "id": "CarChase.us",
@@ -34574,6 +34405,27 @@
       ]
     },
     {
+      "id": "CartoonNetworkWesternEurope.uk",
+      "name": "Cartoon Network Western Europe",
+      "logo": null,
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F327818589842dbaee1327c",
+      "country": "United Kingdom",
+      "countryCode": "UK",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Cartoon Network",
+      "owners": [
+        "Skydance EMEA"
+      ]
+    },
+    {
       "id": "Cartoonito.it",
       "name": "Cartoonito",
       "logo": null,
@@ -34979,6 +34831,24 @@
       "owners": [
         "BBC"
       ]
+    },
+    {
+      "id": "CBC.az",
+      "name": "CBC",
+      "logo": null,
+      "url": "http://185.118.50.218:80/cbc/video.m3u8",
+      "country": "Azerbaijan",
+      "countryCode": "AZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "CBCNewsNetwork.ca",
@@ -38625,28 +38495,6 @@
       ]
     },
     {
-      "id": "Cheers.se",
-      "name": "Cheers",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Comedia"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "Cheers.us",
       "name": "Cheers",
       "logo": null,
@@ -40038,7 +39886,7 @@
       "id": "CinePlusClassic.fr",
       "name": "Cine+ Classic",
       "logo": null,
-      "url": "http://99.27.51.147/CineClassic/index.m3u8",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027",
       "country": "France",
       "countryCode": "FR",
       "language_primary": null,
@@ -45993,31 +45841,6 @@
       "owners": []
     },
     {
-      "id": "CSI.se",
-      "name": "CSI",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [
-        "CBS CSI"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "CBS Broadcasting Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "CSI.us",
       "name": "CSI",
       "logo": null,
@@ -47359,24 +47182,6 @@
       "section": "general",
       "categories": [
         "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
-      "id": "DaVinci.pl",
-      "name": "Da Vinci",
-      "logo": null,
-      "url": "http://116.90.120.149:8000/play/a0ad/index.m3u8",
-      "country": "Poland",
-      "countryCode": "PL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Educación"
       ],
       "altNames": [],
       "network": null,
@@ -50824,29 +50629,6 @@
       "owners": []
     },
     {
-      "id": "DiagnosisMurder.se",
-      "name": "Diagnosis Murder",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series",
-        "Clásico"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "Diaspora24.sn",
       "name": "Diaspora 24",
       "logo": null,
@@ -51072,86 +50854,6 @@
       "section": "general",
       "categories": [
         "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "RCS & RDS"
-      ]
-    },
-    {
-      "id": "DigiSport1.ro",
-      "name": "Digi Sport 1",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "RCS & RDS"
-      ]
-    },
-    {
-      "id": "DigiSport2.ro",
-      "name": "Digi Sport 2",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=867728420",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "RCS & RDS"
-      ]
-    },
-    {
-      "id": "DigiSport3.ro",
-      "name": "Digi Sport 3",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4279401658",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "RCS & RDS"
-      ]
-    },
-    {
-      "id": "DigiSport4.ro",
-      "name": "Digi Sport 4",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4124538275",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
       ],
       "altNames": [],
       "network": null,
@@ -52178,6 +51880,26 @@
       "network": null,
       "owners": [
         "Disney Entertainment"
+      ]
+    },
+    {
+      "id": "DisneyChannel.fr",
+      "name": "Disney Channel",
+      "logo": null,
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5",
+      "country": "France",
+      "countryCode": "FR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "The Walt Disney Company France"
       ]
     },
     {
@@ -53343,28 +53065,6 @@
       ],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "DocMartin.se",
-      "name": "Doc Martin",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
     },
     {
       "id": "DocMartin.us",
@@ -55456,27 +55156,6 @@
         "Entertainment"
       ],
       "network": "NBCUniversal International Networks",
-      "owners": [
-        "NBCUniversal",
-        "Sky Group"
-      ]
-    },
-    {
-      "id": "E.ro",
-      "name": "E!",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3166915380",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": null,
       "owners": [
         "NBCUniversal",
         "Sky Group"
@@ -61211,7 +60890,7 @@
       "id": "Eurosport3Polska.pl",
       "name": "Eurosport 3 Polska",
       "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=512159637",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -61229,7 +60908,7 @@
       "id": "Eurosport4Polska.pl",
       "name": "Eurosport 4 Polska",
       "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2896573317",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2896573317d9d69e0e2d72",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -62326,29 +62005,6 @@
       "altNames": [],
       "network": "Pluto TV",
       "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "FamilyTies.se",
-      "name": "Family Ties",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Comedia"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
         "Viaplay Group AB (publ)",
         "VIMN Nordic AB",
         "Paramount Skydance Corporation"
@@ -63676,86 +63332,6 @@
       "network": null,
       "owners": [
         "Bertelsmann Verwaltungsgesellschaft mbH"
-      ]
-    },
-    {
-      "id": "Film1Action.nl",
-      "name": "Film1 Action",
-      "logo": null,
-      "url": "http://86.87.15.10:8008/play/a01l/index.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "SPI International"
-      ]
-    },
-    {
-      "id": "Film1Drama.nl",
-      "name": "Film1 Drama",
-      "logo": null,
-      "url": "http://86.87.15.10:8008/play/a01k/index.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "SPI International"
-      ]
-    },
-    {
-      "id": "Film1Family.nl",
-      "name": "Film1 Family",
-      "logo": null,
-      "url": "http://86.87.15.10:8008/play/a01m/index.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "SPI International"
-      ]
-    },
-    {
-      "id": "Film1Premiere.nl",
-      "name": "Film1 Premiere",
-      "logo": null,
-      "url": "http://86.87.15.10:8008/play/a01n/index.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "SPI International"
       ]
     },
     {
@@ -65822,28 +65398,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "Frasier.se",
-      "name": "Frasier",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-6400c095498393000878a634.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
     },
     {
       "id": "Frasier.us",
@@ -72197,30 +71751,6 @@
       ]
     },
     {
-      "id": "HappyDays.se",
-      "name": "Happy Days",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series",
-        "Clásico"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "HappyDays.us",
       "name": "Happy Days",
       "logo": null,
@@ -75284,7 +74814,7 @@
       "id": "HNN24x7.in",
       "name": "HNN 24x7",
       "logo": null,
-      "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlHNN24X7/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -77593,31 +77123,6 @@
       "network": null,
       "owners": [
         "Al Itrah Foundation"
-      ]
-    },
-    {
-      "id": "iCarly.se",
-      "name": "iCarly",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Nickelodeon iCarly"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
       ]
     },
     {
@@ -81907,29 +81412,6 @@
       ]
     },
     {
-      "id": "JAG.se",
-      "name": "JAG",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series",
-        "Clásico"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "JAG.us",
       "name": "JAG",
       "logo": null,
@@ -82671,31 +82153,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "JerseyShore.se",
-      "name": "Jersey Shore",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "MTV Jersey Shore"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
     },
     {
       "id": "JerseyShore.us",
@@ -95875,29 +95332,6 @@
       ]
     },
     {
-      "id": "MacGyver.se",
-      "name": "MacGyver",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series",
-        "Clásico"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "MacGyver.us",
       "name": "MacGyver",
       "logo": null,
@@ -97511,6 +96945,28 @@
       ]
     },
     {
+      "id": "MansudaeTelevision.kp",
+      "name": "Mansudae Television",
+      "logo": null,
+      "url": "https://live.koryocdn.org/mansudae/index.m3u8",
+      "country": "North Korea",
+      "countryCode": "KP",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "만수대텔레비죤"
+      ],
+      "network": null,
+      "owners": [
+        "Korean Central Broadcasting Committee"
+      ]
+    },
+    {
       "id": "MantavyaNews.in",
       "name": "Mantavya News",
       "logo": null,
@@ -98562,30 +98018,6 @@
       "owners": [
         "Sreyams Kumar",
         "Mathrubhumi Printing And Publishing Co. Ltd."
-      ]
-    },
-    {
-      "id": "Matlock.se",
-      "name": "Matlock",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series",
-        "Clásico"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
       ]
     },
     {
@@ -102848,30 +102280,6 @@
       "owners": []
     },
     {
-      "id": "MissionImpossible.se",
-      "name": "Mission Impossible",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series",
-        "Clásico"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "MissionImpossible.us",
       "name": "Mission Impossible",
       "logo": null,
@@ -105870,29 +105278,6 @@
       ]
     },
     {
-      "id": "MTVCatfish.se",
-      "name": "MTV Catfish",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "MTVCatfish.us",
       "name": "MTV Catfish",
       "logo": null,
@@ -106018,29 +105403,6 @@
       "owners": [
         "Viacom International Inc.",
         "Pluto Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "MTVDating.se",
-      "name": "MTV Dating",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
         "Paramount Skydance Corporation"
       ]
     },
@@ -106419,31 +105781,6 @@
       ]
     },
     {
-      "id": "MTVReality.se",
-      "name": "MTV Reality",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [
-        "MTV Pride"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "MTVReality.us",
       "name": "MTV Reality",
       "logo": null,
@@ -106462,29 +105799,6 @@
       "owners": [
         "Viacom International Inc.",
         "Pluto Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "MTVRidiculousness.se",
-      "name": "MTV Ridiculousness",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
         "Paramount Skydance Corporation"
       ]
     },
@@ -106593,29 +105907,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "MTVTeenMom.se",
-      "name": "MTV Teen Mom",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
     },
     {
       "id": "MTVTeenMom.us",
@@ -110458,31 +109749,6 @@
       ]
     },
     {
-      "id": "NCIS.se",
-      "name": "NCIS",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [
-        "CBS NCIS"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "CBS Broadcasting Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "NCIS.us",
       "name": "NCIS",
       "logo": null,
@@ -110547,31 +109813,6 @@
       ],
       "altNames": [
         "CBS NCIS: Det bedste med Tony & Ziva"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "CBS Broadcasting Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "NCISLosAngeles.se",
-      "name": "NCIS: Los Angeles",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [
-        "CBS NCIS: Los Angeles"
       ],
       "network": "Pluto TV",
       "owners": [
@@ -114007,6 +113248,26 @@
       ]
     },
     {
+      "id": "Nickelodeon.pt",
+      "name": "Nickelodeon",
+      "logo": null,
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Networks EMEAA"
+      ]
+    },
+    {
       "id": "Nickelodeon.ro",
       "name": "Nickelodeon",
       "logo": null,
@@ -114372,6 +113633,27 @@
       "altNames": [
         "Nickelodeon Online"
       ],
+      "network": null,
+      "owners": [
+        "x1co"
+      ]
+    },
+    {
+      "id": "NickOnlineBobEsponja.br",
+      "name": "NickOnline Bob Esponja",
+      "logo": null,
+      "url": "https://bob.x1colegal.com/hls/stream.m3u8",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Animación",
+        "Infantil"
+      ],
+      "altNames": [],
       "network": null,
       "owners": [
         "x1co"
@@ -117716,28 +116998,6 @@
       "owners": []
     },
     {
-      "id": "Numb3rs.se",
-      "name": "Numb3rs",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "Number1Ask.tr",
       "name": "Number 1 Ask",
       "logo": null,
@@ -117808,28 +117068,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "Numbers.se",
-      "name": "Numbers",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
     },
     {
       "id": "Numbers.us",
@@ -120666,6 +119904,28 @@
       "owners": []
     },
     {
+      "id": "One.il",
+      "name": "One",
+      "logo": null,
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8",
+      "country": "Israel",
+      "countryCode": "IL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "הערוץ הראשון"
+      ],
+      "network": null,
+      "owners": [
+        "Israel Broadcasting Authority"
+      ]
+    },
+    {
       "id": "One.mt",
       "name": "One",
       "logo": null,
@@ -123254,7 +122514,7 @@
       "id": "ParamountNetwork.pl",
       "name": "Paramount Network",
       "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3390498693",
+      "url": "https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693",
       "country": "Poland",
       "countryCode": "PL",
       "language_primary": null,
@@ -125854,28 +125114,6 @@
       "owners": []
     },
     {
-      "id": "PimpMyRide.se",
-      "name": "Pimp My Ride",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "PindinTV.pa",
       "name": "Pindin TV",
       "logo": null,
@@ -126584,29 +125822,6 @@
       "network": "Pluto TV",
       "owners": [
         "Pluto Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "PlutoTVAction.se",
-      "name": "Pluto TV Action",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas",
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
         "Paramount Skydance Corporation"
       ]
     },
@@ -129467,29 +128682,6 @@
       ]
     },
     {
-      "id": "PlutoTVHorror.se",
-      "name": "Pluto TV Horror",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas",
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "PlutoTVHorror.us",
       "name": "Pluto TV Horror",
       "logo": null,
@@ -129529,29 +128721,6 @@
       "network": "Pluto TV",
       "owners": [
         "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "PlutoTVHumor.se",
-      "name": "Pluto TV Humor",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas",
-        "Comedia"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
         "Paramount Skydance Corporation"
       ]
     },
@@ -130756,28 +129925,6 @@
       ]
     },
     {
-      "id": "PlutoTVParanormal.se",
-      "name": "Pluto TV Paranormal",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "PlutoTVParanormal.us",
       "name": "Pluto TV Paranormal",
       "logo": null,
@@ -131267,29 +130414,6 @@
       "network": "Pluto TV",
       "owners": [
         "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "PlutoTVSciFi.se",
-      "name": "Pluto TV Sci-Fi",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Series",
-        "Películas"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
         "Paramount Skydance Corporation"
       ]
     },
@@ -132489,29 +131613,6 @@
       ]
     },
     {
-      "id": "PlutoTVTrueCrime.se",
-      "name": "Pluto TV True Crime",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series",
-        "Documentales"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "PlutoTVTrueCrime.us",
       "name": "Pluto TV True Crime",
       "logo": null,
@@ -132762,27 +131863,6 @@
       "section": "series",
       "categories": [
         "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "PlutoTVWesterns.de",
-      "name": "Pluto TV Westerns",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas"
       ],
       "altNames": [],
       "network": "Pluto TV",
@@ -135042,10 +134122,36 @@
       "owners": []
     },
     {
+      "id": "PrimaSport1.ro",
+      "name": "Prima Sport 1",
+      "logo": null,
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "LookSport+",
+        "LookPlus",
+        "Look Plus",
+        "Transilvania L!VE",
+        "NCN Cluj-Napoca"
+      ],
+      "network": null,
+      "owners": [
+        "Clever Group"
+      ]
+    },
+    {
       "id": "PrimaSport2.ro",
       "name": "Prima Sport 2",
       "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3381201599",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -135060,50 +134166,6 @@
         "Look TV",
         "Transilvania Look",
         "TTV"
-      ],
-      "network": null,
-      "owners": [
-        "Clever Group"
-      ]
-    },
-    {
-      "id": "PrimaSport3.ro",
-      "name": "Prima Sport 3",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2762629881",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "LookSport 3"
-      ],
-      "network": null,
-      "owners": [
-        "Clever Group"
-      ]
-    },
-    {
-      "id": "PrimaSport4.ro",
-      "name": "Prima Sport 4",
-      "logo": null,
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3194919143",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [
-        "LookSport 2"
       ],
       "network": null,
       "owners": [
@@ -142598,30 +141660,6 @@
       "owners": []
     },
     {
-      "id": "Rawhide.se",
-      "name": "Rawhide",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series",
-        "Clásico"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "Rawhide.us",
       "name": "Rawhide",
       "logo": null,
@@ -143313,6 +142351,24 @@
       "owners": [
         "Skydance Corporation"
       ]
+    },
+    {
+      "id": "RealTV.az",
+      "name": "Real TV",
+      "logo": null,
+      "url": "http://185.118.50.218:80/realtv/video.m3u8",
+      "country": "Azerbaijan",
+      "countryCode": "AZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "RealWild.uk",
@@ -145706,30 +144762,6 @@
       "network": null,
       "owners": [
         "Riddim & Hope Network"
-      ]
-    },
-    {
-      "id": "Ridiculousness.de",
-      "name": "Ridiculousness",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Comedia"
-      ],
-      "altNames": [
-        "MTV Ridiculousness"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
       ]
     },
     {
@@ -150038,30 +149070,6 @@
       "owners": []
     },
     {
-      "id": "Rugrats.de",
-      "name": "Rugrats",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Nickelodeon Rugrats"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "Rugrats.us",
       "name": "Rugrats",
       "logo": null,
@@ -153215,7 +152223,7 @@
         "Cultura"
       ],
       "altNames": [
-        "الثقافية السعودية"
+        "الثقافية الس��ودية"
       ],
       "network": null,
       "owners": []
@@ -156461,6 +155469,24 @@
       ]
     },
     {
+      "id": "ShowPlusTV.az",
+      "name": "Show Plus TV",
+      "logo": null,
+      "url": "https://rtmp.showplus.tv/hls/myshow.m3u8",
+      "country": "Azerbaijan",
+      "countryCode": "AZ",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "ShowTurk.tr",
       "name": "Show Turk",
       "logo": null,
@@ -158316,6 +157342,26 @@
       "owners": []
     },
     {
+      "id": "SkySportF1.it",
+      "name": "Sky Sport F1",
+      "logo": null,
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d",
+      "country": "Italy",
+      "countryCode": "IT",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Sky Group Limited"
+      ]
+    },
+    {
       "id": "SkySportGolf.de",
       "name": "Sky Sport Golf",
       "logo": null,
@@ -158902,30 +157948,6 @@
       "network": "Pluto TV",
       "owners": [
         "Pluto Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "SmithsonianChannelSelects.se",
-      "name": "Smithsonian Channel Selects",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Documentales"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "SNI/SI Networks L.L.C.",
-        "Smithsonian Institution",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
         "Paramount Skydance Corporation"
       ]
     },
@@ -160332,6 +159354,80 @@
       ]
     },
     {
+      "id": "SonySAB.in",
+      "name": "Sony SAB",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a128/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "SAB TV"
+      ],
+      "network": "Sony Pictures Networks",
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
+    },
+    {
+      "id": "SonySportsTen1.in",
+      "name": "Sony Sports Ten 1",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11t/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Sony Ten 1",
+        "Ten 1",
+        "Ten Sports"
+      ],
+      "network": "Sony Sports Network",
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
+    },
+    {
+      "id": "SonySportsTen2.in",
+      "name": "Sony Sports Ten 2",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a137/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Sony Ten 2",
+        "Ten 2",
+        "Ten Action",
+        "Ten Action+"
+      ],
+      "network": "Sony Sports Network",
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
+    },
+    {
       "id": "SonySportsTen3Hindi.in",
       "name": "Sony Sports Ten 3 Hindi",
       "logo": null,
@@ -160350,6 +159446,30 @@
         "Sony Ten 3",
         "Ten 3",
         "Ten Cricket"
+      ],
+      "network": "Sony Sports Network",
+      "owners": [
+        "Sony Pictures Networks India (SPNI)",
+        "Culver Max Entertainment Private Limited"
+      ]
+    },
+    {
+      "id": "SonySportsTen5.in",
+      "name": "Sony Sports Ten 5",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a117/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Sony Six",
+        "Sony Max HD"
       ],
       "network": "Sony Sports Network",
       "owners": [
@@ -160669,59 +159789,6 @@
       ]
     },
     {
-      "id": "SouthPark.de",
-      "name": "South Park",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Comedia"
-      ],
-      "altNames": [
-        "Comedy Central South Park"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "SouthPark.se",
-      "name": "South Park",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Comedia"
-      ],
-      "altNames": [
-        "Comedy Central South Park"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "SouthPark.us",
       "name": "South Park",
       "logo": null,
@@ -160896,59 +159963,6 @@
       ],
       "altNames": [
         "Comedy Central South Park: Butters Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "SouthParkCartmanCollection.de",
-      "name": "South Park: Cartman Collection",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Comedia"
-      ],
-      "altNames": [
-        "Comedy Central South Park: Cartman Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "SouthParkCartmanCollection.se",
-      "name": "South Park: Cartman Collection",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Comedia"
-      ],
-      "altNames": [
-        "Comedy Central South Park: Cartman Collection"
       ],
       "network": "Pluto TV",
       "owners": [
@@ -161229,59 +160243,6 @@
       ]
     },
     {
-      "id": "SouthParkKennyCollection.de",
-      "name": "South Park: Kenny Collection",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Comedia"
-      ],
-      "altNames": [
-        "Comedy Central South Park: Kenny Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "SouthParkKennyCollection.se",
-      "name": "South Park: Kenny Collection",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Comedia"
-      ],
-      "altNames": [
-        "Comedy Central South Park: Kenny Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "SouthParkKennyCollection.us",
       "name": "South Park: Kenny Collection",
       "logo": null,
@@ -161304,59 +160265,6 @@
         "Comedy Partners",
         "Viacom International Inc.",
         "Pluto Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "SouthParkKyleCollection.de",
-      "name": "South Park: Kyle Collection",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Comedia"
-      ],
-      "altNames": [
-        "Comedy Central South Park: Kyle Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "SouthParkKyleCollection.se",
-      "name": "South Park: Kyle Collection",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Comedia"
-      ],
-      "altNames": [
-        "Comedy Central South Park: Kyle Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
         "Paramount Skydance Corporation"
       ]
     },
@@ -161409,59 +160317,6 @@
         "Comedy Partners",
         "Viacom International Inc.",
         "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "SouthParkStanCollection.de",
-      "name": "South Park: Stan Collection",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Comedia"
-      ],
-      "altNames": [
-        "Comedy Central South Park: Stan Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "SouthParkStanCollection.se",
-      "name": "South Park: Stan Collection",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Animación",
-        "Comedia"
-      ],
-      "altNames": [
-        "Comedy Central South Park: Stan Collection"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Comedy Partners",
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
         "Paramount Skydance Corporation"
       ]
     },
@@ -163553,6 +162408,96 @@
       ]
     },
     {
+      "id": "StarGold.in",
+      "name": "Star Gold",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a12a/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "StarGold2.in",
+      "name": "Star Gold 2",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a12b/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "StarGoldRomance.in",
+      "name": "Star Gold Romance",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a12c/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "UTV Movies"
+      ],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "StarGoldSelect.in",
+      "name": "Star Gold Select",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a131/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "StarJalsha.in",
       "name": "Star Jalsha",
       "logo": null,
@@ -163706,6 +162651,28 @@
       ]
     },
     {
+      "id": "StarMovies.in",
+      "name": "Star Movies",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a13a/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
       "id": "StarMovies.pt",
       "name": "Star Movies",
       "logo": null,
@@ -163745,6 +162712,28 @@
       "network": null,
       "owners": [
         "The Walt Disney Company Bulgaria"
+      ]
+    },
+    {
+      "id": "StarMoviesSelect.in",
+      "name": "Star Movies Select",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a139/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
       ]
     },
     {
@@ -163801,6 +162790,77 @@
       ],
       "altNames": [],
       "network": "JioStar",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "StarSports1.in",
+      "name": "Star Sports 1",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11x/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Star Sports"
+      ],
+      "network": "Star Sports",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "StarSports1Hindi.in",
+      "name": "Star Sports 1 Hindi",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a122/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [
+        "Star Sports 3",
+        "Star Cricket"
+      ],
+      "network": "Star Sports",
+      "owners": [
+        "JioStar India Pvt. Ltd.",
+        "Reliance Industries(RIL)",
+        "The Walt Disney Company"
+      ]
+    },
+    {
+      "id": "StarSports2.in",
+      "name": "Star Sports 2",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a120/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "Star Sports",
       "owners": [
         "JioStar India Pvt. Ltd.",
         "Reliance Industries(RIL)",
@@ -163893,29 +162953,6 @@
       ]
     },
     {
-      "id": "StarTrekTheNextGeneration.de",
-      "name": "Star Trek: The Next Generation",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas",
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "StarTrekTheNextGeneration.us",
       "name": "Star Trek: The Next Generation",
       "logo": null,
@@ -163979,29 +163016,6 @@
       "owners": [
         "Viaplay Group AB (publ)",
         "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "StarTrekVoyager.de",
-      "name": "Star Trek: Voyager",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "peliculas",
-      "categories": [
-        "Películas",
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Pluto TV Europe GmbH",
         "Paramount Skydance Corporation"
       ]
     },
@@ -169581,6 +168595,24 @@
       "owners": []
     },
     {
+      "id": "TBNPolska.pl",
+      "name": "TBN Polska",
+      "logo": null,
+      "url": "https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TBNUK.uk",
       "name": "TBN UK",
       "logo": null,
@@ -170128,30 +169160,6 @@
       "owners": []
     },
     {
-      "id": "TeenMom.de",
-      "name": "Teen Mom",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Entretenimiento"
-      ],
-      "altNames": [
-        "MTV Teen Mom"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "TeenMom.us",
       "name": "Teen Mom",
       "logo": null,
@@ -170468,7 +169476,7 @@
       "id": "TeleAntillas.do",
       "name": "Tele Antillas",
       "logo": null,
-      "url": "http://45.171.108.253:8888/TELEANTILLAS/index.m3u8",
+      "url": "https://hls.tvabierta.net/hls/010.m3u8",
       "country": "Dominican Republic",
       "countryCode": "DO",
       "language_primary": "Español",
@@ -174764,6 +173772,24 @@
       "owners": []
     },
     {
+      "id": "TelewizjaImperium.pl",
+      "name": "Telewizja Imperium",
+      "logo": null,
+      "url": "https://str10.imperiummedia.pl/TVIMPERIUM/index.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TelewizjaiTTV.pl",
       "name": "Telewizja iTTV",
       "logo": null,
@@ -176674,51 +175700,6 @@
       ]
     },
     {
-      "id": "TheNewDetectives.de",
-      "name": "The New Detectives",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "TheNewDetectives.se",
-      "name": "The New Detectives",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-618147d2a814250007b42916.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "TheNewDetectives.us",
       "name": "The New Detectives",
       "logo": null,
@@ -177108,30 +176089,6 @@
       "network": null,
       "owners": [
         "Pelmorex"
-      ]
-    },
-    {
-      "id": "TheWildWildWest.se",
-      "name": "The Wild Wild West",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "series",
-      "categories": [
-        "Series",
-        "Clásico"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
       ]
     },
     {
@@ -178281,6 +177238,26 @@
       ]
     },
     {
+      "id": "TLC.in",
+      "name": "TLC",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11g/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Estilo de Vida"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Skydance Corporation"
+      ]
+    },
+    {
       "id": "TLC.ru",
       "name": "TLC",
       "logo": null,
@@ -179188,7 +178165,9 @@
         "Tahiti Nui Télévision"
       ],
       "network": null,
-      "owners": []
+      "owners": [
+        "Gouvernement de la Polynésie française"
+      ]
     },
     {
       "id": "TNVPlanet.ru",
@@ -179930,30 +178909,6 @@
       "owners": []
     },
     {
-      "id": "TortuesNinjaTV.de",
-      "name": "Tortues Ninja TV",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Nickelodeon Tortues Ninja TV"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
       "id": "TortuesNinjaTV.us",
       "name": "Tortues Ninja TV",
       "logo": null,
@@ -179973,29 +178928,6 @@
       "network": "Pluto TV",
       "owners": [
         "Pluto Inc.",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "Tosh0.se",
-      "name": "Tosh.0",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-65e977042873090008b48be9.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Comedia"
-      ],
-      "altNames": [],
-      "network": "Pluto TV",
-      "owners": [
-        "Pluto Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
         "Paramount Skydance Corporation"
       ]
     },
@@ -180096,55 +179028,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "TotallyTurtles.de",
-      "name": "Totally Turtles",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8",
-      "country": "Germany",
-      "countryCode": "DE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Nickelodeon Totally Turtles"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Pluto TV Europe GmbH",
-        "Paramount Skydance Corporation"
-      ]
-    },
-    {
-      "id": "TotallyTurtles.se",
-      "name": "Totally Turtles",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8",
-      "country": "Sweden",
-      "countryCode": "SE",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [
-        "Nickelodeon Totally Turtles"
-      ],
-      "network": "Pluto TV",
-      "owners": [
-        "Viacom International Inc.",
-        "Viaplay Group AB (publ)",
-        "VIMN Nordic AB",
-        "Paramount Skydance Corporation"
-      ]
     },
     {
       "id": "TotallyTurtles.us",
@@ -181666,7 +180549,7 @@
       "id": "TRT3.tr",
       "name": "TRT 3",
       "logo": null,
-      "url": "https://tv-trt3.live.trt.com.tr/master.m3u8",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F418740351278f04c94b243",
       "country": "Turkiye",
       "countryCode": "TR",
       "language_primary": null,
@@ -191902,6 +190785,24 @@
       ]
     },
     {
+      "id": "TVKSMNT.pl",
+      "name": "TVK SMNT",
+      "logo": null,
+      "url": "https://tvk.smnt.pl/memfs/cf3a66ef-133a-4579-86da-5995ab23ae2a.m3u8",
+      "country": "Poland",
+      "countryCode": "PL",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TVKStella.pl",
       "name": "TVK Stella",
       "logo": null,
@@ -195919,6 +194820,46 @@
       "altNames": [],
       "network": null,
       "owners": []
+    },
+    {
+      "id": "Unite8Sports1.in",
+      "name": "Unite8 Sports 1",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a125/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "Unite8 Sports",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
+      "id": "Unite8Sports2.in",
+      "name": "Unite8 Sports 2",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a129/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "deportes",
+      "categories": [
+        "Deportes"
+      ],
+      "altNames": [],
+      "network": "Unite8 Sports",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
     },
     {
       "id": "Unitel.bo",
@@ -207215,6 +206156,26 @@
       ]
     },
     {
+      "id": "ZeeClassic.in",
+      "name": "Zee Classic",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a121/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Clásico"
+      ],
+      "altNames": [],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
       "id": "ZeeComedyNation.in",
       "name": "Zee Comedy Nation",
       "logo": null,
@@ -207446,6 +206407,28 @@
       ]
     },
     {
+      "id": "ZeePower.in",
+      "name": "Zee Power",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11p/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Zee Picchar"
+      ],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
       "id": "ZeePunjabHaryanaHimachal.in",
       "name": "Zee Punjab Haryana Himachal",
       "logo": null,
@@ -207505,6 +206488,26 @@
         "Z South Flix"
       ],
       "network": "ZEE5",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
+      ]
+    },
+    {
+      "id": "ZeeTalkies.in",
+      "name": "Zee Talkies",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a116/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Z",
       "owners": [
         "Zee Entertainment Enterprises Limited"
       ]
@@ -207593,6 +206596,26 @@
       "owners": [
         "Zee Media Corporation Limited (ZMCL)",
         "The Essel Group"
+      ]
+    },
+    {
+      "id": "ZeeThirai.in",
+      "name": "Zee Thirai",
+      "logo": null,
+      "url": "http://116.90.120.149:8000/play/a11q/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [],
+      "network": "Z",
+      "owners": [
+        "Zee Entertainment Enterprises Limited"
       ]
     },
     {
@@ -209939,22 +208962,22 @@
     {
       "id": "deportes",
       "name": "Deportes",
-      "count": 468
+      "count": 465
     },
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 647
+      "count": 642
     },
     {
       "id": "series",
       "name": "Series",
-      "count": 353
+      "count": 334
     },
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 454
+      "count": 443
     },
     {
       "id": "español",
@@ -209964,21 +208987,21 @@
     {
       "id": "general",
       "name": "General",
-      "count": 6733
+      "count": 6731
     }
   ],
   "stats": {
-    "total": 31936,
-    "withStreams": 10607,
-    "spanish": 2015,
+    "total": 31875,
+    "withStreams": 10567,
+    "spanish": 2014,
     "adult": 78,
     "bySection": {
-      "peliculas": 647,
-      "general": 6733,
+      "peliculas": 642,
+      "general": 6731,
       "español": 1874,
-      "infantil": 454,
-      "series": 353,
-      "deportes": 468
+      "infantil": 443,
+      "series": 334,
+      "deportes": 465
     },
     "topCountries": [
       {
@@ -209988,7 +209011,7 @@
       },
       {
         "code": "IN",
-        "count": 797,
+        "count": 819,
         "name": "India"
       },
       {
@@ -209998,7 +209021,7 @@
       },
       {
         "code": "DE",
-        "count": 390,
+        "count": 376,
         "name": "Germany"
       },
       {
@@ -210008,12 +209031,12 @@
       },
       {
         "code": "BR",
-        "count": 278,
+        "count": 279,
         "name": "Brazil"
       },
       {
         "code": "ES",
-        "count": 261,
+        "count": 260,
         "name": "Spain"
       },
       {
@@ -210023,16 +209046,16 @@
       },
       {
         "code": "UK",
-        "count": 216,
+        "count": 217,
         "name": "United Kingdom"
       },
       {
         "code": "FR",
-        "count": 205,
+        "count": 207,
         "name": "France"
       }
     ]
   },
-  "lastUpdated": "2026-11-20T04:26:00.203Z",
+  "lastUpdated": "2026-11-21T04:19:10.921Z",
   "source": "orion-stream"
 }
