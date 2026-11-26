@@ -405,6 +405,64 @@
       "owners": []
     },
     {
+      "id": "101tvCadiz.es",
+      "name": "101tv Cadiz",
+      "logo": null,
+      "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [
+        "101tv Cádiz"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "101tvMalaga.es",
+      "name": "101tv Malaga",
+      "logo": null,
+      "url": "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [
+        "101tv Málaga"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "101tvSevilla.es",
+      "name": "101tv Sevilla",
+      "logo": null,
+      "url": "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8",
+      "country": "Spain",
+      "countryCode": "ES",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "111TV.it",
       "name": "111 TV",
       "logo": null,
@@ -4726,6 +4784,24 @@
       "owners": [
         "Australian Broadcasting Corporation"
       ]
+    },
+    {
+      "id": "ABCNews.in",
+      "name": "ABC News",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/abcnews/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "ABCNewsLive.us",
@@ -18465,7 +18541,7 @@
       "id": "B4UMusic.in",
       "name": "B4U Music",
       "logo": null,
-      "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8",
+      "url": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -28775,6 +28851,26 @@
       ]
     },
     {
+      "id": "Canal13Chiquimula.gt",
+      "name": "Canal 13 Chiquimula",
+      "logo": null,
+      "url": "https://www.tl.com.gt/live.php?file=0.m3u8",
+      "country": "Guatemala",
+      "countryCode": "GT",
+      "language_primary": "Español",
+      "is_spanish": true,
+      "is_adult": false,
+      "section": "español",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "TL-com Chiquimula"
+      ]
+    },
+    {
       "id": "Canal13Esquipulas.gt",
       "name": "Canal 13 Esquipulas",
       "logo": null,
@@ -35323,6 +35419,24 @@
         "CBS Broadcasting Inc.",
         "Paramount Skydance Corporation"
       ]
+    },
+    {
+      "id": "CCNET.in",
+      "name": "CC NET",
+      "logo": null,
+      "url": "https://live.skystream.in/live/ccnet7082/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "CCPlutoTV.de",
@@ -50626,18 +50740,18 @@
       ]
     },
     {
-      "id": "Digi4K.ro",
-      "name": "Digi 4K",
+      "id": "DigiSport1.ro",
+      "name": "Digi Sport 1",
       "logo": null,
-      "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk1%2Fusergendx419snx12kdgwqrnd.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
-      "section": "general",
+      "section": "deportes",
       "categories": [
-        "General"
+        "Deportes"
       ],
       "altNames": [],
       "network": null,
@@ -51726,26 +51840,6 @@
       "network": null,
       "owners": [
         "Disney Entertainment"
-      ]
-    },
-    {
-      "id": "DisneyChannel.nl",
-      "name": "Disney Channel",
-      "logo": null,
-      "url": "https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "infantil",
-      "categories": [
-        "Infantil"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "The Walt Disney Company"
       ]
     },
     {
@@ -53876,6 +53970,26 @@
       ],
       "altNames": [
         "Drishya"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "DrisyaNewsPala.in",
+      "name": "Drisya News Pala",
+      "logo": null,
+      "url": "https://live.skystream.in/live/DrisyaPala2924/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "Drisya News Pala Online"
       ],
       "network": null,
       "owners": []
@@ -60643,26 +60757,6 @@
       "owners": []
     },
     {
-      "id": "Eurosport4K.fr",
-      "name": "Eurosport 4K",
-      "logo": null,
-      "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8",
-      "country": "France",
-      "countryCode": "FR",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "deportes",
-      "categories": [
-        "Deportes"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Skydance Corporation"
-      ]
-    },
-    {
       "id": "Eurosport4KCzechia.cz",
       "name": "Eurosport 4K Czechia",
       "logo": null,
@@ -60930,7 +61024,7 @@
       "id": "EWTN.us",
       "name": "EWTN",
       "logo": null,
-      "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
+      "url": "https://mumt05.tangotv.in/87NeALx2EWTN/index.m3u8",
       "country": "United States",
       "countryCode": "US",
       "language_primary": null,
@@ -73603,6 +73697,26 @@
       "owners": []
     },
     {
+      "id": "History.ro",
+      "name": "History",
+      "logo": null,
+      "url": "http://91.235.165.117:8001/play/a08t/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Documentales"
+      ],
+      "altNames": [
+        "History România"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "History.si",
       "name": "History",
       "logo": null,
@@ -75379,6 +75493,24 @@
       "section": "general",
       "categories": [
         "Religioso"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "HoraTV.ro",
+      "name": "Hora TV",
+      "logo": null,
+      "url": "http://91.235.165.117:8001/play/a02f/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Cultura"
       ],
       "altNames": [],
       "network": null,
@@ -78170,6 +78302,24 @@
       "section": "series",
       "categories": [
         "Series"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "IN24News.in",
+      "name": "IN 24 News",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/in24news/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -83779,6 +83929,26 @@
       ]
     },
     {
+      "id": "K7KeralamChannel.in",
+      "name": "K7 Keralam Channel",
+      "logo": null,
+      "url": "https://live.skystream.in/live/keralam2742/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Entretenimiento"
+      ],
+      "altNames": [
+        "K7 Keralam HD"
+      ],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Kabaddi24x7.in",
       "name": "Kabaddi 24x7",
       "logo": null,
@@ -85077,7 +85247,7 @@
       "id": "KarnatakaNewsBeat.in",
       "name": "Karnataka News Beat",
       "logo": null,
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8",
+      "url": "https://stream.ottlive.co.in/newsbeatkarnataka/index.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -93476,6 +93646,24 @@
       "owners": []
     },
     {
+      "id": "LokmatBharat.in",
+      "name": "Lokmat Bharat",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/lokmatbharat/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "LokshahiNews.in",
       "name": "Lokshahi News",
       "logo": null,
@@ -99223,6 +99411,24 @@
       "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8",
       "country": "Germany",
       "countryCode": "DE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "mditv.ro",
+      "name": "mditv",
+      "logo": null,
+      "url": "http://91.235.165.117:8001/play/a01p/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
       "language_primary": null,
       "is_spanish": false,
       "is_adult": false,
@@ -109879,6 +110085,24 @@
       "owners": []
     },
     {
+      "id": "NEBharat24.in",
+      "name": "NE Bharat24",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/nebharat24/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "NENews.in",
       "name": "NE News",
       "logo": null,
@@ -110415,6 +110639,24 @@
       "owners": [
         "Olecom Media"
       ]
+    },
+    {
+      "id": "News21.in",
+      "name": "News 21",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/news21/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "News21BanglaTV.bd",
@@ -112312,6 +112554,30 @@
       "owners": []
     },
     {
+      "id": "NickJrClub.au",
+      "name": "Nick Jr Club",
+      "logo": null,
+      "url": "https://i.mjh.nz/.r/10-nick-jr.m3u8",
+      "country": "Australia",
+      "countryCode": "AU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "Nickelodeon Nick Jr Club"
+      ],
+      "network": "Pluto TV",
+      "owners": [
+        "Viacom International Inc.",
+        "Network Ten All Access Pty Ltd.",
+        "Paramount Skydance Corporation"
+      ]
+    },
+    {
       "id": "NickJr.cz",
       "name": "Nick Jr.",
       "logo": null,
@@ -112423,6 +112689,26 @@
       ],
       "altNames": [
         "Nick Jr Polska"
+      ],
+      "network": "Nickelodeon",
+      "owners": []
+    },
+    {
+      "id": "NickJr.ro",
+      "name": "Nick Jr.",
+      "logo": null,
+      "url": "http://91.235.165.117:8001/play/a038/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "Nick Jr România"
       ],
       "network": "Nickelodeon",
       "owners": []
@@ -112976,7 +113262,7 @@
       "id": "NickelodeonAsia.sg",
       "name": "Nickelodeon Asia",
       "logo": null,
-      "url": "http://103.253.74.210:7070/stream/117/index.m3u8",
+      "url": "http://103.165.207.108:8000/play/a00v/index.m3u8",
       "country": "Singapore",
       "countryCode": "SG",
       "language_primary": null,
@@ -113104,6 +113390,26 @@
         "Viacom International Inc.",
         "Pluto Inc.",
         "Paramount Skydance Corporation"
+      ]
+    },
+    {
+      "id": "NickelodeonFlanders.be",
+      "name": "Nickelodeon Flanders",
+      "logo": null,
+      "url": "http://93.92.17.139:9981/stream/channelid/788918401?profile=pass",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [],
+      "network": "Nickelodeon",
+      "owners": [
+        "Paramount Networks EMEAA"
       ]
     },
     {
@@ -113408,6 +113714,30 @@
       "network": "Nickelodeon",
       "owners": [
         "Viacom International Inc.",
+        "Paramount Skydance Corporation"
+      ]
+    },
+    {
+      "id": "NickToons.au",
+      "name": "NickToons",
+      "logo": null,
+      "url": "https://i.mjh.nz/.r/10-nicktoons.m3u8",
+      "country": "Australia",
+      "countryCode": "AU",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "infantil",
+      "categories": [
+        "Infantil"
+      ],
+      "altNames": [
+        "Nickelodeon NickToons"
+      ],
+      "network": "Pluto TV",
+      "owners": [
+        "Viacom International Inc.",
+        "Network Ten All Access Pty Ltd.",
         "Paramount Skydance Corporation"
       ]
     },
@@ -135306,6 +135636,24 @@
       ]
     },
     {
+      "id": "Pulse24.in",
+      "name": "Pulse 24",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/pulse24news/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "Pulse95Radio.ae",
       "name": "Pulse95 Radio",
       "logo": null,
@@ -142992,7 +143340,7 @@
       ],
       "network": "RedeTV!",
       "owners": [
-        "Devaur Menossi"
+        "Life Comunicações Ltda"
       ]
     },
     {
@@ -158685,7 +159033,7 @@
       "id": "SonyMax.in",
       "name": "Sony Max",
       "logo": null,
-      "url": "https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8",
+      "url": "https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8",
       "country": "India",
       "countryCode": "IN",
       "language_primary": null,
@@ -161339,6 +161687,24 @@
       "owners": [
         "Schweizer Radio und Fernsehen"
       ]
+    },
+    {
+      "id": "SristiTV.in",
+      "name": "Sristi TV",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/sristitv/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
     },
     {
       "id": "SriwijayaTV.id",
@@ -167188,6 +167554,24 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TaraTV.in",
+      "name": "Tara TV",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/taratv/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -176167,7 +176551,7 @@
       "id": "TLEstrella.bo",
       "name": "TL Estrella",
       "logo": null,
-      "url": "http://190.181.61.93:8000/play/a004/index.m3u8",
+      "url": "https://edge.enhdtv.com/teleestrella/index.m3u8",
       "country": "Bolivia",
       "countryCode": "BO",
       "language_primary": "Español",
@@ -176259,6 +176643,26 @@
       "network": null,
       "owners": [
         "Skydance EMEA"
+      ]
+    },
+    {
+      "id": "TLC.ro",
+      "name": "TLC",
+      "logo": null,
+      "url": "http://91.235.165.117:8001/play/a08f/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Estilo de Vida"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": [
+        "Skydance Corporation"
       ]
     },
     {
@@ -177612,6 +178016,24 @@
       ]
     },
     {
+      "id": "TooroTV.ug",
+      "name": "Tooro TV",
+      "logo": null,
+      "url": "https://media.hydeinnovations.com/Tooro_TV-srt/index.m3u8",
+      "country": "Uganda",
+      "countryCode": "UG",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
       "id": "TOPBarca.pl",
       "name": "TOP Barca",
       "logo": null,
@@ -178935,6 +179357,24 @@
       "name": "Travel Mix",
       "logo": null,
       "url": "https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Viajes"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "TravelMix4K.ro",
+      "name": "Travel Mix 4K",
+      "logo": null,
+      "url": "http://91.235.165.117:8001/play/a08c/index.m3u8",
       "country": "Romania",
       "countryCode": "RO",
       "language_primary": null,
@@ -194856,24 +195296,6 @@
       "owners": []
     },
     {
-      "id": "UTV.ro",
-      "name": "UTV",
-      "logo": null,
-      "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8",
-      "country": "Romania",
-      "countryCode": "RO",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "General"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": []
-    },
-    {
       "id": "UTVAfrica.ng",
       "name": "UTV Africa",
       "logo": null,
@@ -195287,6 +195709,24 @@
       "section": "general",
       "categories": [
         "General"
+      ],
+      "altNames": [],
+      "network": null,
+      "owners": []
+    },
+    {
+      "id": "VandeBharatNews.in",
+      "name": "Vande Bharat News",
+      "logo": null,
+      "url": "https://stream.ottlive.co.in/vandebharatnews/index.m3u8",
+      "country": "India",
+      "countryCode": "IN",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "general",
+      "categories": [
+        "Noticias"
       ],
       "altNames": [],
       "network": null,
@@ -200587,6 +201027,30 @@
       ]
     },
     {
+      "id": "WarnerTV.ro",
+      "name": "Warner TV",
+      "logo": null,
+      "url": "http://91.235.165.117:8001/play/a08h/index.m3u8",
+      "country": "Romania",
+      "countryCode": "RO",
+      "language_primary": null,
+      "is_spanish": false,
+      "is_adult": false,
+      "section": "peliculas",
+      "categories": [
+        "Películas"
+      ],
+      "altNames": [
+        "TNT Romania",
+        "Turner Classic Movies Romania",
+        "TNT Classic Movies Romania"
+      ],
+      "network": null,
+      "owners": [
+        "Skydance Corporation"
+      ]
+    },
+    {
       "id": "WarnerTVAsia.us",
       "name": "Warner TV Asia",
       "logo": null,
@@ -203172,189 +203636,6 @@
       "altNames": [],
       "network": null,
       "owners": []
-    },
-    {
-      "id": "XITE.nl",
-      "name": "XITE",
-      "logo": null,
-      "url": "https://xite-rakuten.amagi.tv/playlist.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": null,
-      "owners": [
-        "Derk Nijssen"
-      ]
-    },
-    {
-      "id": "XITE90sThrowback.us",
-      "name": "XITE 90's Throwback",
-      "logo": null,
-      "url": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": "XITE",
-      "owners": [
-        "XITE Networks USA Inc.",
-        "XITE Networks Netherlands BV"
-      ]
-    },
-    {
-      "id": "XITEClassicCountry.nl",
-      "name": "XITE Classic Country",
-      "logo": null,
-      "url": "https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": "XITE",
-      "owners": [
-        "XITE Networks"
-      ]
-    },
-    {
-      "id": "XITEHits.nl",
-      "name": "XITE Hits",
-      "logo": null,
-      "url": "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": "XITE",
-      "owners": [
-        "XITE Networks"
-      ]
-    },
-    {
-      "id": "XITEJustChill.nl",
-      "name": "XITE Just Chill",
-      "logo": null,
-      "url": "https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": "XITE",
-      "owners": [
-        "XITE Networks"
-      ]
-    },
-    {
-      "id": "XITENuevoLatino.us",
-      "name": "XITE Nuevo Latino",
-      "logo": null,
-      "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": "XITE",
-      "owners": [
-        "XITE Networks USA Inc.",
-        "XITE Networks Netherlands BV"
-      ]
-    },
-    {
-      "id": "XITEReggaeVibes.nl",
-      "name": "XITE Reggae Vibes",
-      "logo": null,
-      "url": "https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": "XITE",
-      "owners": [
-        "XITE Networks"
-      ]
-    },
-    {
-      "id": "XITERockxMetal.nl",
-      "name": "XITE Rock x Metal",
-      "logo": null,
-      "url": "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8",
-      "country": "Netherlands",
-      "countryCode": "NL",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": "XITE",
-      "owners": [
-        "XITE Networks"
-      ]
-    },
-    {
-      "id": "XITESiempreLatino.us",
-      "name": "XITE Siempre Latino",
-      "logo": null,
-      "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
-      "country": "United States",
-      "countryCode": "US",
-      "language_primary": null,
-      "is_spanish": false,
-      "is_adult": false,
-      "section": "general",
-      "categories": [
-        "Música"
-      ],
-      "altNames": [],
-      "network": "XITE",
-      "owners": [
-        "XITE Networks USA Inc.",
-        "XITE Networks Netherlands BV"
-      ]
     },
     {
       "id": "XizangTVChinese.cn",
@@ -207984,7 +208265,7 @@
     {
       "id": "peliculas",
       "name": "Películas",
-      "count": 629
+      "count": 630
     },
     {
       "id": "series",
@@ -207994,41 +208275,41 @@
     {
       "id": "infantil",
       "name": "Infantil",
-      "count": 441
+      "count": 444
     },
     {
       "id": "español",
       "name": "Español",
-      "count": 1844
+      "count": 1848
     },
     {
       "id": "general",
       "name": "General",
-      "count": 6747
+      "count": 6754
     }
   ],
   "stats": {
-    "total": 31965,
-    "withStreams": 10524,
-    "spanish": 1985,
+    "total": 31977,
+    "withStreams": 10539,
+    "spanish": 1989,
     "adult": 78,
     "bySection": {
-      "peliculas": 629,
-      "general": 6747,
-      "español": 1844,
-      "infantil": 441,
+      "peliculas": 630,
+      "general": 6754,
+      "español": 1848,
+      "infantil": 444,
       "series": 334,
       "deportes": 451
     },
     "topCountries": [
       {
         "code": "US",
-        "count": 1667,
+        "count": 1664,
         "name": "United States"
       },
       {
         "code": "IN",
-        "count": 780,
+        "count": 792,
         "name": "India"
       },
       {
@@ -208058,7 +208339,7 @@
       },
       {
         "code": "ES",
-        "count": 227,
+        "count": 230,
         "name": "Spain"
       },
       {
@@ -208068,11 +208349,11 @@
       },
       {
         "code": "FR",
-        "count": 209,
+        "count": 208,
         "name": "France"
       }
     ]
   },
-  "lastUpdated": "2026-11-25T05:43:11.272Z",
+  "lastUpdated": "2026-11-26T05:32:01.007Z",
   "source": "orion-stream"
 }
